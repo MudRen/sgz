@@ -152,41 +152,22 @@ varargs string standard_trace(mapping mp, int flag) {
  *
  * -Beek
  */
-string error_handler(mapping mp, int caught)
+// The mudlib runtime error handler.
+void error_handler(mapping error, int caught)
 {
-    string ret;
-    string logfile = (caught ? LOG_FILE_CATCH : LOG_FILE_RUNTIME);
-    string what = mp["error"];
-    string userid;
+    string trace = standard_trace(error, caught);
 
-    ret = "---\n" + standard_trace(mp);
-    write_file(logfile, ret);
-
-    /* If an object didn't load, they get compile errors.  Don't spam
-       or confuse them */
-    if (what[0..23] == "*Error in loading object")
-        return 0;
-
-    if ( this_user() )
+    // catch(error(x))
+    if (caught)
     {
-        userid = this_user()->query_userid();
-        if ( !userid || userid == "" )  userid = "(none)";
-	printf("%sTrace written to %s\n", what, logfile);
-        errors[userid] = mp;
-    } else
-        userid = "(none)";
-    errors["last"] = mp;
+        efun::write_file("log/catch_error", trace);
+        return;
+    }
 
-    // Strip trailing \n, and indent nicely
-    what = replace_string(what[0..<2], "\n", "\n         *");
-    CHANNEL_D->deliver_string("errors",
-      sprintf("[errors] (%s) Error logged to %s\n[errors] %s\n[errors] %s\n",
-        userid,
-        logfile,
-        what,
-        trace_line(mp["object"], mp["program"],
-          mp["file"], mp["line"])));
-    return 0;
+    trace += "[" + ctime() + "]";
+    trace += sprintf("\n%O\n", error);
+    // whatever we return goes to the debug.log
+    efun::write_file("log/error_handler", trace);
 }
 
 mapping query_error(string name)

@@ -57,7 +57,7 @@ add_emote(string verb, mixed rule, string array parts)
 {
 /*
     if( base_name( previous_object()) != CMD_ADD_EMOTE )
-	error("Illegal call to add_emote()\n");    
+	error("Illegal call to add_emote()\n");
 */
     // try this first b/c it will error if rule is illegal
     parse_add_rule(verb, rule);
@@ -76,11 +76,11 @@ add_emote(string verb, mixed rule, string array parts)
 }
 
 int
-remove_emote(string verb, string rule) 
+remove_emote(string verb, string rule)
 {
 /*
     if (base_name(previous_object())!=CMD_REMOVE_EMOTE)
-	error("Illegal call to remove_emote()\n");          
+	error("Illegal call to remove_emote()\n");
 */
     if (!emotes[verb]) return 0;
     if (sizeof(rule)) {
@@ -97,7 +97,7 @@ remove_emote(string verb, string rule)
 }
 
 int
-move_emote(string verb, string dest) 
+move_emote(string verb, string dest)
 {
 /*
     if (base_name(previous_object())!=CMD_MOVE_EMOTE)
@@ -207,7 +207,7 @@ mixed * internal_get_soul(string verb, string rule,
 	    result[1][i] = compose_message(who[i], tmp, who, args...);
 	}
 	// # temp fix
-        result[1][sizeof(result[1])-1] = compose_message("", (stringp(soul) ? soul : soul[1])+rumorstring, who, args...);
+        // result[1][sizeof(result[1])-1] = compose_message("", (stringp(soul) ? soul : soul[1])+rumorstring, who, args...);
     }
 
     if ( add_imud_msg )
@@ -262,7 +262,7 @@ emote_apropos(string str) {
 	for (j=0; j<num_rules; j++) {
 	    data = rules_for_verb[rules[j]];
 	    if (pointerp(data)) {
-		if (strsrch(lower_case(data[0]), lower_case(str)) != -1 || 
+		if (strsrch(lower_case(data[0]), lower_case(str)) != -1 ||
 		  strsrch(lower_case(data[1]), lower_case(str)) != -1)
 		    found += ({ verbs[i] + " " + rules[j] });
 	    }
@@ -300,7 +300,7 @@ private string get_completion(string s)
 */
 int livings_are_remote() { return 1; }
 
-mixed can_verb_wrd(string verb, string wrd) 
+mixed can_verb_wrd(string verb, string wrd)
 {
     return member_array(wrd, adverbs) != -1 || member_array('*', wrd) != -1;
 }
@@ -311,12 +311,12 @@ mixed can_verb_rule(string verb, string rule)
     return !undefinedp(emotes[verb][rule]);
 }
 
-mixed direct_verb_rule(string verb, string rule) 
+mixed direct_verb_rule(string verb, string rule)
 {
     return !undefinedp(emotes[verb][rule]);
 }
 
-mixed indirect_verb_rule(string verb, string rule) 
+mixed indirect_verb_rule(string verb, string rule)
 {
     return !undefinedp(emotes[verb][rule]);
 }
@@ -361,7 +361,7 @@ void do_verb_rule(string verb, string rule, mixed args...)
 	inform(soul[0], soul[1], environment(this_body()));
     }
 
-    return; 
+    return;
 }
 
 mixed *parse_soul(string str) {
@@ -419,4 +419,3 @@ void remove_adverb(string adverb)
     adverbs -= ({adverb});
     unguarded(1, (: save_object, SAVE_FILE :));
 }
-

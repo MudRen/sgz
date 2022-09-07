@@ -1,0 +1,26 @@
+Wed Sep  7 22:25:12 2022
+*Error in loading object '/sgdomain/modules/m_board'
+Object: /a/huayin/vhall (/std/container.c) at line 265
+
+#0: '<fake>' at /secure/user#2 (/<driver>) at /(fake):0
+#1: 'dispatch_modal_input' at /secure/user#2 (/secure/user/inputsys.c) at line 314
+#2: '<fake>' at /secure/user#2 (/<driver>) at /(fake):0
+#3: 'rcv_url' at /secure/user#2 (/secure/user/userinfo.c) at line 123
+#4: 'done_with_inputs' at /secure/user#2 (/secure/user/userinfo.c) at line 117
+#5: 'more_file' at /secure/simul_efun (/secure/simul_efun/more.c) at line 74
+#6: 'create' at /trans/obj/more_ob#3 at line 303
+#7: 'CATCH' at /trans/obj/more_ob#3 at line 303
+#8: 'do_more' at /trans/obj/more_ob#3 at line 277
+#9: 'finish' at /trans/obj/more_ob#3 at line 92
+#10: '<fake>' at /secure/user#2 (/<driver>) at /(fake):0
+#11: 'new_user_ready' at /secure/user#2 (/secure/user/sw_body.c) at line 317
+#12: 'create_user' at /secure/daemons/new_user_d at line 24
+#13: '<fake>' at /secure/user#2 (/<driver>) at /(fake):0
+#14: 'incarnate' at /secure/user#2 (/secure/user/sw_body.c) at line 129
+#15: 'enter_game' at /std/race/human#4 (/std/body.c) at line 277
+#16: 'finish_enter_game' at /std/race/human#4 (/std/body.c) at line 178
+#17: 'move_to_start' at /std/race/human#4 (/std/body/start.c) at line 44
+#18: 'create' at /a/huayin/vhall (/std/base_room.c) at line 111
+#19: 'setup' at /a/huayin/vhall at line 23
+#20: 'set_objects' at /a/huayin/vhall (/std/container.c) at line 295
+#21: 'make_objects_if_needed' at /a/huayin/vhall (/std/container.c) at line 265

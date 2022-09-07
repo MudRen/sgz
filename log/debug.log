@@ -79,8 +79,8 @@ Event backend in use: epoll
 #define __VERSION__ "FluffOS v2017.2019112002 (git-51e006b8-1574310904)"
 #define __WARN_OLD_RANGE_BEHAVIOR__ 
 ========================
-Wed Sep  7 21:50:58 2022 loaded /secure/simul_efun.c
-Wed Sep  7 21:50:58 2022 loaded /secure/master.c
+Wed Sep  7 22:29:03 2022 loaded /secure/simul_efun.c
+Wed Sep  7 22:29:03 2022 loaded /secure/master.c
 domain_file() in the master file does not work, using 'BACKBONE' as fallback (see domain_file.4)
 author_file() in the master file does not work, using 'NONAME' as fallback (see author_file.4)
 
@@ -105,25 +105,5 @@ Accepting connections on 0.0.0.0:3160.
 Accepting connections on 0.0.0.0:3166.
 Initializations complete.
 
-Debugger tells you: There's a new connection from localhost.
-
-Debugger tells you: There's a new connection from 127.0.0.1.
-
-Debugger tells you: There's a new connection from 127.0.0.1.
-
-Debugger tells you: There's a new connection from localhost.
-
-Debugger tells you: There's a new connection from 127.0.0.1.
-
-object /secure/user#6: eval_cost too big 50000000
-Debugger tells you: There's a new connection from 127.0.0.1.
-
-Debugger tells you: There's a new connection from 127.0.0.1.
-
-Debugger tells you: There's a new connection from 127.0.0.1.
-
-Debugger tells you: There's a new connection from 127.0.0.1.
-
-******** FATAL ERROR: SIGINT: Process interrupted
-FluffOS driver attempting to exit gracefully.
-crash() in master called successfully.  Aborting.
+apply() with insufficient permission: 
+cob: secure/simul_efun, ob: sgdomain/modules/m_setgift#11, function: remove, origin: call_other, needs: public, has: protected 

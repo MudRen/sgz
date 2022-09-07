@@ -101,7 +101,7 @@ string show_in_room()
     if (our_count > 1 )
     {
         str = short();
-        if( !str ) 
+        if( !str )
             return 0;
 
         //      if( query_ob_flag( AUTO_IN_ROOM_DESC ) )
@@ -123,15 +123,15 @@ string show_in_room()
 
     if (!discarded_message)
         discarded_message = MESSAGES_D->get_messages("discarded");
-    
+
     return sprintf( choice(discarded_message), str );
 }
 
 //:FUNCTION set_in_room_desc
 //Set the description an object has when it is sitting in a room
-static void set_in_room_desc( string arg )
+static void set_in_room_desc( mixed arg )
 {
-  in_room_desc = arg;
+  in_room_desc = evaluate(arg);
 }
 
 string query_posessive(){  return "ËüµÄ"; }
@@ -145,7 +145,7 @@ void set_untouched_desc(string arg){
 
 string query_in_room_desc()
 {
-    if(!is_visible()) 
+    if(!is_visible())
       return "";
     return (string)evaluate(in_room_desc);
 }

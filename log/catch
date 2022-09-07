@@ -1871,3 +1871,10 @@ Object: /obj/pshell#13 (/std/modules/m_save.c) at line 54
 'save_me' at /std/race/human#12 (/std/body.c) at line 290
 'save_me' at /obj/pshell#13 (/secure/obj/shell.c) at line 45
 'save_to_string' at /obj/pshell#13 (/std/modules/m_save.c) at line 54
+---
+Wed Sep  7 22:03:40 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 478
+
+'preload' at /secure/master at line 478
+'CATCH' at /secure/master at line 478

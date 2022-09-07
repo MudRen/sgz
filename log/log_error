@@ -1,1 +1,1 @@
-/daemons/soul_d.c line 210: Bad type for argument 1 of compose_message ( object vs string ) before ;
+/sgdomain/modules/m_board.c line 54: Bad type for argument 1 of set_in_room_desc ( string vs function ) before ;
