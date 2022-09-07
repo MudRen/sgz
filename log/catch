@@ -138,3 +138,1736 @@ Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
 'CATCH' at /trans/obj/wish#1869 at line 78
 'evaluate_code' at /trans/obj/wish#1869 at line 52
 'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Wed Sep  7 21:07:35 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:07:37 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:07:37 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:07:37 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 572
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 572
+---
+Wed Sep  7 21:07:37 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:07:38 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:07:38 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:07:38 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:07:38 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:07:38 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:09:27 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:09:29 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:09:29 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:09:29 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 572
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 572
+---
+Wed Sep  7 21:09:29 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:09:29 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:09:29 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:09:29 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:09:29 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:09:30 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:10:54 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 57
+
+'connect' at /secure/master at line 89
+'CATCH' at /secure/master at line 89
+'get_player_fname' at /secure/master at line 57
+'CATCH' at /secure/master at line 57
+---
+Wed Sep  7 21:10:54 2022
+*Bad argument 1 to new()
+Expected: string Got: 0.
+Object: /secure/master at line 89
+
+'connect' at /secure/master at line 89
+'CATCH' at /secure/master at line 89
+---
+Wed Sep  7 21:11:12 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:11:14 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:11:14 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:11:14 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 572
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 572
+---
+Wed Sep  7 21:11:14 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:11:15 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:11:15 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:11:15 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:11:15 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:11:15 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:11:29 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 57
+
+'connect' at /secure/master at line 89
+'CATCH' at /secure/master at line 89
+'get_player_fname' at /secure/master at line 57
+'CATCH' at /secure/master at line 57
+---
+Wed Sep  7 21:11:29 2022
+*Bad argument 1 to new()
+Expected: string Got: 0.
+Object: /secure/master at line 89
+
+'connect' at /secure/master at line 89
+'CATCH' at /secure/master at line 89
+---
+Wed Sep  7 21:23:58 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 507
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+---
+Wed Sep  7 21:24:00 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:24:00 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:24:00 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 574
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 574
+---
+Wed Sep  7 21:24:00 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 507
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+---
+Wed Sep  7 21:24:00 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 507
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+---
+Wed Sep  7 21:24:00 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:24:00 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:24:00 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:24:00 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 507
+'CATCH' at /secure/master at line 507
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:24:06 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 59
+
+'connect' at /secure/master at line 91
+'CATCH' at /secure/master at line 91
+'get_player_fname' at /secure/master at line 59
+'CATCH' at /secure/master at line 59
+---
+Wed Sep  7 21:24:06 2022
+*Bad argument 1 to new()
+Expected: string Got: 0.
+Object: /secure/master at line 91
+
+'connect' at /secure/master at line 91
+'CATCH' at /secure/master at line 91
+---
+Wed Sep  7 21:25:15 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:25:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:25:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:25:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 572
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 572
+---
+Wed Sep  7 21:25:17 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:25:17 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 505
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+---
+Wed Sep  7 21:25:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:25:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:25:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:25:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 505
+'CATCH' at /secure/master at line 505
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:25:20 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 59
+
+'connect' at /secure/master at line 89
+'CATCH' at /secure/master at line 89
+'get_player_fname' at /secure/master at line 59
+'CATCH' at /secure/master at line 59
+---
+Wed Sep  7 21:25:20 2022
+*Bad argument 1 to new()
+Expected: string Got: 0.
+Object: /secure/master at line 89
+
+'connect' at /secure/master at line 89
+'CATCH' at /secure/master at line 89
+---
+Wed Sep  7 21:26:52 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:26:54 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:26:54 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:26:54 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:26:54 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:26:54 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:26:54 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:26:54 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:26:54 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:26:54 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:27:19 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:27:21 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:27:21 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:27:21 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:27:21 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:27:21 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:27:21 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:27:21 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:27:21 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:27:21 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:27:58 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:28:00 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:28:01 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:28:01 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:28:01 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:28:01 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:28:01 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:28:01 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:28:01 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:28:01 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:28:21 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:28:23 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:28:23 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:28:23 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:28:23 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:28:23 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:28:23 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:28:23 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:28:23 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:28:23 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:29:01 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:29:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:29:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:29:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:29:02 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:29:02 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:29:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:29:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:29:03 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:29:03 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:04 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:30:05 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:05 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:05 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:30:05 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:30:06 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:30:06 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:06 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:30:06 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:06 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:28 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:30:29 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:29 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:29 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:30:29 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:30:30 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:30:30 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:30 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:30:30 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:30 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:41 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:30:43 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:43 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:43 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:30:43 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:30:43 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:30:43 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:43 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:30:43 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:43 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:30:53 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 64
+
+'connect' at /secure/master at line 94
+'CATCH' at /secure/master at line 94
+'get_player_fname' at /secure/master at line 64
+'CATCH' at /secure/master at line 64
+---
+Wed Sep  7 21:30:53 2022
+*Bad argument 1 to new()
+Expected: string Got: 0.
+Object: /secure/master at line 94
+
+'connect' at /secure/master at line 94
+'CATCH' at /secure/master at line 94
+---
+Wed Sep  7 21:40:14 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:40:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:40:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:40:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:40:17 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:40:17 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:40:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:40:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:40:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:40:17 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:40:22 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 64
+
+'connect' at /secure/master at line 94
+'CATCH' at /secure/master at line 94
+'get_player_fname' at /secure/master at line 64
+'CATCH' at /secure/master at line 64
+---
+Wed Sep  7 21:40:22 2022
+*Bad argument 1 to new()
+Expected: string Got: 0.
+Object: /secure/master at line 94
+
+'connect' at /secure/master at line 94
+'CATCH' at /secure/master at line 94
+---
+Wed Sep  7 21:41:09 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:41:11 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:41:11 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:41:12 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 577
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 577
+---
+Wed Sep  7 21:41:12 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:41:12 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 510
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+---
+Wed Sep  7 21:41:12 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:41:12 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:41:12 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:41:12 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 510
+'CATCH' at /secure/master at line 510
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:41:52 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 64
+
+'connect' at /secure/master at line 94
+'CATCH' at /secure/master at line 94
+'get_player_fname' at /secure/master at line 64
+'CATCH' at /secure/master at line 64
+---
+Wed Sep  7 21:41:52 2022
+*Bad argument 1 to new()
+Expected: string Got: 0.
+Object: /secure/master at line 94
+
+'connect' at /secure/master at line 94
+'CATCH' at /secure/master at line 94
+---
+Wed Sep  7 21:46:01 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 485
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+---
+Wed Sep  7 21:46:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:46:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:46:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 552
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 552
+---
+Wed Sep  7 21:46:02 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 485
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+---
+Wed Sep  7 21:46:02 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 485
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+---
+Wed Sep  7 21:46:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:46:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:46:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:46:02 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 485
+'CATCH' at /secure/master at line 485
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:47:33 2022
+*Error in loading object '/secure/user/login'
+Object: /secure/master at line 480
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+---
+Wed Sep  7 21:47:35 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:47:35 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:47:35 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 547
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 547
+---
+Wed Sep  7 21:47:35 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 480
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+---
+Wed Sep  7 21:47:35 2022
+*Error in loading object '/daemons/imud_d'
+Object: /secure/master at line 480
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+---
+Wed Sep  7 21:47:35 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:47:35 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:47:35 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:47:35 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:49:42 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /secure/modules/m_daemon_data at line 42
+'set_privilege' at /secure/modules/m_daemon_data (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:49:42 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/channel_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/channel_d at line 460
+'create' at /daemons/channel_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/channel_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:49:42 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/master at line 547
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/verb_d at line 47
+'valid_read' at /secure/master at line 547
+---
+Wed Sep  7 21:49:42 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 480
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+---
+Wed Sep  7 21:49:42 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/imud_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/imud_d at line 258
+'create' at /daemons/imud_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /daemons/imud_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:49:42 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/doc_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/doc_d at line 231
+'set_privilege' at /daemons/doc_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:49:42 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/chanlog_d at line 47
+'log_channel' at /daemons/chanlog_d at line 21
+'query_listeners' at /daemons/channel_d at line 566
+'check_previous_privilege' at /secure/simul_efun (/secure/simul_efun/security.c) at line 8
+---
+Wed Sep  7 21:49:42 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /secure/daemons/imail_d at line 73
+'create' at /secure/daemons/imail_d (/secure/modules/m_daemon_data.c) at line 42
+'set_privilege' at /secure/daemons/imail_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:49:42 2022
+*Error in loading object '/secure/daemons/secure_d'
+Object: /daemons/news_d (/secure/modules/m_access.c) at line 22
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+'create' at /daemons/news_d at line 189
+'set_privilege' at /daemons/news_d (/secure/modules/m_access.c) at line 22
+---
+Wed Sep  7 21:51:01 2022
+*Error in loading object '/daemons/soul_d'
+Object: /secure/master at line 480
+
+'preload' at /secure/master at line 480
+'CATCH' at /secure/master at line 480
+---
+Wed Sep  7 21:58:58 2022
+*No variable named 'alias_save'!
+Object: /obj/pshell#13 (/std/modules/m_save.c) at line 54
+
+'<fake>' at /secure/user#10 (/<driver>) at /(fake):0
+'dispatch_modal_input' at /secure/user#10 (/secure/user/inputsys.c) at line 314
+'<fake>' at /secure/user#10 (/<driver>) at /(fake):0
+'rcv_url' at /secure/user#10 (/secure/user/userinfo.c) at line 123
+'done_with_inputs' at /secure/user#10 (/secure/user/userinfo.c) at line 117
+'more_file' at /secure/simul_efun (/secure/simul_efun/more.c) at line 74
+'create' at /trans/obj/more_ob#11 at line 303
+'CATCH' at /trans/obj/more_ob#11 at line 303
+'do_more' at /trans/obj/more_ob#11 at line 277
+'finish' at /trans/obj/more_ob#11 at line 92
+'<fake>' at /secure/user#10 (/<driver>) at /(fake):0
+'new_user_ready' at /secure/user#10 (/secure/user/sw_body.c) at line 317
+'create_user' at /secure/daemons/new_user_d at line 24
+'<fake>' at /secure/user#10 (/<driver>) at /(fake):0
+'incarnate' at /secure/user#10 (/secure/user/sw_body.c) at line 129
+'enter_game' at /std/race/human#12 (/std/body.c) at line 277
+'finish_enter_game' at /std/race/human#12 (/std/body.c) at line 171
+'start_age' at /std/race/human#12 (/sgdomain/modules/m_age.c) at line 98
+'age_beat' at /std/race/human#12 (/sgdomain/modules/m_age.c) at line 90
+'save_me' at /std/race/human#12 (/std/body.c) at line 290
+'save_me' at /obj/pshell#13 (/secure/obj/shell.c) at line 45
+'save_to_string' at /obj/pshell#13 (/std/modules/m_save.c) at line 54

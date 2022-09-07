@@ -14,6 +14,11 @@
 
 private mapping errors = ([]);
 
+void create()
+{
+    debug_message(ctime() + " loaded " __FILE__);
+}
+
 object compile_object(string path)
 {
     string pname;
@@ -22,7 +27,7 @@ object compile_object(string path)
     /* LPscript support */
     if (path[<4..] == ".scr")
         return LPSCRIPT_D->compile(path);
-        
+
     pname = path;
 
     /* go back through the path, checking each dir; if the name is
@@ -75,9 +80,7 @@ nomask string get_player_fname()
 #ifdef  DEBUG_CONNECTIONS
 void debug_connections(object ob)
 {
-    tell(filter(bodies(), (:wizardp:)), 
-      sprintf("Debugger tells you: There's a new connection from %s.\n", 
-        query_ip_name(ob)));
+    debug_message(sprintf("Debugger tells you: There's a new connection from %s.\n", query_ip_name(ob)));
 }
 #endif
 
@@ -301,46 +304,16 @@ private void report_context(string src, int line, string context) {
 
 void log_error(string file, string message)
 {
-    string name;
-    string where, err, context;
-    string src;
-    int line;
-
-    name = name_of_file_owner(file);
-
-    if( file[0..3] != "tmp/" && this_user() && wizardp(this_user()))
+    if (strsrch(message, "Warning") == -1)
     {
-        if (sscanf(message, "%s: %s before %s", where, err, context) == 3)
-        {
-#ifdef OLD_STYLE_COMPILATION_ERRORS
-            printf(INDENT "Compilation error: %s\n   %s, before [%s]\n",
-              err, where, trim_spaces(context));
-#else
-            /* for safety; it'll look wierd but have the right info */
-            src = where; 
-            sscanf(where, "%s line %d", src, line);
-            printf(INDENT "------- %s:%i\n## %s\n", src, line, err);
-            report_context(src, line, context);
-#endif
-        }
-        else
-        {
-            sscanf(message, "%s: %s", where, err);
-#ifdef OLD_STYLE_COMPILATION_ERRORS
-            printf(INDENT "Compilation error: %s   %s\n", err, where);
-#else
-            /* for safety; it'll look wierd but have the right info */
-            src = where; 
-            sscanf(where, "%s line %d", src, line);
-            printf(INDENT "------- %s:%i\n## %s\n", src, line, err);
-#endif
-        }
+        // 记录错误日志
+        efun::write_file("log/log_error", message);
     }
-
-    if ( intp(name) )
-        write_file(LOG_FILE_ERROR, message);
     else
-        write_file(WIZ_DIR "/" + name + "/log", message);
+    {
+        // 记录警告日志
+        efun::write_file("log/log", message);
+    }
 }
 
 private int save_ed_setup(object who, int code) {
@@ -358,7 +331,7 @@ int valid_shadow(object ob)
 }
 
 /*
- * Default language functions used by parse_command() 
+ * Default language functions used by parse_command()
  */
 string *parse_command_id_list()
 {
@@ -398,7 +371,7 @@ object *parse_command_users()
 
 string parser_error_message(int kind, object ob, mixed arg, int flag) {
     string ret;
-    if (ob) 
+    if (ob)
         ret = ob->short() + ": ";
     else
         ret = "";
@@ -467,7 +440,7 @@ string make_path_absolute(string path)
 int valid_override(string file, string efun_name)
 {
     if(file[0] != '/') return 0;
-    
+
     switch (efun_name) {
     case "pluralize":
         // M_GRAMMAR overrides this

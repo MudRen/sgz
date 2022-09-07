@@ -15,6 +15,9 @@
 
 #define mud_name()		MUD_NAME
 #define driver_version()	__VERSION__
+#define ADDR_SERVER_IP			"localhost"
+
+#define ADMIN_EMAIL				"i@mud.ren"
 
 #define wiz_dir(x)		sprintf(WIZ_DIR"/%s",(x)->query_userid())
 #define un_article(x)		(stringp(x) ?\

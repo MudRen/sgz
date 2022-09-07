@@ -1,5 +1,5 @@
 // to keep this file just for historical reason
-// so dont add anything new in this file 
+// so dont add anything new in this file
 //*****************************************************************
 // fire.h  by fire in Dec 1997
 //*****************************************************************
@@ -8,7 +8,7 @@
 #define FOBJPATH "/wiz/fire/obj/"
 #define TSETROOMPATH "/wiz/tset/"
 #define STORE "/sgdomain/modules/m_store.c"
-#define M_VALUE "/sgdomain/modules/m_value.c"
+// #define M_VALUE "/sgdomain/modules/m_value.c"
 #define CHINESE_DA "/sgdomain/modules/chinese_da.c"
 #define M_MEETPLACE "/sgdomain/modules/m_meetplace"
 #define M_GUEST "/sgdomain/modules/m_guest"
@@ -55,10 +55,10 @@
 #define LEARNCHECK_D "/daemons/sg_skilllearn_d.c"
 #define CLASS_SG_SKILL "/std/classes/sg_skill_class"
 #define M_SKILLS "/sgdomain/modules/m_skills"
-#define SK_NOR 1    
-#define SK_FIGHT 2 
-#define SK_ZHENG  3 
-#define SK_JI 4 
+#define SK_NOR 1
+#define SK_FIGHT 2
+#define SK_ZHENG  3
+#define SK_JI 4
 #define SK_WEAPON 5
 #define TOO_DIFFICULT 10
 #define LESS_GIFT 11
@@ -102,4 +102,3 @@
 #define CPA_REALLEADER -10
 #define CPA_FIRST_ACCEPT 2
 #define CONDITION_D(x)	("/sgdomain/sg_conditions/" + x)//emperor add.
-

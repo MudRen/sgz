@@ -16,7 +16,7 @@
 #include <char.h>
 #include <area.h>
 #include <event.h>
-#include <ljty.h>
+// #include <ljty.h>
 // this causes serious problem
 //#include <sanguo.h>
 // hope this doesn't cause serious conflict
@@ -44,7 +44,7 @@
 ** SPARSE_OBJ   simple do-nothing objects.
 ** LESS_SPARSE_OBJ
 ** FURNITURE
-** MOUNT        
+** MOUNT
 ** WEAPON       weapons
 ** ARMOR        armor
 ** MONSTER      monsters -- living objects that fight
@@ -183,7 +183,7 @@
 #define SECRET_DOOR             "/std/secret_door"
 #define HIDDEN_DOOR             "/std/hidden_door"
 #define FURNITURE               "/std/furniture"
-#define GUILD_GUARD          "/std/guild_guard.c"                     
+#define GUILD_GUARD          "/std/guild_guard.c"
 #define LESS_SPARSE_OBJ         "/std/less_sparse_obj"
 #define LIVING                  "/std/living"
 #define MENUS                   "/std/menu"
@@ -276,7 +276,7 @@
 
 #define M_ACCESS                "/secure/modules/m_access"
 #define M_FILE                  "/secure/modules/m_file"
-#define M_DAEMON_DATA           "/secure/modules/m_daemon_data"                     
+#define M_DAEMON_DATA           "/secure/modules/m_daemon_data"
 
 #define CMD                     "/secure/obj/cmd"
 #define MAILBOX                 "/secure/obj/mailbox"
@@ -307,4 +307,3 @@
 #define INF_SUPPLY 				"/std/inf_supply"
 
 #endif /* __MUDLIB_H__ */
-

@@ -21,3 +21,8 @@ inherit __DIR__ "simul_efun/string";
 inherit __DIR__ "simul_efun/misc";
 inherit __DIR__ "simul_efun/more";
 inherit __DIR__ "simul_efun/tell";
+
+void create()
+{
+    debug_message(ctime() + " loaded " __FILE__);
+}
