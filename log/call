@@ -1,0 +1,2539 @@
+loveyou:CHAR_D->get_char("funnyboy") at Sat Apr  9 16:21:33 2011
+loveyou:CHAR_D->add_char("测试") at Wed Apr 13 23:14:48 2011
+loveyou:CHAR_D->add_char("测 试") at Wed Apr 13 23:14:54 2011
+loveyou:COUNTRY_D->add_country("loveyou", "dingtao") at Wed Apr 13 23:30:18 2011
+loveyou:COUNTRY_D->add_country("loveyou", "dingtao") at Wed Apr 13 23:31:52 2011
+loveyou:AREA_D->add_area("dingtao") at Wed Apr 13 23:51:49 2011
+loveyou:AREA_D->area_init() at Wed Apr 13 23:56:14 2011
+loveyou:AREA_D->m_modified=1 at Wed Apr 13 23:57:56 2011
+loveyou:AREA_D->m_modified=0 at Wed Apr 13 23:58:06 2011
+loveyou:AREA_D->m_modified=1 at Wed Apr 13 23:58:12 2011
+loveyou:AREA_D->save_data() at Wed Apr 13 23:59:55 2011
+loveyou:AREA_D->area_init() at Thu Apr 14 00:01:07 2011
+loveyou:AREA_D->save_data() at Thu Apr 14 00:01:11 2011
+loveyou:AREAD->area_init() at Thu Apr 14 11:31:03 2011
+loveyou:AREA_D->area_init() at Thu Apr 14 11:31:17 2011
+loveyou:AREA_D->m_modified=1 at Thu Apr 14 11:32:21 2011
+loveyou:AREA_D->save_data() at Thu Apr 14 11:33:59 2011
+loveyou:ROBOT->robot_test(find_user("loveyou"),(:award:)) at Thu Apr 14 20:39:30 2011
+loveyou:find_user("loveyou") at Thu Apr 14 20:53:05 2011
+loveyou:BASE_D->add_base("test_base") at Thu Apr 14 21:35:18 2011
+loveyou:AREA_D->create() at Thu Apr 14 22:12:49 2011
+loveyou:AREA_D->create() at Thu Apr 14 22:17:44 2011
+loveyou:AREA_D->create() at Thu Apr 14 22:17:50 2011
+loveyou:AREA_D->create() at Thu Apr 14 22:17:54 2011
+loveyou:AREA_D->create() at Thu Apr 14 22:21:42 2011
+loveyou:BASE_D->add_stuff("tiekuang") at Thu Apr 14 22:33:37 2011
+loveyou:BASE_D->add_stuff("tiekuang") at Thu Apr 14 22:33:49 2011
+loveyou:BASE_D->add_stuff("tiekuang") at Thu Apr 14 22:36:56 2011
+loveyou:BASE_D->create() at Thu Apr 14 22:37:08 2011
+loveyou:BASE_D->add_stuff("tongkuang") at Thu Apr 14 22:37:14 2011
+loveyou:BASE_D->add_stuff("tongkuang") at Thu Apr 14 22:38:06 2011
+huaer:IMUD_D->stat_me() at Sat Apr 16 21:25:57 2011
+huaer:IMUD_D->stat_me() at Sat Apr 16 21:26:07 2011
+huaer:IMUD_D->stat_me() at Sat Apr 16 21:32:29 2011
+huaer:AREA_D->set_area("baima","name","白马") at Sun Apr 17 19:42:28 2011
+huaer:AREA_D->set_area("baima","level",3) at Sun Apr 17 19:42:52 2011
+huaer:CHAR_D->get_char("baima girl","area") at Sun Apr 17 20:37:34 2011
+huaer:CHAR_D->set_char("baima girl","area", "baima") at Sun Apr 17 20:38:28 2011
+huaer:CHAR_D->get_char("baima girl","area") at Sun Apr 17 20:38:36 2011
+huaer:CHAR_D->get_char("baima girl", "nation") at Sun Apr 17 20:39:42 2011
+huaer:CHAR_D->set_char("baima girl", "nation", "") at Sun Apr 17 20:39:58 2011
+huaer:CHAR_D->get_char("baima girl", "nation") at Sun Apr 17 20:40:02 2011
+huaer:CHAR_D->set_char("baima girl", "ranknation", 0) at Sun Apr 17 20:50:06 2011
+huaer:CHAR_D->set_char("baima girl", "ranklocal", 0) at Sun Apr 17 20:51:34 2011
+huaer:CHAR_D->set_char("baima girl", "loyalty", 0) at Sun Apr 17 20:51:52 2011
+huaer:CHAR_D->set_char("baima girl", "loyalty", 50) at Sun Apr 17 20:52:44 2011
+huaer:AREA_D->set_area("baima", "nation", "caocao") at Sun Apr 17 21:11:12 2011
+huaer:CHAR_D->set_char("baima girl", "loyalty", 50) at Sun Apr 17 21:11:26 2011
+huaer:AREA_D->get_area(get_char(char_id,"area"),"nation") at Sun Apr 17 21:15:32 2011
+huaer:AREA_D->get_area("baima","nation") at Sun Apr 17 21:16:34 2011
+huaer:CHAR_D->set_char("baima girl", "is_tmp", 1) at Sun Apr 17 21:22:06 2011
+huaer:CHAR_D->get_char("baima girl","salary") at Sun Apr 17 21:25:30 2011
+huaer:AREA_D->get_area(CHAR_D->get_char("baima girl", "area"), "name") at Sun Apr 17 21:26:56 2011
+huaer:AREA_D->get_area(CHAR_D->get_char("baima girl", "area"), "name") at Sun Apr 17 21:27:06 2011
+huaer:COUNTRY_D->get_country(CHAR_D->get_char("baima girl", "nation"), "name") at Sun Apr 17 21:27:40 2011
+huaer:COUNTRY_D->add_country("caocao", "baima") at Sun Apr 17 21:31:40 2011
+huaer:COUNTRY_D->get_country(CHAR_D->get_char("baima girl", "nation"), "name") at Sun Apr 17 21:35:38 2011
+huaer:COUNTRY_D->get_country(CHAR_D->get_char("baima girl", "nation"), "name") at Sun Apr 17 21:41:56 2011
+huaer:unguarded(1, (: restore_object, "/data/daemons/countries", 1 :)) at Sun Apr 17 21:44:04 2011
+huaer:COUNTRY_D->get_country("caocao", "name") at Sun Apr 17 21:44:34 2011
+huaer:COUNTRY_D->create() at Sun Apr 17 21:46:46 2011
+huaer:COUNTRY_D->get_country("caocao", "name") at Sun Apr 17 21:46:54 2011
+huaer:COUNTRY_D->get_country(CHAR_D->get_char("baima girl", "nation"), "name") at Sun Apr 17 21:47:02 2011
+huaer:COUNTRY_D->get_country(CHAR_D->get_char("baima girl", "nation"), "name") at Sun Apr 17 21:47:12 2011
+huaer:COUNTRY_D->get_country(CHAR_D->get_char("baima girl", "nation"), "name") at Sun Apr 17 21:47:12 2011
+huaer:COUNTRY_D->get_country(CHAR_D->get_char("baima girl", "nation"), "name") at Sun Apr 17 21:47:12 2011
+huaer:COUNTRY_D->create() at Mon Apr 18 10:38:47 2011
+huaer:COUNTRY_D->create() at Mon Apr 18 10:43:49 2011
+huaer:COUNTRY_D->create() at Mon Apr 18 10:45:47 2011
+huaer:COUNTRY_D->create() at Mon Apr 18 10:48:09 2011
+huaer:OFFICER_D->create() at Tue Apr 19 09:51:59 2011
+huaer:OFFICER_D->create() at Tue Apr 19 09:52:29 2011
+huaer:OFFICER_D->create() at Tue Apr 19 09:53:17 2011
+huaer:OFFICER_D->create() at Tue Apr 19 09:54:34 2011
+huaer:OFFICER_D->create() at Tue Apr 19 09:54:47 2011
+huaer:OFFICER_D->create() at Tue Apr 19 09:55:07 2011
+huaer:OFFICER_D->create() at Tue Apr 19 09:59:04 2011
+huaer:OFFICER_D->save_data() at Tue Apr 19 09:59:56 2011
+huaer:OFFICER_D->add_officer(190) at Tue Apr 19 10:01:14 2011
+huaer:OFFICER_D->set_officer(190, "name", "主将") at Tue Apr 19 10:02:48 2011
+huaer:OFFICER_D->set_officer(190, "level", 3) at Tue Apr 19 10:03:51 2011
+huaer:OFFICER_D->create() at Tue Apr 19 10:04:31 2011
+huaer:OFFICER_D->create() at Tue Apr 19 11:26:19 2011
+huaer:OFFICER_D->create() at Tue Apr 19 13:16:50 2011
+huaer:OFFICER_D->create() at Tue Apr 19 13:17:04 2011
+huaer:OFFICER_D->create() at Tue Apr 19 13:17:47 2011
+huaer:OFFICER_D->create() at Tue Apr 19 13:18:07 2011
+huaer:OFFICER_D->create() at Tue Apr 19 13:18:10 2011
+huaer:OFFICER_D->create() at Tue Apr 19 13:19:31 2011
+huaer:OFFICER_D->create() at Tue Apr 19 13:23:44 2011
+huaer:OFFICER_D->create() at Tue Apr 19 14:29:00 2011
+huaer:OFFICER_D->create() at Tue Apr 19 14:30:29 2011
+huaer:OFFICER_D->create() at Tue Apr 19 14:32:10 2011
+huaer:OFFICER_D->create() at Tue Apr 19 14:33:11 2011
+huaer:OFFICER_D->create() at Tue Apr 19 14:34:07 2011
+huaer:OFFICER_D->create() at Tue Apr 19 14:37:33 2011
+huaer:OFFICER_D->create() at Tue Apr 19 14:42:01 2011
+huaer:OFFICER_D->save_data() at Tue Apr 19 15:38:06 2011
+huaer:OFFICER_D->create() at Tue Apr 19 15:47:13 2011
+huaer:write("test") at Tue Apr 19 15:49:03 2011
+huaer:write("test") at Tue Apr 19 15:49:10 2011
+huaer:write("test") at Tue Apr 19 15:49:20 2011
+huaer:OFFICER_D->create() at Tue Apr 19 15:53:21 2011
+huaer:OFFICER_D->create() at Tue Apr 19 15:54:05 2011
+huaer:write(@OFFICER_D->offs1000name) at Tue Apr 19 15:56:26 2011
+huaer:write(@OFFICER_D->offs/1000/name) at Tue Apr 19 15:56:49 2011
+huaer:write(@OFFICER_D->offs[1000name) at Tue Apr 19 16:06:53 2011
+huaer:write(@OFFICER_D->offs[[) at Tue Apr 19 16:07:06 2011
+huaer:write(@OFFICER_D->offs[[1000[["name") at Tue Apr 19 16:07:19 2011
+huaer:write(@OFFICER_D->offs1000name) at Tue Apr 19 16:07:48 2011
+huaer:write(@OFFICER_D->offs[1000name) at Tue Apr 19 16:07:55 2011
+huaer:write(@OFFICER_D->offs[name) at Tue Apr 19 16:08:03 2011
+huaer:write(@OFFICER_D->offs[[1000) at Tue Apr 19 16:08:44 2011
+huaer:write(@OFFICER_D->offs[1000) at Tue Apr 19 16:08:51 2011
+huaer:write(@OFFICER_D->offs[) at Tue Apr 19 16:08:59 2011
+huaer:write(@OFFICER_D->offs[0) at Tue Apr 19 16:09:08 2011
+huaer:write(@OFFICER_D->offs[1000)) at Tue Apr 19 16:09:27 2011
+huaer:write(@OFFICER_D->offs[1000) at Tue Apr 19 16:09:34 2011
+huaer:write(@OFFICER_D->offs[1000[) at Tue Apr 19 16:09:44 2011
+huaer:write(@OFFICER_D->offs[) at Tue Apr 19 16:10:08 2011
+huaer:write(@OFFICER_D->offs[1000{) at Tue Apr 19 16:10:32 2011
+huaer:write(@OFFICER_D->offs{1000}) at Tue Apr 19 16:10:45 2011
+huaer:write(@OFFICER_D->offs1000) at Tue Apr 19 16:11:02 2011
+huaer:write(@OFFICER_D->offs.1000) at Tue Apr 19 16:11:15 2011
+huaer:write(@OFFICER_D->offs@1000@) at Tue Apr 19 16:11:23 2011
+huaer:write(@OFFICER_D->offs#1000#) at Tue Apr 19 16:11:37 2011
+huaer:write(@OFFICER_D->offs[1000) at Tue Apr 19 16:11:54 2011
+huaer:write(@OFFICER_D->offs[) at Tue Apr 19 16:12:02 2011
+huaer:write(@OFFICER_D->]) at Tue Apr 19 16:13:06 2011
+huaer:write(@OFFICER_D->][) at Tue Apr 19 16:13:11 2011
+huaer:write(@OFFICER_D->]) at Tue Apr 19 16:13:22 2011
+huaer:write(@OFFICER_D->]"["]) at Tue Apr 19 16:13:38 2011
+huaer:write(@OFFICER_D->"["]) at Tue Apr 19 16:13:49 2011
+huaer:write(@OFFICER_D->[]) at Tue Apr 19 16:14:19 2011
+huaer:write(@OFFICER_D->[1000]["name"]) at Tue Apr 19 16:14:35 2011
+huaer:write(@OFFICER_D->offs[1000]["name"]) at Tue Apr 19 16:15:03 2011
+huaer:write(@OFFICER_D->offs[71]["name"]) at Tue Apr 19 16:15:11 2011
+huaer:write(@OFFICER_D->offs[190]["name"]) at Tue Apr 19 16:15:38 2011
+huaer:write(@OFFICER_D->offs[190]["name"]) at Tue Apr 19 16:15:43 2011
+huaer:write(OFFICER_D->offs[190]["name"]) at Tue Apr 19 16:15:58 2011
+huaer:write(OFFICER_D.offs[190]["name"]) at Tue Apr 19 16:16:53 2011
+huaer:write(OFFICER_D->M_ACCESS) at Tue Apr 19 16:18:25 2011
+huaer:write(OFFICER_D.M_ACCESS) at Tue Apr 19 16:18:36 2011
+huaer:OFFICER_D->add_officer(1000) at Tue Apr 19 16:23:46 2011
+huaer:OFFICER_D->set_officer(1000,"name", "闲职") at Tue Apr 19 16:24:40 2011
+huaer:OFFICER->create() at Tue Apr 19 16:54:25 2011
+huaer:OFFICER_D->create() at Tue Apr 19 16:54:35 2011
+huaer:OFFICER_D->create() at Tue Apr 19 17:25:47 2011
+huaer:OFFICER_D->save_data() at Tue Apr 19 17:52:56 2011
+huaer:OFFICER_D->create() at Tue Apr 19 18:04:16 2011
+huaer:OFFICER_D->create() at Wed Apr 20 10:47:19 2011
+huaer:OFFICER_D->create() at Wed Apr 20 10:49:05 2011
+huaer:OFFICER_D->create() at Wed Apr 20 13:36:29 2011
+huaer:OFFICER_D->create() at Wed Apr 20 15:37:51 2011
+huaer:OFFICER_D->create() at Thu Apr 21 15:05:03 2011
+huaer:OFFICER_D->create() at Thu Apr 21 15:48:00 2011
+huaer:OFFICER_D->create() at Thu Apr 21 15:55:48 2011
+huaer:COUNTRY_D->set_country("cao cao", "level", 0) at Fri Apr 22 09:56:21 2011
+huaer:COUNTRY_D->set_country("cao cao", "level", 1) at Fri Apr 22 09:58:45 2011
+huaer:SG_SKILL_D->add_skill("sk_wuli") at Fri Apr 22 16:13:42 2011
+huaer:SG_SKILL_D->add_skill("sk_zhimou") at Fri Apr 22 16:14:12 2011
+huaer:SG_SKILL_D->add_skill("sk_meili") at Fri Apr 22 16:14:30 2011
+loveyou:CHAR_D->create() at Sun Apr 24 09:31:59 2011
+loveyou:CHAR_D->create() at Sun Apr 24 09:44:23 2011
+loveyou:CHAR_D->create() at Sun Apr 24 09:58:29 2011
+loveyou:CHAR_D->create() at Sun Apr 24 10:37:50 2011
+loveyou:CHAR_D->create() at Sun Apr 24 10:55:51 2011
+loveyou:CHAR_D->create() at Sun Apr 24 11:02:05 2011
+huaer:CHAR_D->create() at Sun Apr 24 11:05:55 2011
+huaer:CHAR_D->create() at Sun Apr 24 11:11:27 2011
+loveyou:CHAR_D->create() at Wed Apr 27 09:47:40 2011
+loveyou:CHAR_D->create() at Wed Apr 27 10:23:20 2011
+loveyou:CHAR_D->create() at Wed Apr 27 11:03:26 2011
+huaer:CHAR_D->new_player_char("funnyboy") at Wed Apr 27 16:23:54 2011
+huaer:CHAR_D->new_player_char("huaer") at Wed Apr 27 16:26:58 2011
+huaer:AREA_D->add_area("daixian") at Wed Apr 27 18:24:04 2011
+huaer:AREA_D->set_area("daixian","name","代县") at Wed Apr 27 18:24:30 2011
+huaer:AREA_D->set_area("daixian","level",3) at Wed Apr 27 18:25:02 2011
+huaer:AREA_D->save_data() at Wed Apr 27 18:27:32 2011
+huaer:AREA_D->create() at Wed Apr 27 18:29:02 2011
+huaer:AREA_D->add_area("jicheng") at Wed Apr 27 19:04:14 2011
+huaer:AREA_D->set_area("jicheng","name","蓟城") at Wed Apr 27 19:05:10 2011
+huaer:AREA_D->set_area("jicheng","level",3) at Wed Apr 27 19:10:26 2011
+huaer:AREA_D->add_area("yijing") at Wed Apr 27 19:15:02 2011
+huaer:AREA_D->set_area("yijing","name","易京") at Wed Apr 27 19:15:26 2011
+huaer:AREA_D->set_area("yijing","level",3) at Wed Apr 27 19:16:10 2011
+huaer:AREA_D->add_area("beiping") at Wed Apr 27 19:19:04 2011
+huaer:AREA_D->set_area("beiping","name","北平") at Wed Apr 27 19:19:38 2011
+huaer:AREA_D->set_area("beiping","level",4) at Wed Apr 27 19:19:54 2011
+huaer:AREA_D->set_area("bailangshan","name","白狼山") at Wed Apr 27 19:24:12 2011
+huaer:AREA_D->set_area("bailangshan","level",1) at Wed Apr 27 19:25:06 2011
+huaer:AREA_D->add_area("xiangping") at Wed Apr 27 19:27:48 2011
+huaer:AREA_D->set_area("xiangping","name","襄平") at Wed Apr 27 19:34:16 2011
+huaer:AREA_D->set_area("xiangping","level",2) at Wed Apr 27 19:34:32 2011
+huaer:AREA_D->add_area("nanpi") at Wed Apr 27 20:30:34 2011
+huaer:AREA_D->set_area("nanpi","name","南皮") at Wed Apr 27 20:31:02 2011
+huaer:AREA_D->set_area("nanpi","level",5) at Wed Apr 27 20:31:52 2011
+huaer:AREA_D->add_area("pingyuan") at Wed Apr 27 20:34:20 2011
+huaer:AREA_D->set_area("pingyuan","name","平原") at Wed Apr 27 20:34:44 2011
+huaer:AREA_D->set_area("pingyuan","level",4) at Wed Apr 27 20:35:02 2011
+huaer:AREA_D->add_area("qinghe") at Wed Apr 27 20:36:40 2011
+huaer:AREA_D->set_area("qinghe","name","清河") at Wed Apr 27 20:37:06 2011
+huaer:AREA_D->set_area("qinghe","level",2) at Wed Apr 27 20:37:16 2011
+huaer:AREA_D->add_area("jieqiao") at Wed Apr 27 20:38:16 2011
+huaer:AREA_D->set_area("jieqiao","name","界桥") at Wed Apr 27 20:38:36 2011
+huaer:AREA_D->set_area("jieqiao","level",3) at Wed Apr 27 20:38:50 2011
+huaer:AREA_D->add_area("jinan") at Wed Apr 27 20:42:24 2011
+huaer:AREA_D->set_area("jinan","name","济南") at Wed Apr 27 20:42:40 2011
+huaer:AREA_D->set_area("jinan","level",5) at Wed Apr 27 20:42:58 2011
+huaer:AREA_D->add_area("bohai") at Wed Apr 27 20:46:12 2011
+huaer:AREA_D->set_area("bohai","name","渤海") at Wed Apr 27 20:46:38 2011
+huaer:AREA_D->set_area("bohai","level",4) at Wed Apr 27 20:47:26 2011
+huaer:AREA_D->add_area("beihai") at Wed Apr 27 20:48:16 2011
+huaer:AREA_D->set_area("beihai","name","北海") at Wed Apr 27 20:52:46 2011
+huaer:AREA_D->set_area("beihai","level",4) at Wed Apr 27 20:53:30 2011
+huaer:AREA_D->add_area("ye") at Wed Apr 27 20:54:46 2011
+huaer:AREA_D->set_area("ye","name","邺") at Wed Apr 27 20:55:08 2011
+huaer:AREA_D->set_area("ye","level",3) at Wed Apr 27 20:55:26 2011
+huaer:AREA_D->add_area("chenliu") at Wed Apr 27 20:56:56 2011
+huaer:AREA_D->set_area("chenliu","name","陈留") at Wed Apr 27 21:00:11 2011
+huaer:AREA_D->set_area("chenliu","level",3) at Wed Apr 27 21:00:33 2011
+huaer:AREA_D->add_area("dingtao") at Wed Apr 27 21:02:01 2011
+huaer:AREA_D->set_area("dingtao","name","定陶") at Wed Apr 27 21:02:41 2011
+huaer:AREA_D->set_area("dingtao","level",4) at Wed Apr 27 21:02:55 2011
+huaer:AREA_D->add_area("puyang") at Wed Apr 27 21:04:21 2011
+huaer:AREA_D->set_area("puyang","name","濮阳") at Wed Apr 27 21:05:25 2011
+huaer:AREA_D->set_area("puyang","level",2) at Wed Apr 27 21:05:39 2011
+huaer:AREA_D->set_area("baima","level",3) at Wed Apr 27 21:07:03 2011
+huaer:AREA_D->add_area("xuchang") at Wed Apr 27 21:08:25 2011
+huaer:AREA_D->set_area("xuchang","name","许昌") at Wed Apr 27 21:08:49 2011
+huaer:AREA_D->set_area("xuchang","level",5) at Wed Apr 27 21:09:05 2011
+huaer:AREA_D->add_area("qiao") at Wed Apr 27 21:10:35 2011
+huaer:AREA_D->set_area("qiao","name","谯") at Wed Apr 27 21:11:01 2011
+huaer:AREA_D->set_area("qiao","level",2) at Wed Apr 27 21:11:21 2011
+huaer:AREA_D->add_area("yunnan") at Wed Apr 27 21:14:43 2011
+huaer:AREA_D->save_data() at Wed Apr 27 21:22:21 2011
+huaer:CHAR_D->new_player_char("huaer") at Thu Apr 28 10:47:57 2011
+huaer:CHAR_D->new_player_char("funnyboy") at Thu Apr 28 10:48:05 2011
+huaer:AREA_D->add_area("guandu") at Thu Apr 28 11:28:11 2011
+huaer:AREA_D->set_area("guandu","name","官渡") at Thu Apr 28 11:28:49 2011
+huaer:AREA_D->set_area("guandu","level",3) at Thu Apr 28 11:28:59 2011
+huaer:AREA_D->add_area("xuzhou") at Thu Apr 28 11:31:40 2011
+huaer:AREA_D->set_area("xuzhou","name","徐州") at Thu Apr 28 11:32:06 2011
+huaer:AREA_D->set_area("xuzhou","level",5) at Thu Apr 28 11:32:16 2011
+huaer:AREA_D->add_area("xiaopei") at Thu Apr 28 11:33:52 2011
+huaer:AREA_D->set_area("xiaopei","name","小沛") at Thu Apr 28 11:34:28 2011
+huaer:AREA_D->set_area("xiaopei","level",2) at Thu Apr 28 11:34:46 2011
+huaer:AREA_D->add_area("xiapi") at Thu Apr 28 11:35:58 2011
+huaer:AREA_D->set_area("xiapi","name","下邳") at Thu Apr 28 11:36:20 2011
+huaer:AREA_D->set_area("xiapi","level",3) at Thu Apr 28 11:36:34 2011
+huaer:AREA_D->add_area("guangling") at Thu Apr 28 11:37:40 2011
+huaer:AREA_D->set_area("guangling","name","广陵") at Thu Apr 28 11:38:02 2011
+huaer:AREA_D->set_area("guangling","level",2) at Thu Apr 28 11:38:18 2011
+huaer:AREA_D->add_area("langya") at Thu Apr 28 11:39:12 2011
+huaer:AREA_D->set_area("langya","name","琅邪") at Thu Apr 28 11:39:32 2011
+huaer:AREA_D->set_area("langya","level",1) at Thu Apr 28 11:39:38 2011
+huaer:AREA_D->add_area("taiyuan") at Thu Apr 28 11:40:32 2011
+huaer:AREA_D->set_area("taiyuan","name","太原") at Thu Apr 28 11:40:46 2011
+huaer:AREA_D->set_area("taiyuan","level",5) at Thu Apr 28 11:40:58 2011
+huaer:AREA_D->add_area("shangdang") at Thu Apr 28 15:17:34 2011
+huaer:AREA_D->set_area("shangdang","name","上党") at Thu Apr 28 15:18:04 2011
+huaer:AREA_D->set_area("shangdang","level",3) at Thu Apr 28 15:18:20 2011
+huaer:AREA_D->add_area("yanmenguan") at Thu Apr 28 15:19:54 2011
+huaer:AREA_D->set_area("yanmenguan","name","雁门关") at Thu Apr 28 15:21:02 2011
+huaer:AREA_D->set_area("yanmenguan","level",1) at Thu Apr 28 15:21:12 2011
+huaer:AREA_D->add_area("jingyang") at Thu Apr 28 15:22:10 2011
+huaer:AREA_D->set_area("jingyang","name","晋阳") at Thu Apr 28 15:24:24 2011
+huaer:AREA_D->set_area("jingyang","level",1) at Thu Apr 28 15:24:32 2011
+huaer:AREA_D->set_area("jingyang","level",2) at Thu Apr 28 15:24:38 2011
+huaer:AREA_D->add_area("luoyang") at Thu Apr 28 15:25:52 2011
+huaer:AREA_D->set_area("luoyang","name","洛阳") at Thu Apr 28 15:27:18 2011
+huaer:AREA_D->set_area("luoyang","level",5) at Thu Apr 28 15:27:32 2011
+huaer:AREA_D->add_area("hulaoguan") at Thu Apr 28 15:30:16 2011
+huaer:AREA_D->set_area("hulaoguan","name","虎牢关") at Thu Apr 28 15:30:54 2011
+huaer:AREA_D->set_area("hulaoguan","level",1) at Thu Apr 28 15:31:06 2011
+huaer:AREA_D->add_area("huguan") at Thu Apr 28 15:32:44 2011
+huaer:AREA_D->set_area("huguan","name","壶关") at Thu Apr 28 15:33:00 2011
+huaer:AREA_D->set_area("huguan","level",1) at Thu Apr 28 15:33:08 2011
+huaer:AREA_D->add_area("mianchi") at Thu Apr 28 15:36:24 2011
+huaer:AREA_D->set_area("mianchi","name","渑池") at Thu Apr 28 15:36:40 2011
+huaer:AREA_D->set_area("mianchi","level",2) at Thu Apr 28 15:36:56 2011
+huaer:AREA_D->add_area("hongnong") at Thu Apr 28 15:38:34 2011
+huaer:AREA_D->set_area("hongnong","name","弘农") at Thu Apr 28 15:38:50 2011
+huaer:AREA_D->set_area("hongnong","level",3) at Thu Apr 28 15:39:14 2011
+huaer:AREA_D->add_area("wan") at Thu Apr 28 15:41:34 2011
+huaer:AREA_D->set_area("wan","name","宛") at Thu Apr 28 15:41:58 2011
+huaer:AREA_D->set_area("wan","level",3) at Thu Apr 28 15:42:38 2011
+huaer:AREA_D->add_area("bowangpo") at Thu Apr 28 15:43:46 2011
+huaer:AREA_D->set_area("bowangpo","name","博望坡") at Thu Apr 28 15:44:02 2011
+huaer:AREA_D->set_area("bowangpo","level",2) at Thu Apr 28 15:44:14 2011
+huaer:AREA_D->add_area("changan") at Thu Apr 28 15:46:44 2011
+huaer:AREA_D->set_area("changan","name","长安") at Thu Apr 28 15:47:02 2011
+huaer:AREA_D->set_area("changan","level",5) at Thu Apr 28 15:47:16 2011
+huaer:AREA_D->add_area("wuzhangyuan") at Thu Apr 28 15:48:54 2011
+huaer:AREA_D->set_area("wuzhangyuan","name","五丈原") at Thu Apr 28 15:50:54 2011
+huaer:AREA_D->set_area("wuzhangyuan","level",3) at Thu Apr 28 15:51:14 2011
+huaer:AREA_D->add_area("wuguan") at Thu Apr 28 15:53:12 2011
+huaer:AREA_D->set_area("wuguan","name","武关") at Thu Apr 28 15:53:34 2011
+huaer:AREA_D->set_area("wuguan","level",1) at Thu Apr 28 15:53:40 2011
+huaer:AREA_D->add_area("hangu") at Thu Apr 28 15:54:38 2011
+huaer:AREA_D->set_area("hangu","name","函谷关") at Thu Apr 28 15:55:02 2011
+huaer:AREA_D->set_area("hangu","level",1) at Thu Apr 28 15:55:14 2011
+huaer:AREA_D->add_area("tongguan") at Thu Apr 28 15:55:54 2011
+huaer:AREA_D->set_area("tongguan","name","潼关") at Thu Apr 28 15:56:22 2011
+huaer:AREA_D->set_area("tongguan","level",1) at Thu Apr 28 15:57:30 2011
+huaer:AREA_D->add_area("huayin") at Thu Apr 28 15:58:18 2011
+huaer:AREA_D->set_area("huayin","name","华阴") at Thu Apr 28 15:58:38 2011
+huaer:AREA_D->set_area("huayin","level",2) at Thu Apr 28 15:59:02 2011
+huaer:AREA_D->add_area("jingyang") at Thu Apr 28 16:00:56 2011
+huaer:AREA_D->set_area("jingyang","name","泾阳") at Thu Apr 28 16:01:10 2011
+huaer:AREA_D->set_area("jingyang","level",3) at Thu Apr 28 16:01:16 2011
+huaer:AREA_D->add_area("xiliang") at Thu Apr 28 16:05:10 2011
+huaer:AREA_D->set_area("xiliang","name","西凉") at Thu Apr 28 16:05:30 2011
+huaer:AREA_D->set_area("xiliang","level",2) at Thu Apr 28 16:06:00 2011
+huaer:AREA_D->add_area("longxi") at Thu Apr 28 16:06:54 2011
+huaer:AREA_D->set_area("longxi","name","陇西") at Thu Apr 28 16:08:06 2011
+huaer:AREA_D->set_area("longxi","level",2) at Thu Apr 28 16:08:34 2011
+huaer:AREA_D->add_area("tianshui") at Thu Apr 28 16:09:20 2011
+huaer:AREA_D->set_area("tianshui","name","天水") at Thu Apr 28 16:09:36 2011
+huaer:AREA_D->set_area("tianshui","level",3) at Thu Apr 28 16:10:16 2011
+huaer:AREA_D->add_area("didao") at Thu Apr 28 16:11:14 2011
+huaer:AREA_D->set_area("didao","name","狄道") at Thu Apr 28 16:11:38 2011
+huaer:AREA_D->set_area("didao","level",1) at Thu Apr 28 16:11:50 2011
+huaer:AREA_D->add_area("jieting") at Thu Apr 28 16:12:46 2011
+huaer:AREA_D->set_area("jieting","name","街亭") at Thu Apr 28 16:13:02 2011
+huaer:AREA_D->set_area("jieting","level",1) at Thu Apr 28 16:13:40 2011
+huaer:AREA_D->add_area("qinchuan") at Thu Apr 28 16:15:36 2011
+huaer:AREA_D->set_area("qinchuan","name","秦川") at Thu Apr 28 16:15:54 2011
+huaer:AREA_D->set_area("qinchuan","level",3) at Thu Apr 28 16:16:02 2011
+huaer:AREA_D->add_area("chencang") at Thu Apr 28 16:18:48 2011
+huaer:AREA_D->set_area("chencang","name","陈仓") at Thu Apr 28 16:19:10 2011
+huaer:AREA_D->set_area("chencang","level",1) at Thu Apr 28 16:20:24 2011
+huaer:AREA_D->add_area("hanzhong") at Thu Apr 28 16:21:38 2011
+huaer:AREA_D->set_area("hanzhong","name","汉中") at Thu Apr 28 16:21:52 2011
+huaer:AREA_D->set_area("hanzhong","level",3) at Thu Apr 28 16:22:08 2011
+huaer:AREA_D->save_data() at Thu Apr 28 16:24:42 2011
+huaer:AREA_D->add_area("qishan") at Thu Apr 28 16:25:50 2011
+huaer:AREA_D->set_area("qishan","name","祁山") at Thu Apr 28 16:26:20 2011
+huaer:AREA_D->set_area("qishan","level",2) at Thu Apr 28 16:26:28 2011
+huaer:AREA_D->add_area("yangpingguan") at Thu Apr 28 16:29:34 2011
+huaer:AREA_D->set_area("yangpingguan","name","阳平关") at Thu Apr 28 16:29:52 2011
+huaer:AREA_D->set_area("yangpingguan","level",1) at Thu Apr 28 16:30:10 2011
+huaer:AREA_D->add_area("dingjunshan") at Thu Apr 28 16:31:06 2011
+huaer:AREA_D->set_area("dingjunshan","name","定军山") at Thu Apr 28 16:31:28 2011
+huaer:AREA_D->set_area("dingjunshan","level",1) at Thu Apr 28 16:31:40 2011
+huaer:AREA_D->add_area("jiange") at Thu Apr 28 16:33:22 2011
+huaer:AREA_D->set_area("jiange","name","剑阁") at Thu Apr 28 16:33:42 2011
+huaer:AREA_D->set_area("jiange","level",2) at Thu Apr 28 16:33:52 2011
+huaer:AREA_D->add_area("zitong") at Thu Apr 28 16:36:02 2011
+huaer:AREA_D->set_area("zitong","name","梓潼") at Thu Apr 28 16:36:20 2011
+huaer:AREA_D->set_area("zitong","level",3) at Thu Apr 28 16:36:58 2011
+huaer:AREA_D->add_area("fucheng") at Thu Apr 28 16:37:58 2011
+huaer:AREA_D->set_area("fucheng","name","涪城") at Thu Apr 28 16:38:14 2011
+huaer:AREA_D->set_area("fucheng","level",3) at Thu Apr 28 16:39:44 2011
+huaer:AREA_D->add_area("anding") at Thu Apr 28 16:40:20 2011
+huaer:AREA_D->set_area("anding","name","安定") at Thu Apr 28 16:40:36 2011
+huaer:AREA_D->set_area("anding","level",3) at Thu Apr 28 16:40:52 2011
+huaer:AREA_D->add_area("chengdu") at Thu Apr 28 16:44:02 2011
+huaer:AREA_D->set_area("chengdu","name","成都") at Thu Apr 28 16:44:14 2011
+huaer:AREA_D->set_area("chengdu","level",5) at Thu Apr 28 16:44:22 2011
+huaer:AREA_D->add_area("mianzhuguan") at Thu Apr 28 16:45:28 2011
+huaer:AREA_D->set_area("mianzhuguan","name","绵竹关") at Thu Apr 28 16:45:48 2011
+huaer:AREA_D->set_area("mianzhuguan","level",1) at Thu Apr 28 16:45:56 2011
+huaer:AREA_D->add_area("jiangzhou") at Thu Apr 28 16:50:48 2011
+huaer:AREA_D->set_area("jiangzhou","name","江州") at Thu Apr 28 16:51:08 2011
+huaer:AREA_D->set_area("jiangzhou","level",4) at Thu Apr 28 16:51:20 2011
+huaer:AREA_D->add_area("yongan") at Thu Apr 28 16:52:12 2011
+huaer:AREA_D->set_area("yongan","name","永安") at Thu Apr 28 16:53:18 2011
+huaer:AREA_D->set_area("yongan","level",3) at Thu Apr 28 16:53:28 2011
+huaer:AREA_D->add_area("jianning") at Thu Apr 28 16:54:26 2011
+huaer:AREA_D->set_area("jianning","name","建宁") at Thu Apr 28 16:54:42 2011
+huaer:AREA_D->set_area("jianning","level",3) at Thu Apr 28 16:54:56 2011
+huaer:AREA_D->add_area("yunnan") at Thu Apr 28 17:01:36 2011
+huaer:AREA_D->set_area("yunnan","name",4) at Thu Apr 28 17:01:56 2011
+huaer:AREA_D->set_area("yunnan","name","云南") at Thu Apr 28 17:02:18 2011
+huaer:AREA_D->set_area("yunnan","level",4) at Thu Apr 28 17:02:30 2011
+huaer:AREA_D->add_area("xiangyang") at Thu Apr 28 17:04:12 2011
+huaer:AREA_D->set_area("xiangyang","name","襄阳") at Thu Apr 28 17:04:28 2011
+huaer:AREA_D->set_area("xiangyang","level",4) at Thu Apr 28 17:04:40 2011
+huaer:AREA_D->add_area("shangyong") at Thu Apr 28 17:07:40 2011
+huaer:AREA_D->set_area("shangyong","name","上庸") at Thu Apr 28 17:08:00 2011
+huaer:AREA_D->set_area("shangyong","level",3) at Thu Apr 28 17:08:10 2011
+huaer:AREA_D->add_area("xinye") at Thu Apr 28 17:09:02 2011
+huaer:AREA_D->set_area("xinye","name","新野") at Thu Apr 28 17:09:16 2011
+huaer:AREA_D->set_area("xinye","level",3) at Thu Apr 28 17:09:26 2011
+huaer:AREA_D->add_area("chanxi") at Thu Apr 28 17:11:02 2011
+huaer:AREA_D->set_area("chanxi","name","澶溪") at Thu Apr 28 17:11:16 2011
+huaer:AREA_D->set_area("chanxi","level",2) at Thu Apr 28 17:12:12 2011
+huaer:AREA_D->add_area("changbanpo") at Thu Apr 28 17:14:04 2011
+huaer:AREA_D->set_area("changbanpo","name","长坂坡") at Thu Apr 28 17:14:28 2011
+huaer:AREA_D->set_area("changbanpo","level",1) at Thu Apr 28 17:14:36 2011
+huaer:CHAR_D->save_data() at Thu Apr 28 17:16:32 2011
+huaer:AREA_D->add_area("jiangxia") at Thu Apr 28 17:20:00 2011
+huaer:AREA_D->set_area("jiangxia","name","江夏") at Thu Apr 28 17:20:24 2011
+huaer:AREA_D->set_area("jiangxia","level",5) at Thu Apr 28 17:20:38 2011
+huaer:AREA_D->add_area("chibi") at Thu Apr 28 17:22:14 2011
+huaer:AREA_D->set_area("chibi","name","赤壁") at Thu Apr 28 17:22:30 2011
+huaer:AREA_D->set_area("chibi","level",4) at Thu Apr 28 17:22:46 2011
+huaer:AREA_D->add_area("jianning") at Thu Apr 28 17:24:00 2011
+huaer:AREA_D->add_area("jiangling") at Thu Apr 28 17:24:50 2011
+huaer:AREA_D->set_area("jiangling","name","江陵") at Thu Apr 28 17:25:12 2011
+huaer:AREA_D->set_area("jiangling","level",3) at Thu Apr 28 17:25:22 2011
+huaer:AREA_D->add_area("yiling") at Thu Apr 28 17:30:10 2011
+huaer:AREA_D->set_area("yiling","name","夷陵") at Thu Apr 28 17:30:34 2011
+huaer:AREA_D->set_area("yiling","level",2) at Thu Apr 28 17:30:42 2011
+huaer:AREA_D->add_area("gongan") at Thu Apr 28 17:32:26 2011
+huaer:AREA_D->set_area("gongan","name","公安") at Thu Apr 28 17:32:44 2011
+huaer:AREA_D->set_area("gongan","level",3) at Thu Apr 28 17:32:58 2011
+huaer:AREA_D->add_area("huarong") at Thu Apr 28 17:34:50 2011
+huaer:AREA_D->set_area("huarong","name","华容") at Thu Apr 28 17:35:04 2011
+huaer:AREA_D->set_area("huarong","level",1) at Thu Apr 28 17:35:12 2011
+huaer:AREA_D->add_area("wuling") at Thu Apr 28 17:39:18 2011
+huaer:AREA_D->set_area("wuling","name","武陵") at Thu Apr 28 17:39:46 2011
+huaer:AREA_D->set_area("wuling","level",3) at Thu Apr 28 17:39:58 2011
+huaer:AREA_D->add_area("lingling") at Thu Apr 28 17:40:34 2011
+huaer:AREA_D->set_area("lingling","name","零陵") at Thu Apr 28 17:40:56 2011
+huaer:AREA_D->set_area("lingling","level",3) at Thu Apr 28 17:41:04 2011
+huaer:AREA_D->add_area("changsha") at Thu Apr 28 17:44:08 2011
+huaer:AREA_D->set_area("changsha","name","长沙") at Thu Apr 28 17:44:20 2011
+huaer:AREA_D->set_area("changsha","level",5) at Thu Apr 28 17:44:28 2011
+huaer:AREA_D->add_area("guiyang") at Thu Apr 28 17:45:54 2011
+huaer:AREA_D->set_area("guiyang","name","桂阳") at Thu Apr 28 17:46:22 2011
+huaer:AREA_D->set_area("guiyang","level",4) at Thu Apr 28 17:46:34 2011
+huaer:AREA_D->add_area("lujiang") at Thu Apr 28 17:47:36 2011
+huaer:AREA_D->set_area("lujiang","name","庐江") at Thu Apr 28 17:47:52 2011
+huaer:AREA_D->add_area("xisaishan") at Thu Apr 28 17:59:40 2011
+huaer:AREA_D->set_area("lujiang","level",3) at Thu Apr 28 17:59:58 2011
+huaer:AREA_D->set_area("xisaishan","name","西塞山") at Thu Apr 28 18:00:38 2011
+huaer:AREA_D->set_area("xisaishan","level",2) at Thu Apr 28 18:01:16 2011
+huaer:AREA_D->add_area("danyang") at Thu Apr 28 18:02:38 2011
+huaer:AREA_D->set_area("danyang","name","丹阳") at Thu Apr 28 18:03:18 2011
+huaer:AREA_D->set_area("danyang","level",3) at Thu Apr 28 18:03:30 2011
+huaer:AREA_D->add_area("poyang") at Thu Apr 28 18:15:20 2011
+huaer:AREA_D->set_area("poyang","name","鄱阳") at Thu Apr 28 18:15:40 2011
+huaer:AREA_D->set_area("poyang","level",3) at Thu Apr 28 18:15:56 2011
+huaer:AREA_D->add_area("chaisang") at Thu Apr 28 18:18:28 2011
+huaer:AREA_D->set_area("chaisang","name","柴桑") at Thu Apr 28 18:18:46 2011
+huaer:AREA_D->set_area("chaisang","level",3) at Thu Apr 28 18:18:58 2011
+huaer:AREA_D->add_area("yuzhang") at Thu Apr 28 18:19:44 2011
+huaer:AREA_D->set_area("yuzhang","name","豫章") at Thu Apr 28 18:20:12 2011
+huaer:AREA_D->set_area("yuzhang","level",3) at Thu Apr 28 18:27:50 2011
+huaer:AREA_D->add_area("jianye") at Thu Apr 28 18:29:50 2011
+huaer:AREA_D->set_area("jianye","name","建业") at Thu Apr 28 18:30:10 2011
+huaer:AREA_D->set_area("jianye","level",5) at Thu Apr 28 18:30:20 2011
+huaer:AREA_D->add_area("shouchun") at Thu Apr 28 18:32:28 2011
+huaer:AREA_D->set_area("shouchun","name","寿春") at Thu Apr 28 18:32:44 2011
+huaer:AREA_D->set_area("shouchun","level",2) at Thu Apr 28 18:32:58 2011
+huaer:AREA_D->add_area("hefei") at Thu Apr 28 18:34:40 2011
+huaer:AREA_D->set_area("hefei","name","合淝") at Thu Apr 28 18:35:02 2011
+huaer:AREA_D->set_area("hefei","level",4) at Thu Apr 28 18:35:12 2011
+huaer:AREA_D->add_area("huaiyin") at Thu Apr 28 18:37:40 2011
+huaer:AREA_D->set_area("huaiyin","name","淮阴") at Thu Apr 28 18:38:00 2011
+huaer:AREA_D->set_area("huaiyin","level",3) at Thu Apr 28 18:38:12 2011
+huaer:AREA_D->add_area("ruxukou") at Thu Apr 28 18:42:04 2011
+huaer:AREA_D->set_area("ruxukou","name","濡须口") at Thu Apr 28 18:42:34 2011
+huaer:AREA_D->set_area("ruxukou","level",1) at Thu Apr 28 18:42:46 2011
+huaer:AREA_D->add_area("wujun") at Thu Apr 28 19:06:12 2011
+huaer:AREA_D->set_area("wujun","name","吴郡") at Thu Apr 28 19:06:42 2011
+huaer:AREA_D->set_area("wujun","level",3) at Thu Apr 28 19:19:22 2011
+huaer:AREA_D->add_area("kuaiji") at Thu Apr 28 19:20:40 2011
+huaer:AREA_D->set_area("kuaiji","name","会稽") at Thu Apr 28 19:21:06 2011
+huaer:AREA_D->set_area("kuaiji","level",3) at Thu Apr 28 19:21:16 2011
+huaer:AREA_D->add_area("nanhai") at Thu Apr 28 19:23:22 2011
+huaer:AREA_D->set_area("nanhai","name","南海") at Thu Apr 28 19:24:22 2011
+huaer:AREA_D->set_area("nanhai","level",4) at Thu Apr 28 19:24:34 2011
+huaer:AREA_D->add_area("guilin") at Thu Apr 28 19:25:34 2011
+huaer:AREA_D->set_area("guilin","name","桂林") at Thu Apr 28 19:25:50 2011
+huaer:AREA_D->set_area("guilin","level",4) at Thu Apr 28 19:26:10 2011
+huaer:AREA_D->add_area("luling") at Thu Apr 28 19:27:26 2011
+huaer:AREA_D->set_area("luling","name","庐陵") at Thu Apr 28 19:27:50 2011
+huaer:AREA_D->set_area("luling","level",3) at Thu Apr 28 19:28:50 2011
+huaer:AREA_D->save_data() at Thu Apr 28 19:32:22 2011
+huaer:AREA_D->add_area("runan") at Thu Apr 28 19:42:08 2011
+huaer:AREA_D->set_area("runan","name","汝南") at Thu Apr 28 19:43:14 2011
+huaer:AREA_D->set_area("runan","level",3) at Thu Apr 28 19:43:28 2011
+huaer:AREA_D->add_area("xianyang") at Thu Apr 28 21:06:30 2011
+huaer:AREA_D->set_area("xianyang","name","咸阳") at Thu Apr 28 21:06:54 2011
+huaer:AREA_D->set_area("xianyang","level",4) at Thu Apr 28 21:07:20 2011
+huaer:AREA_D->save_data() at Thu Apr 28 21:08:50 2011
+huaer:this_user() at Thu Apr 28 21:56:18 2011
+huaer:write(this_user()) at Thu Apr 28 21:56:42 2011
+huaer:AREA_D->save_data() at Thu Apr 28 22:36:30 2011
+huaer:set_objects((/sgdomain/job/chopwoods/chuniang.c)) at Fri Apr 29 16:01:36 2011
+huaer:OBJ_D->clone_obj("woutou") at Fri Apr 29 16:19:34 2011
+huaer:OBJ_D->clone_obj("woutou") at Fri Apr 29 16:48:34 2011
+huaer:OBJ_D->add_obj("woutou","food") at Fri Apr 29 16:58:28 2011
+huaer:OBJ_D->clone_obj("woutou") at Fri Apr 29 16:58:38 2011
+huaer:OBJ_D->set_obj("woutou","file_name","/sgdomain/obj/foodanddrink/woutou.c") at Fri Apr 29 17:25:32 2011
+huaer:OBJ_D->clone_obj("woutou") at Fri Apr 29 17:25:50 2011
+huaer:OBJ_D->clone_obj("woutou") at Fri Apr 29 17:27:08 2011
+huaer:OBJ_D->clone_obj("woutou") at Fri Apr 29 17:27:42 2011
+huaer:OBJ_D->clone_obj("woutou") at Fri Apr 29 17:48:12 2011
+huaer:OBJ_D->clone_obj("woutou") at Fri Apr 29 18:22:04 2011
+huaer:OBJ_D->clone_obj("woutou") at Fri Apr 29 18:47:50 2011
+huaer:OBJ_D->clone("woutou") at Fri Apr 29 20:31:12 2011
+huaer:write(__DIR__) at Sun May  1 19:54:21 2011
+huaer:AREA_D->add_neighbor("tongguan","huayin") at Sun May  1 23:17:20 2011
+huaer:CHAR_D->set_char("hou cheng","area","tongguan") at Sun May  1 23:39:12 2011
+huaer:AREA_D->set_area("tongguan","nation","dong zhuo") at Sun May  1 23:42:14 2011
+huaer:AREA_D->area_init() at Sun May  1 23:47:22 2011
+huaer:CHAR_D->add_area_char("hou cheng") at Sun May  1 23:59:52 2011
+huaer:CHAR_D->set_char("hou cheng","room","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Mon May  2 00:06:01 2011
+huaer:JOB_D->set_job("chopwoods","count_lasttimes",100) at Mon May  2 10:25:40 2011
+huaer:JOB_D->set_job("chopwoods","count_lasttimes",500) at Mon May  2 10:34:06 2011
+huaer:OFFICER_D->create() at Mon May  2 10:58:40 2011
+huaer:OBJ_D->add_obj("hou cheng","npc") at Mon May  2 14:23:44 2011
+huaer:OBJ_D->clone_obj("wotou") at Mon May  2 14:28:00 2011
+huaer:OBJ_D->clone_obj("wotou") at Mon May  2 14:28:16 2011
+huaer:OBJ_D->clone_obj("wotou") at Mon May  2 14:28:18 2011
+huaer:OBJ_D->clone_obj("wotou") at Mon May  2 14:29:44 2011
+huaer:CHAR_D->put_npc_char("hou cheng","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Mon May  2 14:42:14 2011
+huaer:CHAR_D->save_data() at Mon May  2 17:45:36 2011
+huaer:CHAR_D->create() at Mon May  2 17:53:42 2011
+huaer:CHAR_D->create() at Mon May  2 17:54:14 2011
+huaer:CHAR_D->create() at Mon May  2 17:57:38 2011
+huaer:CHAR_D->put_npc_char("hou cheng", here) at Mon May  2 18:01:47 2011
+huaer:CHAR_D->put_npc_char("hou cheng", "/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Mon May  2 18:02:59 2011
+huaer:CHAR_D->creat_npc_char("tongguan guy") at Mon May  2 20:38:11 2011
+huaer:CHAR_D->creat_npc_char("tongguan guy","/sgdomain/area/guan/tongguan/dalu.c") at Mon May  2 20:42:43 2011
+huaer:OFFICER_D->create() at Mon May  2 21:24:57 2011
+huaer:CHAR_D->create() at Mon May  2 21:46:23 2011
+huaer:CHAR_D->get_char("funnyboy") at Mon May  2 21:50:09 2011
+huaer:CHAR_D->get_char("funnyboy") at Mon May  2 21:50:25 2011
+huaer:CHAR_D->get_char("funnyboy") at Mon May  2 21:50:51 2011
+huaer:CHAR_D->get_char("funnyboy") at Mon May  2 21:52:01 2011
+huaer:CHAR_D->set_char("funnyboy","literate",80) at Mon May  2 22:16:05 2011
+huaer:CHAR_D->set_char("funnyboy","literate",70) at Mon May  2 22:41:35 2011
+huaer:CHAR_D->put_npc_char("hou cheng","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Tue May  3 09:12:24 2011
+huaer:JOB_D->set_job("bugao") at Tue May  3 11:02:25 2011
+huaer:JOB_D->set_job("findbody") at Tue May  3 11:19:11 2011
+huaer:JOB_D->set_job("findbody","name","找人") at Tue May  3 11:34:41 2011
+huaer:JOB_D->set_job("findbody","level",0) at Tue May  3 11:35:03 2011
+huaer:JOB_D->set_job("findbody","count_lasttimes",100) at Tue May  3 11:35:39 2011
+huaer:JOB_D->set_job("bugao","name","张贴布告") at Tue May  3 11:44:43 2011
+huaer:JOB_D->set_job("bugao","count_lasttimes",100) at Tue May  3 11:45:01 2011
+huaer:CHAR_D->put_npc_char("hou cheng","sgdomain/area/guan/tongguan/zhongjunzhang.c") at Tue May  3 12:18:54 2011
+huaer:CHAR_D->put_npc_char("bei yan","sgdomain/area/guan/tongguan/kezhan.c") at Tue May  3 13:00:32 2011
+huaer:CHAR_D->set_char("bei yan","area","tongguan") at Tue May  3 13:05:06 2011
+huaer:JOB_D->set_job("askobj","name","催物") at Tue May  3 13:49:16 2011
+huaer:JOB_D->set_job("askobj","count_lasttimes",100) at Tue May  3 13:49:48 2011
+huaer:"/sgdomain/robot/zi"->test("cao cao") at Tue May  3 14:06:04 2011
+huaer:"/sgdomain/robot/zi"->test("huaer") at Tue May  3 14:07:26 2011
+huaer:"/sgdomain/robot/zi"->test("huaer") at Tue May  3 14:07:46 2011
+huaer:"/sgdomain/robot/robot"->robot_test(.huaer) at Tue May  3 14:08:34 2011
+huaer:CHAR_D->put_npc_char("cai yong","/sgdomain/area/guan/tongguan/shanlu.c") at Tue May  3 14:21:52 2011
+huaer:CHAR_D->set_char("cai yong","area","tongguan") at Tue May  3 14:22:26 2011
+huaer:CHAR_D->set_char("cai yong","is_maker",1) at Tue May  3 14:31:28 2011
+huaer:CHAR_D->set_char("cai yong","goods","test") at Tue May  3 15:06:22 2011
+huaer:CHAR_D->put_npc_char("bei yan","sgdomain/area/guan/tongguan/kezhan.c") at Tue May  3 15:40:06 2011
+huaer:AREA_D->add_neighbor("huayin","changan") at Tue May  3 15:50:56 2011
+huaer:AREA_D->add_neighbor("tongguan","hangu") at Tue May  3 15:53:24 2011
+huaer:AREA_D->add_neighbor("shangdang","hangu") at Tue May  3 15:56:02 2011
+huaer:AREA_D->add_neighbor("hongnong","hangu") at Tue May  3 15:57:16 2011
+huaer:AREA_D->add_neighbor("wuguan","wan") at Tue May  3 15:57:52 2011
+huaer:AREA_D->add_neighbor("wuguan","changan") at Tue May  3 15:58:10 2011
+huaer:AREA_D->add_neighbor("wuzhangyuan","changan") at Tue May  3 15:58:44 2011
+huaer:AREA_D->add_area("xiabian") at Tue May  3 16:05:40 2011
+huaer:AREA_D->set_area("xiabian","name","下弁") at Tue May  3 16:06:14 2011
+huaer:AREA_D->set_area("xiabian","level",3) at Tue May  3 16:06:42 2011
+huaer:AREA_D->add_neighbor("wuzhangyuan","xiabian") at Tue May  3 16:18:18 2011
+huaer:AREA_D->add_neighbor("wuzhangyuan","hanzhong") at Tue May  3 16:18:46 2011
+huaer:AREA_D->add_neighbor("changan","xianyang") at Tue May  3 16:19:12 2011
+huaer:AREA_D->add_neighbor("changan","anding") at Tue May  3 16:19:20 2011
+huaer:AREA_D->add_neighbor("changan","jingyang") at Tue May  3 16:19:40 2011
+huaer:AREA_D->add_neighbor("changan","huayin") at Tue May  3 16:19:58 2011
+huaer:AREA_D->add_neighbor("changan","wuguan") at Tue May  3 16:20:18 2011
+huaer:AREA_D->add_neighbor("changan","wuzhangyuan") at Tue May  3 16:20:26 2011
+huaer:AREA_D->add_neighbor("jingyang","anding") at Tue May  3 16:21:22 2011
+huaer:AREA_D->add_neighbor("jingyang","xianyang") at Tue May  3 16:22:22 2011
+huaer:AREA_D->add_neighbor("xianyang","chencang") at Tue May  3 16:24:46 2011
+huaer:AREA_D->add_neighbor("xianyang","anding") at Tue May  3 16:25:00 2011
+huaer:AREA_D->save_data() at Tue May  3 22:10:27 2011
+huaer:AREA_D->create() at Tue May  3 22:10:35 2011
+huaer:CHAR_D->put_npc_char("hou cheng","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Wed May  4 09:11:00 2011
+huaer:CHAR_D->put_npc_char("bei yan","/sgdomain/area/guan/tongguan/kezhan.c") at Wed May  4 09:16:04 2011
+huaer:CHAR_D->put_npc_char("cai yong","/sgdomain/area/guan/tongguan/guankou.c") at Wed May  4 09:20:06 2011
+huaer:CHAR_D->put_npc_char("hou cheng","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Wed May  4 11:48:25 2011
+huaer:CHAR_D->put_npc_char("bei yan","/sgdomain/area/guan/tongguan/kezhan.c") at Wed May  4 11:48:45 2011
+huaer:CHAR_D->put_npc_char("cai yong","/sgdomain/area/guan/tongguan/guankou.c") at Wed May  4 11:49:05 2011
+huaer:CHAR_D->set_char("funnyboy","lc",(tongguan)) at Wed May  4 14:26:09 2011
+huaer:CHAR_D->create() at Wed May  4 14:26:37 2011
+huaer:JOB_D->set_job("patrol","name","巡逻") at Wed May  4 14:53:01 2011
+huaer:JOB_D->set_job("patrol","level",1) at Wed May  4 14:53:23 2011
+huaer:JOB_D->set_job("patrol","count_lasttimes",100) at Wed May  4 14:54:23 2011
+huaer:JOB_D->set_job("visitwise","name","访问贤人") at Wed May  4 14:55:15 2011
+huaer:JOB_D->set_job("visitwise","level",1) at Wed May  4 14:55:25 2011
+huaer:JOB_D->set_job("visitwise","count_lasttimes",100) at Wed May  4 14:55:43 2011
+huaer:JOB_D->set_job("searchwise","name","搜索贤人") at Wed May  4 14:56:13 2011
+huaer:JOB_D->set_job("searchwise","level",1) at Wed May  4 14:56:21 2011
+huaer:JOB_D->set_job("searchwise","count_lasttimes",100) at Wed May  4 14:56:29 2011
+huaer:JOB_D->set_job("spy","name","地区侦查") at Wed May  4 14:57:03 2011
+huaer:JOB_D->set_job("spy","level",1) at Wed May  4 14:57:15 2011
+huaer:JOB_D->set_job("spy","count_lasttimes",100) at Wed May  4 14:57:33 2011
+huaer:JOB_D->set_job("letter","name","送信") at Wed May  4 14:57:57 2011
+huaer:JOB_D->set_job("letter","level",1) at Wed May  4 14:58:11 2011
+huaer:JOB_D->set_job("letter","count_lasttimes",100) at Wed May  4 14:58:21 2011
+huaer:JOB_D->set_job("setppl","name","设置间谍") at Wed May  4 14:58:51 2011
+huaer:JOB_D->set_job("setppl","level",1) at Wed May  4 14:59:07 2011
+huaer:JOB_D->set_job("setppl","count_lasttimes",100) at Wed May  4 14:59:17 2011
+huaer:JOB_D->set_job("visitofficer","name","安抚官员") at Wed May  4 14:59:45 2011
+huaer:JOB_D->set_job("visitofficer","level",1) at Wed May  4 14:59:55 2011
+huaer:JOB_D->set_job("visitofficer","count_lasttimes",100) at Wed May  4 15:00:01 2011
+huaer:JOB_D->set_job("fanpeople","name","煽动百姓") at Wed May  4 15:00:23 2011
+huaer:JOB_D->set_job("fanpeople","level",1) at Wed May  4 15:00:47 2011
+huaer:JOB_D->set_job("fanpeople","count_lasttimes",100) at Wed May  4 15:00:55 2011
+huaer:JOB_D->set_job("whisper","name","策反敌将") at Wed May  4 15:01:59 2011
+huaer:JOB_D->set_job("whisper","level",1) at Wed May  4 15:02:33 2011
+huaer:JOB_D->set_job("whisper","count_lasttimes",100) at Wed May  4 15:02:59 2011
+huaer:JOB_D->set_job("visitpeople","name","体察百姓") at Wed May  4 15:03:23 2011
+huaer:JOB_D->set_job("visitpeople","level",1) at Wed May  4 15:03:41 2011
+huaer:JOB_D->set_job("visitpeople","count_lasttimes",100) at Wed May  4 15:03:53 2011
+huaer:.funnyboy->query_job("patrol","beg_time") at Wed May  4 15:46:27 2011
+huaer:TASK_D->query_tasks() at Wed May  4 15:51:31 2011
+huaer:.funnyboy->query_job("patrol","beg_time") at Wed May  4 15:55:27 2011
+huaer:.funnyboy->resign_job("patrol") at Wed May  4 16:01:37 2011
+huaer:.funnyboy->resign_job("patrol") at Wed May  4 16:05:19 2011
+huaer:CHAR_D->put_npc_char("bei yan","/sgdomain/area/guan/tongguan/kezhan.c") at Wed May  4 16:25:03 2011
+huaer:this_body()->query_room() at Wed May  4 18:04:49 2011
+huaer:AREA_D->get_area("tongguan","path") at Wed May  4 18:55:35 2011
+huaer:AREA("tongguan")->set_area("tongguan") at Wed May  4 19:09:29 2011
+huaer:CHAR_D->put_npc_char("bei yan","/sgdomain/area/guan/tongguan/kezhan.c") at Wed May  4 19:23:17 2011
+huaer:CHAR_D->put_npc_char("cai yong","/sgdomain/area/guan/tongguan/guankou.c") at Wed May  4 19:23:33 2011
+huaer:AREA_D->set_area("changan","nation","dong zhuo") at Wed May  4 21:11:12 2011
+huaer:CHAR_D->set_char("zhang liao","area","changan") at Wed May  4 21:27:52 2011
+huaer:CHAR_D->put_npc_char("zhang liao","/sgdomain/area/cities/changan/ca_junying.c") at Wed May  4 21:39:58 2011
+huaer:CHAR_D->put_npc_char("hou cheng","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Thu May  5 08:41:19 2011
+huaer:CHAR_D->put_npc_char("bei yan","/sgdomain/area/guan/tongguan/kezhan.c") at Thu May  5 08:41:35 2011
+huaer:CHAR_D->put_npc_char("cai yong","/sgdomain/area/guan/tongguan/guankou.c") at Thu May  5 08:41:53 2011
+huaer:AREA("tongguan")->set_area("tongguan") at Thu May  5 08:42:57 2011
+huaer:AREA("changan")->set_area("changan") at Thu May  5 09:25:43 2011
+huaer:CHAR_D->put_npc_char("hou cheng","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Thu May  5 09:35:17 2011
+huaer:CHAR_D->put_npc_char("hou cheng","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Thu May  5 09:41:08 2011
+huaer:CHAR_D->put_npc_char("zhang liao","/sgdomain/area/cities/changan/ca_junying.c") at Thu May  5 09:41:28 2011
+huaer:CHAR_D->put_npc_char("cai yong","/sgdomain/area/guan/tongguan/guankou.c") at Thu May  5 09:41:52 2011
+huaer:CHAR_D->create() at Thu May  5 11:13:16 2011
+huaer:AREA_D->area_init() at Thu May  5 13:41:00 2011
+huaer:AREA_D->create() at Thu May  5 16:41:32 2011
+huaer:JOB_D->set_job("choppork","name","切肉") at Thu May  5 17:19:30 2011
+huaer:JOB_D->set_job("choppork","level",0) at Thu May  5 17:21:34 2011
+huaer:JOB_D->set_job("choppork","count_lasttimes",10000) at Thu May  5 17:22:10 2011
+huaer:CHAR_D->put_npc_char("hou cheng","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Thu May  5 17:43:33 2011
+huaer:CHAR_D->put_npc_char("zhang liao","/sgdomain/area/cities/changan/ca_junying.c") at Thu May  5 17:43:47 2011
+huaer:CHAR_D->put_npc_char("cai yong","/sgdomain/area/guan/tongguan/guankou.c") at Thu May  5 17:44:15 2011
+huaer:CHAR_D->set_char("funnyboy","literate",500) at Thu May  5 17:53:57 2011
+huaer:CHAR_D->set_char("funnyboy","lc",(changan)) at Thu May  5 18:08:59 2011
+huaer:CHAR_D->create() at Thu May  5 18:10:13 2011
+huaer:CHAR_D->set_char("funnyboy","literate",500) at Thu May  5 18:11:43 2011
+huaer:AREA("tongguan")->set_area("tongguan") at Thu May  5 18:54:37 2011
+huaer:AREA("changan")->set_area("changan") at Thu May  5 18:54:47 2011
+huaer:CHAR_D->put_npc_char("zhang liao","/sgdomain/area/cities/changan/ca_junying.c") at Thu May  5 18:58:31 2011
+huaer:CHAR_D->put_npc_char("cai yong","/sgdomain/area/guan/tongguan/guankou.c") at Thu May  5 19:00:53 2011
+huaer:CHAR_D->put_npc_char("zhang liao","/sgdomain/area/cities/changan/ca_junying.c") at Thu May  5 19:02:45 2011
+huaer:CHAR_D->put_npc_char("zhang liao","/sgdomain/area/cities/changan/ca_junying.c") at Thu May  5 21:17:26 2011
+huaer:AREA("changan")->set_area("changan") at Thu May  5 21:54:12 2011
+huaer:AREA("tongguan")->set_area("tongguan") at Thu May  5 21:54:24 2011
+huaer:AREA("tongguan")->set_area("tongguan") at Thu May  5 22:02:28 2011
+huaer:AREA("changan")->set_area("changan") at Thu May  5 22:02:32 2011
+huaer:CHAR_D->put_npc_char("zhang liao","/sgdomain/area/cities/changan/ca_junying.c") at Fri May  6 00:10:09 2011
+huaer:CHAR_D->put_npc_char("zhang liao","/sgdomain/area/cities/changan/ca_junying.c") at Fri May  6 09:23:25 2011
+huaer:CHAR_D->put_npc_char("hou cheng","/sgdomain/area/guan/tongguan/zhongjunzhang.c") at Fri May  6 09:23:55 2011
+huaer:CHAR_D->put_npc_char("cai yong","/sgdomain/area/guan/tongguan/guankou.c") at Fri May  6 09:24:07 2011
+huaer:AREA_D->get_area("changan","leader") at Fri May  6 10:48:43 2011
+huaer:AREA_D->get_area("changan","meeting") at Fri May  6 10:49:25 2011
+huaer:AREA_D->get_area("tongguan","meeting") at Fri May  6 10:49:41 2011
+huaer:CHAR_D->get_char("zhang liao","status") at Fri May  6 10:55:11 2011
+huaer:CHAR_D->get_char("bei yan","status") at Fri May  6 10:55:23 2011
+huaer:CHAR_D->get_char("bei yan","status") at Fri May  6 10:56:45 2011
+huaer:CHAR_D->get_char("bei yan","status") at Fri May  6 10:57:21 2011
+huaer:CHAR_D->get_char("bei yan","status") at Fri May  6 11:00:49 2011
+huaer:CHAR_D->get_char("zhang liao","status") at Fri May  6 11:00:57 2011
+huaer:CHAR_D->get_char("zhang liao","status") at Fri May  6 11:03:39 2011
+huaer:CHAR_D->get_char("hou cheng","status") at Fri May  6 11:03:51 2011
+huaer:CHAR_D->get_char("hou cheng","status") at Fri May  6 11:04:47 2011
+huaer:CHAR_D->get_char("hou cheng","task") at Fri May  6 11:05:41 2011
+huaer:CHAR_D->find_npc_char("dong cheng") at Fri May  6 11:51:47 2011
+huaer:CHAR_D->find_npc_char("dong cheng") at Fri May  6 14:59:59 2011
+huaer:AREA_D->get_area("wuzhangyuan","level") at Fri May  6 15:42:55 2011
+huaer:AREA_D->set_area("wuzhangyuan","level",1) at Fri May  6 15:43:09 2011
+huaer:AREA_D->get_area("wuzhangyuan","level") at Fri May  6 15:44:19 2011
+huaer:AREA_D->save_data() at Fri May  6 15:44:45 2011
+huaer:AREA_D->get_area("wuzhangyuan","neighbor") at Fri May  6 15:50:03 2011
+huaer:OBJ_D->check_obj("type","food") at Fri May  6 16:27:01 2011
+huaer:CHAR_D->create() at Fri May  6 17:04:03 2011
+huaer:CHAR_D->get_char("cai yong","goods") at Fri May  6 17:05:25 2011
+huaer:get_area("changan", "troop") at Fri May  6 19:32:29 2011
+huaer:AREA_D->get_area("changan", "troop") at Fri May  6 19:32:37 2011
+huaer:TASK_D->get_area_task_id("changan") at Fri May  6 19:33:05 2011
+huaer:keys(AREA_D->get_area("changan", "troop")) at Fri May  6 19:33:49 2011
+huaer:CHAR_D->get_char("da qiao","area") at Fri May  6 19:52:37 2011
+huaer:CHAR_D->set_char("da qiao","area","changan") at Fri May  6 19:55:37 2011
+huaer:CHAR_D->create() at Fri May  6 19:56:37 2011
+huaer:CHAR_D->set_char("da qiao","area","changan") at Fri May  6 19:57:05 2011
+huaer:CHAR_D->save_data() at Fri May  6 19:57:37 2011
+huaer:CHAR_D->get_char("da qiao","area") at Fri May  6 19:57:53 2011
+huaer:CHAR_D->get_char("cai yong","goods") at Fri May  6 20:12:23 2011
+huaer:CHAR_D->create() at Fri May  6 20:14:15 2011
+huaer:CHAR_D->get_char("cai yong","goods") at Fri May  6 20:14:19 2011
+huaer:CHAR_D->get_char("cai yong","goods") at Fri May  6 20:15:09 2011
+huaer:AREA_D->set_area("wuzhangyuan","nation","dong zhuo") at Fri May  6 21:40:07 2011
+huaer:AREA_D->get_area("wuzhangyuan","leader") at Fri May  6 21:42:59 2011
+huaer:AREA_D->get_area("wuzhangyuan","meeting") at Fri May  6 21:46:29 2011
+huaer:AREA_D->get_area("wuzhangyuan","fly") at Fri May  6 21:47:55 2011
+huaer:AREA_D->get_area("wuzhangyuan","level") at Fri May  6 21:48:09 2011
+huaer:AREA_D->get_area("wuzhangyuan","meeting") at Fri May  6 22:09:51 2011
+huaer:AREA_D->get_area("wuguan","leader") at Fri May  6 22:45:59 2011
+huaer:AREA_D->get_area("wuguan","meeting") at Fri May  6 22:46:15 2011
+huaer:AREA_D->set_area("wuguan","meeting",wg_zhongjunzhang) at Fri May  6 22:46:45 2011
+huaer:AREA_D->set_area("wuguan","meeting","wg_zhongjunzhang") at Fri May  6 22:46:59 2011
+huaer:CHAR_D->get_char("funnyboy","gold") at Sat May  7 07:54:49 2011
+huaer:CHAR_D->get_char("henhao","gold") at Sat May  7 07:54:57 2011
+huaer:CHAR_D->set_char("henhao","gold",100) at Sat May  7 07:55:07 2011
+huaer:CHAR_D->save_data() at Sat May  7 07:55:17 2011
+huaer:CHAR_D->get_char("funnyboy","loyalty") at Sat May  7 10:38:39 2011
+huaer:AREA_D->get_area("wuguan","leader") at Sat May  7 11:34:35 2011
+huaer:AREA_D->get_area("wuguan","meeting") at Sat May  7 11:34:45 2011
+huaer:AREA_D->get_area("wuguan","troops") at Sat May  7 11:38:55 2011
+huaer:AREA_D->get_area("tongguan","troops") at Sat May  7 11:39:07 2011
+huaer:AREA_D->get_area("tongguan","troop") at Sat May  7 11:39:11 2011
+huaer:AREA_D->get_area("wuguan","troop") at Sat May  7 11:39:17 2011
+huaer:AREA_D->set_area("wuguan","troop",()) at Sat May  7 11:39:43 2011
+huaer:AREA_D->set_area("wuguan","troop",()) at Sat May  7 11:51:23 2011
+huaer:AREA_D->set_area("wuguan","troop",([])) at Sat May  7 11:52:59 2011
+huaer:AREA_D->save_data() at Sat May  7 11:54:01 2011
+huaer:AREA_D->set_area("longxi","level",4) at Sat May  7 12:02:45 2011
+huaer:AREA_D->get_area("longxi","path") at Sat May  7 12:05:39 2011
+huaer:AREA_D->set_area("longxi","path","/sgdomain/area/cities/longxi/") at Sat May  7 12:06:23 2011
+huaer:AREA_D->get_area("longxi","path") at Sat May  7 12:06:29 2011
+huaer:OFFICER_D->set_officer(33,"num",10) at Sat May  7 14:04:19 2011
+huaer:OFFICER_D->set_officer(157,"num",10) at Sat May  7 14:06:23 2011
+huaer:OFFICER_D->save_data() at Sat May  7 14:11:35 2011
+huaer:OFFICER_D->set_officer(43,"num",20) at Sat May  7 14:12:43 2011
+huaer:OFFICER_D->set_officer(33,"num",50) at Sat May  7 14:16:37 2011
+huaer:OFFICER_D->set_officer(33,"num",20) at Sat May  7 14:17:05 2011
+huaer:OFFICER_D->set_officer(33,"num",10) at Sat May  7 14:17:19 2011
+huaer:OFFICER_D->set_officer(43,"num",10) at Sat May  7 14:18:03 2011
+huaer:OFFICER_D->save_data() at Sat May  7 14:21:13 2011
+huaer:OFFICER_D->save_data() at Sat May  7 14:21:13 2011
+huaer:do_game_command("look") at Sat May  7 15:51:57 2011
+huaer:last_time at Sat May  7 15:51:57 2011
+huaer:time() at Sun May  8 08:18:37 2011
+huaer:time() at Sun May  8 08:18:41 2011
+huaer:time() at Sun May  8 08:18:41 2011
+huaer:time() at Sun May  8 08:18:43 2011
+huaer:time() at Sun May  8 08:18:47 2011
+huaer:time() at Sun May  8 08:18:49 2011
+huaer:time() at Sun May  8 08:18:51 2011
+huaer:time() at Sun May  8 08:18:53 2011
+huaer:time() at Sun May  8 08:18:53 2011
+huaer:time() at Sun May  8 08:18:55 2011
+huaer:time() at Sun May  8 08:18:55 2011
+huaer:time() at Sun May  8 08:18:55 2011
+huaer:time() at Sun May  8 08:18:57 2011
+huaer:time() at Sun May  8 08:18:57 2011
+huaer:time() at Sun May  8 08:18:57 2011
+huaer:time() at Sun May  8 08:18:57 2011
+huaer:time() at Sun May  8 08:18:57 2011
+huaer:time() at Sun May  8 08:18:57 2011
+huaer:time() at Sun May  8 08:18:57 2011
+huaer:time() at Sun May  8 08:18:59 2011
+huaer:time() at Sun May  8 08:18:59 2011
+huaer:time() at Sun May  8 08:19:01 2011
+huaer:time() at Sun May  8 08:19:01 2011
+huaer:CHAR_D->set_char("yang guo","loyalty",80) at Sun May  8 10:23:11 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:33 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:37 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:37 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:39 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:39 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:41 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:41 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:43 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:43 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:45 2011
+huaer:CHAR_D->get_char("yang guo","loyalty") at Sun May  8 10:23:45 2011
+huaer:CHAR_D->get_char_loyalty("han sui","han sui") at Sun May  8 10:35:53 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 10:41:29 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 10:41:31 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 10:41:31 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 10:41:31 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 10:41:33 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 10:41:33 2011
+huaer:CHAR_D->get_char_loyalty("funnyboy","") at Sun May  8 10:41:41 2011
+huaer:CHAR_D->get_char_loyalty("funnyboy","") at Sun May  8 10:41:43 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 10:41:51 2011
+huaer:CHAR_D->get_char_loyalty("zhang liao","") at Sun May  8 10:41:55 2011
+huaer:CHAR_D->get_char_loyalty("zhang liao","") at Sun May  8 10:41:57 2011
+huaer:CHAR_D->get_char_loyalty("zhang liao","") at Sun May  8 10:41:57 2011
+huaer:CHAR_D->get_char_loyalty("zhang liao","") at Sun May  8 10:41:59 2011
+huaer:CHAR_D->get_char_loyalty("zhang liao","") at Sun May  8 10:41:59 2011
+huaer:CHAR_D->get_char_loyalty("zhang liao","") at Sun May  8 10:41:59 2011
+huaer:AREA_D->get_area(get_char("tian sui","area"),"nation") at Sun May  8 10:42:43 2011
+huaer:AREA_D->get_area(get_char("tiansui","area"),"nation") at Sun May  8 10:43:01 2011
+huaer:AREA_D->get_area(get_char("longxi","area"),"nation") at Sun May  8 10:43:07 2011
+huaer:AREA_D->get_area(get_char("changan","area"),"nation") at Sun May  8 10:43:15 2011
+huaer:AREA_D->get_area(get_char("han sui","area"),"nation") at Sun May  8 10:43:31 2011
+huaer:AREA_D->get_area(get_char("zhang liao","area"),"nation") at Sun May  8 10:43:45 2011
+huaer:AREA_D->get_area(get_char("zhang liao","area"),"nation") at Sun May  8 10:43:47 2011
+huaer:AREA_D->get_area(get_char("zhang liao","area"),"nation") at Sun May  8 10:43:47 2011
+huaer:get_char("zhang liao","area") at Sun May  8 10:44:03 2011
+huaer:CHAR_D->get_char("zhang liao","area") at Sun May  8 10:44:17 2011
+huaer:AREA_D->get_area(CHAR_D->get_char("zhang liao","area"),"nation") at Sun May  8 10:44:45 2011
+huaer:AREA_D->get_area(CHAR_D->get_char("han sui","area"),"nation") at Sun May  8 10:44:51 2011
+huaer:AREA_D->get_area(CHAR_D->get_char("zhang shao","area"),"nation") at Sun May  8 10:45:09 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 10:46:49 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 10:46:51 2011
+huaer:CHAR_D->get_char_loyalty("han sui","han sui") at Sun May  8 10:46:55 2011
+huaer:CHAR_D->get_char_loyalty("han sui","han sui") at Sun May  8 10:46:55 2011
+huaer:CHAR_D->get_char_loyalty("han sui","han sui") at Sun May  8 10:46:55 2011
+huaer:AREA_D->get_area("longxi","level") at Sun May  8 10:49:45 2011
+huaer:AREA_D->get_area("longxi","meeting") at Sun May  8 10:49:53 2011
+huaer:AREA_D->set_area("longxi","meeting","lx_jiangjunfu") at Sun May  8 10:50:33 2011
+huaer:AREA_D->get_area("longxi","leader") at Sun May  8 10:50:51 2011
+huaer:AREA_D->set_area("longxi","troop", ([])) at Sun May  8 10:51:37 2011
+huaer:AREA_D->set_area("longxi","nation","han sui") at Sun May  8 11:05:59 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:06:23 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:06:25 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:06:25 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:06:25 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:06:27 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:06:27 2011
+huaer:AREA_D->set_area("tianshui","nation","han sui") at Sun May  8 11:07:35 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:07:41 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:07:43 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:07:43 2011
+huaer:CHAR_D->get_char_loyalty("han sui","") at Sun May  8 11:07:43 2011
+huaer:CHAR_D->get_char_loyalty("yang guo","") at Sun May  8 11:09:19 2011
+huaer:CHAR_D->set_char_loyalty("yang guo","",80) at Sun May  8 11:09:49 2011
+huaer:CHAR_D->get_char_loyalty("yang guo","") at Sun May  8 11:09:53 2011
+huaer:AREA_D->save_data() at Sun May  8 11:15:47 2011
+huaer:CHAR_D->save_data() at Sun May  8 11:15:59 2011
+huaer:OBJ_D->check_obj("type","food") at Sun May  8 13:33:07 2011
+huaer:NPCAI_D->create() at Sun May  8 14:03:05 2011
+huaer:(/daemons/npcai_d)->create() at Sun May  8 14:05:57 2011
+huaer:("/daemons/npcai_d.c")->create() at Sun May  8 14:06:07 2011
+huaer:("/daemons/npcai_d.c")->create() at Sun May  8 14:08:17 2011
+huaer:CHAR_D->set_char("zhang fei","area","changan") at Sun May  8 14:26:29 2011
+huaer:this_object() at Sun May  8 15:42:16 2011
+huaer:OBJ_D->clone_obj((NAME)->get_dress(typ)) at Sun May  8 15:42:44 2011
+huaer:__DIR__ at Sun May  8 15:44:10 2011
+huaer:(/daemons/warai_d/types.c)->create(); at Sun May  8 16:50:40 2011
+huaer:("/daemons/warai_d/types.c")->create(); at Sun May  8 16:51:14 2011
+huaer:AREA_D->get_area("changan","") at Sun May  8 17:03:10 2011
+huaer:("/daemons/warai_d/types.c")->create() at Sun May  8 17:08:12 2011
+huaer:AREA_D->get_area("changan","") at Sun May  8 17:11:00 2011
+huaer:(AREA_D->get_area(a_id,""))["troop"] at Sun May  8 17:12:02 2011
+huaer:AREA_D->get_area(a_id,""))["troop"] at Sun May  8 17:12:12 2011
+huaer:AREA_D->get_area(a_id,"")["troop"] at Sun May  8 17:12:18 2011
+huaer:(AREA_D->get_area(a_id,""))["troop"] at Sun May  8 17:12:34 2011
+huaer:(AREA_D->get_area("changan",""))["troop"] at Sun May  8 17:12:44 2011
+huaer:NEWS_D->remove_post("city.changan",8) at Sun May  8 17:32:52 2011
+huaer:sort_array(filter_array(NEWS_D->get_messages(ngroup),(: filter_removed :)), 1) at Sun May  8 17:34:18 2011
+huaer:sort_array(filter_array(NEWS_D->get_messages("city.changan"),(: filter_removed :)), 1) at Sun May  8 17:35:08 2011
+huaer:NEWS_D->remove_post("city.changan",10007) at Sun May  8 17:37:30 2011
+huaer:AREA_D->get_area("changan","") at Sun May  8 17:45:46 2011
+huaer:(AREA_D->get_area("changan",""))["troop"] at Sun May  8 17:46:44 2011
+huaer:keys((AREA_D->get_area("changan",""))["troop"]) at Sun May  8 17:47:18 2011
+huaer:WARAI_D->query_type("footman","name") at Sun May  8 17:48:40 2011
+huaer:WARAI_D->query_type("footman","name") at Sun May  8 17:49:04 2011
+huaer:(/daemons/warai_d/types.c)->create() at Sun May  8 18:01:40 2011
+huaer:("/daemons/warai_d/types.c")->create() at Sun May  8 18:01:50 2011
+huaer:WARAI_D->query_type("footman","name") at Sun May  8 18:02:00 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:07:34 2011
+huaer:("/daemons/warai_d/types.c")->create() at Sun May  8 18:08:08 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:08:10 2011
+huaer:("/daemons/warai_d/types.c")->create() at Sun May  8 18:10:08 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:10:10 2011
+huaer:WARAI_D->create() at Sun May  8 18:11:12 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:11:16 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:11:42 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:12:33 2011
+huaer:("/daemons/warai_d/types.c")->create() at Sun May  8 18:16:13 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:16:17 2011
+huaer:("/daemons/warai_d/types.c")->set_type("footman","name","新兵队") at Sun May  8 18:18:17 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:18:23 2011
+huaer:("/daemons/warai_d/types.c")->set_type("commando","name","民兵") at Sun May  8 18:20:29 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:20:33 2011
+huaer:("/daemons/warai_d/types.c")->set_type("commando","lvl",1) at Sun May  8 18:21:05 2011
+huaer:("/daemons/warai_d/types.c")->set_type("commando","type","cavalry") at Sun May  8 18:22:09 2011
+huaer:("/daemons/warai_d/types.c")->set_type("commando","forbiden",({"※"})) at Sun May  8 18:22:47 2011
+huaer:("/daemons/warai_d/types.c")->set_type("commando","cost",(["gold":1,"food":1])) at Sun May  8 18:23:35 2011
+huaer:("/daemons/warai_d/types.c")->set_type("commando","recruit",(["gold":1,"food":1])) at Sun May  8 18:24:01 2011
+huaer:("/daemons/warai_d/types.c")->set_type("footman","lvl",1) at Sun May  8 18:26:11 2011
+huaer:("/daemons/warai_d/types.c")->set_type("footman","type","footman") at Sun May  8 18:26:57 2011
+huaer:("/daemons/warai_d/types.c")->set_type("footman","forbiden",({"※"})) at Sun May  8 18:27:11 2011
+huaer:("/daemons/warai_d/types.c")->set_type("commando","cost",(["gold":0.2,"food":1])) at Sun May  8 18:27:33 2011
+huaer:("/daemons/warai_d/types.c")->set_type("commando","cost",(["gold":1,"food":1])) at Sun May  8 18:28:05 2011
+huaer:("/daemons/warai_d/types.c")->set_type("footman","cost",(["gold":0.2,"food":1])) at Sun May  8 18:28:15 2011
+huaer:("/daemons/warai_d/types.c")->set_type("footman","recruit",(["gold":0.2,])) at Sun May  8 18:29:09 2011
+huaer:("/daemons/warai_d/types.c")->query_all_type() at Sun May  8 18:29:19 2011
+huaer:AREA_D->set_area("longxi","zhou","凉州") at Sun May  8 20:26:13 2011
+huaer:AREA_D->save_data() at Sun May  8 20:26:25 2011
+huaer:AREA_D->set_area("changan","zhou","雍州") at Sun May  8 20:33:51 2011
+huaer:CHAR_D->check_char_area("nation","dong zhuo","changan") at Sun May  8 20:42:45 2011
+huaer:CHAR_D->check_char_area("nation","han sui","changan") at Sun May  8 20:43:41 2011
+huaer:CHAR_D->check_char_area("nation","han sui","longxi") at Sun May  8 20:43:49 2011
+huaer:AREA_D->get_area("tianshui","fly") at Sun May  8 22:59:41 2011
+huaer:AREA_D->get_area("tianshui","meeting") at Sun May  8 22:59:45 2011
+huaer:AREA_D->set_area("tianshui","meeting","ts_yishiting") at Sun May  8 23:01:09 2011
+huaer:AREA_D->get_area("tianshui","leader") at Sun May  8 23:01:27 2011
+huaer:AREA_D->get_area("tianshui","level") at Sun May  8 23:01:35 2011
+huaer:AREA_D->get_area("tianshui","troop") at Sun May  8 23:01:47 2011
+huaer:AREA_D->set_area("tianshui","troop",([])) at Sun May  8 23:01:59 2011
+huaer:AREA_D->get_area("tianshui","troop") at Sun May  8 23:02:03 2011
+huaer:AREA_D->get_area("tianshui","nation") at Sun May  8 23:02:15 2011
+huaer:AREA_D->get_area("tianshui","zhou") at Sun May  8 23:02:23 2011
+huaer:AREA_D->set_area("tianshui","zhou","凉州") at Sun May  8 23:02:45 2011
+huaer:AREA_D->save_data() at Sun May  8 23:13:47 2011
+huaer:CHAR_D->save_data() at Sun May  8 23:13:53 2011
+huaer:OFFICER_D->set(132,"num",20) at Mon May  9 08:49:36 2011
+huaer:OFFICER_D->set_officer(132,"num",20) at Mon May  9 08:50:34 2011
+huaer:OFFICER_D->set_officer(21,"num",20) at Mon May  9 08:53:04 2011
+huaer:OFFICER_D->set_officer(22,"num",20) at Mon May  9 08:53:12 2011
+huaer:AREA_D->get_area("jiangling","level") at Mon May  9 08:59:40 2011
+huaer:AREA_D->set_area("jiangling","level",4) at Mon May  9 08:59:54 2011
+huaer:AREA_D->get_area("jiangling","level") at Mon May  9 09:00:08 2011
+huaer:AREA_D->get_area("jiangling","path") at Mon May  9 09:08:12 2011
+huaer:AREA_D->set_area("jiangling","path","/sgdomain/area/cities/jiangling/") at Mon May  9 09:08:38 2011
+huaer:AREA_D->get_area("jiangling","temp") at Mon May  9 09:09:14 2011
+huaer:AREA_D->get_area("jiangling","fly") at Mon May  9 09:09:20 2011
+huaer:AREA_D->get_area("jiangling","meeting") at Mon May  9 09:09:24 2011
+huaer:AREA_D->get_area("jiangling","leader") at Mon May  9 15:54:22 2011
+huaer:AREA_D->get_area("jiangling","level") at Mon May  9 15:54:32 2011
+huaer:AREA_D->get_area("jiangling","meeting") at Mon May  9 15:54:48 2011
+huaer:AREA_D->get_area("jiangling","path") at Mon May  9 15:54:54 2011
+huaer:AREA_D->set_area("jiangling","meeting","jl_shuaizhang") at Mon May  9 15:55:40 2011
+huaer:AREA_D->set_area("jiangling","troop",([])) at Mon May  9 15:56:00 2011
+huaer:AREA_D->set_area("jiangling","nation","liu bei") at Mon May  9 15:58:08 2011
+huaer:AREA_D->set_area("jiangling","zhou","南荆州") at Mon May  9 15:58:58 2011
+huaer:AREA_D->get_area("changan","") at Mon May  9 18:04:30 2011
+huaer:AREA_D->get_area("changan","troop") at Mon May  9 21:09:30 2011
+huaer:OFFICER_D->query_area_officer_title(AREA_D->get_area(p_id,"level"),0,0) at Mon May  9 21:54:30 2011
+huaer:OFFICER_D->query_area_officer_title(AREA_D->get_area("changan","level"),0,0) at Mon May  9 21:54:44 2011
+huaer:OFFICER_D->query_area_officer_title(AREA_D->get_area("taiyuan","level"),0,0) at Mon May  9 21:54:58 2011
+huaer:MAP_D->add_city("changan") at Mon May  9 23:24:06 2011
+huaer:tell_user("funnyboy","test") at Tue May 10 09:33:37 2011
+huaer:find_body("funnyboy") at Tue May 10 10:11:35 2011
+huaer:.funnyboy->resign_job("fanpeople") at Tue May 10 10:20:39 2011
+huaer:.funnyboy->resign_job("fanpeople") at Tue May 10 10:24:55 2011
+huaer:.funnyboy->resign_job("fanpeople") at Tue May 10 10:57:41 2011
+huaer:.funnyboy->resign_job("fanpeople") at Tue May 10 11:00:33 2011
+huaer:"/sgdomain/event/ev_guy"->create_guy("jiangling",typi) at Tue May 10 11:00:33 2011
+huaer:"/sgdomain/event/ev_guy"->create_guy("jiangling","guy") at Tue May 10 11:00:33 2011
+huaer:"/sgdomain/event/ev_guy"->create_guy("jiangling","guy") at Tue May 10 11:00:33 2011
+huaer:.funnyboy->resign_job("fanpeople") at Tue May 10 11:00:33 2011
+huaer:.funnyboy->resign_job("fanpeople") at Tue May 10 11:00:33 2011
+huaer:time() at Tue May 10 11:00:33 2011
+huaer:time() at Tue May 10 11:00:33 2011
+huaer:time at Tue May 10 11:00:33 2011
+huaer:time() at Tue May 10 11:00:33 2011
+huaer:time at Tue May 10 12:33:14 2011
+huaer:time() at Tue May 10 12:33:18 2011
+huaer:AREA_D->set_area("dingtao","open",0) at Tue May 10 16:04:29 2011
+huaer:AREA_D->get_area("dingtao","open") at Tue May 10 16:04:37 2011
+huaer:AREA_D->set_area("dingtao","open",1) at Tue May 10 16:04:45 2011
+huaer:AREA_D->get_area("dingtao","open") at Tue May 10 16:04:51 2011
+huaer:AREA_D->get_area("dingtao","open") at Tue May 10 16:21:35 2011
+huaer:AREA_D->get_area("changan","open") at Tue May 10 16:24:25 2011
+huaer:AREA_D->get_area("dingtao","open") at Tue May 10 16:55:27 2011
+huaer:AREA_D->get_area("changan","open") at Tue May 10 16:55:33 2011
+huaer:AREA_D->save_data() at Tue May 10 17:53:33 2011
+huaer:CHAR_D->set_char("funnyboy","gold",500 at Tue May 10 18:00:37 2011
+huaer:CHAR_D->set_char("funnyboy","gold",500) at Tue May 10 18:00:41 2011
+huaer:AREA_D->get_area("changan","open") at Tue May 10 18:13:25 2011
+huaer:AREA_D->set_area("changan","open",1) at Tue May 10 18:13:33 2011
+huaer:AREA_D->set_area("tongguan","open",1) at Tue May 10 18:23:47 2011
+huaer:AREA_D->set_area("wuzhangyuan","open",1) at Tue May 10 18:23:59 2011
+huaer:AREA_D->set_area("tianshui","open",1) at Tue May 10 18:24:07 2011
+huaer:AREA_D->set_area("longxi","open",1) at Tue May 10 18:24:13 2011
+huaer:AREA_D->set_area("jiangling","open",1) at Tue May 10 18:24:19 2011
+huaer:AREA_D->list_areas() at Tue May 10 18:30:17 2011
+huaer:AREA_D->set_area("huayin","open",1) at Tue May 10 18:30:39 2011
+huaer:AREA_D->set_area("huayin","meeting","cunzhangjia") at Tue May 10 18:34:45 2011
+huaer:AREA_D->set_area("huayin","nation","dong zhuo") at Tue May 10 18:36:47 2011
+huaer:AREA_D->set_area("huayin","zhou","雍州") at Tue May 10 18:37:57 2011
+huaer:AREA_D->list_areas() at Tue May 10 18:58:31 2011
+huaer:AREA_D->set_area("wuguan","open",1) at Tue May 10 18:58:51 2011
+huaer:AREA_D->list_areas() at Tue May 10 18:59:03 2011
+huaer:AREA_D->set_area("huayin","open",1) at Tue May 10 18:59:15 2011
+huaer:AREA_D->list_areas() at Tue May 10 18:59:33 2011
+huaer:AREA_D->save_data() at Tue May 10 19:00:15 2011
+huaer:AREA_D->list_areas() at Tue May 10 19:00:19 2011
+huaer:AREA_D->create() at Tue May 10 19:00:49 2011
+huaer:AREA_D->list_areas() at Tue May 10 19:00:51 2011
+huaer:AREA_D->list_areas() at Tue May 10 19:05:35 2011
+huaer:AREA_D->add_neighbor("daixian","jingyang") at Tue May 10 19:40:43 2011
+huaer:AREA_D->add_neighbor("daixian","jicheng") at Tue May 10 19:41:13 2011
+huaer:AREA_D->add_neighbor("yijing","jicheng") at Tue May 10 19:41:33 2011
+huaer:AREA_D->add_neighbor("yijing","beiping") at Tue May 10 19:41:45 2011
+huaer:AREA_D->add_neighbor("yijing","nanpi") at Tue May 10 19:41:55 2011
+huaer:AREA_D->add_neighbor("beiping","bailangshan") at Tue May 10 19:42:15 2011
+huaer:AREA_D->add_neighbor("xiangping","bailangshan") at Tue May 10 19:42:31 2011
+huaer:AREA_D->add_neighbor("nanpi","pingyuan") at Tue May 10 19:42:53 2011
+huaer:AREA_D->add_neighbor("nanpi","bohai") at Tue May 10 19:43:07 2011
+huaer:AREA_D->add_neighbor("pingyuan","qinghe") at Tue May 10 19:43:37 2011
+huaer:AREA_D->add_neighbor("pingyuan","jinan") at Tue May 10 19:43:57 2011
+huaer:AREA_D->add_neighbor("pingyuan","jieqiao") at Tue May 10 19:44:09 2011
+huaer:AREA_D->add_neighbor("ye","jieqiao") at Tue May 10 19:44:17 2011
+huaer:AREA_D->add_neighbor("baima","jieqiao") at Tue May 10 19:44:29 2011
+huaer:AREA_D->add_neighbor("jinan","bohai") at Tue May 10 19:45:01 2011
+huaer:AREA_D->add_neighbor("nanpi","bohai") at Tue May 10 19:47:51 2011
+huaer:AREA_D->add_neighbor("beihai","bohai") at Tue May 10 19:48:09 2011
+huaer:AREA_D->add_neighbor("beihai","langya") at Tue May 10 19:48:27 2011
+huaer:AREA_D->add_neighbor("beihai","xiapi") at Tue May 10 19:49:09 2011
+huaer:AREA_D->add_neighbor("ye","huguan") at Tue May 10 20:25:29 2011
+huaer:AREA_D->add_neighbor("ye","jieqiao") at Tue May 10 20:25:41 2011
+huaer:AREA_D->add_neighbor("ye","baima") at Tue May 10 20:26:03 2011
+huaer:AREA_D->add_neighbor("ye","guandu") at Tue May 10 20:26:09 2011
+huaer:AREA_D->add_neighbor("chenliu","guandu") at Tue May 10 20:26:25 2011
+huaer:AREA_D->add_neighbor("chenliu","dingtao") at Tue May 10 20:26:31 2011
+huaer:AREA_D->add_neighbor("poyang","dingtao") at Tue May 10 20:26:55 2011
+huaer:AREA_D->add_neighbor("xuzhou","dingtao") at Tue May 10 20:27:09 2011
+huaer:AREA_D->add_neighbor("qiao","dingtao") at Tue May 10 20:27:23 2011
+huaer:AREA_D->add_neighbor("poyang","baima") at Tue May 10 20:27:45 2011
+huaer:AREA_D->add_neighbor("ye","baima") at Tue May 10 20:27:55 2011
+huaer:AREA_D->add_neighbor("jieqiao","baima") at Tue May 10 20:28:09 2011
+huaer:AREA_D->add_neighbor("poyang","baima") at Tue May 10 20:28:17 2011
+huaer:AREA_D->add_neighbor("xuchang","hulaoguan") at Tue May 10 20:38:03 2011
+huaer:AREA_D->add_neighbor("xuchang","guandu") at Tue May 10 20:47:47 2011
+huaer:AREA_D->add_neighbor("xuchang","qiao") at Tue May 10 20:48:17 2011
+huaer:AREA_D->add_neighbor("dingtao","qiao") at Tue May 10 20:50:37 2011
+huaer:AREA_D->add_neighbor("xuzhou","qiao") at Tue May 10 20:50:47 2011
+huaer:AREA_D->add_neighbor("runan","qiao") at Tue May 10 20:51:23 2011
+huaer:AREA_D->add_neighbor("runan","wan") at Tue May 10 20:51:33 2011
+huaer:AREA_D->add_neighbor("runan","shouchun") at Tue May 10 20:51:57 2011
+huaer:AREA_D->add_neighbor("guandu","ye") at Tue May 10 20:52:17 2011
+huaer:AREA_D->add_neighbor("guandu","chenliu") at Tue May 10 20:52:25 2011
+huaer:AREA_D->add_neighbor("xuzhou","dingtao") at Tue May 10 20:52:59 2011
+huaer:AREA_D->add_neighbor("xuzhou","xiaopei") at Tue May 10 20:53:23 2011
+huaer:AREA_D->add_neighbor("xuzhou","shouchun") at Tue May 10 20:55:09 2011
+huaer:AREA_D->add_neighbor("xiaopei","xiapi") at Tue May 10 20:55:25 2011
+huaer:AREA_D->add_neighbor("xiapi","beihai") at Tue May 10 20:56:03 2011
+huaer:AREA_D->add_neighbor("xiapi","langya") at Tue May 10 20:56:31 2011
+huaer:AREA_D->add_neighbor("xiapi","guangling") at Tue May 10 20:56:49 2011
+huaer:AREA_D->add_neighbor("xiapi","shouchun") at Tue May 10 20:57:03 2011
+huaer:AREA_D->add_neighbor("xiapi","huaiyin") at Tue May 10 20:57:09 2011
+huaer:AREA_D->add_neighbor("langya","beihai") at Tue May 10 20:57:55 2011
+huaer:AREA_D->add_neighbor("langya","xiapi") at Tue May 10 20:57:59 2011
+huaer:AREA_D->add_neighbor("taiyuan","shangdang") at Tue May 10 20:58:31 2011
+huaer:AREA_D->add_neighbor("taiyuan","yanmenguan") at Tue May 10 20:58:35 2011
+huaer:AREA_D->add_neighbor("shangdang","hanguguan") at Tue May 10 20:58:53 2011
+huaer:AREA_D->add_neighbor("yanmenguan","jingyang") at Tue May 10 20:59:09 2011
+huaer:AREA_D->add_neighbor("daixian","jingyang") at Tue May 10 20:59:15 2011
+huaer:AREA_D->add_neighbor("huguan","jingyang") at Tue May 10 20:59:23 2011
+huaer:AREA_D->add_neighbor("luoyang","mianchi") at Tue May 10 21:00:23 2011
+huaer:AREA_D->add_neighbor("luoyang","huguan") at Tue May 10 21:00:35 2011
+huaer:AREA_D->add_neighbor("luoyang","hulaoguan") at Tue May 10 21:00:41 2011
+huaer:AREA_D->add_neighbor("luoyang","wan") at Tue May 10 21:00:45 2011
+huaer:AREA_D->add_neighbor("hulaoguan","xuchang") at Tue May 10 21:01:13 2011
+huaer:AREA_D->add_neighbor("huguan","jingyang") at Tue May 10 21:01:29 2011
+huaer:AREA_D->add_neighbor("huguan","ye") at Tue May 10 21:03:09 2011
+huaer:AREA_D->add_neighbor("huguan","luoyang") at Tue May 10 21:03:25 2011
+huaer:AREA_D->add_neighbor("mianchi","hongnong") at Tue May 10 21:03:45 2011
+huaer:AREA_D->add_neighbor("hanguguan","hongnong") at Tue May 10 21:03:55 2011
+huaer:AREA_D->add_neighbor("wan","wuguan") at Tue May 10 21:04:17 2011
+huaer:AREA_D->add_neighbor("wan","runan") at Tue May 10 21:04:21 2011
+huaer:AREA_D->add_neighbor("wan","bowangpo") at Tue May 10 21:04:29 2011
+huaer:AREA_D->add_neighbor("xinye","bowangpo") at Tue May 10 21:04:37 2011
+huaer:AREA_D->get_neighbor("xianyang","") at Tue May 10 21:05:05 2011
+huaer:AREA_D->get_neighbor("xianyang") at Tue May 10 21:05:11 2011
+huaer:AREA_D->get_area("xianyang","neighbor") at Tue May 10 21:06:03 2011
+huaer:AREA_D->get_area("xiliang","didao") at Tue May 10 21:11:31 2011
+huaer:AREA_D->add_neighbor("xiliang","didao") at Tue May 10 21:12:05 2011
+huaer:AREA_D->add_neighbor("longxi","tianshui") at Tue May 10 21:12:21 2011
+huaer:AREA_D->get_area("tianshui","neighbor") at Tue May 10 21:12:47 2011
+huaer:AREA_D->add_neighbor("tianshui","didao") at Tue May 10 21:13:09 2011
+huaer:AREA_D->add_neighbor("tianshui","jieting") at Tue May 10 21:13:15 2011
+huaer:AREA_D->add_neighbor("tianshui","qinchuan") at Tue May 10 21:13:29 2011
+huaer:AREA_D->add_neighbor("tianshui","qishan") at Tue May 10 21:13:47 2011
+huaer:AREA_D->add_neighbor("didao","xiliang") at Tue May 10 21:14:01 2011
+huaer:AREA_D->add_neighbor("jieting","anding") at Tue May 10 21:14:25 2011
+huaer:AREA_D->add_neighbor("jieting","tianshui") at Tue May 10 21:14:31 2011
+huaer:AREA_D->add_neighbor("anding","xianyang") at Tue May 10 21:14:49 2011
+huaer:AREA_D->add_neighbor("anding","changan") at Tue May 10 21:14:55 2011
+huaer:AREA_D->add_neighbor("anding","jingyang") at Tue May 10 21:14:59 2011
+huaer:AREA_D->add_neighbor("anding","qinchuan") at Tue May 10 21:15:05 2011
+huaer:AREA_D->add_neighbor("chencang","qinchuan") at Tue May 10 21:15:19 2011
+huaer:AREA_D->add_neighbor("chencang","xianyang") at Tue May 10 21:15:39 2011
+huaer:AREA_D->add_neighbor("chencang","qingchuan") at Tue May 10 21:15:49 2011
+huaer:AREA_D->add_neighbor("chencang","qinchuan") at Tue May 10 21:18:39 2011
+huaer:AREA_D->add_neighbor("hanzhong","xiabian") at Tue May 10 21:53:19 2011
+huaer:AREA_D->add_neighbor("hanzhong","wuzhangyuan") at Tue May 10 21:53:29 2011
+huaer:AREA_D->add_neighbor("hanzhong","yangpingguan") at Tue May 10 21:53:37 2011
+huaer:AREA_D->add_neighbor("hanzhong","shangyong") at Tue May 10 21:53:47 2011
+huaer:AREA_D->add_neighbor("qishan","tianshui") at Tue May 10 21:54:15 2011
+huaer:AREA_D->add_neighbor("qishan","xiabian") at Tue May 10 21:54:21 2011
+huaer:AREA_D->add_neighbor("wuzhangyuan","xiabian") at Tue May 10 21:58:29 2011
+huaer:AREA_D->add_neighbor("hanzhong","xiabian") at Tue May 10 21:58:37 2011
+huaer:AREA_D->add_neighbor("dingjunshan","xiabian") at Tue May 10 21:58:45 2011
+huaer:AREA_D->add_neighbor("dingjunshan","yangpingguan") at Tue May 10 21:58:57 2011
+huaer:AREA_D->add_neighbor("dingjunshan","jiange") at Tue May 10 21:59:49 2011
+huaer:AREA_D->add_neighbor("dingjunshan","zitong") at Tue May 10 22:05:17 2011
+huaer:AREA_D->add_neighbor("fucheng","zitong") at Tue May 10 22:05:37 2011
+huaer:AREA_D->add_neighbor("fucheng","mianzuguan") at Tue May 10 22:05:51 2011
+huaer:AREA_D->add_neighbor("fucheng","mianzhuguan") at Tue May 10 22:05:57 2011
+huaer:AREA_D->add_neighbor("chengdu","mianzhuguan") at Tue May 10 22:06:19 2011
+huaer:AREA_D->add_neighbor("chengdu","jiangzhou") at Tue May 10 22:07:11 2011
+huaer:AREA_D->add_neighbor("chengdu","jianning") at Tue May 10 22:07:19 2011
+huaer:AREA_D->add_neighbor("mianzhuguan","fucheng") at Tue May 10 22:07:35 2011
+huaer:AREA_D->add_neighbor("jiangzhou","yongan") at Tue May 10 22:07:51 2011
+huaer:AREA_D->add_neighbor("shangyong","yongan") at Tue May 10 22:08:19 2011
+huaer:AREA_D->add_neighbor("yiling","yongan") at Tue May 10 22:08:27 2011
+huaer:AREA_D->add_neighbor("jianning","yunnan") at Tue May 10 22:08:47 2011
+huaer:AREA_D->add_neighbor("xiangyang","changbanpo") at Tue May 10 22:30:57 2011
+huaer:AREA_D->add_neighbor("shangyong","hanzhong") at Tue May 10 22:31:13 2011
+huaer:AREA_D->add_neighbor("shangyong","yongan") at Tue May 10 22:31:23 2011
+huaer:AREA_D->add_neighbor("shangyong","xinye") at Tue May 10 22:31:29 2011
+huaer:AREA_D->add_neighbor("shangyong","chanxi") at Tue May 10 22:31:35 2011
+huaer:AREA_D->add_neighbor("xinye","bowangpo") at Tue May 10 22:31:53 2011
+huaer:AREA_D->add_neighbor("xinye","chanxi") at Tue May 10 22:32:07 2011
+huaer:AREA_D->add_neighbor("changbanpo","jiangling") at Tue May 10 22:33:09 2011
+huaer:AREA_D->add_neighbor("changbanpo","jiangxia") at Tue May 10 22:33:25 2011
+huaer:AREA_D->add_neighbor("chibi","jiangxia") at Tue May 10 22:33:35 2011
+huaer:AREA_D->add_neighbor("xisaishan","jiangxia") at Tue May 10 22:33:41 2011
+huaer:AREA_D->add_neighbor("chibi","huarong") at Tue May 10 22:33:57 2011
+huaer:AREA_D->add_neighbor("chibi","changsha") at Tue May 10 22:34:07 2011
+huaer:AREA_D->add_neighbor("chibi","chaisang") at Tue May 10 22:34:11 2011
+huaer:AREA_D->add_neighbor("jiangling","yiling") at Tue May 10 22:34:29 2011
+huaer:AREA_D->add_neighbor("jiangling","gongan") at Tue May 10 22:34:41 2011
+huaer:CHAR_D->set_char("chen zhen","is_maker",1) at Wed May 11 09:12:15 2011
+huaer:CHAR_D->set_char("chen zhen","goods":({"test",}) at Wed May 11 09:12:37 2011
+huaer:CHAR_D->set_char("chen zhen","goods",({"test",}) at Wed May 11 09:12:55 2011
+huaer:CHAR_D->set_char("chen zhen","goods",({"test",})) at Wed May 11 09:13:17 2011
+huaer:CHAR_D->check_char("is_maker",1) at Wed May 11 10:39:35 2011
+huaer:CHAR_D->set_char("chen zhen","is_maker",0) at Wed May 11 10:40:09 2011
+huaer:CHAR_D->check_char("is_maker",1) at Wed May 11 10:40:17 2011
+huaer:this_body()->query_room() at Wed May 11 12:16:27 2011
+huaer:"/sgdomain/area/cities/jiangling/jl_shuaizhang"->get_area() at Wed May 11 12:17:15 2011
+huaer:"/sgdomain/area/cities/jiangling/jl_shuaizhang"->short() at Wed May 11 12:18:21 2011
+huaer:AREA_D->get_area("changan","path") at Wed May 11 13:42:05 2011
+huaer:.henhao->resign_job("bugao") at Wed May 11 13:54:47 2011
+huaer:.henhao->resign_job() at Wed May 11 14:01:15 2011
+huaer:.henhao->resign_job("bugao") at Wed May 11 14:01:29 2011
+huaer:CHAR_D->get_char("liu bei","area") at Wed May 11 14:46:03 2011
+huaer:CHAR_D->get_char("cao chun","area") at Wed May 11 15:00:01 2011
+huaer:CHAR_D->get_char("cao pi","area") at Wed May 11 15:00:01 2011
+huaer:time() at Wed May 11 15:20:42 2011
+huaer:time() at Wed May 11 15:20:44 2011
+huaer:CHAR_D->get_char("cai yong","area") at Wed May 11 15:25:48 2011
+huaer:AREA_D->list_areas_all() at Wed May 11 15:40:46 2011
+huaer:AREA_D->list_areas_all() at Wed May 11 15:40:48 2011
+huaer:AREA_D->list_areas_all() at Wed May 11 15:41:08 2011
+huaer:AREA_D->list_areas() at Wed May 11 15:41:16 2011
+huaer:AREA_D->list_areas_all() at Wed May 11 15:46:36 2011
+huaer:.funnyboy at Wed May 11 15:59:36 2011
+huaer:.funnyboy->resign_job("searchwise") at Wed May 11 15:59:50 2011
+huaer:CHAR_D->set_char("henhao","gold",1000) at Wed May 11 22:55:08 2011
+huaer:AREA_D->get_area("jiangling","gold") at Wed May 11 22:56:58 2011
+huaer:AREA_D->set_area("jiangling","gold",1000) at Wed May 11 22:57:04 2011
+huaer:AREA_D->set_area("changan","gold",1000) at Thu May 12 14:55:12 2011
+huaer:TASK_D->get_task(34,"def_area") at Thu May 12 16:50:17 2011
+huaer:TASK_D->get_task(34,"area") at Thu May 12 16:50:25 2011
+huaer:TASK_D->get_task(34,"att_id") at Thu May 12 16:50:57 2011
+huaer:TASK_D->get_task(34,"att_name") at Thu May 12 16:51:13 2011
+huaer:TASK_D->get_task(34,"def_party") at Thu May 12 16:51:39 2011
+huaer:AREA_D->get_area("changan","ssoldiers") at Thu May 12 18:49:45 2011
+huaer:CHAR_D->set_char("funnyboy","lc",(["changan":500,"jiangling":500,])) at Sat May 14 13:57:15 2011
+huaer:TROOP_D->list_troops() at Sat May 14 15:22:21 2011
+huaer:AREA_D->set_area("changan","gold",1000) at Sat May 14 15:51:45 2011
+huaer:AREA_D->set_area("jiangling","gold",1000) at Sat May 14 17:36:00 2011
+huaer:CHAR_D->set_char("funnyboy","lc",(["changan":500,"jiangling":500,"tianshui":500,]) at Sat May 14 19:32:38 2011
+huaer:CHAR_D->set_char("funnyboy","lc",(["changan":500,"jiangling":500,"tianshui":500,])) at Sat May 14 19:32:54 2011
+huaer:TASK_D->get_task(53, "def_troop_left") at Sat May 14 19:47:34 2011
+huaer:TASK_D->get_task(53, "def_troop_left") at Sat May 14 19:47:38 2011
+huaer:AREA_D->get_area("changan", "troop") at Sat May 14 19:49:54 2011
+huaer:AREA_D->get_area("tianshui", "troop") at Sat May 14 19:50:24 2011
+huaer:TASK_D->get_task(53, ""msg_total_def_soldiers") at Sat May 14 19:50:58 2011
+huaer:TASK_D->get_task(53,"msg_total_def_soldiers") at Sat May 14 19:51:06 2011
+huaer:TASK_D->get_task(59,"troop") at Sat May 14 21:45:42 2011
+huaer:TASK_D->get_task(59,"troop") at Sat May 14 21:45:50 2011
+huaer:TASK_D->query_tasks() at Sat May 14 21:52:24 2011
+huaer:AREA_D->get_area("tianshui","path") at Sat May 14 22:35:32 2011
+huaer:AREA_D->set_area("tianshui","path","/a/tianshui/") at Sat May 14 22:36:24 2011
+huaer:AREA_D->get_area("tianshui","path") at Sat May 14 22:36:30 2011
+huaer:AREA_D->set_area("changan","gold",1000) at Sun May 15 09:52:50 2011
+huaer:AREA_D->set_area("jiangling","gold",1000) at Sun May 15 09:52:58 2011
+huaer:AREA_D->get_area("changan","goldout") at Sun May 15 10:37:18 2011
+huaer:AREA_D->get_area("changan","goldout") at Sun May 15 10:38:42 2011
+huaer:AREA_D->get_area("changan","goldout") at Sun May 15 10:38:42 2011
+huaer:AREA_D->get_area("changan","goldout") at Sun May 15 10:46:16 2011
+huaer:AREA_D->get_area("tianshui","") at Sun May 15 13:28:28 2011
+huaer:AREA_D->get_area("tianshui","safe",99) at Sun May 15 13:29:06 2011
+huaer:AREA_D->get_area("tianshui","safe",99) at Sun May 15 13:29:30 2011
+huaer:AREA_D->set_area("tianshui","safe",99) at Sun May 15 13:29:38 2011
+huaer:AREA_D->set_area("tianshui","gold",1000) at Sun May 15 13:30:56 2011
+huaer:AREA_D->get_area("changan","path") at Sun May 15 17:27:12 2011
+huaer:AREA_D->set_area("changan","path","/a/changan/") at Sun May 15 17:27:48 2011
+huaer:AREA_D->set_area("changan","gold",1000) at Mon May 16 10:09:52 2011
+huaer:AREA_D->set_area("changan","gold",10000) at Mon May 16 10:14:42 2011
+huaer:JOB_D->get_job("suggest","") at Mon May 16 10:31:02 2011
+huaer:JOB_D->query_job() at Mon May 16 10:34:02 2011
+huaer:JOB_D->create() at Mon May 16 10:39:26 2011
+huaer:JOB_D->query_job() at Mon May 16 10:39:36 2011
+huaer:JOB_D->query_job() at Mon May 16 10:39:50 2011
+huaer:CHAR_D->find_char("funnyboy") at Mon May 16 10:44:02 2011
+huaer:(CHAR_D->find_char("funnyboy"))->query_job("suggest","count_lasttimes") at Mon May 16 10:44:50 2011
+huaer:(CHAR_D->find_char("funnyboy"))->query_job("suggest","count_lasttimes") at Mon May 16 10:46:16 2011
+huaer:(CHAR_D->find_char("funnyboy"))->query_job("suggest","count_lasttimes") at Mon May 16 10:46:16 2011
+huaer:JOB_D->query_job("suggest","count_lasttimes") at Mon May 16 10:47:22 2011
+huaer:JOB_D->set_job("suggest","count_lasttimes",10) at Mon May 16 10:53:44 2011
+huaer:AREA_D->get_area("changan","goods") at Mon May 16 10:56:48 2011
+huaer:AREA_D->get_area("changan") at Mon May 16 10:56:56 2011
+huaer:AREA_D->get_area("changan","") at Mon May 16 10:56:58 2011
+huaer:AREA_D->get_area("changan","stuff",10000) at Mon May 16 10:57:46 2011
+huaer:AREA_D->set_area("changan","stuff",10000) at Mon May 16 10:57:52 2011
+huaer:AREA_D->get_area("changan","food") at Mon May 16 11:00:30 2011
+huaer:AREA_D->get_area("changan","") at Mon May 16 11:00:42 2011
+huaer:AREA_D->set_area("changan","food",10000) at Mon May 16 11:01:46 2011
+huaer:AREA_D->set_area("changan","food",100000) at Mon May 16 11:04:32 2011
+huaer:AREA_D->set_area("wuzhangyuan","nation","cao cao") at Mon May 16 18:48:14 2011
+huaer:AREA_D->get_area("wuzhangyuan","path") at Mon May 16 19:13:06 2011
+huaer:AREA_D->set_area("wuzhangyuan","path","/a/wuzhangyuan/") at Mon May 16 19:13:34 2011
+huaer:CHAR_D->get_char("funnyboy","lc") at Mon May 16 19:40:40 2011
+huaer:CHAR_D->set_char("funnyboy","lc",(["changan":505,"tianshui":599,"jiangling":500,"wuzhangyuan":500,])) at Mon May 16 19:42:10 2011
+huaer:CHAR_D->get_char("funnyboy","lc") at Tue May 17 13:47:04 2011
+huaer:CHAR_D->set_char("funnyboy","lc",(["changan":505,"jiangling":500,"wuzhangyuan":50000,"tianshui":599,])) at Tue May 17 13:48:20 2011
+huaer:CHAR_D->set_area("funnyboy","gold",100000) at Tue May 17 13:53:22 2011
+huaer:CHAR_D->set_char("funnyboy","gold",100000) at Tue May 17 13:53:32 2011
+huaer:time() at Tue May 17 15:33:56 2011
+huaer:time() at Tue May 17 15:33:58 2011
+huaer:time() at Tue May 17 15:34:00 2011
+huaer:time() at Tue May 17 15:34:02 2011
+huaer:time() at Tue May 17 15:34:04 2011
+huaer:time() at Tue May 17 15:34:04 2011
+huaer:time() at Tue May 17 15:34:04 2011
+huaer:time() at Tue May 17 15:34:04 2011
+huaer:time() at Tue May 17 15:34:04 2011
+huaer:time() at Tue May 17 15:34:04 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:06 2011
+huaer:time() at Tue May 17 15:34:08 2011
+huaer:time() at Tue May 17 15:34:08 2011
+huaer:time() at Tue May 17 15:34:08 2011
+huaer:time() at Tue May 17 15:34:08 2011
+huaer:time() at Tue May 17 15:34:08 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:10 2011
+huaer:time() at Tue May 17 15:34:12 2011
+huaer:time() at Tue May 17 15:34:12 2011
+huaer:time() at Tue May 17 15:34:12 2011
+huaer:time() at Tue May 17 15:34:12 2011
+huaer:time() at Tue May 17 15:34:12 2011
+huaer:time() at Tue May 17 15:34:12 2011
+huaer:time() at Tue May 17 15:34:12 2011
+huaer:time() at Tue May 17 15:34:12 2011
+huaer:time() at Tue May 17 15:34:12 2011
+huaer:time() at Tue May 17 15:34:14 2011
+huaer:time() at Tue May 17 15:34:14 2011
+huaer:time() at Tue May 17 15:34:14 2011
+huaer:time() at Tue May 17 15:34:14 2011
+huaer:time() at Tue May 17 15:34:14 2011
+huaer:time() at Tue May 17 15:34:14 2011
+huaer:time() at Tue May 17 15:40:16 2011
+huaer:time() at Tue May 17 15:40:18 2011
+huaer:time() at Tue May 17 15:40:18 2011
+huaer:time() at Tue May 17 15:40:20 2011
+huaer:AREA_D->set_area("wuzhangyuan","gold",100000) at Tue May 17 15:53:56 2011
+huaer:AREA_D->get_area("wuzhangyuan","safe") at Tue May 17 15:54:36 2011
+huaer:AREA_D->set_area("wuzhangyuan","safe",100) at Tue May 17 15:54:50 2011
+huaer:AREA_D->set_area("wuzhangyuan","safe",200) at Tue May 17 15:55:12 2011
+huaer:find_object() at Tue May 17 17:16:28 2011
+huaer:find_body() at Tue May 17 17:16:36 2011
+huaer:ping at Wed May 18 10:52:35 2011
+huaer:time at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:this_body() at Wed May 18 14:38:21 2011
+huaer:find_body("funnyboy") at Wed May 18 14:38:21 2011
+huaer:find_body("funnyboy") at Wed May 18 14:38:21 2011
+huaer:find_body("funnyboy") at Wed May 18 14:38:21 2011
+huaer:find_body("funnyboy") at Wed May 18 14:38:21 2011
+huaer:find_body("funnyboy") at Wed May 18 14:38:21 2011
+huaer:find_body("henhao") at Wed May 18 14:38:21 2011
+huaer:find_body("henhao") at Wed May 18 14:38:21 2011
+huaer:find_body("henhao") at Wed May 18 14:38:21 2011
+huaer:find_body("henhao") at Wed May 18 14:38:21 2011
+huaer:find_body("henhao") at Wed May 18 14:38:21 2011
+huaer:find_body("huaer") at Wed May 18 14:38:21 2011
+huaer:find_body("huaer") at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 14:38:21 2011
+huaer:time() at Wed May 18 20:45:51 2011
+huaer:time() at Wed May 18 20:45:53 2011
+huaer:time() at Wed May 18 21:42:51 2011
+huaer:time() at Wed May 18 21:42:53 2011
+huaer:time() at Wed May 18 21:44:27 2011
+huaer:CHAR_D->get_char("funnyboy","gold") at Wed May 18 21:58:37 2011
+huaer:CHAR_D->set_char("funnyboy","gold",500) at Wed May 18 21:58:53 2011
+huaer:CHAR_D->set_char("funnyboy","gold",50) at Wed May 18 21:58:59 2011
+loveyou:AREA_D->get_area("taiyuan","path") at Thu May 26 20:28:20 2011
+loveyou:AREA_D->set_area("taiyuan","path","/a/taiyuan/") at Thu May 26 20:28:52 2011
+loveyou:AREA_D->get_area("taiyuan","fly") at Thu May 26 20:29:06 2011
+loveyou:AREA_D->get_area("taiyuan","go") at Thu May 26 20:29:10 2011
+loveyou:AREA_D->set_area("taiyuan","go","tmp") at Thu May 26 20:29:24 2011
+loveyou:AREA_D->get_area("taiyuan","meeting") at Thu May 26 20:54:24 2011
+loveyou:AREA_D->set_area("taiyuan","meeting","ty_zhushuaiyingzhang") at Thu May 26 20:54:24 2011
+loveyou:AREA_D->get_area("taiyuan","go") at Thu May 26 20:54:24 2011
+loveyou:AREA_D->get_area("taiyuan","open") at Thu May 26 20:54:24 2011
+loveyou:AREA_D->get_area("taiyuan","nation") at Thu May 26 20:54:24 2011
+loveyou:AREA_D->set_area("taiyuan","nation","he jin") at Thu May 26 20:54:24 2011
+loveyou:AREA_D->set_area("taiyuan","nation","he jin") at Thu May 26 20:54:24 2011
+huaer:AREA_D->get_area("taiyuan","meeting") at Thu May 26 21:25:44 2011
+huaer:AREA_D->get_area("taiyuan","nation") at Thu May 26 21:25:48 2011
+huaer:AREA_D->get_area("taiyuan","path") at Thu May 26 21:25:54 2011
+huaer:AREA_D->set_area("taiyuan","nation","he jin") at Thu May 26 21:26:08 2011
+huaer:AREA_D->set_area("taiyuan","meeting","ty_zhushuaiyingzhang") at Thu May 26 21:26:36 2011
+huaer:AREA_D->set_area("taiyuan","go","tmp") at Thu May 26 21:26:50 2011
+huaer:AREA_D->get_area("taiyuan","fly") at Thu May 26 21:27:00 2011
+huaer:AREA_D->get_area("taiyuan","go") at Thu May 26 21:27:04 2011
+huaer:AREA_D->save_data() at Thu May 26 21:28:38 2011
+huaer:AREA_D->set_area("taiyuan","open",1) at Thu May 26 21:39:16 2011
+huaer:AREA_D->create() at Thu May 26 21:40:42 2011
+huaer:AREA_D->list_areas() at Thu May 26 21:41:14 2011
+huaer:AREA_D->get_area("jiangling","path") at Thu May 26 21:44:10 2011
+huaer:AREA_D->set_area("jiangling","path","/a/jiangling/") at Thu May 26 21:44:28 2011
+huaer:AREA_D->get_area("jiangling","meeting") at Thu May 26 21:52:38 2011
+huaer:AREA_D->get_area("jiangling","fly") at Thu May 26 21:52:46 2011
+huaer:AREA_D->get_area("jiangling","go") at Thu May 26 21:52:50 2011
+huaer:AREA_D->list_areas() at Thu May 26 22:22:04 2011
+huaer:AREA_D->get_area("wuguan","path") at Thu May 26 22:26:06 2011
+huaer:AREA_D->set_area("wuguan","path","/a/wuguan/") at Thu May 26 22:26:36 2011
+huaer:AREA_D->list_areas() at Thu May 26 22:40:04 2011
+huaer:AREA_D->set_area("tongguan","path","/a/tongguan/") at Thu May 26 22:41:10 2011
+huaer:AREA_D->set_area("longxi","path","/a/longxi/") at Thu May 26 22:50:06 2011
+huaer:AREA_D->list_areas() at Thu May 26 23:14:22 2011
+huaer:AREA_D->set_area("huayin","path","/a/huayin/") at Thu May 26 23:21:02 2011
+huaer:CHAR_D->get_char("capcom","") at Fri May 27 09:24:23 2011
+huaer:CHAR_D->set_char("capcom","gold",10000) at Fri May 27 09:27:09 2011
+huaer:CHAR_D->set_char("capcom","reputation",10586) at Fri May 27 09:28:09 2011
+huaer:JOB_D->create() at Fri May 27 11:19:15 2011
+huaer:JOB_D->save_data() at Fri May 27 11:19:35 2011
+huaer:JOB_D->set_job("gethead","name","招募农夫头") at Fri May 27 11:23:21 2011
+huaer:BASE_D->create() at Fri May 27 11:25:47 2011
+huaer:BASE_D->create() at Fri May 27 11:39:27 2011
+huaer:(EV_MERCHANT)->query_goods("list") at Fri May 27 11:55:24 2011
+huaer:(EV_MERCHANT)->query_goods("list") at Fri May 27 11:55:34 2011
+huaer:BASE_D->add_stuff("food") at Fri May 27 12:04:49 2011
+huaer:CHAR_D->get_char("funnyboy","lc") at Fri May 27 12:48:20 2011
+huaer:BASE_D->add_base("farm") at Fri May 27 13:17:58 2011
+huaer:BASE_D->set_base("farm","workername","农夫") at Fri May 27 13:20:26 2011
+huaer:BASE_D->set_base("farm","roomname","农田") at Fri May 27 13:20:46 2011
+huaer:BASE_D->set_base("farm","area",({"changan",})) at Fri May 27 13:21:14 2011
+huaer:BASE_D->set_base("farm","sw",15) at Fri May 27 13:23:18 2011
+huaer:BASE_D->set_base("farm","name","农场") at Fri May 27 13:23:38 2011
+huaer:BASE_D->set_base("farm","defproduct","food") at Fri May 27 13:26:28 2011
+huaer:BASE_D->set_base("farm","ss",15) at Fri May 27 13:26:56 2011
+huaer:BASE_D->set_base("farm","sp",15) at Fri May 27 13:27:10 2011
+huaer:BASE_D->set_base("farm","pop",500) at Fri May 27 13:27:40 2011
+huaer:BASE_D->set_base("farm","si",10) at Fri May 27 13:27:56 2011
+huaer:BASE_D->set_base("farm","safe",100) at Fri May 27 13:28:06 2011
+huaer:BASE_D->set_base("farm","headname","农夫头") at Fri May 27 13:28:32 2011
+huaer:BASE_D->set_base("farm","gold",500) at Fri May 27 13:28:58 2011
+huaer:BASE_D->set_base("farm","sb",10) at Fri May 27 13:29:14 2011
+huaer:BASE_D->set_base("farm","sa",30) at Fri May 27 13:29:24 2011
+huaer:BASE_D->add_stuff("food") at Fri May 27 13:49:00 2011
+huaer:BASE_D->set_stuff("food","quantity",50) at Fri May 27 13:56:00 2011
+huaer:BASE_D->set_stuff("food","real_work",1) at Fri May 27 13:56:12 2011
+huaer:BASE_D->set_stuff("food","type",1) at Fri May 27 13:56:32 2011
+huaer:BASE_D->set_stuff("food","src",({})) at Fri May 27 13:57:02 2011
+huaer:BASE_D->set_stuff("food","work",1) at Fri May 27 13:57:18 2011
+huaer:BASE_D->set_stuff("food","base",(["farm":1,])) at Fri May 27 13:57:42 2011
+huaer:BASE_D->set_stuff("food","name","粮食") at Fri May 27 13:58:10 2011
+huaer:BASE_D->set_stuff("food","comment","无") at Fri May 27 13:58:28 2011
+huaer:BASE_D->set_stuff("food","unit","斤") at Fri May 27 13:58:48 2011
+huaer:BASE_D->get_base("farm","area") at Fri May 27 14:22:01 2011
+huaer:BASE_D->set_base("farm","area",({"changan","jiangling","huayin","tianshui","longxi",})) at Fri May 27 14:35:23 2011
+huaer:AREA_D->get_area("jiangling","safe") at Fri May 27 14:36:41 2011
+huaer:AREA_D->set_area("jiangling","safe",150) at Fri May 27 14:36:49 2011
+huaer:AREA_D->set_area("jiangling","gold",5000) at Fri May 27 14:37:21 2011
+huaer:JOB_D->set_job("gethead","name","招募农夫头") at Fri May 27 14:45:25 2011
+huaer:JOB_D->set_job("gethead","count_lasttimes",10) at Fri May 27 14:45:41 2011
+huaer:JOB_D->set_job("buildbase","name","建造基地") at Fri May 27 14:47:35 2011
+huaer:JOB_D->set_job("buildbase","count_lasttimes",5) at Fri May 27 14:47:45 2011
+huaer:JOB_D->set_job("suggest","name","建议") at Fri May 27 15:09:11 2011
+huaer:JOB_D->set_job("suggest","count_lasttimes",20) at Fri May 27 15:09:37 2011
+huaer:AREA_D->get_area("jiangling","") at Fri May 27 15:13:49 2011
+huaer:AREA_D->set_area("jiangling","base",({})) at Fri May 27 15:14:21 2011
+huaer:AREA_D->get_area("jiangling","go") at Fri May 27 15:23:23 2011
+huaer:AREA_D->set_area("jiangling","go","jl_nanchengmen") at Fri May 27 15:25:49 2011
+loveyou:AREA_D->get_area("jingyang","path") at Fri May 27 18:40:51 2011
+loveyou:AREA_D->set_area("jingyang","path","/a/jingyang/") at Fri May 27 18:41:13 2011
+loveyou:AREA_D->get_area("jingyang","level") at Fri May 27 18:43:05 2011
+loveyou:AREA_D->get_area("anding","path") at Fri May 27 19:20:21 2011
+loveyou:AREA_D->set_area("anding","path","/a/anding/") at Fri May 27 19:20:41 2011
+huaer:AREA_D->get_area("huayin","go") at Fri May 27 19:42:59 2011
+huaer:AREA_D->get_area("huayin","path") at Fri May 27 19:43:03 2011
+huaer:AREA_D->set_area("huayin","go","nongtian") at Fri May 27 19:43:35 2011
+huaer:AREA_D->set_area("jiangling","go","jl_nanchengmen") at Fri May 27 19:47:41 2011
+huaer:AREA_D->get_area("changan","go") at Fri May 27 19:51:31 2011
+huaer:AREA_D->set_area("changan","go","ca_nanchengmen") at Fri May 27 19:52:57 2011
+huaer:AREA_D->get_area("tongguan","go") at Fri May 27 21:40:05 2011
+huaer:AREA_D->get_area("tongguan","path") at Fri May 27 21:40:11 2011
+huaer:AREA_D->get_area("tongguan","go") at Fri May 27 21:40:17 2011
+huaer:AREA_D->get_area("tongguan","go") at Fri May 27 21:42:33 2011
+huaer:AREA_D->set_area("tongguan","go","dalu_left") at Fri May 27 21:42:47 2011
+huaer:AREA_D->set_area("tongguan","fly","xiaojunchang") at Fri May 27 21:44:31 2011
+huaer:AREA_D->get_area("tongguan","meeting") at Fri May 27 21:44:45 2011
+huaer:AREA_D->get_area("tongguan","go") at Fri May 27 21:44:53 2011
+huaer:AREA_D->get_area("tianshui","go") at Fri May 27 21:45:23 2011
+huaer:AREA_D->get_area("tianshui","go") at Fri May 27 21:47:29 2011
+huaer:AREA_D->set_area("tianshui","go","ts_nanchengmen") at Fri May 27 21:47:47 2011
+huaer:AREA_D->get_area("tianshui","go") at Fri May 27 21:50:51 2011
+huaer:AREA_D->set_area("wuzhangyuan","go","wzy_xiaolu") at Fri May 27 21:52:23 2011
+huaer:AREA_D->get_area("taiyuan","go") at Fri May 27 21:54:23 2011
+huaer:AREA_D->set_area("taiyuan","go","ty_nanchengmen") at Fri May 27 21:54:55 2011
+huaer:AREA_D->get_area("jiangling","go") at Fri May 27 21:59:03 2011
+huaer:AREA_D->get_area("longxi","go") at Fri May 27 21:59:15 2011
+huaer:AREA_D->set_area("longxi","go","lx_dongchengmen") at Fri May 27 22:00:19 2011
+huaer:AREA_D->get_area("wuguan","go") at Fri May 27 22:01:25 2011
+huaer:AREA_D->set_area("wuguan","go","wg_daokou") at Fri May 27 22:01:43 2011
+huaer:AREA_D->get_area("jingyang","meeting") at Fri May 27 22:13:23 2011
+huaer:AREA_D->set_area("jingyang","meeting","jy_yishiting") at Fri May 27 22:14:21 2011
+huaer:AREA_D->get_area("jingyang","fly") at Fri May 27 22:24:37 2011
+huaer:AREA_D->set_area("jingyang","fly","jy_junying") at Fri May 27 22:26:31 2011
+huaer:AREA_D->get_area("jingyang","go") at Fri May 27 22:27:01 2011
+huaer:AREA_D->set_area("jingyang","go","jy_xichengmen") at Fri May 27 22:27:25 2011
+huaer:AREA_D->get_area("jingyang","nation") at Fri May 27 22:36:11 2011
+huaer:AREA_D->set_area("jingyang","nation","dong zhuo") at Fri May 27 22:36:19 2011
+huaer:AREA_D->get_area("jingyang","open") at Fri May 27 22:39:31 2011
+huaer:AREA_D->set_area("jingyang","open",1) at Fri May 27 22:39:37 2011
+huaer:AREA_D->get_area("anding","meeting") at Fri May 27 22:40:13 2011
+huaer:AREA_D->set_area("anding","meeting","ad_yishiting") at Fri May 27 22:40:39 2011
+huaer:AREA_D->set_area("anding","fly","ad_xiaochang") at Fri May 27 22:41:13 2011
+huaer:AREA_D->set_area("anding","go","ad_nanchengmen") at Fri May 27 22:42:09 2011
+huaer:AREA_D->set_area("anding","nation","dongzhuo") at Fri May 27 22:43:57 2011
+huaer:AREA_D->set_area("anding","nation","dong zhuo") at Fri May 27 22:44:03 2011
+huaer:AREA_D->set_area("anding","open",1) at Fri May 27 22:49:09 2011
+huaer:AREA_D->get_area("jingyang","path") at Fri May 27 22:51:41 2011
+huaer:AREA_D->get_area("jingyang","go") at Fri May 27 22:52:01 2011
+huaer:AREA_D->get_area("jingyang","meeting") at Fri May 27 22:52:07 2011
+huaer:AREA_D->get_area("jingyang","fly") at Fri May 27 22:52:15 2011
+testuser:AREA_D->get_area("anding","open") at Sat May 28 08:56:07 2011
+testuser:AREA_D->get_area("anding","meeting") at Sat May 28 08:59:11 2011
+testuser:AREA_D->get_area("anding","fly") at Sat May 28 08:59:27 2011
+testuser:AREA_D->get_area("anding","go") at Sat May 28 08:59:33 2011
+testuser:AREA_D->get_area("anding","nation") at Sat May 28 08:59:39 2011
+testuser:AREA_D->get_area("anding","zhou") at Sat May 28 09:01:55 2011
+testuser:AREA_D->set_area("anding","zhou","凉州") at Sat May 28 09:02:05 2011
+testuser:AREA_D->get_area("anding","troop") at Sat May 28 09:02:51 2011
+testuser:AREA_D->get_area("anding","leader") at Sat May 28 09:03:15 2011
+testuser:AREA_D->get_area("jingyang","meeting") at Sat May 28 09:10:29 2011
+testuser:AREA_D->get_area("jingyang","fly") at Sat May 28 09:10:53 2011
+testuser:AREA_D->get_area("jingyang","go") at Sat May 28 09:11:05 2011
+testuser:AREA_D->get_area("jingyang","nation") at Sat May 28 09:16:03 2011
+testuser:AREA_D->get_area("jingyang","zhou") at Sat May 28 09:16:09 2011
+testuser:AREA_D->set_area("jingyang","zhou","雍州") at Sat May 28 09:16:51 2011
+testuser:AREA_D->get_area("jiangling","go") at Sat May 28 09:28:51 2011
+testuser:AREA_D->get_area("jiangling","fly") at Sat May 28 09:28:57 2011
+testuser:AREA_D->get_area("jiangling","meeting") at Sat May 28 09:29:05 2011
+testuser:AREA_D->get_area("jiangling","zhou") at Sat May 28 09:29:13 2011
+testuser:AREA_D->set_area("jiangling","fly","jl_xiaochang") at Sat May 28 09:29:49 2011
+testuser:CLR at Sat May 28 10:09:12 2011
+testuser:CLR at Sat May 28 10:09:28 2011
+testuser:AREA_D->get_area("xianyang","path") at Sat May 28 11:13:28 2011
+testuser:AREA_D->set_area("xianyang","path","/a/xianyang/") at Sat May 28 11:13:44 2011
+huaer:AREA_D->get_area("xianyang","meeting") at Sat May 28 15:21:14 2011
+huaer:AREA_D->set_area("xianyang","meeting","xy_yishiting") at Sat May 28 15:22:22 2011
+huaer:AREA_D->get_area("xianyang","fly") at Sat May 28 15:22:34 2011
+huaer:AREA_D->set_area("xianyang","fly","xy_xiaochang") at Sat May 28 15:23:00 2011
+testuser:AREA_D->get_area("xianyang","go") at Sat May 28 15:23:10 2011
+huaer:AREA_D->set_area("xianyang","fly","xy_dongchengmen") at Sat May 28 15:23:46 2011
+huaer:AREA_D->set_area("xianyang","go","xy_dongchengmen") at Sat May 28 15:24:24 2011
+huaer:AREA_D->set_area("xianyang","fly","xy_xiaochang") at Sat May 28 15:24:32 2011
+huaer:AREA_D->get_area("xianyang","nation") at Sat May 28 15:24:44 2011
+huaer:AREA_D->set_area("xianyang","nation","dong zhuo") at Sat May 28 15:25:00 2011
+huaer:AREA_D->get_area("xianyang","zhou") at Sat May 28 15:25:10 2011
+huaer:AREA_D->set_area("xianyang","zhou","雍州") at Sat May 28 15:25:56 2011
+testuser:AREA_D->get_area("xianyang","troop") at Sat May 28 15:27:42 2011
+huaer:AREA_D->get_area("xianyang","path") at Sat May 28 16:34:32 2011
+huaer:AREA_D->get_area("xianyang","zhou") at Sat May 28 16:34:40 2011
+huaer:AREA_D->get_area("xianyang","nation") at Sat May 28 16:34:46 2011
+huaer:AREA_D->get_area("xianyang","go") at Sat May 28 16:35:04 2011
+huaer:AREA_D->set_area("xianyang","open",1) at Sat May 28 17:02:22 2011
+huaer:AREA_D->create() at Sat May 28 17:03:58 2011
+huaer:AREA_D->get_area("wuling","path") at Sat May 28 19:10:30 2011
+huaer:AREA_D->set_area("wuling","path","/a/wuling/") at Sat May 28 19:10:52 2011
+huaer:AREA_D->get_area("changan","goldout") at Sat May 28 20:10:02 2011
+huaer:AREA_D->get_area("huayin","goldout") at Sat May 28 20:10:08 2011
+huaer:AREA_D->get_area("jiangling","goldout") at Sat May 28 20:11:36 2011
+huaer:AREA_D->get_area("huayin","gold") at Sat May 28 20:29:08 2011
+huaer:AREA_D->set_area("huayin","gold",1000) at Sat May 28 20:29:16 2011
+huaer:AREA_D->get_area("wuling","meeting") at Sat May 28 21:03:12 2011
+testuser:AREA_D->set_area("wuling","meeting","wl_yishiting") at Sat May 28 21:03:32 2011
+testuser:AREA_D->set_area("wuling","fly","wl_xiaochang") at Sat May 28 21:04:30 2011
+testuser:AREA_D->set_area("wuling","go","wl_nanmen") at Sat May 28 21:05:50 2011
+testuser:AREA_D->get_area("wuling","troop") at Sat May 28 21:06:12 2011
+testuser:AREA_D->get_area("wuling","nation") at Sat May 28 21:06:20 2011
+testuser:AREA_D->set_area("wuling","nation","liu bei") at Sat May 28 21:06:30 2011
+testuser:AREA_D->set_area("wuling","zhou","南荆州") at Sat May 28 21:07:08 2011
+testuser:AREA_D->get_area("wuling","level") at Sat May 28 21:07:34 2011
+testuser:AREA_D->set_area("wuling","open",1) at Sat May 28 21:08:04 2011
+huaer:CHAR_D->get_char("huaer","gold") at Sat May 28 21:09:50 2011
+huaer:AREA_D->set_area("wuling","open",1) at Sat May 28 21:10:42 2011
+testuser:AREA_D->get_area("wuguan","path") at Sat May 28 21:17:54 2011
+testuser:AREA_D->get_area("wuguan","nation") at Sat May 28 21:17:58 2011
+testuser:AREA_D->set_area("wuguan","nation","dong zhuo") at Sat May 28 21:18:16 2011
+testuser:AREA_D->add_neighbor("wuling","lingling") at Sat May 28 21:20:38 2011
+testuser:AREA_D->add_neighbor("wuling","yiling") at Sat May 28 21:20:58 2011
+testuser:AREA_D->create() at Sat May 28 21:22:26 2011
+huaer:AREA_D->add_neighbor("wuling","yiling") at Sat May 28 21:23:22 2011
+huaer:AREA_D->add_neighbor("wuling","lingling") at Sat May 28 21:23:22 2011
+huaer:AREA_D->save_data() at Sat May 28 21:23:22 2011
+testuser:CHAR_D->get_char("testuser","gold") at Sat May 28 21:32:29 2011
+testuser:CHAR_D->get_char("huaer","gold") at Sat May 28 21:32:37 2011
+testuser:AREA_D->get_area("huayin","goldout") at Sat May 28 22:40:29 2011
+testuser:AREA_D->get_area("huayin","goldin") at Sat May 28 22:40:35 2011
+testuser:CHAR_D->set_char("testuser","gold",100) at Sun May 29 10:33:06 2011
+testuser:CHAR_D->get_char("funnyboy","gold") at Sun May 29 10:33:32 2011
+testuser:IMUD_D->get_mudlist_user_num() at Sun May 29 10:53:36 2011
+testuser:AREA_D->get_area("xuchang","path") at Sun May 29 11:36:46 2011
+testuser:AREA_D->set_area("xuchang","path","/a/xuchang/") at Sun May 29 11:37:06 2011
+testuser:AREA_D->get_area("qiao","path") at Sun May 29 13:02:44 2011
+testuser:AREA_D->set_area("qiao","path","/a/qiao/") at Sun May 29 13:02:56 2011
+testuser:AREA_D->get_area("huayin","") at Sun May 29 15:33:14 2011
+testuser:AREA_D->set_area("huayin","taxlocal",40) at Sun May 29 15:34:56 2011
+testuser:AREA_D->get_area("xuchang","path") at Sun May 29 17:57:38 2011
+testuser:AREA_D->get_area("xuchang","meeting") at Sun May 29 17:57:46 2011
+testuser:AREA_D->get_area("xuchang","meeting") at Sun May 29 17:58:30 2011
+testuser:AREA_D->set_area("xuchang","meeting","xc_zhushuaiyingzhang") at Sun May 29 17:58:38 2011
+testuser:AREA_D->get_area("xuchang","fly") at Sun May 29 17:58:58 2011
+testuser:AREA_D->set_area("xuchang","fly","xc_bingying") at Sun May 29 17:59:58 2011
+testuser:AREA_D->set_area("xuchang","go","xc_dongchengmen") at Sun May 29 18:01:24 2011
+testuser:AREA_D->get_area("xuchang","level") at Sun May 29 18:01:46 2011
+testuser:AREA_D->set_area("xuchang","level",4) at Sun May 29 18:01:52 2011
+testuser:AREA_D->get_area("xuchang","troop") at Sun May 29 18:02:16 2011
+testuser:AREA_D->get_area("xuchang","nation") at Sun May 29 18:02:24 2011
+testuser:AREA_D->set_area("xuchang","nation","cao cao") at Sun May 29 18:02:42 2011
+testuser:AREA_D->set_area("xuchang","zhou","豫州") at Sun May 29 18:03:54 2011
+testuser:AREA_D->set_area("xuchang","open",1) at Sun May 29 18:17:18 2011
+testuser:AREA_D->get_area("qiao","path") at Sun May 29 20:54:38 2011
+huaer:AREA_D->get_area("qiao","path") at Sun May 29 20:54:42 2011
+huaer:AREA_D->get_area("qiao","meeting") at Sun May 29 20:54:56 2011
+huaer:AREA_D->set_area("qiao","meeting","q_yishiting") at Sun May 29 20:55:26 2011
+huaer:AREA_D->set_area("qiao","fly","q_bingying") at Sun May 29 20:58:20 2011
+huaer:AREA_D->set_area("qiao","go","q_nanchengmen") at Sun May 29 20:58:38 2011
+huaer:AREA_D->set_area("qiao","nation","cao cao") at Sun May 29 20:59:38 2011
+huaer:AREA_D->set_area("qiao","zhou","豫州") at Sun May 29 20:59:56 2011
+huaer:AREA_D->get_area("qiao","troop") at Sun May 29 21:00:12 2011
+huaer:AREA_D->set_area("qiao","open",1) at Sun May 29 21:06:02 2011
+testuser:AREA_D->get_area("wuling","path") at Mon May 30 10:02:33 2011
+testuser:AREA_D->get_area("wuling","open") at Mon May 30 10:02:43 2011
+testuser:AREA_D->list_areas() at Mon May 30 10:02:53 2011
+testuser:AREA_D->get_area("nanpi","path") at Mon May 30 18:47:43 2011
+testuser:AREA_D->set_area("nanpi","path","/a/nanpi/") at Mon May 30 18:47:57 2011
+testuser:AREA_D->get_area("daixian","path") at Mon May 30 19:48:59 2011
+testuser:AREA_D->set_area("daixian","path","/a/daixian") at Mon May 30 19:49:21 2011
+loveyou:AREA_D->get_area("daixian","path") at Mon May 30 20:01:37 2011
+loveyou:AREA_D->set_area("daixian","path","/a/daixian/") at Mon May 30 20:01:59 2011
+testuser:AREA_D->get_area("chaisang","path") at Mon May 30 20:43:57 2011
+testuser:AREA_D->set_area("chaisang","path","/a/chaisang/") at Mon May 30 20:44:51 2011
+huaer:time() at Tue May 31 07:43:32 2011
+huaer:time() at Tue May 31 07:43:34 2011
+huaer:time() at Tue May 31 07:43:36 2011
+huaer:AREA_D->get_area("nanpi","meeting") at Tue May 31 09:13:51 2011
+testuser:AREA_D->set_area("nanpi","meeting","np_yishiting") at Tue May 31 09:15:55 2011
+huaer:AREA_D->set_area("nanpi","fly","np_xiaochang") at Tue May 31 09:18:11 2011
+huaer:AREA_D->set_area("nanpi","go","np_dongchengmen") at Tue May 31 09:19:03 2011
+huaer:AREA_D->set_area("nanpi","nation","yuan shao") at Tue May 31 09:20:45 2011
+huaer:AREA_D->get_area("nanpi","troop") at Tue May 31 09:21:01 2011
+huaer:AREA_D->get_area("nanpi","zhou") at Tue May 31 09:21:11 2011
+huaer:AREA_D->get_area("nanpi","zhou") at Tue May 31 09:24:14 2011
+huaer:AREA_D->set_area("nanpi","zhou","冀州") at Tue May 31 09:30:04 2011
+huaer:AREA_D->set_area("nanpi","localtax",10) at Tue May 31 09:38:04 2011
+huaer:AREA_D->get_area("jiangling","") at Tue May 31 09:38:36 2011
+huaer:AREA_D->set_area("nanpi","localtax","") at Tue May 31 09:39:16 2011
+huaer:AREA_D->get_area("jiangling","localtax") at Tue May 31 09:39:24 2011
+huaer:AREA_D->set_area("nanpi","taxlocal",10) at Tue May 31 09:39:38 2011
+huaer:AREA_D->set_area("nanpi","safe",50) at Tue May 31 09:40:08 2011
+huaer:AREA_D->set_area("nanpi","agriculture",10) at Tue May 31 09:40:46 2011
+huaer:AREA_D->set_area("nanpi","business",10) at Tue May 31 09:40:56 2011
+huaer:ARAE_D->set_area("nanpi","open",1) at Tue May 31 09:58:36 2011
+huaer:AREA_D->set_area("nanpi","open",1) at Tue May 31 09:58:48 2011
+huaer:AREA_D->get_area("nanpi","open") at Tue May 31 10:43:32 2011
+huaer:AREA_D->set_area("nanpi","open",1) at Tue May 31 10:43:38 2011
+testuser:AREA_D->get_area("daixian","path") at Wed Jun  1 00:08:24 2011
+testuser:AREA_D->get_area("daixian","meeting") at Wed Jun  1 00:08:30 2011
+testuser:AREA_D->set_area("daixian","meeting","dx_yishiting") at Wed Jun  1 00:09:10 2011
+testuser:AREA_D->set_area("daixian","fly","dx_dongchengmen") at Wed Jun  1 00:10:22 2011
+testuser:AREA_D->set_area("daixian","go","dx_nanmenkou") at Wed Jun  1 00:12:10 2011
+testuser:AREA_D->set_area("daixian","nation","yuan shao") at Wed Jun  1 00:12:24 2011
+testuser:AREA_D->set_area("daixian","zhou","幽州") at Wed Jun  1 00:14:20 2011
+testuser:AREA_D->get_area("daixian","troop") at Wed Jun  1 00:14:38 2011
+testuser:AREA_D->get_area("daixian","level") at Wed Jun  1 00:16:32 2011
+huaer:AREA_D->get_area("daixian","") at Wed Jun  1 00:37:10 2011
+huaer:AREA_D->set_area("daixian","taxlocal",10) at Wed Jun  1 00:37:52 2011
+huaer:AREA_D->set_area("daixian","open",1) at Wed Jun  1 00:38:26 2011
+huaer:AREA_D->get_area("huayin","gold") at Wed Jun  1 06:02:54 2011
+huaer:AREA_D->set_area("huayin","gold",1000) at Wed Jun  1 06:03:16 2011
+huaer:AREA_D->set_area("huayin","gold",2000) at Wed Jun  1 06:14:32 2011
+huaer:JOB_D->set_job("recruit","name","招农夫") at Wed Jun  1 06:32:40 2011
+huaer:JOB_D->set_job("recruit","count_lasttimes",10) at Wed Jun  1 06:32:58 2011
+huaer:AREA_D->get_area("chaisang","path") at Wed Jun  1 11:29:22 2011
+huaer:AREA_D->get_area("chaisang","level") at Wed Jun  1 11:29:32 2011
+huaer:AREA_D->set_area("chaisang","level",4) at Wed Jun  1 11:29:46 2011
+huaer:AREA_D->set_area("chaisang","meeting","cs_yishiting") at Wed Jun  1 11:32:12 2011
+huaer:AREA_D->set_area("chaisang","fly","cs_xiaochang") at Wed Jun  1 11:32:44 2011
+huaer:AREA_D->set_area("chaisang","go","cs_nanchengmen") at Wed Jun  1 11:34:26 2011
+huaer:AREA_D->set_area("chaisang","nation","sun jian") at Wed Jun  1 11:38:42 2011
+huaer:AREA_D->set_area("chaisang","zhou","郢州") at Wed Jun  1 11:40:46 2011
+huaer:AREA_D->get_area("chaisang","troop") at Wed Jun  1 11:41:32 2011
+huaer:AREA_D->get_area("chaisang","troop") at Wed Jun  1 12:54:10 2011
+huaer:AREA_D->set_area("chaisang","open",1) at Wed Jun  1 13:34:04 2011
+huaer:AREA_D->set_area("chaisang","taxlocal",10) at Wed Jun  1 13:34:28 2011
+huaer:AREA_D->get_area("chaisang","level") at Wed Jun  1 13:41:20 2011
+huaer:JOB_D->list_jobs() at Wed Jun  1 19:58:24 2011
+huaer:JOB_D->set_job("getppl","name","招募农夫") at Wed Jun  1 19:58:38 2011
+huaer:JOB_D->set_job("getppl","count_lasttimes",10) at Wed Jun  1 19:58:42 2011
+huaer:JOB_D->set_job("basejob","name","指挥农夫") at Wed Jun  1 20:09:52 2011
+huaer:JOB_D->set_job("basejob","count_lasttimes",10) at Wed Jun  1 20:09:58 2011
+huaer:BASE_D->set_stuff("food","quantity",2) at Wed Jun  1 20:53:26 2011
+huaer:BASE_D->get_base("farm","area") at Thu Jun  2 16:09:25 2011
+huaer:BASE_D->set_base("farm","area",{"changan","jiangling","huayin","tianshui","longxi",}) at Thu Jun  2 16:10:59 2011
+huaer:BASE_D->set_base("farm","area",({"changan","jiangling","huayin","tianshui","longxi",})) at Thu Jun  2 16:11:19 2011
+testuser:BASE_D->get_base("farm","area") at Thu Jun  2 16:12:57 2011
+testuser:BASE_D->set_base("farm","area",({"changan","jiangling","huayin","tianshui","longxi",})) at Thu Jun  2 16:15:13 2011
+testuser:BASE_D->get_base("farm","area") at Thu Jun  2 16:15:17 2011
+huaer:BASE_D->add_base_area("farm","wuling") at Thu Jun  2 16:16:39 2011
+huaer:BASE_D->get_base("farm","area") at Thu Jun  2 16:17:51 2011
+loveyou:AREA_D->get_area("dingtao","path") at Thu Jun  2 19:22:42 2011
+loveyou:AREA_D->set_area("dingtao","path","/a/dingtao/") at Thu Jun  2 19:23:04 2011
+loveyou:AREA_D->set_area("poyang","path","/a/poyang/") at Thu Jun  2 19:23:18 2011
+loveyou:AREA_D->get_area("baima","path") at Thu Jun  2 21:14:08 2011
+loveyou:AREA_D->set_area("baima","path","/a/baima/") at Thu Jun  2 21:14:22 2011
+huaer:AREA_D at Fri Jun  3 21:51:37 2011
+huaer:AREA_D at Fri Jun  3 21:51:41 2011
+huaer:AREA_D->get_area("yunnan","path") at Fri Jun  3 21:52:17 2011
+huaer:AREA_D->set_area("yunnan","path","/a/yunnan/") at Fri Jun  3 21:52:41 2011
+huaer:AREA_D->get_area("yunnan","path") at Fri Jun  3 21:52:43 2011
+testuser:AREA_D->get_area("baima","path") at Fri Jun  3 22:22:17 2011
+testuser:AREA_D->get_area("baima","meeting") at Fri Jun  3 22:22:27 2011
+testuser:AREA_D->set_area("baima","meeting","bm_shuaizhang") at Fri Jun  3 22:24:41 2011
+testuser:AREA_D->get_area("baima","meeting") at Fri Jun  3 22:24:45 2011
+testuser:AREA_D->set_area("baima","fly","bm_yingfang") at Fri Jun  3 22:27:09 2011
+testuser:AREA_D->set_area("baima","go","bm_beidaokou") at Fri Jun  3 22:28:41 2011
+testuser:AREA_D->set_area("baima","go","bm_beidaokou") at Fri Jun  3 22:34:29 2011
+testuser:AREA_D->set_area("baima","nation","cao cao") at Fri Jun  3 22:41:51 2011
+testuser:AREA_") at Fri Jun  3 22:54:31 2011
+huaer:AREA_D->get_area("baima","zhou") at Fri Jun  3 22:56:17 2011
+huaer:AREA_D->set_area("baima","zhou","兖州") at Fri Jun  3 22:56:39 2011
+huaer:AREA_D->get_area("baima","level") at Fri Jun  3 23:04:03 2011
+huaer:AREA_D->set_area("baima","level",1) at Fri Jun  3 23:04:11 2011
+huaer:AREA_D->set_area("baima","open",1) at Fri Jun  3 23:10:07 2011
+testuser:AREA_D->create() at Sat Jun  4 05:59:20 2011
+huaer:IMUD_D->do_who("开发一","") at Mon Jun  6 22:58:04 2011
+huaer:IMUD_D->do_who("开发一","") at Mon Jun  6 22:58:42 2011
+huaer:IMUD_D->do_who("开发一","") at Mon Jun  6 22:58:42 2011
+huaer:IMUD_D->do_who("开发一","") at Mon Jun  6 22:58:44 2011
+huaer:IMUD_D->do_who("开发一","") at Mon Jun  6 23:01:06 2011
+huaer:IMUD_D->remove(1) at Tue Jun  7 11:41:48 2011
+huaer:IMUD_D->create() at Tue Jun  7 11:41:56 2011
+huaer:IMUD_D->create() at Tue Jun  7 11:42:46 2011
+huaer:IMUD_D->create() at Tue Jun  7 11:43:08 2011
+athena:"/daemons/restart_d"->restart() at Wed Aug 10 09:00:05 2011
+xiaolong:OFFICER_D->query_max_officer_number(list_titlei) at Wed Aug 10 11:32:14 2011
+xiaolong:OFFICER_D->query_max_officer_number(list_titlei) at Wed Aug 10 11:32:16 2011
+xiaolong:OFFICER_D->query_max_officer_number(list_title) at Wed Aug 10 11:32:22 2011
+xiaolong:OFFICER_D->query_max_officer_number(list_title[i]); at Wed Aug 10 11:32:34 2011
+xiaolong:CHAR_D->get_char(xiaolong,"literate")<req["literate"]) at Wed Aug 10 11:34:40 2011
+xiaolong:CHAR_D->get_char(xiaolong,"literate")<500["literate"]) at Wed Aug 10 11:34:44 2011
+xiaolong:CHAR_D->get_char(xiaolong,"literate")<req["500"]) at Wed Aug 10 11:34:56 2011
+xiaolong:CHAR_D->get_char(xiaolong,"500")<req["literate"]) at Wed Aug 10 11:35:02 2011
+xiaolong:CHAR_D->get_char(xiaolong,"literate")500<req["500"]) at Wed Aug 10 11:35:08 2011
+xiaolong:CHAR_D->get_char(xiaolong,"literate")500<req["literate"]) at Wed Aug 10 11:35:18 2011
+xiaolong:CHAR_D->get_char(xiaolong,"literate")<req["literate"]) at Wed Aug 10 11:35:50 2011
+xiaolong:CHAR_D->set_char(xiaolong,"literate")<req["literate"]) at Wed Aug 10 11:35:54 2011
+xiaolong:CHAR_D->set_char(xiaolong,"literate") at Wed Aug 10 11:35:56 2011
+xiaolong:CHAR_D->set_char(xiaolong,"literate","5000") at Wed Aug 10 11:36:08 2011
+xiaolong:CHAR_D->set_char(p_id,"literate"),["literate"]) at Wed Aug 10 11:37:04 2011
+xiaolong:CHAR_D->set_char(xiaolong,"literate"),["literate"]) at Wed Aug 10 11:37:10 2011
+xiaolong:CHAR_D->set_char(xiaolong,"literate")["literate"]) at Wed Aug 10 11:37:14 2011
+xiaolong:CHAR_D->set_char(xiaolong,"5000")["literate"]) at Wed Aug 10 11:37:22 2011
+xiaolong:CHAR_D->set_char(xiaolong,"5000"),["literate"]) at Wed Aug 10 11:37:26 2011
+xiaolong:CHAR_D->set_char(xiaolong,"literate",100) at Wed Aug 10 11:38:58 2011
+xiaolong:CHAR_D->set_char(xiaolong,["literate]",100) at Wed Aug 10 11:40:10 2011
+xiaolong:o->set_area(p_area); at Wed Aug 10 11:55:43 2011
+xiaolong:AREA_D->get_area(p_area,"go"); at Wed Aug 10 11:56:29 2011
+xiaolong:CHAR_D->add_char(City Guard); at Wed Aug 10 11:57:01 2011
+xiaolong:CHAR_D->add_char(city guard) at Wed Aug 10 11:57:19 2011
+xiaolong:CHAR_D->add_char(guard) at Wed Aug 10 11:58:29 2011
+xiaolong:CHAR_D->add_char(guard) at Wed Aug 10 11:58:33 2011
+xiaolong:CHAR_D->add_char(guard); at Wed Aug 10 11:58:37 2011
+xiaolong:CHAR_D->set_char("/sgdomain/event/ev_king/kingguard.c","room","/sgdomain/area/emp/hugo.c") at Wed Aug 10 12:13:35 2011
+xiaolong:CHAR_D->set_char("zhonglang jiang","room","/sgdomain/area/emp/hugo.c") at Wed Aug 10 12:14:11 2011
+xiaolong:CHAR_D->set_char(wanglong,"literate",query_literate(50000)); at Wed Aug 10 12:57:18 2011
+xiaolong:CHAR_D->set_char("wanglong","literate",query_literate(50000)); at Wed Aug 10 12:57:30 2011
+xiaolong:CHENGHU_D->literate_str(query_literate()); at Wed Aug 10 12:58:02 2011
+xiaolong:"/daemons/house_d"->init() at Wed Aug 10 13:51:06 2011
+xiaolong:"/daemons/house_d"->init() at Wed Aug 10 13:51:06 2011
+xiaolong:"/daemons/house_d"->init() at Wed Aug 10 13:51:10 2011
+xiaolong:"/sgdomain/event/ev_king.c at Wed Aug 10 13:51:36 2011
+xiaolong:"/sgdomain/event/ev_king.c at Wed Aug 10 13:51:36 2011
+xiaolong:"/sgdomain/event/ev_king.c at Wed Aug 10 13:51:38 2011
+xiaolong:"/sgdomain/event/guardking.c at Wed Aug 10 13:51:50 2011
+xiaolong:/sgdomain/event/ev_position.c at Wed Aug 10 13:52:30 2011
+xiaolong:./sgdomain/event/ev_position.c at Wed Aug 10 13:52:34 2011
+xiaolong:./sgdomain/event/ev_position.c at Wed Aug 10 13:52:34 2011
+xiaolong:(EV_WAR)->war("bandit",<a_id>) at Wed Aug 10 13:53:10 2011
+xiaolong:(EV_WAR)->war("bandit",<tiandi>) at Wed Aug 10 13:53:14 2011
+xiaolong:.xiaolong->set_sg_literate(50000) at Wed Aug 10 14:09:10 2011
+xiaolong:.xiaolong->set_literate(50000) at Wed Aug 10 14:09:22 2011
+xiaolong:.xiaolong->set_sg_rongmao(30) at Wed Aug 10 14:09:48 2011
+xiaolong:.xiaolong->init_sg_gifts(30,10,20) at Wed Aug 10 14:10:06 2011
+xiaolong:.xiaolong->set_robot(5000) at Wed Aug 10 14:11:40 2011
+xiaolong:.xiaolong->set_robot(500) at Wed Aug 10 14:11:58 2011
+xiaolong:.xiaolong->set_robot(1) at Wed Aug 10 14:12:10 2011
+xiaolong:.xiaolong->set_robot(1) at Wed Aug 10 14:12:10 2011
+xiaolong:.xiaolong->set_robot(1) at Wed Aug 10 14:12:14 2011
+xiaolong:.xiaolong->set_robot(1) at Wed Aug 10 14:12:14 2011
+xiaolong:.xiaolong->set_robot(1) at Wed Aug 10 14:12:14 2011
+xiaolong:.xiaolong->set_robot(1) at Wed Aug 10 14:12:14 2011
+athena:"/daemons/restart_d"->restart() at Thu Aug 11 00:17:06 2011
+xiaolong:HORSE_D at Fri Aug 12 13:57:50 2011
+xiaolong:OBJ_D->add_obj("guard") at Fri Aug 12 13:58:48 2011
+xiaolong:OBJ_D->remove_obj("guard") at Fri Aug 12 13:58:58 2011
+xiaolong:exec at Fri Aug 12 13:59:12 2011
+xiaolong:"/sgdomain/event/ev_position.c"->create_officer("xiangping") at Fri Aug 12 14:01:20 2011
+xiaolong:.xiaolong->init_sg_literate(5000) at Fri Aug 12 14:02:02 2011
+xiaolong:.xiaolong->init_sg_literate(5000) at Fri Aug 12 14:02:06 2011
+xiaolong:.xiaolong->init_sg_literate(50001) at Fri Aug 12 14:02:08 2011
+xiaolong:.xiaolong->init_sg_literate(50) at Fri Aug 12 14:02:12 2011
+xiaolong:.xiaolong->set_sg_literate(50) at Fri Aug 12 14:02:36 2011
+xiaolong:"/cmds/area/initarea"->initarea at Fri Aug 12 14:12:44 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 14:12:46 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 14:12:50 2011
+xiaolong:"/cmds/area/initarea"->initarea(): at Fri Aug 12 14:12:50 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 14:12:52 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 14:12:52 2011
+xiaolong:"/cmds/area/initarea"->initarea(beiping) at Fri Aug 12 14:13:08 2011
+xiaolong:"/wiz/fire/cmds/initarea.c" at Fri Aug 12 14:14:12 2011
+xiaolong:"/wiz/fire/cmds/initarea.c" at Fri Aug 12 14:14:12 2011
+xiaolong:"/wiz/fire/cmds/initarea.c" at Fri Aug 12 14:14:14 2011
+xiaolong:"/wiz/fire/cmds/initarea.c" at Fri Aug 12 14:14:14 2011
+xiaolong:"/wiz/fire/cmds/initarea.c" at Fri Aug 12 14:14:14 2011
+xiaolong:"/wiz/fire/cmds/initarea.c"->initarea(changan) at Fri Aug 12 14:14:30 2011
+xiaolong:"/wiz/fire/cmds/initarea.c"->initarea(changan), at Fri Aug 12 14:14:36 2011
+xiaolong:"/wiz/fire/cmds/initarea.c"->initarea(changan) at Fri Aug 12 14:14:36 2011
+xiaolong:"/wiz/fire/cmds/initarea.c"->create(changan) at Fri Aug 12 14:18:20 2011
+xiaolong:"/wiz/fire/cmds/initarea.c"->create(changan); at Fri Aug 12 14:18:30 2011
+xiaolong:"/wiz/fire/cmds/initarea.c"->create() at Fri Aug 12 14:18:34 2011
+xiaolong:"/cmds/area/createwarroom"->create() at Fri Aug 12 14:19:08 2011
+xiaolong:"/cmds/area/createwarroom.c"->create() at Fri Aug 12 14:19:10 2011
+xiaolong:AREA_D->add_area("beiping") at Fri Aug 12 14:19:26 2011
+xiaolong:AREA_D->set_area("beiping","name","北平") at Fri Aug 12 14:19:36 2011
+xiaolong:AREA_D->set_area("beiping","level",4) at Fri Aug 12 14:19:40 2011
+xiaolong:"/cmds/area/createwarroom.c"->create(tmp) at Fri Aug 12 14:20:12 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 14:21:18 2011
+xiaolong:"/cmds/area/initarea"->initarea(beiping) at Fri Aug 12 14:21:22 2011
+xiaolong:COUNTRY_D->create() at Fri Aug 12 14:22:54 2011
+xiaolong:COUNTRY_D->create() at Fri Aug 12 14:22:56 2011
+xiaolong:"/daemons/chanlog_d"->sgsys(a) at Fri Aug 12 15:02:47 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 16:07:09 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 16:07:39 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 16:08:11 2011
+xiaolong:AREA_D->save_data() at Fri Aug 12 16:08:25 2011
+xiaolong:AREA_D->list_areas() at Fri Aug 12 16:08:47 2011
+xiaolong:AREA_D->get_area(yunnan,"st") at Fri Aug 12 16:09:31 2011
+xiaolong:CHAR_D->set_char("xiaolong","gold",20000) at Fri Aug 12 16:15:03 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 16:17:13 2011
+xiaolong:AREA_D->set_area("yunnan","go","yn_nanchengmen") at Fri Aug 12 16:17:57 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 16:19:05 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Fri Aug 12 16:22:45 2011
+xiaolong:AREA_D->save_data() at Fri Aug 12 16:22:57 2011
+xiaolong:"/daemons/history_d"->add_hisdata(a) at Fri Aug 12 19:35:26 2011
+xiaolong:./wiz/fire/cmds/initarea.c at Fri Aug 12 21:38:17 2011
+xiaolong:."/wiz/fire/cmds/initarea.c" at Fri Aug 12 21:38:25 2011
+xiaolong:."/wiz/fire/cmds/initarea.c"->set at Fri Aug 12 21:38:31 2011
+xiaolong:"/sgdomain/area/cities/jiangling/jl_shuaizhang"->get_area() at Fri Aug 12 21:42:47 2011
+xiaolong:"/sgdomain/area/cities/jiangling/jl_shuaizhang"->get_area() at Fri Aug 12 21:42:51 2011
+xiaolong:. "/sgdomain/area/cities/jiangling/jl_shuaizhang"->get_area() at Fri Aug 12 21:42:55 2011
+xiaolong:."/sgdomain/area/cities/jiangling/jl_shuaizhang"->get_area() at Fri Aug 12 21:42:59 2011
+xiaolong:CHAR_D->set_char("xiaolong","lc",(changan)) at Fri Aug 12 21:49:53 2011
+xiaolong:AREA_D->area_init() at Sat Aug 13 00:03:30 2011
+xiaolong:AREA_D->m_modified=1 at Sat Aug 13 00:03:42 2011
+xiaolong:AREA_D->m_modified at Sat Aug 13 00:03:44 2011
+xiaolong:AREA_D->save_data() at Sat Aug 13 00:03:54 2011
+xiaolong:/cmds/area/initarea"->initarea() at Sat Aug 13 00:06:42 2011
+xiaolong:. /sgdomain/event/ev_guard.c at Sat Aug 13 00:11:26 2011
+xiaolong:. "/sgdomain/event/ev_guard.c" at Sat Aug 13 00:11:28 2011
+xiaolong:"/sgdomain/event/ev_guard.c" at Sat Aug 13 00:11:32 2011
+xiaolong:"/sgdomain/event/ev_guard.c" at Sat Aug 13 00:11:34 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->ev_guard() at Sat Aug 13 00:11:44 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create() at Sat Aug 13 00:11:48 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Sat Aug 13 00:19:02 2011
+xiaolong:"/cmds/area/initarea"->initarea() at Sat Aug 13 00:19:06 2011
+xiaolong:./sgdomain/event/ev_guard"->create_guard() at Sat Aug 13 00:27:24 2011
+xiaolong:./sgdomain/event/ev_guard"->create() at Sat Aug 13 00:27:28 2011
+xiaolong:./sgdomain/event/ev_guard.c"->create() at Sat Aug 13 00:27:32 2011
+xiaolong:.create at Sat Aug 13 00:31:40 2011
+xiaolong:create at Sat Aug 13 00:31:46 2011
+xiaolong:CREATE at Sat Aug 13 00:32:04 2011
+xiaolong:CREATE_D at Sat Aug 13 00:32:12 2011
+xiaolong:.create at Sat Aug 13 00:32:26 2011
+xiaolong:.create at Sat Aug 13 00:32:26 2011
+xiaolong:.create nation at Sat Aug 13 00:32:30 2011
+xiaolong:./cmds/area/initarea.c at Sat Aug 13 00:32:54 2011
+xiaolong:."/cmds/area/initarea.c"create() at Sat Aug 13 00:33:32 2011
+xiaolong:."/cmds/area/initarea.c"->create() at Sat Aug 13 00:33:38 2011
+xiaolong:."/cmds/area/initarea.c"->create()) at Sat Aug 13 00:33:44 2011
+xiaolong:."/cmds/area/initarea.c"->create(); at Sat Aug 13 00:33:56 2011
+xiaolong:."/cmds/area/initarea.c"->create(); at Sat Aug 13 00:33:56 2011
+xiaolong:."/cmds/area/initarea.c"->create(); at Sat Aug 13 00:33:56 2011
+xiaolong:."/cmds/area/initarea"->create(); at Sat Aug 13 00:34:02 2011
+xiaolong:."/wiz/fire/initarea.c"->create(); at Sat Aug 13 00:34:16 2011
+xiaolong:."/wiz/fire/cmds/initarea"->create(); at Sat Aug 13 00:34:32 2011
+xiaolong:."/wiz/fire/cmds/initarea"->create() at Sat Aug 13 00:34:36 2011
+xiaolong:CHAR_D->set_char("xiaolong","gold",20000) at Sat Aug 13 00:47:08 2011
+xiaolong:@SETHERE("o",(["sgdomain/event/ev_guard.c";:1]) at Sat Aug 13 01:21:22 2011
+xiaolong:SETHERE("o",(["sgdomain/event/ev_guard.c";:1]) at Sat Aug 13 01:21:26 2011
+xiaolong:sethere("o",(["sgdomain/event/ev_guard.c";:1]) at Sat Aug 13 01:21:36 2011
+xiaolong:.sethere("o",(["sgdomain/event/ev_guard.c";:1]) at Sat Aug 13 01:21:42 2011
+xiaolong:SETHERE("o",(["sgdomain/event/ev_guard.c";:1])) at Sat Aug 13 01:22:44 2011
+xiaolong:SETHERE("o@SETHERE("o",(["/sgdomain/area/guan/huayin/npc/shuijing.c";:1]))",(["sgdomain/event/ev_guard.c";:1])) at Sat Aug 13 01:23:52 2011
+xiaolong:SETHERE("o",(["/sgdomain/area/guan/huayin/npc/shuijing.c";:1])) at Sat Aug 13 01:23:56 2011
+xiaolong:SETHERE("o",(["sgdomain/event/ev_guard.c":1])); at Sat Aug 13 01:24:14 2011
+xiaolong:SETHERE("o",(["sgdomain/event/ev_guard":1])); at Sat Aug 13 01:24:26 2011
+xiaolong:SETHERE("n",(["sgdomain/event/ev_guard":1])); at Sat Aug 13 01:25:06 2011
+xiaolong:AREA_D->area_init() at Sat Aug 13 01:25:50 2011
+xiaolong:AREA_D->save_data() at Sat Aug 13 01:25:56 2011
+xiaolong:CHAR_D->set_char("xiaolong","ju",0) at Sat Aug 13 12:36:05 2011
+xiaolong:CHAR_D->set_char("wanglong","ju",0) at Sat Aug 13 12:37:17 2011
+xiaolong:CHAR_D->set_char("wanglong","reputation",3010000) at Sat Aug 13 12:41:13 2011
+xiaolong:CHAR_D->add_char("qdlinux") at Sat Aug 13 12:56:16 2011
+xiaolong:"/daemons/restart_d"->restart() at Sat Aug 13 12:57:14 2011
+xiaolong:"/daemons/restart_d"->restart() at Sat Aug 13 12:57:16 2011
+xiaolong:CHAR_D->new_player_char("qdlinux") at Sat Aug 13 12:59:30 2011
+xiaolong:CHAR_D->new_player_char("qdlinux") at Sat Aug 13 13:01:24 2011
+xiaolong:.qdlinux->init_sg_gifts(10,18,23) at Sat Aug 13 13:04:04 2011
+xiaolong:.qdlinux->init_sg_gifts(10,20,30) at Sat Aug 13 13:04:08 2011
+xiaolong:.qdlinux->set_sg_rongmao(30) at Sat Aug 13 13:04:24 2011
+xiaolong:CHAR_D->set_char("qdlinux","gold",200) at Sat Aug 13 13:04:54 2011
+xiaolong:.ice->set_sg_skill("qdlinux",60,0) at Sat Aug 13 13:05:10 2011
+xiaolong:.qdlinux->set_sg_skill("sk_zhimou",60,0) at Sat Aug 13 13:05:36 2011
+xiaolong:.qdlinux->set_sg_skill("sk_meili",60,0) at Sat Aug 13 13:05:40 2011
+xiaolong:.qdlinux->set_sg_skill("sk_wuli",60,0) at Sat Aug 13 13:05:42 2011
+xiaolong:."/cmds/area/initarea.c"->initarea(); at Sat Aug 13 13:23:02 2011
+xiaolong:."/cmds/area/initarea.c"->initarea() at Sat Aug 13 13:23:10 2011
+xiaolong:."/cmds/area/initarea.c"->initarea() at Sat Aug 13 13:23:12 2011
+xiaolong:"/cmds/area/initarea.c"->initarea() at Sat Aug 13 13:23:16 2011
+xiaolong:"/cmds/area/initarea.c"->initarea() at Sat Aug 13 13:23:20 2011
+xiaolong:.qdlinux->set_sg_rongmao(39) at Sat Aug 13 14:20:47 2011
+xiaolong:.qdlinux->set_sg_rongmao(30) at Sat Aug 13 14:20:49 2011
+xiaolong:.xiaolong->init_sg_gifts(10,20,30) at Sat Aug 13 14:21:05 2011
+xiaolong:.qdlinux->set_sg_skill("sk_zhimou",30,0) at Sat Aug 13 14:21:21 2011
+xiaolong:.qdlinux->set_sg_skill("sk_zhimou",60,0) at Sat Aug 13 14:21:21 2011
+xiaolong:.qdlinux->set_sg_skill("sk_wuli",60,0) at Sat Aug 13 14:21:25 2011
+xiaolong:.qdlinux->set_sg_skill("sk_meili",60,0) at Sat Aug 13 14:21:31 2011
+xiaolong:.qdlinux->set_sg_skill("sk_jbhj",60,0) at Sat Aug 13 14:21:35 2011
+xiaolong:.qdlinux->set_sg_skill("neihong",30,0) at Sat Aug 13 14:21:49 2011
+xiaolong:.qdlinux->set_sg_skill("guwu",30,0) at Sat Aug 13 14:21:59 2011
+xiaolong:.xiaolong->init_sg_gifts(10,20,30) at Sat Aug 13 14:22:43 2011
+xiaolong:.qdlinux->init_sg_gifts(10,20,30) at Sat Aug 13 14:22:47 2011
+xiaolong:CHAR_D->save_data() at Sat Aug 13 14:45:33 2011
+xiaolong:CHAR_D->set_char("qdlinux","literate",1000) at Sat Aug 13 14:45:55 2011
+xiaolong:CHAR_D->query_literate_str("ice","literate",20000) at Sat Aug 13 14:50:41 2011
+xiaolong:CHAR_D->query_literate_str("match","literate",20000) at Sat Aug 13 14:50:51 2011
+xiaolong:CHAR_D->query_literate("match","literate",20000) at Sat Aug 13 14:51:03 2011
+xiaolong:CHAR_D->set_literate("match","literate",20000) at Sat Aug 13 14:51:15 2011
+xiaolong:CHAR_D->set_literate_str("match","literate",20000) at Sat Aug 13 14:51:25 2011
+xiaolong:CHAR_D->set_sg_literate("match","literate",20000) at Sat Aug 13 14:51:37 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:03 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:03 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:03 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:05 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:05 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:05 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:05 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:05 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:11 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:11 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:11 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:11 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:11 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:11 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:11 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:11 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:11 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:13 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:13 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:13 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:13 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:13 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:13 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:13 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:13 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:13 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:15 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:15 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:15 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:15 2011
+xiaolong:.match->set_robot(50) at Sat Aug 13 14:52:15 2011
+xiaolong:CHAR_D->set_char("match","robot",20000) at Sat Aug 13 14:53:07 2011
+xiaolong:CHAR_D->set_char("match","set_robot",20000) at Sat Aug 13 14:53:17 2011
+xiaolong:CHAR_D->set_char("match","literate",20000) at Sat Aug 13 14:53:25 2011
+xiaolong:CHAR_D->set_robot("match",",20000) at Sat Aug 13 14:53:41 2011
+xiaolong:.match->set_robot(0) at Sat Aug 13 14:53:55 2011
+xiaolong:.match->set_robot() at Sat Aug 13 14:54:01 2011
+xiaolong:.match->set_robot(1) at Sat Aug 13 14:54:05 2011
+xiaolong:.match->add_robot(1) at Sat Aug 13 14:54:19 2011
+xiaolong:.match->add_robot(1) at Sat Aug 13 14:54:19 2011
+xiaolong:.match->add_robot(1) at Sat Aug 13 14:54:19 2011
+xiaolong:.match->add_robot(1) at Sat Aug 13 14:54:19 2011
+xiaolong:.match->add_robot(1) at Sat Aug 13 14:54:19 2011
+xiaolong:.match->add_robot() at Sat Aug 13 14:54:29 2011
+xiaolong:.match->add_robot() at Sat Aug 13 14:55:07 2011
+xiaolong:.match->add_robot() at Sat Aug 13 14:55:07 2011
+xiaolong:.match->set_robot() at Sat Aug 13 14:55:13 2011
+xiaolong:.match->set_robot() at Sat Aug 13 14:55:19 2011
+xiaolong:.match->set_robot(1) at Sat Aug 13 14:55:19 2011
+xiaolong:.match->set_robot(1) at Sat Aug 13 14:55:19 2011
+xiaolong:.match->set_robot() at Sat Aug 13 14:55:23 2011
+xiaolong:.match->set_robot() at Sat Aug 13 14:55:23 2011
+xiaolong:.match->set_robot() at Sat Aug 13 14:55:23 2011
+xiaolong:.match->set_robot() at Sat Aug 13 14:55:23 2011
+xiaolong:.match->set_robot(1) at Sat Aug 13 14:55:31 2011
+xiaolong:CHAR_D->set_char_literate("match",5000) at Sat Aug 13 14:56:59 2011
+xiaolong:CHAR_D->get_char(match"literate")<30 at Sat Aug 13 14:59:21 2011
+xiaolong:CHAR_D->get_char(match"literate") at Sat Aug 13 14:59:21 2011
+xiaolong:CHAR_D->get_char(match"literate") at Sat Aug 13 14:59:23 2011
+xiaolong:CHAR_D->get_char(match,"literate") at Sat Aug 13 14:59:35 2011
+xiaolong:CHAR_D->get_char("match","literate") at Sat Aug 13 14:59:41 2011
+xiaolong:CHAR_D->get_char("match","literate") at Sat Aug 13 14:59:43 2011
+xiaolong:CHAR_D->get_char("wanglong","literate") at Sat Aug 13 14:59:53 2011
+xiaolong:CHAR_D->set_char("wanglong","literate")50 at Sat Aug 13 15:00:09 2011
+xiaolong:CHAR_D->set_char("wanglong","literate"),50 at Sat Aug 13 15:00:15 2011
+xiaolong:CHAR_D->set_char("wanglong","literate"),"50" at Sat Aug 13 15:00:15 2011
+xiaolong:CHAR_D->get_char("wanglong","literate") at Sat Aug 13 15:00:27 2011
+xiaolong:CHAR_D->get_char("wanglong","literate") at Sat Aug 13 15:00:31 2011
+xiaolong:CHAR_D->get_char("wanglong","literate") at Sat Aug 13 15:00:57 2011
+xiaolong:CHAR_D->get_char("wanglong","literate") at Sat Aug 13 15:01:03 2011
+xiaolong:CHAR_D->set_char("wanglong","literate","5000") at Sat Aug 13 15:01:27 2011
+xiaolong:CHAR_D->set_char("wanglong","score","5000") at Sat Aug 13 15:03:19 2011
+xiaolong:CHAR_D->set_char(match,"status",STATUS_ONLINE); at Sat Aug 13 15:07:31 2011
+xiaolong:CHAR_D->get_char("match") at Sat Aug 13 17:20:39 2011
+xiaolong:CHAR_D->set_char("match","literate",1069) at Sat Aug 13 17:33:35 2011
+xiaolong:AREA_D->get_area("changan","leader") at Sat Aug 13 23:45:40 2011
+xiaolong:AREA_D->get_area("changan","meeting") at Sat Aug 13 23:45:46 2011
+xiaolong:CHAR_D->save_data() at Sat Aug 13 23:46:04 2011
+xiaolong:(EV_WAR)->war("bandit",changan) at Sat Aug 13 23:48:28 2011
+xiaolong:(EV_WAR)->war("bandit",changan) at Sat Aug 13 23:48:32 2011
+xiaolong:/daemons/restart_d"->restart() at Sun Aug 14 00:00:04 2011
+xiaolong:./daemons/restart_d"->restart() at Sun Aug 14 00:00:08 2011
+xiaolong:./daemons/restart_d"->restart() at Sun Aug 14 00:00:12 2011
+xiaolong:"/daemons/restart_d"->restart() at Sun Aug 14 00:00:34 2011
+xiaolong:"/daemons/restart_d"->restart() at Sun Aug 14 00:00:36 2011
+xiaolong:CHAR_D->get_char("funnyboy","lc") at Sun Aug 14 00:02:58 2011
+xiaolong:CHAR_D->get_char("funnyboy","lc") at Sun Aug 14 00:02:58 2011
+xiaolong:CHAR_D->get_char("wanglong","lc") at Sun Aug 14 00:03:04 2011
+xiaolong:CHAR_D->get_char("capcom","") at Sun Aug 14 00:03:18 2011
+xiaolong:CHAR_D->get_char("capcom","literate") at Sun Aug 14 00:03:28 2011
+xiaolong:AREA_D->list_areas() at Sun Aug 14 00:03:50 2011
+xiaolong:AREA_D->create() at Sun Aug 14 00:04:06 2011
+xiaolong:AREA_D->list_areas() at Sun Aug 14 00:04:08 2011
+xiaolong:find_body("funnyboy") at Sun Aug 14 00:04:32 2011
+xiaolong:AREA_D->list_areas_all() at Sun Aug 14 00:05:10 2011
+xiaolong:AREA_D->set_areas_all() at Sun Aug 14 00:05:30 2011
+xiaolong:/sgdomain/area/cities/jiangling/jl_shuaizhang"->get_area() at Sun Aug 14 00:05:50 2011
+xiaolong:CHAR_D->check_char("is_maker",1) at Sun Aug 14 00:06:00 2011
+xiaolong:ROBOT->robot_test(find_user("loveyou"),(:award:)) at Sun Aug 14 00:08:14 2011
+xiaolong:ROBOT->robot_test(find_user("loveyou"),(award)) at Sun Aug 14 00:08:18 2011
+xiaolong:ROBOT->robot_test(find_user("loveyou"),(;award;)) at Sun Aug 14 00:08:22 2011
+xiaolong:ROBOT->robot_test(find_user("loveyou"),("award")) at Sun Aug 14 00:08:26 2011
+xiaolong:ungual(1, (: restore_object, "/data/daemons/countries", 1 :)) at Sun Aug 14 00:11:28 2011
+xiaolong:"/daemons/restart_d"->restart() at Sun Aug 14 01:37:36 2011
+xiaolong:"/daemons/restart_d"->restart() at Sun Aug 14 01:37:38 2011
+xiaolong:"/daemons/restart_d"->restart() at Sun Aug 14 01:37:40 2011
+xiaolong:"/daemons/restart_d"->restart() at Sun Aug 14 01:40:58 2011
+xiaolong:CHAR_D->set_char("xiaolong","reputation",20000) at Sun Aug 14 01:46:29 2011
+xiaolong:CHAR_D->set_char("wanglong","reputation",20000) at Sun Aug 14 01:46:33 2011
+xiaolong:CHAR_D->set_char("wanglong","reputation",2000000) at Sun Aug 14 01:46:39 2011
+xiaolong:CHAR_D->get_char("wanglong") at Sun Aug 14 01:54:29 2011
+xiaolong:CHAR_D->set_char("wanglong","tsx",20000) at Sun Aug 14 01:55:19 2011
+xiaolong:void create_guard(string p_area) at Sun Aug 14 17:54:51 2011
+xiaolong:.void create_guard(string p_area) at Sun Aug 14 17:54:53 2011
+xiaolong:"void create_guard(string p_area);" at Sun Aug 14 17:54:55 2011
+xiaolong:"void create_guard(string p_area) at Sun Aug 14 17:54:57 2011
+xiaolong:"void create_guard(string p_area);" at Sun Aug 14 17:54:59 2011
+xiaolong:create_guard(string p_area) at Sun Aug 14 17:55:29 2011
+xiaolong:"create_guard(string changan) at Sun Aug 14 17:55:37 2011
+xiaolong:"create_guard(string changan)" at Sun Aug 14 17:55:39 2011
+xiaolong:"create_guard(string changan)" at Sun Aug 14 17:55:41 2011
+xiaolong:CHAR_D->add_char(changan guard) at Sun Aug 14 17:56:27 2011
+xiaolong:CHAR_D->add_char("changan guard") at Sun Aug 14 17:56:39 2011
+xiaolong:CHAR_D->set_char("changan guard","my_type",p_type) at Sun Aug 14 17:56:57 2011
+xiaolong:CHAR_D->set_char("changan guard","my_type","p_type") at Sun Aug 14 17:57:01 2011
+xiaolong:CHAR_D->set_char("changan guard","my_area",changan) at Sun Aug 14 17:57:31 2011
+xiaolong:CHAR_D->set_char("changan guard","my_area","changan") at Sun Aug 14 17:57:37 2011
+xiaolong:CHAR_D->set_char("changan guard","area","changan") at Sun Aug 14 17:58:01 2011
+xiaolong:CHAR_D->set_char("changan guard","type","2") at Sun Aug 14 17:58:23 2011
+xiaolong:CHAR_D->set_char("changan guard","name",""HIC"司隶校尉"NOR"") at Sun Aug 14 17:58:43 2011
+xiaolong:CHAR_D->set_char("changan guard","name",""HIC"司隶校尉"NOR") at Sun Aug 14 17:58:49 2011
+xiaolong:CHAR_D->set_char("changan guard","name","HIC"司隶校尉"NOR"") at Sun Aug 14 17:59:05 2011
+xiaolong:CHAR_D->set_char("changan guard","name","HIC""司隶校尉""NOR"") at Sun Aug 14 17:59:13 2011
+xiaolong:CHAR_D->set_char(changan guard,"name",""HIC"司隶校尉"NOR"") at Sun Aug 14 17:59:29 2011
+xiaolong:CHAR_D->set_char(changan guard,"name","司隶校尉") at Sun Aug 14 18:00:39 2011
+xiaolong:CHAR_D->set_char("changan guard","name","司隶校尉") at Sun Aug 14 18:00:45 2011
+xiaolong:CHAR_D->set_char("changan guard","name",""HIC"司隶校尉"NOR"") at Sun Aug 14 18:00:53 2011
+xiaolong:CHAR_D->set_char("changan guard","name","HIC"司隶校尉"NOR") at Sun Aug 14 18:01:01 2011
+xiaolong:CHAR_D->set_char("changan guard","name","HIC司隶校尉NOR") at Sun Aug 14 18:01:05 2011
+xiaolong:CHAR_D->set_char("changan guard","name","司隶校尉") at Sun Aug 14 18:01:15 2011
+xiaolong:CHAR_D->set_char("changan guard","tmp",1) at Sun Aug 14 18:01:33 2011
+xiaolong:CHAR_D->set_char("changan guard","is_tmp",1) at Sun Aug 14 18:01:37 2011
+xiaolong:CHAR_D->set_char("changan guard","is_guard",1) at Sun Aug 14 18:01:43 2011
+xiaolong:CHAR_D->set_char("changan guard","guard",1) at Sun Aug 14 18:01:45 2011
+xiaolong:CHAR_D->set_char("changan guard","body","guard") at Sun Aug 14 18:01:57 2011
+xiaolong:o=CHAR_D->find_char(changan guard) at Sun Aug 14 18:02:15 2011
+xiaolong:CHAR_D->find_char(changan guard) at Sun Aug 14 18:02:21 2011
+xiaolong:CHAR_D->appear(p_id,p_area,AREA_D->get_area(p_area,"go"),"一名$N盛气凌人地走了过来。\n"); at Sun Aug 14 18:02:43 2011
+xiaolong:CHAR_D->appear(p_id,p_area,AREA_D->get_area(p_area,"go"),"一名$N盛气凌人地走了过来。\n") at Sun Aug 14 18:02:45 2011
+xiaolong:CHAR_D->appear(p_id,p_area,AREA_D->get_area(p_area,"go"),"一名$N盛气凌人地走了过来。\n"); at Sun Aug 14 18:02:47 2011
+xiaolong:CHAR_D->appear("changan guard",p_area,AREA_D->get_area(p_area,"go"),"一名$N盛气凌人地走了过来。\n"); at Sun Aug 14 18:03:07 2011
+xiaolong:CHAR_D->appear("changan guard","changan guard",AREA_D->get_area(p_area,"go"),"一名$N盛气凌人地走了过来。\n"); at Sun Aug 14 18:03:23 2011
+xiaolong:CHAR_D->appear("changan guard","changan guard",AREA_D->get_area("changan","go"),"一名$N盛气凌人地走了过来。\n"); at Sun Aug 14 18:03:35 2011
+xiaolong:CHAR_D->appear("changan guard","changan",AREA_D->get_area("changan","go"),"一名$N盛气凌人地走了过来。\n"); at Sun Aug 14 18:03:43 2011
+xiaolong:AREA_D->list_areas(); at Sun Aug 14 18:05:25 2011
+xiaolong:AREA_D->list_area(); at Sun Aug 14 18:05:29 2011
+xiaolong:AREA_D->list_areas(); at Sun Aug 14 18:05:33 2011
+xiaolong:AREA_D->list_areas() at Sun Aug 14 18:05:35 2011
+xiaolong:create_guard(changan) at Sun Aug 14 18:06:07 2011
+xiaolong:.create_guard(changan) at Sun Aug 14 18:06:09 2011
+xiaolong:. create_guard(changan) at Sun Aug 14 18:06:13 2011
+xiaolong:"create_guard"("changan") at Sun Aug 14 18:06:25 2011
+xiaolong:create_guard("changan") at Sun Aug 14 18:06:29 2011
+xiaolong:@CHAR_D->set_char("dong zhuo","area","huayin") at Sun Aug 14 18:44:37 2011
+xiaolong:@CHAR_D->set_char("dong zhuo","area","huayin"); at Sun Aug 14 18:44:41 2011
+xiaolong:CHAR_D->set_char("dong zhuo","area","huayin") at Sun Aug 14 18:44:49 2011
+xiaolong:COUNTRY_D->add_country("wanglong", "changan") at Sun Aug 14 18:47:49 2011
+xiaolong:BASE_D at Sun Aug 14 19:32:06 2011
+xiaolong:BASE_D->set_base("farm","area",({"changan","jiangling","huayin","tianshui","longxi",})) at Sun Aug 14 19:33:48 2011
+xiaolong:BASE_D->set_base("farm","area",({"changan","jiangling","huayin","tianshui","longxi",})) at Sun Aug 14 19:33:50 2011
+xiaolong:BASE_D->get_base("farm","area") at Sun Aug 14 19:34:48 2011
+xiaolong:BASE_D->get_base("farm","changan") at Sun Aug 14 19:34:52 2011
+xiaolong:BASE_D->add_base_area("farm","changan") at Sun Aug 14 19:35:12 2011
+xiaolong:BASE_D->get_base("farm","changan") at Sun Aug 14 19:36:00 2011
+xiaolong:BASE_D->set_base("changan","level"2})) at Sun Aug 14 19:36:34 2011
+xiaolong:BASE_D->set_base("changan","level"2)) at Sun Aug 14 19:36:36 2011
+xiaolong:BASE_D->set_base("changan","level"2")) at Sun Aug 14 19:36:40 2011
+xiaolong:CHAR_D->set_char("b;omgpd","literate",5011) at Wed Aug 17 18:09:21 2011
+xiaolong:.blingod->init_sg_gifts(20,30,10) at Wed Aug 17 18:12:55 2011
+xiaolong:.blingod->set_sg_rongmao(30) at Wed Aug 17 18:13:35 2011
+xiaolong:.blingod->set_sg_skill("sk_zhimou",100,0) at Wed Aug 17 18:13:55 2011
+xiaolong:.blingod->set_sg_skill("sk_wuli",100,0) at Wed Aug 17 18:13:59 2011
+xiaolong:.blingod->set_sg_skill("sk_meili",100,0) at Wed Aug 17 18:14:03 2011
+xiaolong:.blingod->set_sg_skill("hunluan",90,0) at Wed Aug 17 18:15:09 2011
+xiaolong:.blingod->set_sg_skill("jbsj",90,0) at Wed Aug 17 18:15:33 2011
+xiaolong:.blingod->set_sg_skill("guwu",90,0) at Wed Aug 17 18:15:41 2011
+xiaolong:.blingod->set_sg_skill("hunluan",90,0) at Wed Aug 17 18:15:47 2011
+xiaolong:.blingod->set_sg_skill("luoshi",90,0) at Wed Aug 17 18:15:55 2011
+xiaolong:.blingod->set_sg_skill("chenzhuo",90,0) at Wed Aug 17 18:15:59 2011
+xiaolong:.blingod->set_sg_skill("jbhj",90,0) at Wed Aug 17 18:16:03 2011
+xiaolong:.blingod->set_sg_skill("neihong",90,0) at Wed Aug 17 18:16:27 2011
+xiaolong:.blingod->set_sg_skill("neihong",90,0) at Wed Aug 17 18:16:53 2011
+xiaolong:.match->set_sg_skill("neihong",90,0) at Wed Aug 17 18:17:01 2011
+xiaolong:.match->set_sg_skill("hunluan",90,0) at Wed Aug 17 18:17:09 2011
+xiaolong:.match->set_sg_skill("jbsj",90,0) at Wed Aug 17 18:17:13 2011
+xiaolong:.match->set_sg_skill("guwu",90,0) at Wed Aug 17 18:17:17 2011
+xiaolong:.match->set_sg_skill("luoshi",90,0) at Wed Aug 17 18:17:19 2011
+xiaolong:.match->set_sg_skill("chenzhuo",90,0) at Wed Aug 17 18:17:25 2011
+xiaolong:.match->set_sg_skill("jbhj",90,0) at Wed Aug 17 18:17:29 2011
+xiaolong:.wanglong->set_sg_skill("jbhj",90,0) at Wed Aug 17 18:17:43 2011
+xiaolong:CHAR_D->save_data() at Wed Aug 17 18:18:45 2011
+xiaolong:COUNTRY_D->get_country("wanglong","hon"); at Wed Aug 17 21:31:59 2011
+xiaolong:COUNTRY_D->set_country("wanglong","hon","200000)"); at Wed Aug 17 21:32:09 2011
+xiaolong:COUNTRY_D->set_country("wanglong","hon","20000)"); at Wed Aug 17 21:32:15 2011
+xiaolong:COUNTRY_D->set_country(wanglong,"hon","20000)"); at Wed Aug 17 21:32:21 2011
+xiaolong:COUNTRY_D->set_country(wanglong,"hon","20000)") at Wed Aug 17 21:32:25 2011
+xiaolong:COUNTRY_D->set_country("wanglong","hon","20000)") at Wed Aug 17 21:32:29 2011
+xiaolong:COUNTRY_D->set_country("wanglong","hon","20000) at Wed Aug 17 21:32:39 2011
+xiaolong:COUNTRY_D->set_country("wanglong","hon","20000") at Wed Aug 17 21:32:41 2011
+xiaolong:COUNTRY_D->remove_country("wanglong","hon","20000") at Wed Aug 17 21:33:01 2011
+xiaolong:OFFICER_D->set_officer(1,name,主公) at Wed Aug 17 21:34:09 2011
+xiaolong:OFFICER_D->set_officer("1","name","主公") at Wed Aug 17 21:34:17 2011
+xiaolong:OFFICER_D->set_officer(1,"name","主公") at Wed Aug 17 21:34:21 2011
+xiaolong:COUNTRY_D->set_country(dong zhuo,"hon_year",50000); at Wed Aug 17 21:36:41 2011
+xiaolong:COUNTRY_D->set_country("dong zhuo","hon_year",50000); at Wed Aug 17 21:36:49 2011
+xiaolong:DELAY_D at Wed Aug 17 21:42:21 2011
+xiaolong:CHAR_D->new_player_char("longnv") at Thu Aug 18 21:55:02 2011
+xiaolong:CHAR_D->save_data() at Thu Aug 18 21:56:16 2011
+xiaolong:CHAR_D->save_data() at Thu Aug 18 21:59:33 2011
+xiaolong:.longnv->set_robot(0) at Thu Aug 18 22:00:29 2011
+xiaolong:.longnv->set_robot(0) at Thu Aug 18 22:00:29 2011
+xiaolong:CHAR_D->save_data() at Thu Aug 18 22:00:45 2011
+xiaolong:.longnv->set_sg_skill("sk_zhimou",60,0) at Thu Aug 18 22:02:51 2011
+xiaolong:.longnv->set_sg_skill("sk_meili",60,0) at Thu Aug 18 22:02:55 2011
+xiaolong:.longnv->set_sg_skill("sk_wuli",60,0) at Thu Aug 18 22:02:57 2011
+xiaolong:.longnv->set_sg_skill("sk_guwu",30,0) at Thu Aug 18 22:03:07 2011
+xiaolong:.longnv->set_sg_skill("guwu",30,0) at Thu Aug 18 22:03:09 2011
+xiaolong:.longnv->set_sg_skill("hunluan",30,0) at Thu Aug 18 22:03:11 2011
+xiaolong:.longnv->set_sg_skill("neihong",30,0) at Thu Aug 18 22:03:17 2011
+xiaolong:.longnv->set_sg_skill("jbsj",30,0) at Thu Aug 18 22:03:21 2011
+xiaolong:.longnv->set_sg_skill("chenzhuo",30,0) at Thu Aug 18 22:03:25 2011
+xiaolong:.longnv->set_sg_skill("luoshi",30,0) at Thu Aug 18 22:03:31 2011
+xiaolong:.longnv->set_sg_skill("jbhj",30,0) at Thu Aug 18 22:03:33 2011
+xiaolong:.longnv->init_sg_gifts(20,30,10) at Thu Aug 18 22:04:09 2011
+xiaolong:.longnv->set_sg_rongmao(30) at Thu Aug 18 22:04:21 2011
+xiaolong:CHAR_D->save_data() at Thu Aug 18 22:10:21 2011
+xiaolong:.longnv->set_sg_skill("sk_zhimou",60,1000) at Thu Aug 18 22:10:49 2011
+xiaolong:.longnv->set_sg_skill("sk_meili",60,1000) at Thu Aug 18 22:10:53 2011
+xiaolong:.longnv->set_sg_skill("sk_wuli",60,1000) at Thu Aug 18 22:10:55 2011
+xiaolong:CHAR_D->save_data() at Thu Aug 18 22:11:03 2011
+xiaolong:set_objects( (["/sgdomain/yizhan/mafu.c" : 1,]) ); at Thu Aug 18 23:02:33 2011
+xiaolong:SETHERE at Thu Aug 18 23:03:01 2011
+xiaolong:SETHERE( (["/sgdomain/yizhan/mafu.c" : 1,]) ); at Thu Aug 18 23:03:33 2011
+xiaolong:SETHERE("o"(["/sgdomain/yizhan/mafu.c" : 1,]) ); at Thu Aug 18 23:03:47 2011
+xiaolong:SETHERE("o"(["/sgdomain/yizhan/mafu.c":1])); at Thu Aug 18 23:04:01 2011
+xiaolong:SETHERE("o",(["/sgdomain/yizhan/mafu.c":1])); at Thu Aug 18 23:04:11 2011
+xiaolong:SETHERE("o",(["/sgdomain/obj/other/bed":1])); at Thu Aug 18 23:05:51 2011
+xiaolong:SETHERE("o",([POBJ+"other/bed" : 1 ])); at Thu Aug 18 23:06:05 2011
+xiaolong:SETHERE("o",([POBJ+"other/bed":1])); at Thu Aug 18 23:06:18 2011
+xiaolong:AREA_D->get_area(yunnan,"st") at Fri Aug 19 03:40:12 2011
+xiaolong:AREA_D->get_area("yunnan","st") at Fri Aug 19 03:40:16 2011
+xiaolong:AREA_D->set_area("changan","prison","ca_jianyu") at Fri Aug 19 04:07:34 2011
+xiaolong:AREA_D->set_area("changan","prison","ca_jianyu") at Fri Aug 19 04:08:58 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 04:09:22 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 04:09:26 2011
+xiaolong:AREA_D->area_init() at Fri Aug 19 04:09:30 2011
+xiaolong:AREA_D->get_area("huayin","leader") at Fri Aug 19 04:12:34 2011
+xiaolong:AREA_D->get_area("huayin","meeting") at Fri Aug 19 04:12:38 2011
+xiaolong:AREA_D->get_area("huayin","path") at Fri Aug 19 04:12:42 2011
+xiaolong:AREA_D->get_area("huayin","prison") at Fri Aug 19 04:12:44 2011
+xiaolong:AREA_D->get_area("huayin","st") at Fri Aug 19 04:12:48 2011
+xiaolong:AREA_D->get_area("huayin","open") at Fri Aug 19 04:12:54 2011
+xiaolong:AREA_D->get_area("changan","open") at Fri Aug 19 04:12:58 2011
+xiaolong:AREA_D->get_area("changan","go") at Fri Aug 19 04:13:08 2011
+xiaolong:AREA_D->get_area("changan","fly") at Fri Aug 19 04:13:10 2011
+xiaolong:AREA_D->get_area("changan","prison") at Fri Aug 19 04:13:10 2011
+xiaolong:AREA_D->get_area("changan","path") at Fri Aug 19 04:13:30 2011
+xiaolong:AREA_D->get_area("changan","meeting") at Fri Aug 19 04:13:34 2011
+xiaolong:AREA_D->get_area("changan","go") at Fri Aug 19 04:13:42 2011
+xiaolong:AREA_D->get_area("changan","zhou") at Fri Aug 19 04:13:44 2011
+xiaolong:AREA_D->get_area("changan","zhou") at Fri Aug 19 04:13:44 2011
+xiaolong:AREA_D->get_area("changan","fly") at Fri Aug 19 04:13:54 2011
+xiaolong:AREA_D->get_area("changan","entry") at Fri Aug 19 04:14:10 2011
+xiaolong:AREA_D->get_area("changan","market") at Fri Aug 19 04:14:26 2011
+xiaolong:AREA_D->get_area("changan","entry","ca_nanchengmen.c"): at Fri Aug 19 04:15:32 2011
+xiaolong:AREA_D->get_area("changan","entry","ca_nanchengmen.c"); at Fri Aug 19 04:15:34 2011
+xiaolong:AREA_D->set_area("changan","entry","ca_nanchengmen"); at Fri Aug 19 04:15:46 2011
+xiaolong:./wiz/emperor/exec.c at Fri Aug 19 04:29:38 2011
+xiaolong:"/wiz/emperor/exec.c at Fri Aug 19 04:29:44 2011
+xiaolong:"/wiz/emperor/exec.c" at Fri Aug 19 04:29:46 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 04:35:26 2011
+xiaolong:"incense=new("/sgdomain/jieyi/incense.c");" at Fri Aug 19 05:21:51 2011
+xiaolong:"incense=new("/sgdomain/jieyi/incense.c"); at Fri Aug 19 05:21:59 2011
+xiaolong:.incense=new("/sgdomain/jieyi/incense.c"); at Fri Aug 19 05:22:15 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 05:56:56 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 05:59:16 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 06:00:02 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 06:00:06 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 06:01:23 2011
+xiaolong:SETHERE("o",(["/sgdomain/event/ev_guard.c":1])) at Fri Aug 19 06:02:35 2011
+xiaolong:SETHERE("o",(["/sgdomain/event/ev_guard.c":1])); at Fri Aug 19 06:02:59 2011
+xiaolong:SETHERE("o",(["/sgdomain/event/ev_guard.c":1])) at Fri Aug 19 06:03:05 2011
+xiaolong:SETHERE("o",(["/sgdomain/prison/yuzu.c":1])) at Fri Aug 19 06:04:05 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 06:04:17 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 06:04:21 2011
+xiaolong:AREA_D->area_init() at Fri Aug 19 06:04:23 2011
+xiaolong:"/sgdomain/modlues/ev_guy.c"->create_boy("xiangping") at Fri Aug 19 06:16:50 2011
+xiaolong:"/sgdomain/modules/m_charnpc/guard.c"->create_guard("baima") at Fri Aug 19 06:17:12 2011
+xiaolong:"/sgdomain/modules/m_charnpc/guard.c"->create_guard("changan") at Fri Aug 19 06:17:14 2011
+xiaolong:"/sgdomain/modules/m_charnpc/guard.c"->create_guard("baima") at Fri Aug 19 06:18:02 2011
+xiaolong:"/sgdomain/modlues/ev_guard.c"->create_guard("baima") at Fri Aug 19 06:18:18 2011
+xiaolong:"/sgdomain/modlues/ev_guard.c"->create_guard("baima"); at Fri Aug 19 06:18:26 2011
+xiaolong:"/sgdomain/modlues/ev_guard.c"->create_guard("baima"); at Fri Aug 19 06:18:44 2011
+xiaolong:"/sgdomain/modlues/ev_guard.c"->create_guard("changan"); at Fri Aug 19 06:18:48 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("baima"); at Fri Aug 19 06:19:06 2011
+xiaolong:CHAR_D->appear("guard"); at Fri Aug 19 06:23:44 2011
+xiaolong:CHAR_D->appear("baima guard"); at Fri Aug 19 06:24:02 2011
+xiaolong:CHAR_D->appear("prison"); at Fri Aug 19 06:25:02 2011
+xiaolong:CHAR_D->appear("baima guard","baima","bm_tiesuoqiao") at Fri Aug 19 06:27:06 2011
+xiaolong:CHAR_D->find_char(yu zu); at Fri Aug 19 06:47:24 2011
+xiaolong:CHAR_D->find_char(zhang fei); at Fri Aug 19 06:47:28 2011
+xiaolong:AREA_D->get_area(changan,"prison"); at Fri Aug 19 06:47:52 2011
+xiaolong:AREA_D->get_area("changan","prison"); at Fri Aug 19 06:48:00 2011
+xiaolong:AREA_D->get_area("changan","prison"); at Fri Aug 19 06:48:00 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 06:51:10 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 06:51:18 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan"); at Fri Aug 19 06:51:24 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 06:51:26 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 06:51:58 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("changan") at Fri Aug 19 06:52:46 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("huayin") at Fri Aug 19 06:53:30 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("huayin") at Fri Aug 19 06:53:52 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("huayin") at Fri Aug 19 07:26:12 2011
+xiaolong:CHAR_D->appear("huayin guard") at Fri Aug 19 07:33:24 2011
+xiaolong:SETHERE("o",(["/sgdomain/area/guan/huayin/npc/shuijing.c":1])) at Fri Aug 19 07:40:39 2011
+xiaolong:SETHERE("o",(["/sgdomain/event/ev_guard.c":1])) at Fri Aug 19 07:40:53 2011
+xiaolong:SETHERE("o",(["sgdomain/modules/guard.c":1])) at Fri Aug 19 07:41:21 2011
+xiaolong:SETHERE("o",(["sgdomain/modules/m_charnpcguard.c":1])) at Fri Aug 19 07:41:27 2011
+xiaolong:SETHERE("o",(["sgdomain/modules/m_charnpc/guard.c":1])) at Fri Aug 19 07:41:29 2011
+xiaolong:CHAR_D->set_char(longnv,"move",/a/changan/ca_nanchengmen); at Fri Aug 19 08:13:31 2011
+xiaolong:CHAR_D->set_char(longnv,"move","/a/changan/ca_nanchengmen"); at Fri Aug 19 08:13:37 2011
+xiaolong:CHAR_D->set_char("longnv","move","/a/changan/ca_nanchengmen"); at Fri Aug 19 08:13:45 2011
+xiaolong:CHAR_D->set_char("longnv","goto","/a/changan/ca_nanchengmen"); at Fri Aug 19 08:13:51 2011
+xiaolong:CHAR_D->set_char("longnv","go","/a/changan/ca_nanchengmen"); at Fri Aug 19 08:13:55 2011
+xiaolong:CHAR_D->set_char("longnv","go","/a/changan/ca_nanchengmen.c"); at Fri Aug 19 08:13:57 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 08:34:45 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 08:34:47 2011
+xiaolong:COUNTRY_D->save_data() at Fri Aug 19 08:35:03 2011
+xiaolong:SETHERE("o",(["/sgdomain/event/ev_guard.c":1])) at Fri Aug 19 09:01:03 2011
+xiaolong:SETHERE("o",(["/sgdomailn/event/ev_guard.c":1])) at Fri Aug 19 09:01:31 2011
+xiaolong:SETHERE("o",(["/sgdomail/event/ev_guard.c":1])) at Fri Aug 19 09:01:37 2011
+xiaolong:SETHERE("o",(["/sgdomain/event/ev_guard.c":1])) at Fri Aug 19 09:01:55 2011
+xiaolong:SETHERE("o",(["/sgdomain/modules/m_charnpc/guard.c":1])) at Fri Aug 19 09:04:33 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("huayin") at Fri Aug 19 09:22:43 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 09:26:49 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 09:26:53 2011
+xiaolong:AREA_D->area_init() at Fri Aug 19 09:26:55 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 09:29:49 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 09:29:53 2011
+xiaolong:COUNTRY_D->save_data() at Fri Aug 19 09:29:57 2011
+xiaolong:AREA_D->m_modified=1 at Fri Aug 19 09:40:07 2011
+xiaolong:AREA_D->m_modified=1 at Fri Aug 19 09:40:07 2011
+xiaolong:AREA_D->m_modified=0 at Fri Aug 19 09:40:11 2011
+xiaolong:AREA_D->m_modified=0 at Fri Aug 19 09:40:11 2011
+xiaolong:AREA_D->m_modified=1; at Fri Aug 19 09:40:13 2011
+xiaolong:AREA_D->m_modified=1; at Fri Aug 19 09:40:15 2011
+xiaolong:unguarded at Fri Aug 19 09:40:37 2011
+xiaolong:"/sgdomain/event/ev_bwdh.c"->check_bwdh() at Fri Aug 19 09:44:17 2011
+xiaolong:"/sgdomain/event/ev_position.c" at Fri Aug 19 09:55:27 2011
+xiaolong:"/sgdomain/event/ev_position.c"->check_position() at Fri Aug 19 09:55:45 2011
+xiaolong:"/sgdomain/event/ev_position.c"->check_position() at Fri Aug 19 09:55:47 2011
+xiaolong:set_objects((["/sgdomain/prison/yuzu.c":1])); at Fri Aug 19 09:56:31 2011
+xiaolong:CHAR_D->put_npc_char("prison", here) at Fri Aug 19 09:57:25 2011
+xiaolong:SETHERE("o",(["/sgdomain/prison/yuzu.c":1])) at Fri Aug 19 09:59:23 2011
+xiaolong:"set_objects( ([POBJ+"other/bed" : 1 ]) );" at Fri Aug 19 10:00:57 2011
+xiaolong:"set_objects( ([POBJ+"other/bed" : 1 ]) "); at Fri Aug 19 10:01:03 2011
+xiaolong:"set_objects( ([POBJ+"other/bed" : 1 ]) ); at Fri Aug 19 10:01:05 2011
+xiaolong:set_objects( ([POBJ+"other/bed" : 1 ]) ); at Fri Aug 19 10:01:07 2011
+xiaolong:. set_objects( ([POBJ+"other/bed" : 1 ]) ); at Fri Aug 19 10:01:11 2011
+xiaolong:.set_objects( ([POBJ+"other/bed" : 1 ]) ); at Fri Aug 19 10:01:15 2011
+xiaolong:OBJ_D->set_obj("obj_d","para","xxx") at Fri Aug 19 10:04:01 2011
+xiaolong:OBJ_D->set_obj("obj_d","para","prison") at Fri Aug 19 10:04:05 2011
+xiaolong:OBJ_D->set_obj("obj_d","para","sgdomain/prison/yuzu.c") at Fri Aug 19 10:04:15 2011
+xiaolong:OBJ_D->set_obj("obj_d","para","/sgdomain/prison/yuzu.c") at Fri Aug 19 10:04:19 2011
+xiaolong:OBJ_D->set_obj("here","para","/sgdomain/prison/yuzu.c") at Fri Aug 19 10:04:25 2011
+xiaolong:OBJ_D->set_obj("guard","para","/sgdomain/prison/yuzu.c") at Fri Aug 19 10:04:33 2011
+xiaolong:OBJ_D->set_obj("yuzu","para","/sgdomain/prison/yuzu.c") at Fri Aug 19 10:04:37 2011
+xiaolong:TASK_D->query_tasks() at Fri Aug 19 10:04:49 2011
+xiaolong:AREA_D->get_area(changan,"market"); at Fri Aug 19 10:13:31 2011
+xiaolong:AREA_D->get_area("changan","market"); at Fri Aug 19 10:13:37 2011
+xiaolong:SETHERE("o",(["sgdomain/modules/m_charnpc/merchant.c":1])) at Fri Aug 19 10:15:49 2011
+xiaolong:"sgdomain/event/ev_merchant/appear.c"->create_merchant(changan) at Fri Aug 19 10:21:47 2011
+xiaolong:"sgdomain/event/ev_merchant/appear.c"->create_merchant(changan); at Fri Aug 19 10:21:49 2011
+xiaolong:"sgdomain/event/ev_merchant/appear.c"->add_merchant(changan); at Fri Aug 19 10:21:53 2011
+xiaolong:"sgdomain/event/ev_merchant.c"->add_merchant(changan); at Fri Aug 19 10:22:03 2011
+xiaolong:"sgdomain/event/ev_merchant.c"->create_merchant(changan); at Fri Aug 19 10:22:07 2011
+xiaolong:"/sgdomain/event/ev_merchant.c"->check_merchant() at Fri Aug 19 10:24:07 2011
+xiaolong:SETHERE("o",(["/sgdomain/modules/m_charnpc/merchant.c":1])) at Fri Aug 19 10:24:39 2011
+xiaolong:SETHERE("o",(["/sgdomain/npc/mafu.c":1])) at Fri Aug 19 10:28:57 2011
+xiaolong:"/cmds/verbs/stand"->do_stand(); at Fri Aug 19 10:34:34 2011
+xiaolong:"/cmds/verbs/ride"->do_stand(); at Fri Aug 19 10:34:40 2011
+xiaolong:"/cmds/verbs/ride"->do_ride(); at Fri Aug 19 10:34:42 2011
+xiaolong:"/cmds/verbs/ride"->do_ridetwo(); at Fri Aug 19 10:34:44 2011
+xiaolong:"/cmds/verbs/ride"->do_ridetwo(horse); at Fri Aug 19 10:34:46 2011
+xiaolong:"/cmds/verbs/ride"->do_ride(horse); at Fri Aug 19 10:34:58 2011
+xiaolong:"/cmds/verbs/ride"->do_ride(horse); at Fri Aug 19 10:34:58 2011
+xiaolong:"/cmds/verbs/ride"->do_ride(horse); at Fri Aug 19 10:34:58 2011
+xiaolong:.ride at Fri Aug 19 11:02:06 2011
+xiaolong:.ride horse at Fri Aug 19 11:02:10 2011
+xiaolong:set_preposition("on") at Fri Aug 19 11:12:16 2011
+xiaolong:.set_preposition("on") at Fri Aug 19 11:12:22 2011
+xiaolong:.set_preposition("on") at Fri Aug 19 11:12:24 2011
+xiaolong:. "set_preposition("on") at Fri Aug 19 11:12:28 2011
+xiaolong:. "set_preposition("on")" at Fri Aug 19 11:12:30 2011
+xiaolong:"set_preposition("on")" at Fri Aug 19 11:12:32 2011
+xiaolong:"set_preposition("on")" at Fri Aug 19 11:12:34 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 11:35:10 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 11:35:14 2011
+xiaolong:COUNTRY_D->save_data() at Fri Aug 19 11:35:18 2011
+xiaolong:SETHERE("o",(["/sgdomain/modules/m_charnpc/xianren/huatuo.c":1])) at Fri Aug 19 11:51:36 2011
+xiaolong:SETHERE("o",(["/sgdomain/modules/m_charnpc/xianren/baodating.c":1])) at Fri Aug 19 11:52:24 2011
+xiaolong:SETHERE("o",(["/sgdomain/modules/m_charnpc/xianren/nanhua.c":1])) at Fri Aug 19 11:52:30 2011
+xiaolong:SETHERE("o",(["/sgdomain/modules/m_charnpc/xianren/xianren_act.c":1])) at Fri Aug 19 11:52:36 2011
+xiaolong:SETHERE("o",(["/sgdomain/modules/m_charnpc/xianren/xuzijiang.c":1])) at Fri Aug 19 11:52:40 2011
+xiaolong:SETHERE("o",(["/sgdomain/modules/m_charnpc/xianren/yuji.c":1])) at Fri Aug 19 11:52:46 2011
+xiaolong:CHAR_D->appear("hua tuo") at Fri Aug 19 12:28:48 2011
+xiaolong:CHAR_D->appear("hua tuo") at Fri Aug 19 12:28:58 2011
+xiaolong:CHAR_D->appear("huatuo") at Fri Aug 19 12:32:24 2011
+xiaolong:unguarded(1, (: restore_object, SAVE_FILE, 1 :)); at Fri Aug 19 12:51:01 2011
+xiaolong:unguarded(1, (: restore_object, SAVE_FILE, 1 :)); at Fri Aug 19 12:51:03 2011
+xiaolong:.unguarded(1, (: restore_object, SAVE_FILE, 1 :)); at Fri Aug 19 12:51:07 2011
+xiaolong:TASK_D->query_tasks() at Fri Aug 19 14:00:10 2011
+xiaolong:TASK_D->remove_task(send_guard) at Fri Aug 19 14:00:24 2011
+xiaolong:TASK_D->remove_task(task_id) at Fri Aug 19 14:00:28 2011
+xiaolong:TASK_D->remove_all() at Fri Aug 19 14:00:32 2011
+xiaolong:TASK_D->remove_task(task_id) at Fri Aug 19 14:00:40 2011
+xiaolong:TASK_D->remove_all() at Fri Aug 19 14:00:44 2011
+xiaolong:"/wiz/ljty/verb/ride at Fri Aug 19 14:34:50 2011
+xiaolong:"/wiz/ljty/verb/ride" at Fri Aug 19 14:34:50 2011
+xiaolong:"/wiz/ljty/verb/ride"->ride() at Fri Aug 19 14:34:58 2011
+xiaolong:"/wiz/ljty/verb/ride"->ride(horse) at Fri Aug 19 14:35:00 2011
+xiaolong:"/wiz/ljty/verb/ride"->ride_horse() at Fri Aug 19 14:35:04 2011
+xiaolong:what->ride(); at Fri Aug 19 14:39:30 2011
+xiaolong:"what->ride(); at Fri Aug 19 14:39:34 2011
+xiaolong:"what"->ride(); at Fri Aug 19 14:39:50 2011
+xiaolong:"what"->ride(horse); at Fri Aug 19 14:40:00 2011
+xiaolong:"horse"->ride(horse); at Fri Aug 19 14:40:06 2011
+xiaolong:"horse"->ride(horse); at Fri Aug 19 14:40:08 2011
+xiaolong:horse->ride(horse); at Fri Aug 19 14:40:10 2011
+xiaolong:horse->ride(horse); at Fri Aug 19 14:40:12 2011
+xiaolong:"/cmds/verbs/stand"->do_stand(); at Fri Aug 19 14:55:47 2011
+xiaolong:"/cmds/verbs/stand"->do_ride(); at Fri Aug 19 14:55:53 2011
+xiaolong:"/cmds/verbs/ride"->do_ride(); at Fri Aug 19 14:55:57 2011
+xiaolong:"/cmds/verbs/ride"->do_ride(); at Fri Aug 19 14:55:59 2011
+xiaolong:"/cmds/verbs/ride"->do_ride(); at Fri Aug 19 14:55:59 2011
+xiaolong:"/cmds/verbs/ride"->do_ride(horse); at Fri Aug 19 14:56:03 2011
+xiaolong:what->ride(); at Fri Aug 19 14:56:37 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 15:11:29 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 15:11:33 2011
+xiaolong:COUNTRY_D->save_data() at Fri Aug 19 15:11:35 2011
+xiaolong:AREA_D->area_init() at Fri Aug 19 15:11:41 2011
+xiaolong:CHAR_D->appear("wang kang") at Fri Aug 19 15:27:57 2011
+xiaolong:CHAR_D->appear("wang kang") at Fri Aug 19 15:28:01 2011
+xiaolong:CHAR_D->appear("wang kang","wuzhangyuan","meeting") at Fri Aug 19 15:28:27 2011
+xiaolong:CHAR_D->appear("wang kang","wuzhangyuan","meeting") at Fri Aug 19 15:28:29 2011
+xiaolong:CHAR_D->appear("wang kang","wuzhangyuan","meeting") at Fri Aug 19 15:28:47 2011
+xiaolong:unguarded(1, (: save_object, SAVE_FILE :)); at Fri Aug 19 15:46:19 2011
+xiaolong:"unguarded(1, (: save_object, SAVE_FILE :)); at Fri Aug 19 15:46:25 2011
+xiaolong:"unguarded"(1, (: save_object, SAVE_FILE :)); at Fri Aug 19 15:46:29 2011
+xiaolong:AREA_D->get_area(here,"go"); at Fri Aug 19 15:55:02 2011
+xiaolong:AREA_D->get_area(wuzhangyuan,"go"); at Fri Aug 19 15:55:10 2011
+xiaolong:AREA_D->get_area("wuzhangyuan","go"); at Fri Aug 19 15:55:16 2011
+xiaolong:AREA_D->get_area("wuzhangyuan","path"); at Fri Aug 19 15:55:22 2011
+xiaolong:AREA_D->get_area("wuzhangyuan","path"); at Fri Aug 19 15:55:24 2011
+xiaolong:AREA_D->get_area("wuzhangyuan","area"); at Fri Aug 19 15:55:26 2011
+xiaolong:AREA_D->get_area(changan,"go"); at Fri Aug 19 15:55:42 2011
+xiaolong:AREA_D->get_area(changan,go); at Fri Aug 19 15:55:46 2011
+xiaolong:AREA_D->get_area("changan",go); at Fri Aug 19 15:55:50 2011
+xiaolong:AREA_D->get_area("changan","go"); at Fri Aug 19 15:55:54 2011
+xiaolong:AREA_D->get_area("changan","go") at Fri Aug 19 15:56:28 2011
+xiaolong:AREA_D->get_area("changan","go") at Fri Aug 19 15:56:46 2011
+xiaolong:AREA_D->get_area("changan","path") at Fri Aug 19 15:56:50 2011
+xiaolong:AREA_D->get_area("changan","path") at Fri Aug 19 15:56:52 2011
+xiaolong:AREA_D->get_area("wuzhangyuan","path") at Fri Aug 19 15:56:58 2011
+xiaolong:AREA_D->get_area("go","path") at Fri Aug 19 15:57:02 2011
+xiaolong:AREA_D->get_area("wuzhangyuan","go") at Fri Aug 19 15:57:08 2011
+xiaolong:AREA_D->get_area("wuzhangyuan","entry") at Fri Aug 19 15:57:10 2011
+xiaolong:AREA_D->get_area("wuzhangyuan","go") at Fri Aug 19 15:59:44 2011
+xiaolong:AREA_D->set_area("wuzhangyuan","/sgdomain/modules/m_charnpc/guard.c":1,"go") at Fri Aug 19 16:01:38 2011
+xiaolong:AREA_D->set_area("wuzhangyuan","/sgdomain/modules/m_charnpc/guard.c": 1,"go") at Fri Aug 19 16:01:42 2011
+xiaolong:AREA_D->set_area("wuzhangyuan","/sgdomain/modules/m_charnpc/guard.c":1,"wzy_xiaolu2") at Fri Aug 19 16:02:06 2011
+xiaolong:AREA_D->set_area("wuzhangyuan","/sgdomain/modules/m_charnpc/guard.c":1,"wzy_xiaolu2") at Fri Aug 19 16:02:08 2011
+xiaolong:AREA_D->set_area("wuzhangyuan","/sgdomain/modules/m_charnpc/guard.c","wzy_xiaolu2") at Fri Aug 19 16:02:14 2011
+xiaolong:AREA_D->set_area("wuzhangyuan","/sgdomain/moldules/m_charnpc/guard.c","wzy_xiaolu2") at Fri Aug 19 16:05:08 2011
+xiaolong:/sgdomain/event/ev_guard.c"->create_guard("wuzhangyuan") at Fri Aug 19 16:05:22 2011
+xiaolong:/sgdomain/event/ev_guard.c"->create_guard("wuzhangyuan") at Fri Aug 19 16:05:24 2011
+xiaolong:/sgdomain/event/ev_guard.c"->create_guard("wuzhangyuan") at Fri Aug 19 16:05:54 2011
+xiaolong:"/sgdomain/event/ev_guard.c"->create_guard("wuzhangyuan") at Fri Aug 19 16:05:58 2011
+xiaolong:"/sgdomain/modules/m_charnpc/guard.c"->create_guard("wuzhangyuan") at Fri Aug 19 16:06:22 2011
+xiaolong:"/sgdomain/modules/m_charnpc/guard.c"->create_guard("wuzhangyuan") at Fri Aug 19 16:06:28 2011
+xiaolong:"/sgdomain/modules/m_charnpc/guard.c at Fri Aug 19 16:06:32 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 16:26:36 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 16:26:40 2011
+xiaolong:COUNTRY_D->save_data() at Fri Aug 19 16:26:44 2011
+xiaolong:an_area at Fri Aug 19 16:32:26 2011
+xiaolong:environment at Fri Aug 19 16:48:09 2011
+xiaolong:environment at Fri Aug 19 16:48:09 2011
+xiaolong:environment("/sgdomain/modules/m_charnpc/guard.c"())->get_area(); at Fri Aug 19 16:48:43 2011
+xiaolong:environment("/sgdomain/modules/m_charnpc/guard.c"())->get_area(); at Fri Aug 19 16:48:45 2011
+xiaolong:environment("/sgdomain/modules/m_charnpc/guard.c"())->set_area(hangu); at Fri Aug 19 16:48:53 2011
+xiaolong:area = environment(this_object())->get_area(); at Fri Aug 19 16:49:13 2011
+xiaolong:environment(this_object("/sgdomain/modules/m_charnpc/guard.c"))->set_area(); at Fri Aug 19 16:49:33 2011
+xiaolong:environment(this_object("/sgdomain/modules/m_charnpc/guard.c"))->set_area(hangu); at Fri Aug 19 16:49:37 2011
+xiaolong:environment"(this_object("/sgdomain/modules/m_charnpc/guard.c"))"->set_area(hangu); at Fri Aug 19 16:49:49 2011
+xiaolong:environment"(this_object("/sgdomain/modules/m_charnpc/guard.c"))"->set_area(hangu); at Fri Aug 19 16:49:49 2011
+xiaolong:room=environment(p_obj); at Fri Aug 19 16:58:39 2011
+xiaolong:"room=environment"(p_obj); at Fri Aug 19 16:58:51 2011
+xiaolong:"room=environment"("p_obj"); at Fri Aug 19 16:58:55 2011
+xiaolong:"room=environment"("guard"); at Fri Aug 19 16:58:59 2011
+xiaolong:room=environment(this_object()); at Fri Aug 19 17:10:29 2011
+xiaolong:.room=environment(this_object()); at Fri Aug 19 17:10:39 2011
+xiaolong:"room=environment(this_object()); at Fri Aug 19 17:10:41 2011
+xiaolong:"room=environment(this_object());" at Fri Aug 19 17:10:43 2011
+xiaolong:"room=environment(this_object()); at Fri Aug 19 17:10:47 2011
+xiaolong:"room=environment(this_object(guard)); at Fri Aug 19 17:10:51 2011
+xiaolong:"room=environment(this_object(guard.c)); at Fri Aug 19 17:10:53 2011
+xiaolong:"room=environment(this_object(sgdomain/modules/m_charnpc/guard.c)); at Fri Aug 19 17:11:05 2011
+xiaolong:"room=go(this_object(sgdomain/modules/m_charnpc/guard.c)); at Fri Aug 19 17:11:19 2011
+xiaolong:("/sgdomain/event/ev_xianren.c")->aut_appear(); at Fri Aug 19 17:25:49 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 17:57:42 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 17:57:46 2011
+xiaolong:COUNTRY_D->save_data() at Fri Aug 19 17:57:52 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 20:29:01 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 20:29:05 2011
+xiaolong:COUNTRY_D->save_data() at Fri Aug 19 20:29:07 2011
+xiaolong:AREA_D->save_data() at Fri Aug 19 20:57:32 2011
+xiaolong:CHAR_D->save_data() at Fri Aug 19 20:57:34 2011
+xiaolong:COUNTRY_D->save_data() at Fri Aug 19 20:57:38 2011
+xiaolong:COUNTRY_D->set_country("wanglong","level","2"); at Fri Aug 19 21:03:54 2011
+xiaolong:COUNTRY_D->set_country("wanglong","level","2") at Fri Aug 19 21:03:58 2011
+xiaolong:COUNTRY_D->set_country("wanglong","level",2) at Fri Aug 19 21:04:06 2011
+xiaolong:COUNTRY_D->set_country("wanglong","level",1) at Fri Aug 19 21:04:14 2011
+xiaolong:AREA_D->get_area(dingtao,"go"); at Fri Aug 19 23:47:02 2011
+xiaolong:AREA_D->get_area("dingtao","go"); at Fri Aug 19 23:47:08 2011
+xiaolong:AREA_D->get_area("dingtao",go); at Fri Aug 19 23:47:14 2011
+xiaolong:AREA_D->save_data() at Sat Aug 20 00:39:47 2011
+xiaolong:CHAR_D->save_data() at Sat Aug 20 00:39:49 2011
+xiaolong:COUNTRY_D->save_data() at Sat Aug 20 00:39:53 2011
+xiaolong:CHAR_D->get_char(p_id,"wear"); at Sat Aug 20 01:43:30 2011
+xiaolong:CHAR_D->get_char(wanglong,"wear"); at Sat Aug 20 01:43:32 2011
+xiaolong:CHAR_D->get_char(wanglong,"wear","chituhorse"); at Sat Aug 20 01:43:48 2011
+xiaolong:CHAR_D->set_char("wanglong","wear","chituhorse"); at Sat Aug 20 01:43:56 2011
+xiaolong:CHAR_D->set_char("wanglong","wear","sgdomain/obj/horse/chituhorse"); at Sat Aug 20 01:44:32 2011
+xiaolong:CHAR_D->set_char("wanglong","wear","sgdomain/obj/horse/chituhorse"); at Sat Aug 20 01:44:32 2011
+xiaolong:o_h=OBJ_D->clone_obj(m_wear["horse"]); at Sat Aug 20 01:45:06 2011
+xiaolong:o=OBJ_D->clone_obj(m_wear["horse"]); at Sat Aug 20 01:45:14 2011
+xiaolong:OBJ_D->clone_obj(m_wear["horse"]); at Sat Aug 20 01:45:20 2011
+xiaolong:OBJ_D->clone_obj(m_wear["chituhorse"]); at Sat Aug 20 01:45:52 2011
+xiaolong:OBJ_D->clone_obj(m_wear["chituhorse"]); at Sat Aug 20 01:45:52 2011
+xiaolong:OBJ_D->clone_obj(wanglong,m_wear["chituhorse"]); at Sat Aug 20 01:52:32 2011
+xiaolong:OBJ_D->clone_obj("wanglong",m_wear["chituhorse"]); at Sat Aug 20 01:52:36 2011
+xiaolong:OBJ_D->clone_obj("wanglong",m_wear["chituhors"]); at Sat Aug 20 01:52:40 2011
+xiaolong:OBJ_D->clone_obj("wanglong",m_wear["horse"]); at Sat Aug 20 01:52:44 2011
+xiaolong:OBJ_D->clone_obj("wanglong",m_wear["horse"]); at Sat Aug 20 01:52:46 2011
+xiaolong:OBJ_D->clone_obj("wanglong",m_wear["horse"],"chituhorse"); at Sat Aug 20 01:52:52 2011
+xiaolong:CHAR_D->get_char(wanglong,"wear"); at Sat Aug 20 01:53:44 2011
+xiaolong:CHAR_D->get_char("wanglong","wear"); at Sat Aug 20 01:53:52 2011
+xiaolong:CHAR_D->set_char("wanglong","wear","horse"); at Sat Aug 20 01:54:04 2011
+xiaolong:CHAR_D->remove_char("wanglong","wear","horse"); at Sat Aug 20 04:17:59 2011
+xiaolong:CHAR_D->set_char("wanglong","wear","horse"); at Sat Aug 20 04:18:21 2011
+xiaolong:CHAR_D->set_char("wanglong","wear") at Sat Aug 20 17:57:11 2011
+xiaolong:CHAR_D->set_char("wanglong","wear","1") at Sat Aug 20 17:57:39 2011
+xiaolong:CHAR_D->set_char("wanglong","wear") at Sat Aug 20 17:57:51 2011
+xiaolong:CHAR_D->set_char("wanglong","wear","horse") at Sat Aug 20 17:58:03 2011
+xiaolong:CHAR_D->set_char("wanglong","wear") at Sat Aug 20 17:58:07 2011
+xiaolong:OBJ_D->clone_obj("horse") at Sat Aug 20 18:00:17 2011
+xiaolong:COUNTRY_D->get_country("loveyou", "dingtao") at Sat Aug 20 18:15:48 2011
+xiaolong:COUNTRY_D->get_country("wanglong", "dingtao") at Sat Aug 20 18:15:52 2011
+xiaolong:COUNTRY_D->get_country("wanglong", "wartime") at Sat Aug 20 18:15:56 2011
+xiaolong:COUNTRY_D->get_country("wanglong", "wartime") at Sat Aug 20 18:15:58 2011
+xiaolong:COUNTRY_D->get_country("dong zhuo", "wartime") at Sat Aug 20 18:16:02 2011
+xiaolong:COUNTRY_D->set_country("dong zhuo", "wartime",  0 : 8,) at Sat Aug 20 18:16:26 2011
+xiaolong:COUNTRY_D->set_country("dong zhuo", "wartime",  0 : 8) at Sat Aug 20 18:16:28 2011
+xiaolong:COUNTRY_D->set_country("dong zhuo", "wartime",  0 : 8) at Sat Aug 20 18:16:30 2011
+xiaolong:COUNTRY_D->set_country("dong zhuo", "wartime",0 : 8) at Sat Aug 20 18:16:38 2011
+xiaolong:OBJ_D->add_obj("horse","type") at Sat Aug 20 18:22:04 2011
+xiaolong:OBJ_D->get_obj("horse") at Sat Aug 20 18:22:16 2011
+xiaolong:OBJ_D->set_obj("horse","sub_type","horse") at Sat Aug 20 18:22:46 2011
+xiaolong:AREA_D->set_area("changan","troop",(footman)) at Sat Aug 20 18:26:44 2011
+xiaolong:AREA_D->set_area("changan","troop",(["footman":30000,)) at Sat Aug 20 18:26:58 2011
+xiaolong:AREA_D->set_area("changan","troop",(["footman":30000)) at Sat Aug 20 18:27:00 2011
+xiaolong:AREA_D->set_area("changan","troop",(footman)) at Sat Aug 20 18:27:02 2011
+xiaolong:AREA_D->set_area("changan","troop",(footman)) at Sat Aug 20 18:27:12 2011
+xiaolong:AREA_D->set_area("changan","troop",(footman)) at Sat Aug 20 18:27:12 2011
+xiaolong:AREA_D->set_area("luoyang","troop",(["footman":30000])) at Sat Aug 20 18:28:00 2011
+xiaolong:AREA_D->set_area("changan","troop",(["footman":30000])) at Sat Aug 20 18:28:14 2011
+xiaolong:AREA_D->set_area("changan","troop",(["cavalry":200000])) at Sat Aug 20 18:28:40 2011
+xiaolong:COUNTRY_D->get_country("wanglong") at Sat Aug 20 18:32:06 2011

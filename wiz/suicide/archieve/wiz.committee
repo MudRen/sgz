@@ -1,0 +1,4239 @@
+---
+×÷Õß: Flee
+ÌâÄ¿: >>wiz application from emperor
+ÈÕÆÚ: Thu Feb 17 03:13:06 2000
+On Wed Feb 16 21:44:50 2000 Row wrote post #223:
+> assign tasks to him as evaluation. hehe.
+agreed,
+but to be frank, i am quite disappointed about him.
+we recruit him, let him asscess code, but all he done
+is ftp everything back without approval from anybody.
+when we discover that and ask for explanation, he give no
+reply.
+as a team, we have to trust each other. 
+i do hope that roro(emporer) can do something to get
+our trust again.
+
+
+---
+×÷Õß: ÍşÉÙÒ¯(suicide)
+ÌâÄ¿: agree Flee's opinion.
+ÈÕÆÚ: Thu Feb 17 03:22:12 2000
+like topic.
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >>>wiz application from emperor
+ÈÕÆÚ: Thu Feb 17 05:25:11 2000
+On Thu Feb 17 03:13:06 2000 Flee wrote post #224:
+> On Wed Feb 16 21:44:50 2000 Row wrote post #223:
+> > assign tasks to him as evaluation. hehe.
+> agreed,
+> but to be frank, i am quite disappointed about him.
+> we recruit him, let him asscess code, but all he done
+> is ftp everything back without approval from anybody.
+> when we discover that and ask for explanation, he give no
+> reply.
+> as a team, we have to trust each other. 
+> i do hope that roro(emporer) can do something to get
+> our trust again.
+
+well, let me explain a little bit.
+
+emperor is not roro, but roro's friend. after roro got 
+our code, he passed it to emperor. according to emperor,
+he will make sure it does not get to any other person.
+
+emperor is quite good technically, I actually talked to him
+several times regarding some web server topics. he is very
+keen in helping sanguo development as well.
+
+just see how he performs.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: about emperor
+ÈÕÆÚ: Thu Feb 17 05:41:39 2000
+seem everyone agree to promot emperor as a new wiz
+let's welcome a new member in our family :)
+I promoted emperor
+gongxi emperor
+addoil emperor
+
+
+---
+×÷Õß: ÍşÉÙÒ¯(suicide)
+ÌâÄ¿: thanks all.
+ÈÕÆÚ: Sat Feb 12 01:21:28 2000
+Today i am back to be ready to try my best.
+Though i am familiar with ES2 and lima mub bean this mud
+seems still very hard to me.
+But i will try to read and read,think and think ..
+cmd catch thief
+Hope i can do more complex job soon.
+
+
+---
+×÷Õß: Ë¹Ì¹¸£(stefan)
+ÌâÄ¿: many wiz applications nowadays
+ÈÕÆÚ: Mon Jan 24 10:35:28 2000
+I got many wiz applications recently, from suicide, from phoenix, from
+xfan, etc etc. 
+
+They all did answer the questions, and they all seem to qualify.
+But another reason I think is that we are getting other people's
+attention because our mud is different. I also do not want
+the mudlib stealing to happen again.
+
+Generally, I would agree with fire's prior decision, if a player
+applies for wiz
+possition, he should have played the mud for quite some time.
+
+But it is still hard to make a choice when many people are
+applying :PP
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >About the tasklist.
+ÈÕÆÚ: Mon Jan 24 02:09:50 2000
+no objection, but i wanna know what kinda common conflicts needed 
+to be handled in court, such as...? please give example.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: About the tasklist.
+ÈÕÆÚ: Sun Jan 23 19:03:44 2000
+Recently, because I just work, so I am too busy to spend
+much time here. Now it seems I get certain reputation in
+our company, so I have more free time to do what I like,
+Therefore I will be here about two hours each day at about
+ 7:00-9:00 am. So it is time for us to finish some long term
+tasks in the MUD. As far as I know, flee and group are 
+doing war stuffs such as jimou and multi-type troops. Row and
+Ice don't have major tasks this moment. The following is
+a draft tasklist for our wiz team. Please discuss and put
+comments.
+1 Row and Ice try to build a law system. I think we all have
+  some unpleasant experience to handle confilcts among players.
+  I assume the best way to get rid of this kind of headache is
+  to settle some law and let's players to deal it themselves.
+  Now we have a constitution. But we still need at least some
+  law about penalty, reward and rules to handle the conflict 
+  among players. I suggest row and ice to do the following things:
+  a. write some clear rules for penalty, reward and recover issues.
+  b. try to build a court and give rules for a player to become
+     a judge or a member of the jury. So for any players' petition.
+     It will become a case in the court, and the final decision will
+     be given by the court (the judge, jury and lawer will be only 
+     players. The wiz will be just someone to execute :)
+  c. In order to realize this law system. Row and Ice need to write
+     some ideas and the working process first. Then begin to code.
+     I think we need some rooms, a board and a channel at least to
+     realize this kind of thing.
+  d. Anything envolve wizs or system security will go directly to wiz 
+     committee. (The player court just handle conflicts among players).
+  e. Row and Ice will be the only wizs who have the right to recover
+     players data or do some penalty which is decided by the players'
+     account. 
+2 Flee and Group will continue the jimou and multi troop until they are
+  finished. They have done a lot good work, but I am not clear about the
+  details. I'd like them to give clear documents and put everything in 
+  the help so we can easily test.
+3 I will continue the house system and begin the frame of base system.
+  I am going to make it very flexible and extendable. When the structure
+  work is done, other wizs and adjust it and add new stuffs very easily.
+  And I will also responsible to give clearly documents for this part.
+4 Tset doesn't login regularly. So we can't rely her on any tasks. But
+  if she has time, please go around and try to pick up something she like:)
+5 Stefan is successfully get us this new server. He will continue on the
+  MudOs work and responalbe the opening mirrors and web designing.
+In this tasklist, we have 5 tasks, the first three related to the game 
+designing of this MUD. I hope the the major developer in each task group 
+(point row, flee), please post your detailed plan and schedules.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >about promotion
+ÈÕÆÚ: Tue Jan 18 14:42:11 2000
+On Tue Jan 18 13:13:40 2000 Ğş±ù(ice) wrote post #211:
+> ask carlis to achieve some goal first bah.:P
+> like reputation xxxx, skills xx, ......
+> just suggestion.:P
+
+that's deal
+:)
+
+
+---
+×÷Õß: Ğş±ù(ice)
+ÌâÄ¿: about promotion
+ÈÕÆÚ: Tue Jan 18 10:13:40 2000
+ask carlis to achieve some goal first bah.:P
+like reputation xxxx, skills xx, ......
+just suggestion.:P
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >hacker report
+ÈÕÆÚ: Tue Jan 18 05:27:12 2000
+i checked all logins of "loveyou" and find "xuyao" is the
+one who logined loveyou's id, but in loveyou's mail,
+he appeared as a victim, so....
+how should we handle this, if someone can hack wizard's account.
+that will be a big problem.  stefan...try to think out some
+way to prevent this situation bah.
+
+
+---
+×÷Õß: °¢Âå(row)
+ÌâÄ¿: hacker report
+ÈÕÆÚ: Tue Jan 18 05:23:34 2000
+Reply  Reply All  Forward  Delete  Previous Next  Close 
+
+
+ÒÔÏÂÊÇÎÒºÍËûµÄ½»Ì¸,×÷ÎªÖ¤¾İ
+Äã¸æËßÑ©ç÷£ºÏÖÔÚµÄĞ¡ÑÕ²»ÊÇÎÒ
+Äã¸æËßÑ©ç÷£ºÎÒµÄÃÜÂë±»µÁÁË
+Äã¸æËßĞ¡ÑÕ£ºÄãµ½µ×Ïë¸ÉÊ²Ã´?
+©¤£½Î×Ê¦ÁĞ±í£½©¤  Ä¿Ç°×ÜÈËÊı£º0ÈË
+Ğ¡ÑÕ¸æËßÄã£ºÎÒºÍÑ©ç÷ÓĞ³ğ£¬ÎÒÏë»¹Ëû
+Äã»Ø´ğĞ¡ÑÕ£ºÄÇÊÇÄãµÄÊÂ,Èç¹ûÄã²»Ïë°Ñloveyou»¹ÎÒ,ÎÒÖ»ÓĞÇëwiz´¦Àí´ËÊÂ,
+Ğ¡ÑÕ¸æËßÄã£ºÄãÊÇÑ©ç÷¹úµÄÈ¨Àû×î¸ßµÄËùÒÔ'''
+Äã»Ø´ğĞ¡ÑÕ£ºÎÒ²¢Ã»ÓĞÈÃÄã×öÊ²Ã´
+Ğ¡ÑÕ¸æËßÄã£ºÈç¹ıÄãÕâÑù×ö£¬ÎÒ»á×ÔÉ±
+Äã»Ø´ğĞ¡ÑÕ£º¹ş¹ş,ÎÒÔç¾ÍÏëµ½ÕâÖÖ½á¹ûÁË
+Ğ¡ÑÕ¸æËßÄã£ºÖ»ÒªÑ©ç÷Ò»ÏûÃğ
+Ğ¡ÑÕ¸æËßÄã£ºÎÒ×ÔÈ»»á»¹¸øÄã
+Äã»Ø´ğĞ¡ÑÕ£ºµÄÁË°É,ÎÒÏÖÔÚ¾ÍÒª,ÎÒ»¹ÓĞÊÂÒª×ö,¸æËßÎÒÄãÊÇË­?
+Ğ¡ÑÕ¸æËßÄã£ºÎÒÊÇÑ©ç÷µÄÍ¬Ñ§
+Äã»Ø´ğĞ¡ÑÕ£ºÄãÊÇË­?
+Äã»Ø´ğĞ¡ÑÕ£º¸æËßÎÒÄãÊÇË­?
+Ğ¡ÑÕ¸æËßÄã£ºÎÒÒª±¨¸´Ëû
+Äã»Ø´ğĞ¡ÑÕ£ºÇëÄã¸æËßÎÒÄãÊÇË­?
+Ğ¡ÑÕ¸æËßÄã£ºÑ©ç÷Ò»¶¨²»ÖªµÀ
+Äã»Ø´ğĞ¡ÑÕ£ºÇëÄã¸æËßÎÒÄãÊÇË­?
+Ğ¡ÑÕ¸æËßÄã£ºÎÒ¸æËßÄãÁË£¬Ñ©ç÷Ò»¶¨»áÔÚÑ§Ğ£¶Ô¸¶ÎÒ
+Äã»Ø´ğĞ¡ÑÕ£ºÈç¹ûÄã²»ÏëÄÖµÄÌ«´óµÄ»°,ÇëÄã¸æËßÎÒÄãÊÇË­?
+Ğ¡ÑÕ¸æËßÄã£ºÎÒÊÇÒ»¸öºÚ¿Í
+Äã»Ø´ğĞ¡ÑÕ£ºµ«ÎÒ²»ÏëÎÒµÄ¶«Î÷±»±ğÈËÓÃ
+Ğ¡ÑÕ¸æËßÄã£ºµÁ±ğÈËµÄÃÜÂëÊÇÎÒµÄÄÃÊÖ
+Äã»Ø´ğĞ¡ÑÕ£º¾ÍÏóÄãµÄÅ®ÅóÓÑÊÇÊôÓÚÄãµÄ,Äã»áºÍ±ğÈË·ÖÏíÂğ?
+Ğ¡ÑÕ¸æËßÄã£ºÅ®ÈËÈçÒÂ·ş£¬ÅóÓÑÈçÊÖ×ã£¬ÎÒ»á¸øÎÒµÄºÃÅóÓÑ
+Ñ©ç÷¸æËßÄã£ºhi
+Ñ©ç÷¸æËßÄã£ºwho are you
+Äã»Ø´ğÑ©ç÷£ºÄã×Å¼¸ÌìºÍË­½Ó³ğÁË?
+Äã»Ø´ğÑ©ç÷£ºÎÒÊÇĞ¡ÑÕ,ÎÒ±»ºÚÁË
+Ñ©ç÷¸æËßÄã£ºÎÒÏëÏë£¿
+Ñ©ç÷¸æËßÄã£º¸ß2 5°àµÄ
+Äã¸æËßĞ¡ÑÕ£ºÄãÁ¬Ê²Ã´¶¼²»¸æËßÎÒ,ÄãÊÇË­µÄÅóÓÑ?
+Ñ©ç÷¸æËßÄã£ºÓĞÊ²Ã´ÊÂÂğ£¿
+Äã¸æËßÑ©ç÷£ºÎÒ±»ºÚÁË
+Äã¸æËßÑ©ç÷£ºi am loveyou
+Äã¸æËßĞ¡ÑÕ£ºÄãÁ¬Ê²Ã´¶¼²»¸æËßÎÒ,ÄãÊÇË­µÄÅóÓÑ?
+Äã¸æËßĞ¡ÑÕ£º»Ø´ğÎÒ
+Ğ¡ÑÕ¸æËßÄã£ºÎÒµÄÅóÓÑÄã²»ÈÏÊ¶
+Ñ©ç÷¸æËßÄã£ºÄãÔõÃ´»áÊÇloveyou
+Ñ©ç÷¸æËßÄã£ºÎÒ±»½µ¹ÙÁË
+Äã¸æËßĞ¡ÑÕ£ºÄãÈÏÎªÄãÊÇÎÒµÄÅóÓÑÂğ?ÄãÈÏÎªÎÒ»áºÍÄã·ÖÏíÂğ?
+Ñ©ç÷¸æËßÄã£ºÎÒ»¹ÊÇ´ÓÍ·×öÆğ
+Äã¸æËßÑ©ç÷£ºÎÒÃ»°ì·¨
+Ğ¡ÑÕ¸æËßÄã£ºÎÒ²»ÈÏÊ¶Äã
+Ğ¡ÑÕ¸æËßÄã£ºÄãÈÏÊ¶ÎÒÂğ
+Äã¸æËßĞ¡ÑÕ£ºÄÇÄãÎªÊ²Ã´ÓÃÎÒµÄ¶«Î÷
+Ğ¡ÑÕ¸æËßÄã£ºÄãÊÇÑ©ç÷µÄÉÏÊ¿
+Äã¸æËßĞ¡ÑÕ£ºÄãÈÏÎªÕâÑùµÁÓÃ±ğÈËµÄ¶«Î÷ÊÇÒ»ÖÖÊ²Ã´ĞĞÎª?
+Ğ¡ÑÕ¸æËßÄã£ºÎÒÊÇºÚ¿Í
+Äã»Ø´ğĞ¡ÑÕ£ºxuyao Ò»Ñù¿ÉÒÔÈ¥±ğµÄ¹ú¼Ò,Äã»¹Ïë¶¼ºÚÁË?
+Ğ¡ÑÕ¸æËßÄã£ºÀÏÊ¦½ÌÎÒµÄ
+Ğ¡ÑÕ¸æËßÄã£ºÓĞ¿ÉÄÜ
+Äã»Ø´ğĞ¡ÑÕ£ºÀÏÊ¦½ÌÄãÍ¸±ğÈËµÄ¶«Î÷,±ğÈËµÄĞÄÑªºÍ³É¹û?
+Ğ¡ÑÕ¸æËßÄã£ºÒÔÇ°ËûÔÚguoo,ÎÒÒ²ÔÚÄÇÀï¶¯ÓÃÁËÄÇÀïµÄÌ«ÊØ
+Ğ¡ÑÕ¸æËßÄã£ºÎÒµÄÀÏÊ¦ÊÇË½ÈËÀÏÊ¦£¬ËûÊ²Ã´¶¼»á½Ì
+Äã»Ø´ğĞ¡ÑÕ£ºÄãÓĞÒ»¸öºÃÀÏÊ¦
+Äã»Ø´ğĞ¡ÑÕ£ºÒ»¾ä»°,Äã»¹²»»¹ÎÒ?
+> who -ip
+¡¾   °×Éí   ¡¿Ô¬ÉÜ¹úÆ½Ô­ÏĞÖ°¸¡ÔÆ£¬×ÖÒİÖ®(cloudr)
+¡¾   °×Éí   ¡¿Ëï¼á¹ú²ñÉ£ÏĞÖ°¡¸¹í¼û³î¡¹Ñ©ç÷£¬×ÖÈÊµÂ(xuyao) ·
+¡¾ Â®½­Ïçºî ¡¿Ëï¼á¹ú×Ü¾üÊ¦¡¸½ğ ÑÛ Ñı Í«¡¹Ğ¡ÑÕ£¬×ÖÓğÏè(loveyou) ·
+¡¾ µÛ¹úÄĞ¾ô ¡¿Ä©ÈÕµÛ¹úÖ÷¹«Ğ¡ÌìÂí(mxl)
+Äã»Ø´ğĞ¡ÑÕ£ºÎÒÏÖÔÚÓĞºÜ¶àÊÂÒª×ö
+Ğ¡ÑÕ¸æËßÄã£ºÎÒÒªÈ¥¹ºÎïÁË£¬ÔÙ¼û
+reply ÎÒÓĞÒ»¸ö¹ú¼Ò,ÎÒ²»Ïë±»Ğ¡ÊÂ°ó×Å
+Ã»ÓĞÕÒµ½»Ø´ğµÄ¶ÔÏó¡£
+Ñ©ç÷¸æËßÄã£ºÎÒ¸Ğµ½loveyou²»¶Ô
+Äã»Ø´ğÑ©ç÷£ºÄÇ¾Í¸ù±¾²»ÊÇÎÒ
+Ñ©ç÷¸æËßÄã£ºÄãÊÇË­
+Äã»Ø´ğÑ©ç÷£ºloveyou
+Ñ©ç÷¸æËßÄã£ºloveyouÓÖÊÇË­
+Ñ©ç÷¸æËßÄã£ºÏÖÔÚµÄloveyouÓÖÊÇË­
+Äã»Ø´ğÑ©ç÷£º²»ÖªµÀ,ËûËµËûÊÇºÚ¿Í
+Ñ©ç÷¸æËßÄã£ºÎÒÃÇÑ§Ğ£Ò²ÓĞºÜ¶àÈË»áºÚÊõ
+Äã»Ø´ğÑ©ç÷£ºÄãÊÇÄÇµÄÈË,ÔÚÄÇ¶ÁÊé?
+Ñ©ç÷¸æËßÄã£ºÖØÇìÄÏ¿ª¸ßÖĞ
+Ñ©ç÷¸æËßÄã£ºÄãÎÊÕâÓĞÊ²Ã´ÓÃ
+Äã»Ø´ğÑ©ç÷£ºÎÒ½«Çëwiz°ïÎÒ
+Äã»Ø´ğÑ©ç÷£ºÎÒÏëÄã×îºÃÖØÁ·Ò»¸öĞÂµÄidºÃÁË
+Äã»Ø´ğÑ©ç÷£ºÎÒÏëËûÊÇ³åÄãÀ´µÄ
+Ñ©ç÷¸æËßÄã£ºËûÊÇË­
+Äã»Ø´ğÑ©ç÷£ºÃ»¸æËßÎÒ
+Ñ©ç÷¸æËßÄã£ºËûÎªÊ²Ã´²»¸æËßÄã
+Äã»Ø´ğÑ©ç÷£ºËûËµËû²»ÈÏÊ¶ÎÒ,ÎÒÒ²²»ÏëÈÏÊ¶Ëû
+Ñ©ç÷¸æËßÄã£ºËûÎªÊ²Ã´²»¸æËßÄã
+Ñ©ç÷¸æËßÄã£ºÎÒÈÏÊ¶Âğ£¿
+Äã»Ø´ğÑ©ç÷£º¿ÉÄÜÄãÈÏÊ¶
+Ñ©ç÷¸æËßÄã£ºÓĞÊ²Ã´ÌØÕ÷
+Äã»Ø´ğÑ©ç÷£ºËûÊ²Ã´Ò²Ã»Ëµ
+Äã»Ø´ğÑ©ç÷£º²»¹ıÎÒÏëËûÒ»¶¨»áºÚ¿Í¼¼Êõ
+Ñ©ç÷¸æËßÄã£ºÎÒÑ§Ğ£µÄºÜ¶à¶¼»á
+Ñ©ç÷¸æËßÄã£º²»¹ıÎÒÑ§Ğ£ÓĞ¼¸¸öÈËÉÆÓÚ½âÂë
+Äã»Ø´ğÑ©ç÷£ºÎÒÏëËû¿ÉÄÜÊÇ³åÄãÀ´µÄ,ÎÒÖ»ÊÇ¸ÕºÃÊÇÄãµÄ¹úÊ¦
+Ñ©ç÷¸æËßÄã£ºÄãÔõÃ´²»ÆÆÃÜÂëÁË£¿
+Ñ©ç÷¸æËßÄã£º½âÄãµÄloveyou
+Äã»Ø´ğÑ©ç÷£ººÜÒÅº¶,ÎÒ²»»á,Ò²Ã»ÈË½ÌÎÒ
+Ñ©ç÷¸æËßÄã£ºÎ×Ê¦²»ÄÜ°ïÉÏÃ¦
+ÒÔÉÏ,Ï£ÍûÎ×Ê¦ÄÜ°ïÎÒ½â¾öÕâ¸öÎÊÌâ.Ğ»Ğ».   Ğ¡ÑÕ(loveyou)1.18.2000
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >about recruit carlis
+ÈÕÆÚ: Mon Jan 17 17:41:38 2000
+that is right.
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: About wizard application.
+ÈÕÆÚ: Mon Jan 24 20:00:59 2000
+I have changed some of the requirements for applying.
+The file is /help/player/sanguo/misc/apply. and it can
+be viewed by help apply.
+Please have a check. If it is ok, we will announce it
+next week, and will use it as the requirement to select
+new wizards.
+cheers:)
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: welcome new wizard 
+ÈÕÆÚ: Tue Feb  8 00:22:37 2000
+suicide pass all our wiz application requirement
+so I promote him a new wizard,
+his plan is following
+
+   First i want to be player helper to do some simple job to
+familiar with this system. 
+   Include:
+     1  answer player question.
+     2  report and fix the bug that players met.
+     3  add emote.
+     4  write help file that players most need.
+     5  redraw the map which corresponding area had 
+        been modified.
+     6  collect player's good post.
+     7  suggest improvement idea in program.
+   Second when i have done all this above well i will be
+familiar with the system ,then i can attend some system 
+development and suggest new interesting system.
+
+   Last for more sub system need more system performance.maybe
+the program we composed is not considered about optimization.
+so i want to do some program optimization work.  
+
+
+his first task is to create some image files for base system
+and update some help files
+addoil suicide :)
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >welcome new wizard 
+ÈÕÆÚ: Tue Feb  8 21:25:42 2000
+addoil suicide.:)
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: wiz application from emperor
+ÈÕÆÚ: Wed Feb 16 20:58:03 2000
+
+hi everyone,
+we got application from emperor. he is the guy who has
+download all our source code (roro). and I think his
+ability is good enough, and he also mail me a plan for
+base system (i post it in the task.base). what your guys
+openion to recruit him again as a wizard ?
+
+consider
+please give your openions :)
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >wiz application from emperor
+ÈÕÆÚ: Wed Feb 16 21:44:50 2000
+assign tasks to him as evaluation. hehe.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >about previous suggestions
+ÈÕÆÚ: Mon Jan 17 17:40:36 2000
+agree
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: about recruit carlis
+ÈÕÆÚ: Mon Jan 17 02:21:02 2000
+just before I promot carlis, I checked the login records
+and find that carlis come from 202.96.145.* and there is no
+body from there, so he has no dummy and not a char yet.
+so he didn't really play in the mud a lot but he has spend
+so much time to answer all the question perfectly. this is
+a little strange, so i think it's better for us to hold giving
+him a wiz position until he is at least a good player
+regards
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: about previous suggestions
+ÈÕÆÚ: Mon Jan 17 02:12:38 2000
+if now body object, 
+I will think the previous suggestion are passed
+they are 
+1 release the Èı¹úÏÜÕÂ
+2 ´óÉâ rob and rulin
+3 recruit carlis
+
+regards
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >>>how about this guy ?
+ÈÕÆÚ: Sat Jan 15 00:52:03 2000
+On Sat Jan 15 00:07:17 2000 Row wrote post #203:
+> set the security carefully and give him a evaluation
+> then, and we need  supervisor to monitor his behaviour.
+i agree with row, we should recruit him but minitor
+his behavior. we need to make sure that he come here
+for the goods of this mud, not for anything else .. 
+in my option, we should recruit wiz from players, 
+sothat at least we know some of his personalities. 
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >>how about this guy ?
+ÈÕÆÚ: Fri Jan 14 21:07:17 2000
+set the security carefully and give him a evaluation
+then, and we need  supervisor to monitor his behaviour.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >¹ØÓÚrobºÍrulin
+ÈÕÆÚ: Fri Jan 14 21:05:17 2000
+Ò²ĞĞ£¬Ö»ÊÇ¸Ï¿ì°ÑÁÒ»ğµÄÏÜÕÂÕûÀí³öÀ´°É£¬ÒÔºó°ìÊÂ
+¾ÍÓĞ·¨¿ÉÒÀÁË¡£ºÇºÇ¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ØÓÚrobºÍrulin
+ÈÕÆÚ: Fri Jan 14 14:41:44 2000
+Ê×ÏÈ·Ç³£¸ĞĞ»´ó¼ÒµÄÖ§³Ö¡£
+ÏÖÔÚÈı¹úÖØ¿ªÁË£¬ÎÒµÄÆøÒ²ÏûÁË(Êµ¼ÊÉÏÉúÍæ¼ÒµÄÆøÊµÔÚ¿ÉĞ¦)
+ÎÒ½¨Òé¸É´à½èÖØ¿ªÖ®¼Ê£¬´óÉâÌìÏÂ¡£ÈÃÕâÊÂ¹ıÈ¥¾ÍÍêÁË¡£
+ÖîÎ»ÒÔÎªÈçºÎ£¿
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >how about this guy ?
+ÈÕÆÚ: Fri Jan 14 09:54:16 2000
+seems very satisfy the request of wizapply.:P
+from this point, could be a much better wiz than me.:P
+recruit him bah.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: how about this ?
+ÈÕÆÚ: Fri Jan 14 06:11:40 2000
+Õã½­Ì¨ÖİĞÅÏ¢¸ÛÍ¶×ÊÁË200ÍòÓÃÓÚ·şÎñÆ÷ºÍ´ø¿íµÄ¸ÄÉÆ¡£Ä¿Ç°ÓµÓĞ155M(¹ú¼Ê´ø¿í163)ºÍ
+¹úÄÚ169£¨´ø¿í36M£©¡£¹«Ë¾Ö÷Òª¿ª·¢ÍøÂçÓÎÏ·¡£ÏÂÃæÊÇÎÒÃÇµÄ¼Æ»®Êé£¬»¶Ó­Äú¼ÓÃË¡£
+      ÏÂÃæ¹«²¼²¿·ÖºÏ×÷¼Æ»®£º
+     ÎÒ¹«Ë¾Ìá¹©dell ¹¤Òµ¼¶·şÎñÆ÷ÅäÖÃ£º(Ë«PIII XEON 550 ÄÚ´æ512M 84G)°²×°redhat
+linux6.5
+     ·şÎñÆ÷ÓÉ¹ó·½¹ÜÀí£¬µ«ÎÒÃÇ±£Áô×îÖÕ½âÊÍÈ¨¡£
+     ºÏ×÷È¨Òæ£ºÎÒÃÇ°´ÕÕÃ¿ÔÂµÄÒµ¼¨À´ÆÀ¶¨¹ó·½µÄÄÜÁ¦¡£
+     Èç¹ûÆ½¾ùÔÚÏßÓÃ»§±£³ÖÔÚ150 ÈËÒÔÉÏÎÒÃÇ¹«Ë¾½«»áÒÔ4000Ôªµ×Ğ½À´Ö§¸¶¡£
+    
+ÎÒÃÇÌá¹©¶¥¼¶Óò£¬ĞéÄâ¿Õ¼ä£¬Ãâ·Ñ¿Õ¼ä£¬¼¯ÍÅÓÊ¼şµÈÆäËüÃâ·Ñ·şÎñÎªÄú¸üºÃµÄ·¢Õ¹¡£
+        ÒÔÉÏÖ»ÊÇ²¿·Ö£¬Èç¹ûÄúÏëºÏ×÷£¬¿ÉÒÔ¸úÎÒ¾ßÌåÌ¸¡£
+       
+                   ÖÂ
+Àñ£¡
+            xukefeng
+            abcware@188.net
+____________________________________________________________________
+Get free email and a permanent address at http://www.netaddress.com/?N=1
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: how about this guy ?
+ÈÕÆÚ: Fri Jan 14 05:49:07 2000
+seem very good
+--------------------»ù±¾×ÊÁÏ-------------------------
+±¾MUDÖĞµÄID£ºCarlis   ÖĞÎÄÃû£ºÏô³¿
+ĞÕÃû£º ÏôÍ¢¹ó         ÄêÁä£º21          ĞÔ±ğ£ºÄĞ
+½ÌÓı³Ì¶È£º´óÑ§£¨ÕıÔÚ¶Á£©      ËùÔÚ³ÇÊĞ£ºÉÏº££¨Ä¿Ç°£©£¬ÉÇÍ·£¨¼ÒÏç£©  
+   Ä¿Ç°Ö°Òµ£ºÑ§Éú
+E-mailµØÖ·£ºcarlis@netease>>com
+Ö÷Ò³(Èç¹ûÓĞµÄ»°)£ºcarlis>>yeah>>net(closed)
+----------------¹ØÓÚ¼ÆËã»úÓïÑÔ------------------------
+1 ÇëÁĞ³öÄãÑ§¹ıµÄ¼ÆËãÓïÑÔºÍÊìÏ¤³Ì¶È¡£
+>>pascal, ²Î¼Ó¾ºÈüÓÃµÄ¡£¡£¡£Ã»Ê²Ã´Ê¹ÓÃ¼ÛÖµ£¬ÓÃÀ´ÀÌ½±ÏîµÄ^_^
+>>C/C++, Ò»Ö±ÊÇÎÒÓÃµÄÓïÑÔ£¬¾«Í¨
+>>asm, ÊìÏ¤
+2 ÓÃÃ»ÓÃ¹ıCºÍC++£¬¶à³¤Ê±¼ä¡£
+>>´óÓÚ6Äê
+3 ÓÃÃ»ÓÃ¹ıLPC£¬Ê²Ã´³Ì¶È¡£
+>>²»ÖªµÀÔõÃ´ÃèÊö£¬¸ßÖĞÊ±¾Í¿ªÊ¼×öÎ×Ê¦ÁË¡£
+----------------¹ØÓÚMUD------------------------
+1 Íæ¹ıÄÄĞ©MUD£¬¶à³¤Ê±¼ä£¬¶à¸ßµÈ¼¶¡£
+>>ÉÇÍ·×îÔçµÄ¡°ÏÀ¿ÍÓ¢ĞÛ´«¡±£¬Ò»Ö±µ½Ç°Äê×öÎ×Ê¦Ç°ÊÇÈ«MUDµÚÒ»£»
+>>·çÔÆÏµÁĞ£¬ºÜÔçÉÏµÄ£¬µ«Ò»Ö±ÊÇÁÄÌì£»Ó¢ĞÛ¡¢×İºáÌìÏÂ¡¢Ï¦ÑôµÈMUD£¬±ßÁ·¹¦±ßÁÄÌì
+£¬²»ÒÔ¸ßÊÖÎªÄ¿µÄ¡£
+2 ÔÚ±¾MUDÍæ¹ı¶à³¤Ê±¼ä£¬¼¸¸öÖ÷ÒªDUMMY£¬µÈ¼¶¡£
+>>ÒÔÇ°Íæ¹ı£¬Ö»×öµ½µØ·½¹Ù£¬ºóÀ´ÓÉÓÚPROXY¹Ø±Õ£¬Á¬²»ÉÏ¾ÍÃ»ÔÙÍæ¡£
+>>ÏÖÔÚÕÒµ½ÁËSANGOµÄIP£¬ÂíÉÏÁ¬ÉÏÀ´ÁË£¬²»µ½2¸öĞÇÆÚ£¬Ä¿Ç°ÔİÊ±ÊÇÄ¿²»Ê¶¶¡¡£
+3 ÔÚÄÄĞ©MUDÀïµ±¹ıWIZ£¬¶à³¤Ê±¼ä£¬×÷¹ıÊ²Ã´¹¤×÷¡£
+>>±¾µØµÄ¼¸¸öMUD¶¼×öÎ×Ê¦£¬ÒÔ¼°·çÔÆ3×ö¹ıÒ»¶ÎÊ±¼ä£»2¡¢3ÄêÇ°
+>>¾Í¿ªÊ¼×öÎ×Ê¦£¬µ£ÈÎ¹ı³¡¾°¡¢NPC¡¢Îä¹¦¡¢ÈÎÎñ£¬ÒÔÖÁºóÀ´µÄÏµÍ³ºËĞÄµÄ±à¸Ä¹¤×÷¡£
+----------------¹ØÓÚÈı¹úÖ÷Ìâ------------------------
+1 ¿´¹ı¡¶Èı¹úÑİÒå¡·Âğ£¬¶àÉÙ±é£¬¶à¾ÃÒÔÇ°¡£
+>>2±à£¬Ò»´ÎÊÇ³õÖĞ1Äê¼¶£¬Ò»´ÎÊÇ¸ß2Ê±ÓÖÖØĞÂ¿´Ò»±ß¡£
+2 Íæ¹ı¶àÉÙ°å±¾µÄÈı¹úÓÎÏ·£¬¸÷Í¶Èë¶à³¤Ê±¼ä¡£
+>>Èı¹úÖ¾ÏµÁĞ£¬¸Ğ¾õÊÇSAN4×îºÃ£»Èı¹úÑİÒå1¡¢2£¨Ì«ÀÃ£©£»Èı¹úÓ¢ĞÛ´«
+>>¼°Ó¢½Ü´«¡¢¿×Ã÷´«µÈ¡£Ã¿Ò»¸öÓÎÏ·¶¼»á´ÓÍ·´òÖÁÎ²¡¢²»ĞŞ¸Ä£¬SANµÄ»¹Òª°çÑİÃ¿¸ö¾ı
+Ö÷Ò»±é¡£
+3 Ì¸Ì¸Äã¶ÔËùÍæ¹ı¸÷Èı¹úÓÎÏ·µÄ¿´·¨¡£±È½Ï±¾MUDµÄÓÅÈ±µã¡£
+>>´ËMUDÖ÷ÒªÊÇ²ÉÓÃÈı¹úÖ¾ÏµÁĞµÄ´ò·¨£¬·Ç³£ÓĞ´´Òâ¡£¸öÈËÖ÷ÒåÔÚÕâÀïĞĞ²»Í¨£¬ÂÓ¶á³Ç
+³Ø£¬´òÕÌÊÇÕâÀïµÄÌØÉ«¡£
+>>²»×ãÖ®´¦ÊÇ²ÉÓÃÓ¢ÎÄ°æµÄLIMA×ö»ùµ×£¬ÓĞÒ»Ğ©ÓëÖĞ¹úÍæ¼Ò²»·½±ãµÄµØ·½£¬±ÈÈç²»ÊÇÓÃ
+xxxx 1, xxxx 2¶øÊÇÓÃ
+>>first xxxx, second xxxxx, Ò»Ğ©²»Ì«¶®Ó¢ÎÄµÄ¾Í²ÒÁË¡£
+----------------¹ØÓÚĞËÈ¤£¬ĞÔ¸ñ------------------------
+1 ÄãÍæ¹ıµÄ×îÓĞÒâË¼µÄPC GAME£¬Ì¸Ì¸Ìå»á
+>>¸ñ¶·ÀàµÄ£¬Èçkof£¬¿ÉÄÜËãÊÇ¡°¸ßÊÖ¡±°É£¡^_^
+2 ÄãÈÏÎªÄã×îÄÃÊÖµÄ¹¤×÷ÊÇÊ²Ã´¡£
+>>¼ÆËã»ú·½ÃæµÄ¡£
+3 ÄãÈÏÎªÄã×îÏ£Íû¸ÉµÄ¹¤×÷ÊÇÊ²Ã´¡£
+>>Óë¼ÆËã»úÓĞ¹ØµÄ±à³Ì¡¢ÍøÂçµÄ¹¤×÷¡£
+4 µ±Äã½Óµ½Ò»¸ö²»Ï²»¶µÄ¹¤×÷Ê±£¬Äã½«ÈçºÎ¶Ô´ı¡£
+>>µ­È»´¦Ö®¡£
+5 ÄãÓĞÃ»ÓĞ²Î¼Ó¹ı¼¯ÌåºÏ×÷µÄÏîÄ¿£¬Èç¹ûÓĞ£¬Çë½éÉÜÒ»ÏÂ¸ÃÏîÄ¿
+  ÒÔ¼°ÄãµÄ¾ßÌå¹¤×÷ºÍÌå»á¡£
+>>²»ÖªµÀÑ§Ğ£µÄÁª»¶»áµÄ¼¯Ìå²ß»®Ëã²»Ëã£¿
+>>¾ÍÊÇĞí¶àÍ¬Ñ§·Ö¹¤ºÏ×÷£¬Éè¼ÆÓÎÏ·ÏîÄ¿¡£ÎÒÊÇ¸ºÔğÓÃµçÄÔ×öÒ»Ğ©ºÃÍæµÄĞ¡ÓÎÏ·¡£
+>>Ìå»áÊÇ¡°ÈË¶àÁ¦Á¿´ó£¡¡±
+>>ÁíÍâµÄ¼¯ÌåºÏ×÷¾ÍÊÇACM¹ú¼Ê´óÑ§Éú±à³Ì±ÈÈüÁË£¬Ã¿×éÈı¸öÈË£¬±ØĞëÔÚ¹æ¶¨Ê±¼äÄÚÍê
+³ÉNµÀÌâ£¬
+>>1¸öÈË¸ºÔğ¶ÁÌâ£¬1¸öÈËË¼¿¼£¬1¸öÈË±à³Ì£¬Æø·Õ½ôÕÅ£¡µ«ÊÇ¹ıºóÊÇºÜÓĞ³É¾Í¸ĞµÄ¡£
+----------------¹ØÓÚÊ±¼ä£¬Ìõ¼ş------------------------
+1 ÄãÊÇÔÚÊ²Ã´µØ·½£¬ÒÔÊ²Ã´·½Ê½ÉÏÍø¡£
+>>Ñ§Ğ££¨»ú·¿£©ºÍ¼ÒÀï£¨ISDN£©
+2 Òª²»Òª¸¶·Ñ(´óÔ¼¶àÉÙ)¡£
+>>Ñ§Ğ£²»ÓÃ£¬¼ÒÀïÒª£¬´óÔ¼Ã¿ÔÂÒ»Ç§¶à¡£
+3 ÄãÊ²Ã´Ê±¼äÄÜÉÏÍø£¬Ò»ÖÜ´óÔ¼¶à³¤Ê±¼ä¡£
+>>Ã¿ÌìÍíÉÏÒÔ¼°ÖÜ6¡¢7£¬Ò»ÖÜ´óÔ¼3XĞ¡Ê±¡£
+----------------¼òµ¥ÎÊÌâ------------------------
+µÚÒ»²¿·Ö£º¹ØÓÚ¼ÆËã»úÓïÑÔ£º
+CÓïÑÔ£º
+1 Ê²Ã´ÊÇÖ¸Õë£¬ËüºÍÊı×éÓĞÊ²Ã´Çø±ğ¡£
+>>Ö¸ÕëÊÇ´æ·ÅÖ¸ÏòÄ³¸öµØÖ·µÄ±äÁ¿£¬ÊÇÓÃ type *name µÄĞÎÊ½¶¨ÒåµÄ£¬
+>>Ã¿¸öÊı×é±¾ÉíÒ²ÊÇÒ»¸öÖ¸Õë£¬Èça2¿ÉÒÔÓÃ *(a+2)À´±íÊ¾¡£
+>>µ«ÊÇÊı×é¿ÉÒÔ´æ·Å¾ßÌåµÄÊı¾İ£¬ÓĞ×Ô¼ºµÄÀàĞÍ£¬Ö¸Õë±¾ÉíÖ»ÄÜ´æ·ÅÖ¸ÏòµØÖ·£¬ÀàĞÍÓÉ
+ËùÖ¸ÏòµÄ±äÁ¿µÄÀàĞÍ¾ö¶¨¡£
+2 y=x++
+ºÍ y=++x
+µÄÇø±ğÊÇÊ²Ã´¡£
+>>x++´«»ØxµÄÖµ£¬++x´«»Øx+1µÄÖµ£¬¶ÔxÀ´Ëµ£¬¶¼ÊÇµÈ¼ÛÓÚx=x+1µÄÔËËã£¬
+3 Ğ´Ò»¸ö¼òµ¥³ÌĞò void sort(int x1, int x2, int x3)
+  °Ñx1,x2,x3°´´ÓĞ¡µ½´óµÄË³Ğò´òÓ¡³öÀ´¡£
+>>
+     int t=0
+     if (x2 < x1) {
+     }
+     if (x3 < x1) {
+     }
+     if (x2 < x3) printf(%d %d %d, x1, x2, x3)
+                  printf(%d %d %d, x1, x3, x2)
+  }
+>>
+4 Ğ´Ò»¸ö¼òµ¥³ÌĞòÇóºÍ 1 µ½ 100
+>>
+   int solve(void) {
+      int i, j=0
+      return j
+// way 1
+do {j+=i;} while (i--)
+      return j
+// way 2
+   }
+>>
+5 while Ñ­»·ºÍ for Ñ­»·µÄÇø±ğºÍÊÊÓÃ·¶Î§¡£
+>>Ç°ÕßÓĞTFÊ½µÄÅĞ¶Ï£¬ÊÊÓÃ·¶Î§½Ï¹ã£¬Ò»°ãÓÃÓÚµ±Ìõ¼şÎ´³ÉÁ¢Ê±Ñ­»·£»
+>>ºóÕßÊÇ½«Ò»±äÁ¿´Ó¶¨Öµ¸³µ½Áí¶¨Öµ£¬ÔÚ´ËÆÚ¼äÑ­»·£¬ÊÊÓÃ·¶Î§½ÏĞ¡£¬Ò»°ãÓÃÓÚ¼òµ¥Ñ­
+»·»òµü´ú¡£
+LPC
+6 Ê²Ã´ÊÇ mapping, ËüºÍÊı×éÓĞÊ²Ã´²»Í¬¡£
+>>Ó³Éä(mapping),ÊÇÒ»ÖÖÕóÁĞÀàĞÍ£¬ÓëÊı×éÕóÁĞµÄÇø±ğÊÇMAPPING¿ÉÒÔÓÃÈÎºÎÀàĞÍ×÷Îª
+Ë÷Òı£¬¶øÊı×éÖ»ÄÜ
+>>²ÉÓÃÕûÊı£¬ÁíÍâ£¬mappingÊÇÏ¡ÊèÕóÁĞ¡£
+7 Ê²Ã´ÊÇ daemon£¬ËüÓĞÊ²Ã´ÌØµã
+8 Ê²Ã´ÊÇ¼Ì³Ğ£¬ËüÓĞÄÄĞ©ÓÅµã¡£
+>>inherit ĞğÊöÌá¹© LPC  Îï¼ş¼Ì³ĞµÄÄÜÁ¦ (´ÓÎï¼şµ¼Ïò³ÌÊ½Éè¼Æ¶øÀ´µÄ¹ÛÄî)>>  ¼Ì
+>>³ĞĞÔ (inheritance)  ÈÃÎï¼şÄÜ¼Ì³ĞÆäËûÎï¼şµÄº¯Ê½ºÍ±äÁ¿>> ÒòÎª MudOS  Çı¶¯³Ì
+>>Ê½½«È«Óò×ÊÁÏ (global data)  ´¢´æì¶ÄÚ²¿, ²¢ÇÒ½«²»Í¬Îï¼şµÄ³ÌÊ½Âë·Ö¿ª±àÒë
+>>(compile) , ËùÒÔĞí¶à²»Í¬µÄÎï¼ş¿ÉÒÔÓÃ¼Ì³ĞÄÜÁ¦·ÖÏíÍ¬Ò»¶Î±àÒë³ÌÊ½Âë>>
+>>¼Ì³ĞÊ¹Îï¼ş(object)ÓĞÍ³Ò»µÄº¯Êı¡¢±äÁ¿£¬µ±¸Ä±äÒ»ÀàÎï¼şµÄº¯ÊıÊ±Ö»Ğè¸Ä¶¯±»¼Ì³Ğ
+µÄÎï¼ş£¬
+>>´ó´ó·½±ãÁË±à³Ì¡£
+9 ls, cp, cd, rm, mv µÄ¹¦ÄÜÊÇÊ²Ã´¡£
+>>ÁĞÎÄ¼ş/Ä¿Â¼£¬¿½±´£¬½øÈëÄ¿Â¼£¬É¾ÎÄ¼ş£¬ÒÆÎÄ¼ş
+10 Ê²Ã´ÊÇftp, ÃèÊöÒ»ÖÖftpÈí¼şµÄ²Ù×÷¹ı³Ì¡£
+>>ÎÄ¼ş´«ÊäĞ­Òé(File Transfer Protocol)>>
+>>Cuteftp,ÉèÖÃºÃIP£¬USER£¬PASSWORDÖ®ºóCONNECT£¬´°¿Ú×ó±ßÊÇ±¾µØÄ¿Â¼£¬ÓÒ·½ÊÇ·ş
+ÎñÆ÷Ä¿Â¼£¬¿ÉÒÔ
+>>Ö±½ÓÍÏ¶¯ÎÄ¼şÊµÏÖUP/DOWNLOAD£¬ÔÚÎÄ¼şÉÏÓÒ»÷ÊµÏÖDEL¡¢RENAMEµÈÆäËû¹¦ÄÜ¡£
+µÚ¶ş²¿·Ö£ºÈı¹úÖªÊ¶
+1¡¢ ¡¶Èı¹úÑİÒå¡·ºÍ¡¶Èı¹úÖ¾¡··Ö±ğÊÇË­µÄ×÷Æ·£¿
+>>ÂŞ¹áÖĞ£¬³ÂÊÙ
+2¡¢ »Æ½íÆğÒåÖĞ£¬ÕÅ½Ç´ÓÄÄÎ»ÏÉÈËÄÇÀïµÃµ½ÁËÊ²Ã´ÌìÊé£¿ÕÅ½ÇÏ°
+>>ÄÏ»ªÀÏÏÉ£¬¡¶Ì«Æ½ÒªÊõ¡·
+    ´ËÊéºó£¬ÄÜºô·ç»½Óê£¬ÄË¾ÙÊÂ¡£ÆäÃÅÏÂÍ½ÖÚÔÚ¸÷´¦¶ïÑÔ£º
+    ¡°__ __ ÒÑËÀ£¬ __ __ µ±Á¢£»ËêÔÚ¼××Ó£¬ÌìÏÂ´ó¼ª¡£¡±£¿
+>>²ÔÌì£¬»ÆÌì    
+3¡¢ Ä³ÈË¶Ô²Ü²ÙËµ£º×ÓÖÎÊÀÖ®ÄÜ³¼£¬ÂÒÊÀÖ®¼éĞÛÒ²¡££¬´ËÈËÊÇË­£¿
+>>ÈêÄÏĞíÑ«
+    ºóÀ´²Ü²Ù³ÖÆßĞÇ½££¨Ò»ËµÆßĞÇ±¦µ¶£©ÓûĞĞ´ÌË­£¿
+>>¶­×¿
+4¡¢ Èı¹úÑİÒåÀïµÄÁ¬»·¼Æ£¨ÃÀÈË¼Æ£©ÊÇË­ÊµÊ©µÄ£¿Á¬»·¼ÆÀïµÄÅ®Ö÷
+    ½ÇºÍ±»Éè¼ÆµÄÁ½¸öÄĞÖ÷½Ç·Ö±ğÊÇË­£¿
+>>ÍõÔÊ£¬õõìø£¬¶­×¿£¬ÂÀ²¼
+5¡¢ Èı¹úÑİÒåÀïÄÄÎ»ÉñÒ½ÎªÄÄÎ»½«¾ü¹Î¹ÇÁÆ¶¾£¬´«ÎªÇ§¹Å¼Ñ»°£¿
+    µ±Ê±Ë­ÕıÔÚºÍË­ÏÂÆå£¿
+>>»ªÍÕ£¬¹ØÓğ£¬¹ØÓğ£¬ÂíÁ¼
+6¡¢ Èı¹úÀï×îÖøÃûµÄÈıÎ»¾ıÖ÷£º²Ü²Ù£¬Áõ±¸£¬ËïÈ¨¡£ÆäÖĞËûÃÇµÄÊÅ
+    ÊÀË³ĞòÎª£¿
+>>²Ü²Ù£¬Áõ±¸£¬ËïÈ¨    
+7¡¢ Èı¹úÓÎÏ·Àï£¬Í¨³£ÎäÁ¦×î¸ßµÄÊÇË­£¿ÖÇÁ¦×î¸ßµÄÊÇ£¿÷ÈÁ¦×î¸ß
+    µÄÊÇ£¿£¨Ã»ÓĞ±¦ÎïµÄÇé¿öÏÂ£©
+>>ÂÀ²¼£¬Öî¸ğÁÁ£¬õõìø    
+8¡¢ ³öÆ·¡¶Èı¹úÖ¾¡·ÏµÁĞÓÎÏ·µÄÈÕ±¾ÓÎÏ·¹«Ë¾Ãû³Æ¡£
+>>KOEI
+9¡¢ ¡°ÂíÊÏÎå³££¬°×Ã¼×îÁ¼¡±Ö¸µÄÊÇ£¿½ÖÍ¤Ê§ÊØ£¬Öî¸ğÁÁÕ¶µÄÊÇË­£¿
+>>ÂíÁ¼£¬ÂíÚÕ
+10¡¢³ÆÎ½£º
+    ¡°µ¥¸£¡±ÊÇÖ¸Èı¹úÀïÃæÄÄÒ»Î»ÈËÎï£¿
+>>ĞìÊü    
+    Ë×Óï¡°ÊñÖĞÎŞ´ó½«£¬__ __ µ±ÏÈ·æ¡± Ö¸µÄÊÇ£¿
+>>ÁÎ»¯
+    ¡°»¢³Õ¡±ËµµÄÊÇÄÄÒ»Î»ÃÍ½«£¿
+>>ĞíñÒ
+    ¡°ÃÀ÷×¹«¡±¡°ººÊÙÍ¤ºî¡±Ö¸µÄÊÇË­£¿
+>>¹ØÓğ
+    ¡°Ô¯ÃÅÉäêª¡±µÄµä¹ÊÊÇË­ÉäÖĞêªÉÏµÄĞ¡Ö¦£¿
+>>ÂÀ²¼    
+µÚÈı²¿·Ö£ºÓ¢Óï
+1 Ó¢Òëºº£º
+Most of the time, if you want to send a message to an object or group
+of objects, the correct function to use is tell()>>  tell(ob, str) is
+the correct way to send the message str to the object ob (and just
+that object
+it isn't propagated to the objects inventory or
+environment or anything)>>  If a third argument is passed, it is used
+as the message type>>  It is also possible to use an array of objects
+as the first argument>>  The message is then sent to all the objects in
+the array>>  For example, tell(users(), Hi there!) sends the message
+to everyone who is logged in>>
+ objects simply forward the message to their user>>  bodies() could be
+(161-180 50%) [h]:
+ used in the above, and the effect would be the same>>]
+For convenience, there is also a tell_user(name, msg), which tells the
+user name (if any) the message>>  tell_user(yourname, >>>>>>) can be
+handy for debugging>>
+There also exist non-private messages, which in addition to sending
+the message to a particular object, also automatically propagate to
+other objects which are able to see the event>>  The most useful of
+these is tell_environment(ob, msg), which also sends the message to
+everything in the environment of ob (if any)>>  The message will also
+propagate up and down through the object hierarchy, unless blocked by
+some non-transparent object>>  tell_from_inside() and tell_from_outside()
+are lower level versions
+tell_from_inside() sends the message to a
+particular object, propagating up and down, which tell_from_outside()
+propagates down only>>
+tell_from_inside(), tell_from_outside(), and tell_environment() also
+support a fourth argument containing an array of objects which should
+not hear the message>>
+compatibility notes
+For those used to the old efuns, the following may be helpful:
+tell_object() is for the most part replaced by tell()>>
+tell_room() usually becomes tell_from_outside() (with the exception that
+    the extremely common construct 'tell_room(environment(ob), >>>>>>)'
+    should use tell_environment(ob, >>>>>>))
+say() also becomes tell_environment(this_object(), >>>>>>) in most cases,
+    although when done from an non-living object it becomes
+    tell_environment(this_body(), >>>>>>)
+write() and printf() still work
+though they are simul'ed to use
+    tell(this_user(), >>>>>>), which works exactly the way the old efuns
+    did, except that wrapping and color translation are done>>
+-Beek
+2ººÒëÓ¢
+               »¶  Ó­  À´  µ½ ¡¾  Èı ¹ú Ö¾  ¡¿
+    ²»¹ÜÄãÊÇÍæÄàÌ¶µÄÀÏÊÖ»¹ÊÇĞÂÉÏÂ·µÄ²ËÄñ£¬½¨Òé¶¼ÏÈ¿´¿´ÕâÆªĞÂ
+ÊÖ°ïÖú£¬»á¶ÔÄã½«À´ÔÚÈı¹úµÄ·¢Õ¹ÓĞÏàµ±µÄ°ïÖú¡£ £ª Èı¹úÖ¾ÊÇ¸ÉÊ²Ã´µÄ£¿
+    Èı¹úÖ¾ÊÇ³ÂÊÙĞ´µÄ£¬²»¹ıÕâ¸öÓÎÏ·ÊÇ¸ù¾İÈı¹ú¶ø·¢Õ¹µÄÒ»¸öÄàÌ¶
+ÓÎÏ·£¬¸úÈı¹úÓĞË¿Ë¿ÂÆÂÆµÄ¹ØÁ¬È´ÓÖ²»¾¡ÏàÍ¬¡£ÔÚÈı¹úÄàÌ¶ÀïÄãµÄÄ¿
+±ê²»ÔÙÊÇ×öÎä¹¦¸ÇÊÀµÄ´óÏº£¬¶øÊÇÓĞ¸÷Ê½¸÷ÑùµÄÑ¡Ôñ£¬Äã¿ÉÒÔµ±Ò»Ãû
+³Û³ÒÉ³³¡µÄ½«¾ü£¬»òÊÇÔË³ïá¡á¢¾öÊ¤Ç§ÀïµÄ¾üÊ¦Ä±Ê¿£¬Îª¹úÎª¾ı¶ø¾¡
+(201-220 61%) [h]:¡¾ÏĞÁÄ¡¿°×³ş½¿µÎµÎµØ¶ÔÁ¹·Û²İËµ£ºÁ¹·Û²İÊåÊåºÃÑ½£¡
+ĞÄ¾¡Á¦£»ÓÖ»òÊÇÄÏÃæ³ÆÍõ£¬ÒÔ×Ô¼ºµÄ÷ÈÁ¦ÆÇÁ¦ÎüÒıÌìÏÂÓ¢ĞÛÆ´ËÀĞ§ÖÒ
+¶øÒÔ´ËÒ»Í³ÌìÏÂ£¬¾ÍËãÎŞÒâÒ»Í³ÌìÏÂ»¹¿ÉÒÔÑ¡ÔñÆ«°²Ò»Óç£¬½¨Á¢Ğ¡Íõ
+³¯£¬²»ÓëÖğÂ¹£»ÒªÊÇÄãÎŞĞÄÊËÍ¾£¬¿ÉÒÔÑ¡ÔñÖĞÒşÓÚÊĞ¡¢Ğ¡ÒşÓÚÒ°µÄÉú
+»î£¬ÔÆÓÎËÄ·½£¬ÓÖ»òĞüºø¼ÃÊÀ£»ÒªÊÇ×íĞÄ½ğÇ®µÄ»°£¬¿ÉÒÔÅ¬Á¦³ÉÎªÒ»
+·½¾Ş¸»£¬ÈÃ¸÷·½¾ıÖ÷±»Äã¿ØÓÚ¹ÉÕÆ£¬ÓèÈ¡Óè¶á£»Èç¹û¾õµÃ»ÂÍ¾ÏÕ¶ñ£¬some gold>> 
+      Step 2: Be an officer>> When your repute and culture is  enough, 
+you can become an officer>> If you want to get a horse to ride, then 
+type help starts>> You can find some advice from it>> Work is still an 
+importand thing when you become an officer>> No pain, no gain>> 
+      Step 3: Name youself>> You can give yourself a nickname and 
+a zi>> You shall type help zi and help nick to get advice>> If you want 
+to be more beautiful, then type help color>>
+      Now everything is ready>> Come , go out to find your dream,
+a wide world if waiting for you>> Good Luck! 
+ÓÖÓĞÒ»Éí±¾ÊÂ£¬¿ÉÒÔÔËïÚÌìÏÂ»òµ±¹ÍÓ¶¾ü£¬¹ı¹ıµ¶¿ÚÌòÑªµÄÉú»î¡
+ £ª ÔÚÈı¹úÀï×öÊ²÷áÄØ£
+    ¶ÔÍæ¼ÒËùÓĞµÄÒªÇóºÜ¼òµ¥£¬¾ÍÊÇÁ½¸ö×Ö£ºÓéÀÖ¡£ËÄ´¦×ßÒ»×ß£¬Ì
+Ì½ÏÕ£¬Ëæ±ãÍæÍæ»òÕßºÍÆäËûÍæ¼ÒÁÄ¸öÌì¡£Èç¹ûÄãÓĞÖ¾ÒªÌá¸ß×Ô¼ºµÄ¼
+ÄÜ£¬ÄÇÃ´¾ÍÒªºÃºÃÁ·¹¦ÁË¡
+ £ª ÔõÑùÍæÈı¹úÄØ£
+    Å¶£¬ºÜ¼òµ¥£¬£Ê£õ£ó£ô¡¡£ä£ï¡¡£é£ô£
+   1¡¢¡°Ìì½«½µ´óÈÎÓÚË¹ÈËÒ²£¬±Ø½«¿àÆäĞÄÖÇ£¬ÀÍÆä½î¹Ç¡£¡£¡£¡£¡
+      ÏÈÕÒĞ©¹¤×÷×ö×ö£¬´Óµ×²ãµÄ¹¤×÷×öÆğ£¬ÕõĞ©Ç®Ìî±¥¶ÇÆ¤ºÍÌá¸
+      ×Ô¼ºµÄ¼¼ÄÜ¡£ËäÈ»µ±¹ÙÎ´±ØÊÇÃ¿¸öÈËµÄÃÎÏë£¬µ«µ±¹ÙÖ®ºóÓĞÇ
+      ÓĞÊÆ£¬¿ÉÒÔ´óÓã´óÈâ£¬³öÈëÓĞ³µÂí£¬ºôÈıºÈËÄµÄ£¬Ë­²»ÏëÑ½¡
+      £¨Î¹£¬Î¹£¬ĞÑĞÑ£¬»¹Ã»¿ªÊ¼ÄÄ£¬¾Í¿ªÊ¼×÷Æğ°×ÈÕÃÎÀ²£¬°¡£¿£
+   2¡¢µÈÄã³¤ÆğÀ´ÁË£¬ĞŞÑøºÍÉùÍû¶¼¹»ÁË£¬¿ÉÒÔÅª¸ö¹Ùµ±µ±£¬µ±È»²
+      µ±Ò²¿ÉÒÔ°¡£¬Ã»ÓĞÈËÔÚºóÃæ±ÆÄãÂï¡£µ±ÁË¹ÙµÄ»°µ±È»ÒªÅªÆ¥Â
+      ÆïÆï£¬ÄÄ»¹ÄÜ×øÂí³µÄÇÃ´¶ª·İÑ½£¬ÔõÃ´ÅªÂí£¬´Ó help start
+      ÀïÃæÕÒÕÒ¡£ÓĞÂíÓĞÇ®ÁË£¬ÏÈÎªÁËÄÇ·İÙºÂ»ÁôÒ»Õó×Ó°É£¬µ±¹Ù¾
+      µÃÓĞµ±¹ÙµÄÑù£¬×ÔÈ»»¹ÓĞµ±¹ÙµÄ¹¤×÷¡£¹¤×÷¹¤×÷ÔÙ¹¤×÷£¬ÕâÈ
+      ×ÓÊ²Ã´Ê±ºòÍêÑ½£¿£¨Ñ½£¬Äã²Å¶à´óÑ½£¿ÕâÄêÍ·²»¹¤×÷µÄ¶¼È«¶
+      ËÀÁË£¬»¹²»¿ì¸É£¡£¿£
+   3¡¢»ØÍ·ÏëÏë£¬³¤ÕâÃ´´óÁË»¹Ã»ÓĞ¸ö×Ö¡¢ºÅÊ²Ã´µÄ²»´óÌåÃæ£¬µÃÏ
+      Ïë£¬Èı¹úÀï¿ÉÒÔ¸ø×Ô¼ºÆğ×ÖºÍ´ÂºÅ£¬ÈçºÎÉèÖÃ¿´¿´ help z
+      ºÍ help nick ºÃÁË£¬ÒªÊÇ»¹ÏëÉèÖÃÑÕÉ«µÄ»°£¬ help color¡
+      ºÃÁË£¬×ÖºÅÉí·İ¶¼ÓĞÁË£¬¿ªÊ¼·Ü¶·°É£¡ºÇºÇ£
+// >>>>>>>>>>>
+ÔÚ¶àÊıÇé¿öÏÂ£¬Èç¹ûÄãÏëÏòÒ»¸ö¶ÔÏó»òÕßÒ»×é¶ÔÏó·¢ÏûÏ¢£¬ÕıÈ·µÄº¯ÊıÊÇtell()¡
+Tell(ob,str)ÊÇÏò¶ÔÏóob·¢ËÍÏûÏ¢strµÄÕıÈ·Í¾¾¶£¬Ëü²»»á´«¸øÆäËû¶ÔÏó»òÕßÖÜÎ
+»·¾³Ê²Ã´Ö®ÀàµÄ¡£Èç¹ûÓĞµÚÈı¸ö²ÎÊıµÄ»°£¬ËüÍ¨³£ÓÃ×÷ÏûÏ¢µÄÀàĞÍ¡£Ò»×é¶ÔÏóÒ
+¿ÉÒÔ×öÎªµÚÒ»¸ö²ÎÊı£¬ÕâÊ±ÏûÏ¢½«´«¸ø×éÖĞµÄÃ¿Ò»¸ö¶ÔÏó¡£±ÈÈç£¬Tell(user(),Ä
+ºÃ)½«ÏòËùÓĞÔÚÏßµÄµÄÓÃ»§·¢ËÍ¡°ÄãºÃ¡±µÄÏûÏ¢¡£[×¢Òâ£ºÏûÏ¢¿ÉÒÔ´«¸øÓÃ»§¶ÔÏ
+ºÍÉíÌå¶ÔÏó¡£ÉíÌå¶ÔÏó»á¼òµ¥µØ½«ÏûÏ¢´«¸øËùÊôµÄÓÃ»§¡£ÉÏÃæÄÇ¸öÀı×Ó£¬¿ÉÒÔ½
+µÚÒ»¸ö²ÎÊıÓÃbodies()À´´úÌæ£¬Ğ§¹ûÊÇÒ»ÑùµÄ¡£
+ÁíÒ»¸öÓĞÓÃµÄº¯ÊıÊÇtell_user(name,msg)£¬Ò»Ñù¿ÉÒÔ½«ÏûÏ¢·¢¸øÃûÎªnameµ
+ÓÃ»§£¬Èç¹ûÓĞÕâÓÃ»§µÄ»°¡£Õâ¸öº¯Êı¿ÉÒÔÓÃÀ´ÅÅ´í£¬Ïò×Ô¼º·¢ËÍĞÅÏ¢£¬¸ñÊ½Î
+tell_user(×Ô¼ºµÄÃû×Ö£¬>>>>>>>>>>>>)¡
+ÓĞĞ©ÏûÏ¢²»ÊÇË½ÈËµÄ£¬ÓÃÀ´·¢¸øÒ»¸öÌØ¶¨µÄ¶ÔÏó£¬¶øËùÓĞ¿ÉÒÔ¿´µ½Õâ¸öÊÂ¼şµÄÆ
+Ëû¶ÔÏó¶¼ÄÜÊÜÆäÓ°Ïì¡£ÓÃÀ´´¦ÀíÕâÖÖÏûÏ¢ÓÃµÃ×î¶àµÄÊÇtell_environment(ob,msg
+Õâ¸ö¿ÉÒÔ½«ÏûÏ¢·¢¸øËùÓĞÔÚ³¡¶ÔÏóµÄº¯Êı¡£Õâ¸öÏûÏ¢»áÔÚ¶ÔÏóÖ®¼ä´«µİ£¬Ö±µ½ÓöÉ
+Ò»Ğ©²»¡°Í¸Ã÷¡±µÄ¶ÔÏóÎªÖ¹¡£tell_from_inside()ºÍtell_from_outside()ÊôÓÚµÍ¼¶±
+µÄ°æ±¾£ºtell_from_inside()ÏòÒ»¸öÌØ¶¨µÄ¶ÔÏó·¢ËÍĞÅÏ¢£¬²¢ÏòÉÏÏòÏÂ£¨£¿£©´«²¥£
+¶øtell_from_outside()ÔòÖ»ÏòÏÂ´«²¥¡
+tell_from_insde()£¬tell_from_outside()ºÍtell_environment()Ò²Ö§³ÖµÚËÄ¸ö²ÎÊı£
+ÓÃÀ´Ö¸¶¨²»ÔÊĞí½ÓÊÜ¸ÃÏûÏ¢µÄÒ»×é¶ÔÏó¡
+¼¶ÔÓÚÊ¹ÓÃÀÏµÄefusµÄ£¬ÏÂÃæµÄĞÅÏ¢¿ÉÄÜÓĞÓÃ£
+tell_object()Ö÷ÒªÓÃÀ´Ìæ´útell()£
+tell_room()Í¨³£±ä³ÉÁËtell_from_outside()>>ÀıÍâµÄÊÇ£¬Ô­À´³£ÓÃµÄtell_room
+        environment(ob),,,,,,)±ä³ÉÁËtell_environment(ob,>>>>>>>>
+¡¾ÏµÍ³¡¿ÔëÒô½øÈëÈı¹ú¡£
+say()ÔÚ¶àÊıÇé¿öÏÂ»»³ÉÁËtell_environment(this_object(),>>>>>>>>)£¬Èç¹ûÊÇ·ÇÉúÎï·
+        ³öÕâ¸öÏûÏ¢£¬¾ÍÒªÓÃtell_enviroment(this_body(),>>>>>>>>>>
+write()ºÍprintf()»¹ÊÇ¿ÉÒÔ¹¤×÷µÄ£¬ËäÈ»ÏÖÔÚÍ¨³£ÓÃtell(this_user(),>>>>
+>>>>>>)À´´úÌæ¡
+        Õâ¸öº¯Êı³ıÁË°ü×°ºÍÏÔÊ¾ÑÕÉ«ÒÔÍâ£¬ÆäËûµÄ¶¼ÊÇºÍ¾Éº¯ÊıµÄ¹¤×÷ÊÇÒ
+        Ä£Ò»ÑùµÄ¡
+                Welcome to The History Of San Gu
+      This article will help you when playing this  MUD whether you
+are an old player on a newbie>
+      Question 1: What is The History of San Guo
+       "The History of San Guo" is a book written by Chen Shou>> But
+this is a MUD game>> It is from the book>>Int the MUD,you can have
+many choice,not just be  a knight-errant>> You can be a general , a
+advisor, a king , a duke, a doctor, a richman, an armman or a
+triggerman>> You can do what you want>
+      Question 2: what shall i do in the MUD
+      Anything you like>> Go around,  have a journey, talk with others or
+anthing else>> If you want to be stronger , you shall train youself >
+       Question 3: How to play it
+       That is very easy, Just step out and do it
+       Step 1:work>> At the begining , you shall find a job and get
+// >>>>>>>>>>>
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >>support fire
+ÈÕÆÚ: Fri Jan 14 03:14:53 2000
+support all, but since everyone disagree the penalty so much,
+try to deduct some gold instead to be warning?  I suggested
+to deduct the statistics of rob, I should apologize for
+not realizing what our rules r not ready at present, but now
+row's rules r fine enough to be in the public, fire
+can give the penalty and at the same time, announce the rule
+I may add it in help rules.
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >support fire
+ÈÕÆÚ: Fri Jan 14 01:15:33 2000
+On Fri Jan 14 03:54:55 2000 ·ÖÖÓ(group) wrote post #195:
+> support fire
+fully support ..
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: support fire
+ÈÕÆÚ: Fri Jan 14 00:54:55 2000
+support fire
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >Î×Ê¦ÄÚ²¿ÒªÍÅ½á
+ÈÕÆÚ: Thu Jan 13 22:13:27 2000
+Ã»ÎÊÌâ£¬ÎÒÖ§³ÖÁÒ»ğ£¬ÏÈ´¦·£rob£¬ÔÙ´¦·£rulin£¬²»¹ıÓÉÓÚÓÎÏ·¹æÔò»¹
+Ã»ÓĞ¶¨£¬ËùÒÔ×îºÃ²»ÒªÓĞÊµÖÊĞÔµÄÏ÷¼õÊı¾İ¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Î×Ê¦ÄÚ²¿ÒªÍÅ½á
+ÈÕÆÚ: Thu Jan 13 22:10:50 2000
+¹ØÓÚrobºÍrulinµÄÊÂÊµ¼ÊÉÏÃ»Ê²Ã´´ó²»ÁËµÄµ«Ö÷ÒªÊÇÍæ¼Ò¶ÔÎ×Ê¦µÄÌ¬¶È
+Ò²Ì«¹ı·İ.Ò²ĞíÊÇÒòÎªÎÒÃÇÒÔÇ°Ì«Ç¨¾Í,ÏÖÔÚ¶¯²»¶¯¾ÍÖ¸ÔğÎ×Ê¦,Òª²»¾Í
+ÒÔ×ÔÉ±ÍşĞ².ÕâÑùµÄÊÂÇéÒ²²»ÊÇÒ»´ÎÁ½´ÎÁË.ÎÒÌùµÄPOST´¿´âÊÇÎ×Ê¦
+Ğ­»áµÄ¾ö¶¨,²¢²»Ö»ÊÇÎÒ¸öÈËµÄÒâ¼û.ËùÒÔµ±Íæ¼Ò·´¶ÔÊ±,ÎÒÃÇÒª±£³Ö
+ÍÅ½á,¶ÔÍâPOSTºÍÑÔÂÛÒ»¶¨Òª±£³ÖÌ¬¶ÈÒ»ÖÂ.
+ROBÒ²Ğí²»ÊÇÒ»¸öBAD GUY,µ«¶ÔÎÒµÄPOSTÊµÔÚÊÇßÍßÍ±ÆÈË.Èç¹ûËû
+Ì¬¶ÈÎÂºÍµã,ÕâÑùµÄÊÂÇé¹ıÈ¥¾Í¹ıÈ¥ÁË.ÏÖÔÚÎÒµÄĞÄÇéºÜ²»ºÃ,ÎÒµÄÒâ¼û
+ÊÇÒ»¶¨Òª´¦·£ROB,¶øÇÒÒªÔÚ´¦·£RULINÖ®Ç°´¦·£ROB.Çë´ó¼ÒÖ§³ÖÎÒ.
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >>¶ÔrobµÄ´¦·£ÊÇÖØÁËĞ©
+ÈÕÆÚ: Thu Jan 13 21:41:44 2000
+close chat channel is nothing to the player, it's just an id,
+they can still have dummies to talk
+that's my point of fining with lowering their skills.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >¶ÔrobµÄ´¦·£ÊÇÖØÁËĞ©
+ÈÕÆÚ: Thu Jan 13 17:47:58 2000
+On Thu Jan 13 04:47:36 2000 ÁÒ»ğ(fire) wrote post #189:
+> ´ó¼Ò¿´¿´£¬Ê²Ã´ÑùµÄ´¦·£¸üºÏÊÊ£¿
+
+as i posted in caolu, i suggest to close rob and rulin's channel for 1 week.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ØÓÚÍæ¼Ò¹æÔò
+ÈÕÆÚ: Thu Jan 13 01:48:15 2000
+rowÆğ²İÒ»¸öÈçºÎ¡£
+addoil row
+escape
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¶ÔrobµÄ´¦·£ÊÇÖØÁËĞ©
+ÈÕÆÚ: Thu Jan 13 01:47:36 2000
+´ó¼Ò¿´¿´£¬Ê²Ã´ÑùµÄ´¦·£¸üºÏÊÊ£¿
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >>close rob's channel
+ÈÕÆÚ: Tue Jan 11 21:49:15 2000
+agree and...
+add some more penalties?
+it's really bad hurted.
+suggest down all statistics 20%.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >close rob's channel
+ÈÕÆÚ: Tue Jan 11 17:31:39 2000
+agree
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: close rob's channel
+ÈÕÆÚ: Tue Jan 11 03:30:57 2000
+i suggest close rob's chan for 1 week.
+
+hoho, can fine him at same time.
+group
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: a player ask for justice
+ÈÕÆÚ: Tue Jan 11 03:21:46 2000
+haven't met this before, what your guy's openion ?
+ÊÕĞÅÈË £ºfire
+¼ÄĞÅÈË £ºrulin
+ÈÕÆÚ   £ºTue Jan 11 06:14:14 2000
+ÌâÄ¿£ºÄãºÜÉúÆø£¡ 
+---------------------------------------
+½ñÌìÎÒ½Óµ½Ò»¸ömail£¬ÀïÃæÊÇrob³ËÎÒ²»ÔÚµÄÊ±ºò£¬¶ÔÎÒ½øĞĞµÄÈËÉí¹¥»÷£¬ÄÚÈİÈçÏÂ£º
+¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºSIGHJIANºÙºÙÒ»ÀÖ£ºÄÇÔÛÁ½À´À´£¿£¡
+¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºÈêÁÜÒ»Ìı£¬°¦£¡Ã»°ì·¨À´¾ÍÀ´°É
+¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºÓÚÊÇËûÃÇ¾ÍÔÚ¹«°²µÄ´å¿Ú·¢ÉúÁË¹ØÏµ
+¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºSIGHJIANÍêÊÂºó£¬ÂúÒâµØµãµãÍ·£ººÃ£¬ÎÒÖ»ÖªµÀ´ó¸Å·½Ïò
+¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºÈêÁÜÌáÆğ¿ã×Ó¼±¼±Ã¦Ã¦¸ÏÍù³¤°²
+> ¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºµ½ÁË³¤°²£¬ÈêÁÜÕıºÃÓö¼ûÕÔ×ÓÁúÈ¥°İ¼ûººÏ×µÛ
+¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºÓÚÊÇÀ¹×¡Ëû£ºROB´óÊåÄãÖªµÀ»ªÒõÔõÃ´×ßÂğ£¿
+> ¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºROBËµÖªµÀ°¡
+> ¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£º²»¹ıÄØ£¬¼û»ÊµÛÇ°ÎÒµÃÇáËÉÒ»ÏÂ£¬¼û»ÊµÛÌ«½ôÕÅÁË
+¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºÔÛÃÇÀ´À´£¿
+¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºÈêÁÜÒ»Ìı£¬ÓÖÒªÀ´£¬ºÃ°É£¬Ö»ÒªÄÜ¾ÈÃÎ»Ã¼Ò£¬ÔõÃ´¶¼
+ĞĞ                   ¡¾ÏĞÁÄ¡¿ÕÔ×ÓÁú(rob)£ºÓÚÊÇËûÃÇ¾ÍÔÚ³¤°²·ïÒÇÍ¤Àï¸ã
+ÁË¸ö»ìÌìºÚµØ
+ÏàĞÅ²»ÓÃÎÒËµÕâÓĞ¶àÃ´ÏÂÁ÷ÁË¡­¡­
+                                                  --Rulin
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >plan of restart
+ÈÕÆÚ: Wed Dec 29 18:01:01 1999
+agree
+
+
+---
+×÷Õß: °¢Âå(row)
+ÌâÄ¿: demote inactive wizs
+ÈÕÆÚ: Tue Jan  4 21:07:53 2000
+now i am suggesting to demote inactive wiz.
+they r: zhanpu, guangfeng, yuyin, roro.
+
+for zhanpu and guanfeng, they havent shown themselves
+for a long time, as for the rules, they have to be de-
+moted. however, as we all can see, they've done great 
+jobs for sanguo in the past, such as that zhanpu put
+sanguo on his web page as a very good advertising, gu-
+anfeng created lots of objs, which have been proved v-
+ery useful.  so if they return in future and r willing
+to take back their job, we may recover their positions.
+
+for yuyin, i should say infact yuyin did nothing for 
+sanguo, which is regretful.  so, if yuyin is able to 
+hand in his tasklist b4 next restart, we may reconsid-
+er this decision.
+
+for roro, we have record shows that roro has ftped all
+sanguo's lib for unknown reason and didnt give explan-
+ation as we required yet.  so be frankly, if roro app-
+lied wiz post just for the lib, he is wasting his time,
+as well as ours. becoz stefan is working on lib relea-
+se job, so at that time, every interested person has 
+the same right to share and develop sanguo lib. there-
+for, there is no reason for roro to keep his position
+here anymore.
+
+i am sorry to make such proposal, actually, but for w-
+iz's decipline, i have to.
+
+hope other admins and wizs give ur opinion as soon as 
+possible for settling this earlier.
+
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: fully agree to row
+ÈÕÆÚ: Tue Jan  4 23:21:00 2000
+since the next restart will be new beginning of this
+mud, in my opition, it is the officially open .. 
+so i think that it time to restrict rules here.
+So i totally agree with row's idea that we should
+demote all inactive wizards.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >fully agree to row
+ÈÕÆÚ: Tue Jan  4 23:32:03 2000
+
+agree row
+xixi :)
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >>fully agree to row
+ÈÕÆÚ: Wed Jan  5 04:47:47 2000
+agree
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: agree
+ÈÕÆÚ: Wed Jan  5 23:02:35 2000
+agree to row.
+last time heard that yuyin is also a dummy? is that true? or his
+password was got by others?
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: 5 wiz have been demoted
+ÈÕÆÚ: Thu Jan  6 01:37:43 2000
+according to row's suggestion and the discuss result and
+wiz rules
+I demoted zhangpu, yuyin, roro, beans, guanfeng
+sigh :(
+addoil all 
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >draft plan of re-start
+ÈÕÆÚ: Tue Dec 28 08:33:31 1999
+1 agree
+2 agree
+3 ¹úÊ¦'s power will be the same, but to become a ¹úÊ¦ need more national
+  contribution. Currently it is 300. How about change it to 500?
+  
+  Well, since the power will be the same, let's bring some more limitation
+  bah.
+  1) add a aggresive requirement of ¹úÊ¦£¬when a player's nationcontri
+     arrives 500, he will become ¹úÊ¦£»every 3 sanguo yrs will be the
+     period of reconsideration, a qualified ¹úÊ¦ must have 1000 more
+     nationcontri each 3 sanguo yr, otherwise he will be demoted
+  2) ¹úÊ¦ cannot change national capital
+ cannot pos king to other cities
+     and king will always be the taishou of the national capital.
+  3) ¹úÊ¦ also will be evaluated every 3 years, if in this evaluation there
+     is one or more players have higher nationalcontribution than ¹úÊ¦£¬
+     system will choose randomly from them.
+4  I remember there is a plan about officers' requirement, if fire can 
+   combine with lch's idea, it'll be much better, and also make it can
+   be viewed by player that which position need to achieve which level,
+   anyway, I still suggest add a random factor to the officers' requirement.
+5  agree.....*point
+6  well, I suggest to make some change in the requirement and something in
+   penalty in penalty:
+   
+   1) 50,000 reputation, 2000 localcontri, 5000 nationcontri.
+   2) if ind, officers in the same city will be random leave, not like b4,
+      all will absolutely leave...... (*poor liyu)
+   3) if a king's nation is ruined, his equipment will be demoted to none, and
+      his money will be decreased to 1/10 and it won't be more than 1000 gold
+      in total...
+7  I think surrender is a good start of foreign relationships, but I
+suggestion
+   to add some penalties in both surrenders and ìøÈÃ£º
+   
+   1) if surrender, the lost king will lose 90% of his reputation
+ if ìøÈÃ£¬the
+      former king will lose 60% of his reputation.
+8  fire, u said u r modifying the house system, I think u r working in the
+   system of functional rooms, is that right?  I am interested to provide a 
+   real estate plan which may also include some financial plan of sanguo, like
+   loans from bank, interests if deposit in bank, and might be possible to pay
+   money in parts...... but ......  I'll work out the texture plan, and ......
+   u make the plan true bah :)
+9  good.
+10 *blink
+
+addoil all
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >draft plan of re-start
+ÈÕÆÚ: Mon Dec 27 18:03:53 1999
+basically, i agree with fire's plan, but i have following suggestion:
+1) is 16 NPC countries too many?  how about only 3 nations(Îº¡¢Êñ¡¢Îâ)? and
+we should disable independent to make player serve the NPC nation
+from begining
+to the end. i remember someone complained here is not like Èı¹ú but much like
+Îå´úÊ®¹ú, so maybe we make some change at new start.  obviously, not everyone
+will agree with this, especially for those who r ambisious. however,
+we can post
+several plans and see player's reaction, or just let them vote to choose one.
+2) for player becoming officer, i think lch's suggestion is very
+good.  now a king
+can set his officer at free will for money sack, which is
+unreasonable.  to make
+the nationdistribution or localdistribution as the guideline will be
+more formal.
+anyway, we may consider it.
+3) about player's personal data, i suggest to set player's money
+depends on his age.
+becoz i didnt feel happy about current situation that everybody
+independent for gold.
+we may do as this manner: year 14: 10 gold, year 16: 20 gold, year
+18: 30 gold, etc.
+i know i will be hammerred everyday for this decision, hehe.
+
+generally, none of us would like to see the next sanguo ending in doom, so we
+have to consider over b4 making every decision.
+
+regards.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: draft plan of re-start
+ÈÕÆÚ: Mon Dec 27 16:28:42 1999
+1 put the new start on the new server. 
+  The most advantage is the when we are testing, there were no players
+  around to disturb. But we need the server to be ready to code in the
+  mid of January. And there will be at least 24 hours for us to prepare
+  in the new server before opening it to players. If the new server can't
+  be ready in the middle of next January, we have to restart the mud on
+  the old server first.
+2 About player nations.
+  Since no body unify the whole China in this round. So in next round,
+  there will be no player counties. There will be only 16 NPC countries.
+  The country arrangement can be check by "info r".
+3 About ¹úÊ¦
+  ¹úÊ¦'s power will be the same, but to become a ¹úÊ¦ need more national
+  contribution. Currently it is 300. How about change it to 500?
+4 The requirement for becoming an officer will be adjustment, the same as
+  to become a local leader (some will according to lch's post)
+5 If somebody interested, we may redesign the start page. (The current page
+  is very good indeed, but a new front page give ppl the impression that
+  we are new:)
+6 About Independence
+  The requirement is about the same, but we may add some penalty for a king 
+  when his country is ruined. It will discourage ppl to got independence 
+  just for some poket money. 
+7 About countries
+  Now flee has add the surrender for nation. It is ok. We will create ally for
+  countries.
+8 About other new stuff
+  Any wizs if have new stuff which is
+  a no much relationship with other big systems.
+  b nearly done.
+  Please apply so we can put it in the new start scheme.
+9 About the players data
+  Players' following data will be cleared
+  a. national contribution
+  b. local contribution
+  c. national position
+  d. local position
+  Other data such as money, jiewei, liturate, house, and personal
+stuffs will be 
+  kept.
+10 Schedule
+  a I hope the plan can be determined before 1st January.
+  b A tasklist will be add one day after the plan is approved.
+  c the total code will be finished before 13th January.
+  d the code will be tested and all data will be transfered before
+14th January
+  e The new start will be on 15th January
+Please discuss and support :)
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: About restart
+ÈÕÆÚ: Mon Dec 27 15:34:54 1999
+Since everybody supports to restart. We will restart this mud. The
+only difference is some people expect a "better plan" and "something
+different" in the new era, and Stefan suggest we restart until we got
+a new server. I think that is fine.
+
+However, a better plan can not come from nowhere; there must be some ppl
+to make it and to realize it. On the other hand, we can't expect that
+a new start can solve everything. But definately a new start can bring 
+new hopes and new excitings in some way. Generally speaking, what a new
+year can bring to us? Nothing new, the same people and the same world. 
+(of course, the world is changing, but it changes all the time, there is
+no big leap among the new years) But we still use a lot energy to celebrate 
+new years. And the coming new year is even special, it leads to a new century 
+and I believe none of us can survive longer enough to meet the next turn 
+of this big event. So I think it is a enough execuse for us to abort this 
+round of Sanguo and to restart a new one.
+
+About the plan. I have asked rob to make one, but seem he is not quite
+good to make detailed plans. I will give a draft plan soon. And we can 
+discuss it.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >>>>ÎÒ½¨ÒéÔÚĞÂÊÀ¼ÍÖØĞÂÆô¶¯
+ÈÕÆÚ: Sun Dec 26 06:49:55 1999
+seems this sanguo era has to be ended in a unhappy way, too many
+bad news, and too many rumors...how can we change this situation?
+thats the question we all wizard staff need to think over.  to create
+a new-type mud is difficult, and to manage it is even harder.  however,
+we cannot totally ignore players' demands and complains.  there is
+a new log for wizards regarding on decipline issue and is believed
+a good start too, becoz we still need to do lots of things to make
+this 'world' perfect, any problems coming from inside r fatal...
+anyway, since most players and wizards support to restart, i dont have
+objection, and if rob is able to provide a better plan, that will be
+better.  Y2K is a milestone for human being, we all hope it can bring
+good luck for sanguo, we love sanguo.
+
+ps: well, wizlist gets 13 wizs, in order to decipline ourselves, i 
+suggest to reconsider their positions according to their work.  and to
+recruit new wizard has to be well-considerred becoz stefan found there
+is already a copy of our sanguo outside. dunno if this is true but
+we need to be alert from now on.
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >>>ÎÒ½¨ÒéÔÚĞÂÊÀ¼ÍÖØĞÂÆô¶¯
+ÈÕÆÚ: Sat Dec 25 20:01:59 1999
+On Sat Dec 25 14:48:42 1999 Ice wrote post #167:
+> I agree if we can have a good plan......
+> bcoz I think even restart, it's the same player, doing in
+> the same ways, nothing will be changed except the nation names.
+
+agree with flee and ice, better get something different if reopen.
+Also, maybe reopen after our server relocation will be better :)
+I will try to get it done within January 2000.
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >>ÎÒ½¨ÒéÔÚĞÂÊÀ¼ÍÖØĞÂÆô¶¯
+ÈÕÆÚ: Sat Dec 25 11:48:42 1999
+I agree if we can have a good plan......
+bcoz I think even restart, it's the same player, doing in
+the same ways, nothing will be changed except the nation names.
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >ÎÒ½¨ÒéÔÚĞÂÊÀ¼ÍÖØĞÂÆô¶¯
+ÈÕÆÚ: Sat Dec 25 06:57:40 1999
+On Sat Dec 25 07:07:19 1999 ÁÒ»ğ(fire) wrote post #164:
+> Ä¿Ç°ÓÉÓÚÖÖÖÖ±ä¸ï£¬´ó²¿·ÖÍæ¼Ò£¬°üÀ¨Ä¿Ç°µÄÖ÷Òª¹úÍõ
+> ¶¼Í¬ÒâÖØĞÂÆô¶¯¡£Ä¿Ç°£¬robÕıÔÚ²İÆğÒ»¸ö·½°¸¡£ÎÒ½¨Òé
+> ÔÚĞÂÊÀ¼ÍµÄ¿ªÊ¼£¬Ò²¿ªÊ¼ĞÂ¼ÍÔªµÄÈı¹ú¡£¾ßÌå·½°¸»¹¿ÉÒÔ
+> ÌÖÂÛ¡£ÖîÎ»ÒÔÎªÈçºÎ£¿
+agreed provided we can have a better plan ..
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: i agree
+ÈÕÆÚ: Sat Dec 25 06:04:00 1999
+agree reopen
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ÎÒ½¨ÒéÔÚĞÂÊÀ¼ÍÖØĞÂÆô¶¯
+ÈÕÆÚ: Sat Dec 25 04:07:19 1999
+Ä¿Ç°ÓÉÓÚÖÖÖÖ±ä¸ï£¬´ó²¿·ÖÍæ¼Ò£¬°üÀ¨Ä¿Ç°µÄÖ÷Òª¹úÍõ
+¶¼Í¬ÒâÖØĞÂÆô¶¯¡£Ä¿Ç°£¬robÕıÔÚ²İÆğÒ»¸ö·½°¸¡£ÎÒ½¨Òé
+ÔÚĞÂÊÀ¼ÍµÄ¿ªÊ¼£¬Ò²¿ªÊ¼ĞÂ¼ÍÔªµÄÈı¹ú¡£¾ßÌå·½°¸»¹¿ÉÒÔ
+ÌÖÂÛ¡£ÖîÎ»ÒÔÎªÈçºÎ£¿
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: passwd
+ÈÕÆÚ: Thu Dec 23 00:49:48 1999
+today i talk with a player, and he said he have hacked
+wizards passwd and download some files .. 
+please make sure ur passwd is secured .. 
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: About changing the LPC engine.
+ÈÕÆÚ: Tue Nov 23 05:03:23 1999
+About Stefan's suggestion of changing LPC engine. I think we can consider
+it. But not hurry, we will use some time to search the information of PIKE
+and evaluate its potentiality and when we got familar with it and find it
+is really a stable base, then we need to estimate the difficulty of migration.
+and then do the migration.
+  But the most important thing now is to finish this release first.
+Because we have 
+spent a lot time and energy on it. We simply need some results.
+Somehow, perhaps
+we can't put in every thing in the first release, but at least it works well
+with the current stuff. It is obviously that we have some bugs in
+the low level.
+I hope we can figure them out and fix them. 
+  Anyway, i think the mudos, even has some limitation, it is good
+enough to support
+current SanGuo Mud. and some of the shortage can be overcoverd.
+Forexample, Mudos doesn't support access to database. It is sure now
+we are using
+some database based system. But unlike most database, the mapping
+has it advantage
+and also the number of records is not too big yet (no more than
+2000). so perhaps
+later we can invite some way to implenment some database operation
+on small-sized
+tables.
+  About the Web, it is one part of the mud but not the essential
+part for playing.
+and we may use other web server and combined with our mud Cgi.
+  Of course, if PIKE is far more advantaged than MudOS, we may shift
+to it in the 
+future, my opinion is that MudOS is capable to host this mud in
+current stage :)
+Regards
+fire
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: the new server
+ÈÕÆÚ: Thu Nov 25 04:39:42 1999
+is a littler slower for me than this one, but not too bad :)
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: hi stefan
+ÈÕÆÚ: Mon Dec 20 02:36:37 1999
+hi stefan
+how are you recently
+I think perhaps we can prepare to release our code recently
+and we can become our next release soon
+it should based on browser use java and has graphic interface
+if you have time, I think we can have a detailed discuss
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: plan of restart
+ÈÕÆÚ: Wed Dec 29 02:14:04 1999
+1 put the new start on the new server. 
+  The most advantage is the when we are testing, there were no players
+  around to disturb. But we need the server to be ready to code in the
+  mid of January. And there will be at least 24 hours for us to prepare
+  in the new server before opening it to players. If the new server can't
+  be ready in the middle of next January, we have to restart the mud on
+  the old server first.
+2 About player nations.
+  Since no body unify the whole China in this round. So in next round,
+  there will be no player counties. There will be only 16 NPC countries.
+  The country arrangement can be check by "info r".
+  Row's suggestion is good. This mud is based on Sanguo, but when I play
+  san guo pc game, I always like to choise the first stages which have more
+  countries. In this case, I prefer more countries. But perhaps we can make
+  three big countries and many small countries, how about this way. Anyway
+  the previous arrange is designed by ice, if no objection, we will leave 
+  this question solved by ice. so ICE, please make a list of countries and
+  area and npc distribution. if you like, can just keep the old one, if row
+  like, can give your suggestion directly to ice.
+3 About ¹úÊ¦
+  ¹úÊ¦'s power will be the same, but to become a ¹úÊ¦ need more national
+  contribution. Currently it is 300. How about change it to 500?
+  The reason to make the ¹úÊ¦'s power similar to the player king's power is
+  try to make the npc country as strong as a player's country.
+  But system may need a more restrict method to select a ¹úÊ¦ and
+keep his position.
+  I will do this part and will use some of ice's ideas.
+  a change capital city, can only change from small city to big city
+  b ¹úÊ¦ also will be evaluated every 3 years, if in this evaluation there
+     is one or more players have higher nationalcontribution than ¹úÊ¦£¬
+     system will choose randomly from them, this is right.
+  c add a aggresive requirement of ¹úÊ¦£¬when a player's nationcontri
+     arrives 500, he will become ¹úÊ¦£»every 3 sanguo yrs will be the
+     period of reconsideration, a qualified ¹úÊ¦ must have 1000 more
+     nationcontri each 3 sanguo yr, otherwise he will be demoted
+    I will consider it.
+4 The requirement for becoming an officer will be adjustment, the same as
+  to become a local leader (some will according to lch's post)
+5 If somebody interested, we may redesign the start page. (The current page
+  is very good indeed, but a new front page give ppl the impression that
+  we are new:) *point ice
+6 About Independence
+  The requirement is about the same, but we may add some penalty for a king 
+  when his country is ruined. It will discourage ppl to got independence 
+  just for some poket money. 
+  I will do this part and give d
+7 About countries
+  Now flee has add the surrender for nation. It is ok. We will create ally for
+  countries.
+  if ìøÈÃ£¬the  former king will lose 60% of his reputation. in
+current situation
+  the ìøÈÃ will make the former king lost nearly every thing,
+because he will be
+  kick out from the char :(
+  Can flee do the ally and other national relation part stuff?
+8 About other new stuff
+  Any wizs if have new stuff which is
+  a no much relationship with other big systems.
+  b nearly done.
+  Please apply so we can put it in the new start scheme.
+  This part is free to everyone, so everybody please make something
+suprised bah.
+9 About the players data
+  Players' following data will be cleared
+  a. national contribution
+  b. local contribution
+  c. national position
+  d. local position
+  e. about the money, some of the data such as poket money and money
+in bank is stored
+     in the player's datafile, so hard to modify it he is not on
+line, so this time
+     perhaps we just keep the money not changed.
+  Other data such as money, jiewei, liturate, house, and personal
+stuffs will be kept.
+10 Schedule
+  a I hope the plan can be determined before 1st January.
+  b A tasklist will be add one day after the plan is approved.
+  c the total code will be finished before 13th January.
+  d the code will be tested and all data will be transfered before
+14th January
+  e The new start will be on 15th January
+11 if no body object before 31 December, I will translate it into
+chinese and announce 
+   and every wiz please begins your part of work :)
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >about the safe of passwd
+ÈÕÆÚ: Sun Nov 14 06:42:17 1999
+be careful, all guys.....
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: about the safe of passwd
+ÈÕÆÚ: Sun Nov 14 02:34:40 1999
+today i find that i have 5 times of fail login
+I use following method to find out who try to guess
+my passwd:
+
+1 cd /log
+2 find -in fire LOGIN_FAIL
+  then find :
+2453  fire: Sat Nov 13 12:53:36 1999 À´×Ô£º202.96.154.193
+2454  fire: Sat Nov 13 12:53:36 1999 À´×Ô£º202.96.154.193
+2455  fire: Sat Nov 13 12:53:44 1999 À´×Ô£º202.96.154.193
+2456  fire: Sat Nov 13 12:54:03 1999 À´×Ô£º202.96.154.193
+2457  fire: Sat Nov 13 12:55:12 1999 À´×Ô£º202.96.154.193
+
+  that means someone from 202.96.154.193 try 5 times to
+  login as fire
+3 then use find -in 202.96.154.193 logins and find:
+  only guy (id hum) come from that id, so it is quite
+  possible that hum try to guess my id. 
+
+please pay attention about the safe of passwd :)
+
+can use find -in <id> logins to check if someone from
+other ip address has login your id
+
+cheers :)
+
+
+
+
+---
+×÷Õß: Ë¹Ì¹¸£(stefan)
+ÌâÄ¿: mirror and server relocation
+ÈÕÆÚ: Sat Nov  6 23:49:47 1999
+I am having trouble with the new server I mentioned last time, too.
+If someone volunteer to host sanguo's server, it would be great.
+However, there are things I am worrying about:
+
+1. how secure is that server, not in terms of system security, but also the
+people who manage it. So far, I am quite certain that nobody has ever got
+a complete copy of our lib yet. But if somebody we never dealt with is
+going to manage it, I am quite worried.
+
+2. It is bad for the mud that the development gets branched, especially those
+libs got pirated. Look at XKX back three years ago, how many people
+have got the pirated copy and declare they own it and go on their
+own branch of developing a mud. Few has been successful. 
+
+3. We are not ready to release a version yet. Not to mention the bugs that
+players are complaining about, but the main structures have not been 
+settled yet. If we allow branching of development, we will
+eventually face the incompatibility of all sorts. People will 
+just hijack our code and declare they own it, it is their own sanguo :)
+Just look at XKX, US XKX and China XKX are different.
+
+4. An open source development group is the way to go. If we are not
+afraid of releasing the secrets in the mudlib, we can build a webpage
+and start to organize development over the internet, encourage
+people to contribute their own code to the library.
+
+Pretty much as I prefer number 4 as the future direction, but I am
+afraid a mudlib is not suitable to be completely open, because people will
+study the code and know all the secrets. I believe SanGuo is already
+much different from traditional role playing muds. We do not have
+many secrets to hide away from normal players. We set off with a goal
+to build a dynamic mud.
+
+I am trying to re-build our web page. If we are really going to
+open up source codes, I think we should open up base lib first
+before we open up SanGuo specific world source. How does that sound
+to everyone? Lots of efforts are needed to accomplish this
+goal though.
+
+For mirrors, once we open up, there can be as many as they request.
+As long as we reach an agreement that all development work based
+on our source code should also be open to public, SanGuo lib will
+live on forever :)
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >about our server.
+ÈÕÆÚ: Sat Nov  6 19:32:31 1999
+i agree that we open a mirror site in china, infact all chinese
+player r expecting that moment, hehe.  i dunno if that will
+bring any unconvience to overseas player, but we can still
+leave this site open.  i dunt think we should release a formal
+version of sanguo now, just becoz we still didnt finish a
+large part of our project yet....sigh. anyway, i am positive
+with this suggestion.  but, we have met hacker b4, we should be
+careful all the time, at least we must be sure about our security
+work b4 we move sanguo to china.  then we can discuss with the
+server provider in detail.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: about our server.
+ÈÕÆÚ: Sat Nov  6 14:56:32 1999
+
+I think, Chinese Mud's life is in China. Sooner or later
+we will migrate our mud to China. so how about open a
+mirror in China now or move our main development to china.
+
+Sure, our development has not been finished. But if your guys
+agree, we can begin to standardlize our code and prepare
+the first release.
+
+I think we may have three choice:
+  1 open a mirror in china
+  2 move our development site to china
+  3 release our code so players can build SanGuo freely
+
+The reasons for this suggestion are:
+
+  1 our server is not safe, we met two major crashes
+  2 this mud's major player group is from china and this site is
+    slow to them
+  3 we need fresh blood, now most senior wizards in the mud are
+    busy and our development speed becomes very slow
+  4 we all have spended a lot time and energy on this mud freely
+    because we love this game. and the only way to make this mud
+   continue grow when we have to leave this mud is open it.
+
+What your guys opinions ?
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ØÓÚ·ÖÕ¾µÄÉêÇë
+ÈÕÆÚ: Sat Nov  6 14:40:07 1999
+Hi everyone, this is a letter i recieved recently.
+
+ÊÕĞÅÈË £ºfire
+ºÍ     £ºfire
+¼ÄĞÅÈË £ºtiany
+ÈÕÆÚ   £ºSat Nov  6 12:40:25 1999
+ÌâÄ¿£ºÉêÇëÈı¹úÖ¾·ÖÕ¾ 
+---------------------------------------
+fire£º
+    ÄãºÃ£¬ÎÒÀ´×Ô¸£Öİ´óÑ§¡£Ïë±ØÎÒÃÇ»ú·¿µÄÍæ¼ÒÒÑ¾­Ïò
+ÄãÌá¹ıÎÒÏëÉêÇëÈı¹úÖ¾·ÖÕ¾µÄÊÂ¡£
+    ÎÒÏÖÔÚÔÚ¸£Öİ´óÑ§´ÓÊÂµçÄÔÍøÂç»ú·¿Î¬»¤¹¤×÷£¬²¢Óë
+ÁíÒ»Î»Í¬ÊÂÒ»Æğ¸ºÔğ¹ÜÀí¸£Öİ´óÑ§ÅÔ±ßÒ»ËùÖĞ×¨Ñ§Ğ£µÄµç
+ÄÔÍøÂç»ú·¿£¬Õâ»ú·¿Ö÷ÒªÃæÏò±¾Ğ£¼°¸£Öİ´óÑ§µÄÑ§Éú¿ª·Å¡£
+    Ä¿Ç°ÎÒÃÇ»ú·¿ÓĞÁ½Ì¨PII400·şÎñÆ÷¹éÎÒ×¨ÓÃ£¬ÓĞ¸£Öİ
+´óÑ§Ìá¹©µÄDDN×¨ÏßÁ¬½ÓÖĞ¹ú½ÌÓı¿ÆÑĞÍø(CERNET)ºÍÖĞ¹úÓÊ
+µçÍø(CHINANET)£¬Á½Ì¨·şÎñÆ÷¶¼Í¬Ê±¾ßÓĞCERNETºÍCHINANET
+µÄIPµØÖ·£¬ÍøÂçÒ»Ìì24Ğ¡Ê±¿ªÍ¨¡£
+    ±¾ÈË³¤ÆÚÒÔÀ´¶ÔMUDÉî¸ĞĞËÈ¤£¬¶ÔÖĞÎÄMUDÈç¶«·½¹ÊÊÂ¡¢
+ÏÀ¿ÍĞĞ¡¢·çÔÆ¡¢Ğ¦°Á½­ºşµÈ¶¼ºÜÊìÏ¤£¬ÏÖÔÚÔÚÎÒµÄÒ»Ì¨·şÎñ
+Æ÷ÉÏÔËĞĞ×ÅÎ÷ÓÎ¼Ç2000¸£Öİ·ÖÕ¾ºÍÁíÒ»¸öÎÒ×Ô¼ºÔÚĞÂ¶«·½
+¹ÊÊÂ¡¢ÏÀ¿ÍĞĞºÍ¿ñÏë¿Õ¼äµÄ»ù´¡ÉÏ¸Ä½øµÄMUD¡£Ò»´ÎÅ¼È»µÄ
+(1-20 48%) [h]:
+»ú»á£¬ÎÒÔÚ»ú·¿¿´µ½ÓĞÈËÔÚÍæÄãµÄÈı¹úÖ¾£¬ÎÒÒ»ÏÂ¾Í±»Ëü
+ÉîÉîµØÎüÒıÁË¡£Í¬Ê±ÎÒºÜ×ĞÏ¸µÄ¿´ÁËÈı¹úÖ¾µÄÍøÒ³£¬ÎªËü
+»ùÓÚLimaµÄÇ¿´ó¹¦ÄÜºÍÁé»îĞÔËùÕÛ·ş£¬²¢ÎªÌìÉñºÍÎ×Ê¦ÃÇ
+µÄĞÂ´´ÒâËùÎüÒı¡£ÎÒÏò»ú·¿µÄÆäËûÍæ¼ÒÍÆ¼öÕâ¸öMUD£¬Ê¹Èı
+¹úÖ¾ÔÚÎÒÃÇÕâÀïÉîÊÜÏ²°®£¬ÏÖÔÚÃ¿Ìì¶¼ÓĞ¼¸¸öÎÒÃÇÕâÀïµÄ
+Íæ¼ÒÈÌÊÜ×Å¼«ÂıµÄÍøÂçËÙ¶ÈÁ¬µ½ÄãÃÇµÄÕ¾ÉÏÍæÕâ¸öMUD¡£ÎÒ
+ÃÇ¶¼ºÜÏ£ÍûÄÜ¹»ÔÚÎÒÃÇÕâÀïÎªÈı¹úÖ¾¿ª¸ö·ÖÕ¾¡£ÁíÍâ£¬±¾
+ÈË¶ÔMUD´´×÷ºÍ±à³ÌÒ²Ê®·ÖÊìÏ¤£¬Ò²ºÜÔ¸Òâ²ÎÓëÈı¹úÖ¾µÄ½¨
+ÉèºÍ¸Ä½ø¡£
+    ÎÒÏÖÔÚÕıÊ½ÏòÄãÌá³ö¿ªÉèÈı¹úÖ¾·ÖÕ¾µÄÉêÇë¡£ÎÒÔÙ°ÑÉÏ
+ÃæµÄÉêÇëÀíÓÉ¹éÄÉÒ»ÏÂ£ºÊ×ÏÈ£¬Èı¹úÖ¾ÔÚÎÒÃÇÕâÀïÉîÊÜÏ²°®£»
+Æä´Î£¬ÎÒÃÇµÄ·şÎñÆ÷¿ÉÍ¬Ê±Ìá¹©ÖĞ¹ú´óÂ½×î´óµÄÁ½¸öÍøÂç
+(½ÌÓıÍøºÍÓÊµçÍø)µÄÓÃ»§Í¬Ê±¿ìËÙµÄ·ÃÎÊ£»²¢ÇÒ£¬ÎÒ¶ÔMUD
+µÄ³¤ÆÚÈÈ°®£¬²¢ÇÒÊìÏ¤µçÄÔÍøÂç¼¼Êõ£¬ÓĞ±È½Ï·á¸»µÄMUDÎ×
+Ê¦¾­Ñé¡£ÎÒºÜÔ¸ÒâÏò¹úÄÚµÄÅóÓÑÍÆ¼öÕâ¸öMUD£¬ÈÃ¸ü¶àµÄÈË
+Ï²»¶Ëü¡£
+    ÅÎÍûÔçÈÕÊÕµ½ÄãµÄ»ØĞÅ£¬ÔÚÕâ¸öMUDÀïĞ´Ò²¿ÉÒÔ£¬»òÕß¼Ä
+µ½yunfei@chen.com.cn¡£
+                                      ÌìÒİ 
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >welcome back
+ÈÕÆÚ: Thu Oct 28 04:09:58 1999
+
+got some one to share the nip and kick lah 
+xixi :)
+
+
+---
+×÷Õß: Êı¾İ(group)
+ÌâÄ¿: welcome back
+ÈÕÆÚ: Thu Oct 28 03:46:37 1999
+welcome back... haha.
+nice to see you fine.
+
+group
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >>>  I am "back"    
+ÈÕÆÚ: Wed Oct 27 21:10:45 1999
+my huge hammer is waiting for ya...grin...noescape ice.
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: >>  I am "back"    
+ÈÕÆÚ: Wed Oct 27 20:21:18 1999
+welcome back ice
+*touch ice
+
+
+---
+×÷Õß: Ğş±ù(ice)
+ÌâÄ¿: I am "back"
+ÈÕÆÚ: Wed Oct 27 11:23:11 1999
+actually, i was trying to be back but the net speed is too slow,
+so I just log a new id to take a look.
+
+now i got 2 jobs, 1 thesis and 1 gf, thus I'll try to be back
+until I get a ISDN at home, I don't think I have so much time
+to waste in waiting for the papaya net speed.
+
+I'll try to upload files I have done to my dir, if sth need to
+be change, go to try check check bah.:P
+
+the papaya net speed is not so slow in weekdays' midnight, but...
+i always need to get up early to work, and my papaya office don't
+have internet connection.:P
+
+anyway, I am back.:)
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: who is he ?
+ÈÕÆÚ: Sat Oct 16 19:40:35 1999
+athena    ĞĞÌìÕß    Î×Ê¦    ÀëÏß£ºÊ®ÆßÌì           202.100.32.169
+
+who is this guy ? does anyone know him ?
+doubt
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >who is he ?
+ÈÕÆÚ: Sat Oct 16 22:11:17 1999
+i dunno him, so i suggest....what is other's opinion..hehe
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >who is he ?
+ÈÕÆÚ: Sat Oct 16 23:15:14 1999
+On Sat Oct 16 22:40:35 1999 ÁÒ»ğ(fire) wrote post #144:
+> athena    ĞĞÌìÕß    Î×Ê¦    ÀëÏß£ºÊ®ÆßÌì           202.100.32.169
+> 
+> who is this guy ? does anyone know him ?
+> doubt
+
+dunno :P
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: >>who is he ?
+ÈÕÆÚ: Sun Oct 17 23:05:39 1999
+the hacker .. ?
+*fear*
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: about athena
+ÈÕÆÚ: Mon Oct 18 03:09:47 1999
+I demote it to player.
+this is a strange bug. sometime when a player
+login he automatically become a wizard.
+don't know why, but it happened serval times when our
+system first crash.
+
+
+---
+×÷Õß: Ë¹Ì¹¸£(stefan)
+ÌâÄ¿: new server address
+ÈÕÆÚ: Sat Sep 25 01:07:52 1999
+www.idstar.com 5000, but sometimes not running :P
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >Suggest 2
+ÈÕÆÚ: Fri Sep 24 20:52:41 1999
+what is the address?
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >Suggest 1
+ÈÕÆÚ: Fri Sep 24 20:52:07 1999
+i agree that
+
+
+---
+×÷Õß: Ë¹Ì¹¸£(stefan)
+ÌâÄ¿: new server new development way
+ÈÕÆÚ: Sat Sep 25 21:32:55 1999
+new server: www.idstar.com 5000
+
+new development way is http://www.idstar.com/sanguo/cvs.txt
+
+Please try to follow the cvs.txt and try out the new way of development.
+Does it feel better than 'ed' or 'ftp'? :-)
+
+I am planning to re-organize some of the directories, like /a, is 
+anyone using it or not?
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: about the directory of /a
+ÈÕÆÚ: Sat Sep 25 22:42:31 1999
+this is the root directory for the rooms of all
+sanguo area.
+when you enter an area and use @.here
+you will see the filename of this room.
+I selected to use /a rather then /sgdomain/area
+because it is brief. and in the char_d
+system need record the room of all active char
+so i want the path if short to save storage cost
+:)
+
+
+---
+×÷Õß: °¢Âå(row)
+ÌâÄ¿: about the new server
+ÈÕÆÚ: Sun Sep 26 18:41:06 1999
+i've logged in the new server, but it got some lag to me
+compare w/ here. what is the bendwidth of that server?
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: how to run cvs on windows 97 ?
+ÈÕÆÚ: Sun Sep 26 22:14:40 1999
+hi stefan and all of those who can run cvs successfully on windows.
+I meet the following problem when i try to use cvs. Please help me.
+
+1  My windows don't have some DLL, so it can't run 
+   ssh_1_2_22_win32. so I use a ssh_1_2_14_win32 to replace
+   can they do the same work ?
+
+2 I have downloaded WinCvs11b7 and it seems that the 
+  install and run are both ok
+3 I don't know what is the relationship of the ssh and cvs
+4 in wincvs, what should i set in the Authentication
+   SSH Server or "password" file one the cvs server
+  when i set it to SSH Server i got the folloing message when i 
+  try log in:
+>NEW CVSROOT: fire@www.idstar.com:/export/home/suede/cvsroot (ssh
+authentication)
+>Set the password authentication first in the preferences !
+
+ when i set it to "passwd" file on cvs server
+ after i login it will ask me to enter the password
+  and i find, no matter the password is right or not, both will give
+  the return message as:
+>cvs login 
+>(Logging in to fire@www.idstar.com)
+>cvs [login aborted]: recv() from server www.idstar.com: EOF
+>*****CVS exited normally with code 1*****
+
+so can anyone help me :)
+
+
+
+---
+×÷Õß: °¢Âå(row)
+ÌâÄ¿: about the data recovery for players
+ÈÕÆÚ: Sun Sep 26 23:25:57 1999
+as for this matter, i suggest only recover the personal
+data for some main char, such as some kings, high-ranked
+officers. i will write a post regarding this issue to players
+and set a deadline for the loss reporting.
+anyway, i think we cannot totally make up the loss so that maybe
+is the best we can do.
+what do u guys think?
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >about the data recovery for players
+ÈÕÆÚ: Sun Sep 26 23:26:47 1999
+On Mon Sep 27 02:25:57 1999 °¢Âå(row) wrote post #135:
+> as for this matter, i suggest only recover the personal
+> data for some main char, such as some kings, high-ranked
+> officers. i will write a post regarding this issue to players
+> and set a deadline for the loss reporting.
+> anyway, i think we cannot totally make up the loss so that maybe
+> is the best we can do.
+> what do u guys think?
+
+that's right, :)
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: >> about the data recovery for players
+ÈÕÆÚ: Sun Sep 26 23:58:26 1999
+agreed
+
+
+---
+×÷Õß: Ğş±ù(ice)
+ÌâÄ¿: I am disconneI am disconnected
+ÈÕÆÚ: Mon Sep 27 03:39:33 1999
+I am disconnected and I am using stupid telnet in school now.:(
+
+Anyway, I have to leave now, sorry that I cannot give a hand to help
+in this crash..:(
+
+addoil all, I leave leh..:P  Hope can be back as soon as I can.
+
+* wave
+
+
+---
+×÷Õß: Ë¹Ì¹¸£(stefan)
+ÌâÄ¿: away on trip
+ÈÕÆÚ: Thu Sep 30 15:02:48 1999
+sorry but I am away on a biz trip until 15 or 16 of October.
+Moving to the new server thingy has to be postponed until I come 
+back :)
+
+to fire, the problems u have with CVS and SSH can be found at www.wincvs.org
+there is a FAQ regarding this, CVS uses SSH to fetch files
+and update files on the remote server, that is why you have to setup
+both correctly. 
+
+stefan
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: a new application for wiz
+ÈÕÆÚ: Mon Oct 11 04:08:26 1999
+--------------------»ù±¾×ÊÁÏ-------------------------
+±¾MUDÖĞµÄID£º  roro, youqing
+ÖĞÎÄÃû£ºÔÆ·ÉÑï,ÌìÈô
+ĞÕÃû£ºÔÆ·ÉÑï          
+ÄêÁä£º22          
+ĞÔ±ğ£ºÄĞ
+½ÌÓı³Ì¶È£º ´óÑ§±¾¿Æ    
+ËùÔÚ³ÇÊĞ£º ÖĞ¹ú¹ã¶«Õ¿½­     
+Ä¿Ç°Ö°Òµ£º Ñ§Éú
+E-mailµØÖ·£ºroro@cmmail.com
+Ö÷Ò³(Èç¹ûÓĞµÄ»°)£ºhttp://roro.myrice.com (»¹Ã»Íê³É)
+----------------¹ØÓÚ¼ÆËã»úÓïÑÔ------------------------
+1 ÇëÁĞ³öÄãÑ§¹ıµÄ¼ÆËãÓïÑÔºÍÊìÏ¤³Ì¶È¡£C (¹ú¼Ò¶ş¼¶)
+2 ÓÃÃ»ÓÃ¹ıCºÍC++£¬¶à³¤Ê±¼ä¡£ÎÒ¿´¹ıC,ÕıÔÚÑ§Ï°C++,Ê±¼ä²»Ëã³¤.
+3 ÓÃÃ»ÓÃ¹ıLPC£¬Ê²Ã´³Ì¶È¡£LPCÎÒµ±È»»á,²»¸ÒËµÀÃÊì,Ò²Ëã¾«Í¨.
+----------------¹ØÓÚMUD------------------------
+1 Íæ¹ıÄÄĞ©MUD£¬¶à³¤Ê±¼ä£¬¶à¸ßµÈ¼¶¡£
+     Íæ¹ıºÜ¶àMUD,Ö÷ÒªÍæµÄÊÇ
+  ÎäººÂ¹¶¦¼Ç,Ôø¾­ËãÊ®´ó¸ßÊÖ
+  Ö®Ò»,ºóÀ´Ö÷»ú¹ØÁË,¾ÍÃ»Á·ÁË.   
+2 ÔÚ±¾MUDÍæ¹ı¶à³¤Ê±¼ä£¬¼¸¸öÖ÷ÒªDUMMY£¬µÈ¼¶¡£
+      ÍæÁËÒ»¸öÔÂ°É,ÎÒµÄÖ÷IDÊÇyouqing,µÈ¼¶¾Í²»ºÃ
+   ÒâË¼ËµÁË,ÀÃµÄºÜ.
+3 ÔÚÄÄĞ©MUDÀïµ±¹ıWIZ£¬¶à³¤Ê±¼ä£¬×÷¹ıÊ²Ã´¹¤×÷¡£
+     ÎÒºÜÔç¾Í¿ªÊ¼×öÎ×Ê¦ÁË,Ç°¶ÎÊ±¼äÔÚÃÎ»Ã×ö arch,
+   ¸ºÔğµ×²ãµÄĞŞ¸Ä.°ïËûÃÇ×öÁËÒ»¸öÔÂ°É.
+----------------¹ØÓÚÈı¹úÖ÷Ìâ------------------------
+1 ¿´¹ı¡¶Èı¹úÑİÒå¡·Âğ£¬¶àÉÙ±é£¬¶à¾ÃÒÔÇ°¡£
+   ¿´Èı¹úÊÇºÃ¾ÃÒÔÇ°µÄÊÂÁË,¼ÇµÃ¸ßÖĞµÄÊ±ºò
+   ¿´¹ıÈı¹úÑİÒåµÄµçÊÓ¾ç.
+2 Íæ¹ı¶àÉÙ°å±¾µÄÈı¹úÓÎÏ·£¬¸÷Í¶Èë¶à³¤Ê±¼ä¡£
+   Èç¹ûÊÇÖ¸mud,¾ÍÖ»Íæ¹ıÕâÀïµÄ.
+3 Ì¸Ì¸Äã¶ÔËùÍæ¹ı¸÷Èı¹úÓÎÏ·µÄ¿´·¨¡£±È½Ï±¾MUDµÄÓÅÈ±µã¡£
+   Ö¸Íæ¹ıÒ»¸öÈı¹ú,Ã»Ê²Ã´±È½Ï.
+----------------¹ØÓÚĞËÈ¤£¬ĞÔ¸ñ------------------------
+1 ÄãÍæ¹ıµÄ×îÓĞÒâË¼µÄPC GAME£¬Ì¸Ì¸Ìå»á
+   <<´óº½º£Ê±´ú>>.
+2 ÄãÈÏÎªÄã×îÄÃÊÖµÄ¹¤×÷ÊÇÊ²Ã´¡£
+   ÇøÓòÃèĞ´,ÃÔÌâÖÆ×÷,µ×²ãµÄĞŞ¸ÄÒ²ÓĞ¾­Ñé.
+3 ÄãÈÏÎªÄã×îÏ£Íû¸ÉµÄ¹¤×÷ÊÇÊ²Ã´¡£
+   Í¬ÉÏ.
+4 µ±Äã½Óµ½Ò»¸ö²»Ï²»¶µÄ¹¤×÷Ê±£¬Äã½«ÈçºÎ¶Ô´ı¡£
+      ÎÒ»áÏÈ½âÊÍÕâ¸ö¹¤×÷ÎÒ²»Ï²»¶×ö,Ï£Íûµ÷»».
+   ÒòÎªÈÃÒ»¸öÈË×öÆä²»Ï²»¶µÄÊÂÊÇµÃ²»µ½Ê²Ã´Ğ§¹ûµÄ.
+5 ÄãÓĞÃ»ÓĞ²Î¼Ó¹ı¼¯ÌåºÏ×÷µÄÏîÄ¿£¬Èç¹ûÓĞ£¬Çë½éÉÜÒ»ÏÂ¸ÃÏîÄ¿
+  ÒÔ¼°ÄãµÄ¾ßÌå¹¤×÷ºÍÌå»á¡£
+  ¾ßÌåÖ¸Ê²Ã´?
+----------------¹ØÓÚÊ±¼ä£¬Ìõ¼ş------------------------
+1 ÄãÊÇÔÚÊ²Ã´µØ·½£¬ÒÔÊ²Ã´·½Ê½ÉÏÍø¡£Íø°É,DDN×¨Ïß.
+2 Òª²»Òª¸¶·Ñ(´óÔ¼¶àÉÙ)¡£3Ôª/houre
+3 ÄãÊ²Ã´Ê±¼äÄÜÉÏÍø£¬Ò»ÖÜ´óÔ¼¶à³¤Ê±¼ä¡£Ã¿ÌìÒ»Á½¸öĞ¡Ê±.
+----------------¼òµ¥ÎÊÌâ------------------------
+µÚÒ»²¿·Ö£º¹ØÓÚ¼ÆËã»úÓïÑÔ£º
+CÓïÑÔ£º
+1 Ê²Ã´ÊÇÖ¸Õë£¬ËüºÍÊı×éÓĞÊ²Ã´Çø±ğ¡£
+   Ö¸ÕëÊÇÖ¸Ïò±äÁ¿´æ·ÅµÄµØÖ·.Ò»¸öÖ¸ÕëÖ¸ÏòÒ»¸öµØÖ·.
+   Êı×é¾ÍÊÇ·ÖÅäÒ»¸öÄÚ´æµ¥ÔªÀ´´¢´æ±äÁ¿.
+2 y=x++; ºÍ y=++x; µÄÇø±ğÊÇÊ²Ã´¡£
+  y=x++ (½«xÖµ¸³¸øy,È»ºóxÖµ¼ÓÒ»)
+  y=++x (½«x¼ÓÒ»ºó,¸³Öµ¸øy)
+3 Ğ´Ò»¸ö¼òµ¥³ÌĞò void sort(int x1, int x2, int x3)
+   °Ñx1,x2,x3°´´ÓĞ¡µ½´óµÄË³Ğò´òÓ¡³öÀ´¡£
+    {
+    int t;
+    if (x1>x2) {t=x1;x1=x2;x2=t}
+    if (x1>x3) {t=x1;x1=x3;x3=t}
+    if (x2>x3) {t=x2;x2=x3;x3=t}
+   printf ("%d,%d,%d,x3,x2,x1);
+  } 
+4 Ğ´Ò»¸ö¼òµ¥³ÌĞòÇóºÍ 1 µ½ 100 
+  for (sum=0,i=1;i<=100;i++) sum=sum+i;
+5 while Ñ­»·ºÍ for Ñ­»·µÄÇø±ğºÍÊÊÓÃ·¶Î§¡£
+ forÑ­»·±È whileÑ­»·¸üÁé»î,·²ÊÇwhileÄÜÊµÏÖµÄ,
+ for¶¼ÄÜÍê³É,
+LPC
+6 Ê²Ã´ÊÇ mapping, ËüºÍÊı×éÓĞÊ²Ã´²»Í¬¡£
+   mapping  Ó³Éä,ÊÇ¹ØÁªĞÔÕóÁĞ (associative array). Ó³Éä
+°ÑÒ»Ğ©ÊıÖµ½áºÏÆğÀ´, ÈÃ×ÊÁÏ´¦ÀíÆğÀ´¸ü½Ó½üÒ»°ãÈËµÄÏ°ĞÔ.
+7 Ê²Ã´ÊÇ daemon£¬ËüÓĞÊ²Ã´ÌØµã
+8 Ê²Ã´ÊÇ¼Ì³Ğ£¬ËüÓĞÄÄĞ©ÓÅµã¡£
+   ¼Ì³ĞÈÃ mud  ¹ÜÀíÈË×«Ğ´ËùÓĞµÄ mudlib Îï¼ş, »òÄ³Ò»ÖÖµÄ mudlib Îï¼ş¶¼
+±ØĞëÓµÓĞµÄ»ù±¾º¯Ê½, ÈÃÄã¿ÉÒÔ×¨ĞÄ´´×÷Ê¹Îï¼ş¶ÀÊ÷Ò»¸ñµÄº¯Ê½. µ±Äã½¨ÔìÒ»¸ö
+·¿¼ä¡¢ÎäÆ÷¡¢¹ÖÎïÊ±, ÄãÊ¹ÓÃÒ»Ì×ÔçÒÑÌæÄãĞ´ºÃµÄµÄº¯Ê½, ²¢½«ËüÃÇÈÃÄãµÄÎï¼ş
+¼Ì³ĞÖ®. ÒÔ´Ë·½·¨, ËùÓĞ mud  ÖĞµÄÎï¼ş¿ÉÒÔÒÀ¿¿±ğµÄÎï¼ş±íÏÖÄ³ÖÖ·½Ê½µÄĞĞÎª.
+¾Ù¸öÀı, Íæ¼ÒÎï¼şÊµ¼ÊÉÏÒÀ¿¿ËùÓĞ·¿¼äÎï¼şÆäÖĞ³ÆÎª query_long() µÄÒ»¸öº¯Ê½
+ÒÔµÃÖª·¿¼äµÄĞğÊö. ¼Ì³ĞÈÃÄã²»ÓÃµ£ĞÄ query_long() ³¤µÃÈçºÎ.
+²Ù×÷ÏµÍ³
+9 ls, cp, cd, rm, mv µÄ¹¦ÄÜÊÇÊ²Ã´¡£
+   ls  ¿ÉÒÔÁĞ³öµ±Ç°Ä¿Â¼ÏÂµÄËùÓĞÎÄ¼ş,¼°×ÓÄ¿Â¼.
+   cp  copy ÎÄ¼ş.
+   cd  ¸ü»»¹¤×÷Ä¿Â¼.
+   rm  É¾³ıÎÄ¼ş.
+   mv  ÎÄ¼ş¸üÃû.
+10 Ê²Ã´ÊÇftp, ÃèÊöÒ»ÖÖftpÈí¼şµÄ²Ù×÷¹ı³Ì¡£
+   ftpÊÇÓÃÀ´Á¬½ÓÔ¶³ÌÖ÷»úºÍ±¾µØÖ÷»ú,½øĞĞÎÄ¼ş
+   ´«ÊäµÄ¹¤¾ß.
+   ÀıÈçcuteftp,µã»÷¹¤×÷À¸ÖĞµÄftp,Ñ¡site manager,
+   È»ºó add site ½¨Á¢Ò»¸öĞÂµÄÁ¬½Ó,site lableÌîÖ÷»úµÄ
+   Ãû³Æ,·½±ã¹ÜÀí,host addressÌîÖ÷»úµÄipµØÖ·,Èç130.91.8.120
+   user id ºÍ password ÀïÃæ·Ö±ğÌîĞ´·ÖÅä¸øÄãµÄÓÃ»§ÃûºÍÃÜÂë.
+   ÔÚadvanced µÄ portÀïÃæÌîÉÏÖ÷»úµÄftp¶Ë¿Ú,È»ºóµãok,connect.
+   ½ÓÏÂÀ´¾ÍÏówindowsÀïÃæµÄ×ÊÔ´¹ÜÀíÆ÷Ò»ÑùÍÏ×§ÎÄ¼ş¾Í¿ÉÒÔÁË.
+µÚ¶ş²¿·Ö£ºÈı¹úÖªÊ¶
+1¡¢ ¡¶Èı¹úÑİÒå¡·ºÍ¡¶Èı¹úÖ¾¡··Ö±ğÊÇË­µÄ×÷Æ·£¿
+     ÂŞ¹áÖĞ£¬³ÂÊÙ.
+2¡¢ »Æ½íÆğÒåÖĞ£¬ÕÅ½Ç´ÓÄÄÎ»ÏÉÈËÄÇÀïµÃµ½ÁËÊ²Ã´ÌìÊé£¿ÕÅ½ÇÏ°
+    ´ËÊéºó£¬ÄÜºô·ç»½Óê£¬ÄË¾ÙÊÂ¡£ÆäÃÅÏÂÍ½ÖÚÔÚ¸÷´¦¶ïÑÔ£º
+    ¡°__ __ ÒÑËÀ£¬ __ __ µ±Á¢£»ËêÔÚ¼××Ó£¬ÌìÏÂ´ó¼ª¡£¡±£¿
+        ²ÔÌì£¬»ÆÌì¡£
+3¡¢ Ä³ÈË¶Ô²Ü²ÙËµ£º×ÓÖÎÊÀÖ®ÄÜ³¼£¬ÂÒÊÀÖ®¼éĞÛÒ²¡££¬´ËÈËÊÇË­£¿
+    ºóÀ´²Ü²Ù³ÖÆßĞÇ½££¨Ò»ËµÆßĞÇ±¦µ¶£©ÓûĞĞ´ÌË­£¿
+4¡¢ Èı¹úÑİÒåÀïµÄÁ¬»·¼Æ£¨ÃÀÈË¼Æ£©ÊÇË­ÊµÊ©µÄ£¿Á¬»·¼ÆÀïµÄÅ®Ö÷
+    ½ÇºÍ±»Éè¼ÆµÄÁ½¸öÄĞÖ÷½Ç·Ö±ğÊÇË­£¿
+        õõìø£¬ÂÀ²¼£¬¶­×¿¡£
+5¡¢ Èı¹úÑİÒåÀïÄÄÎ»ÉñÒ½ÎªÄÄÎ»½«¾ü¹Î¹ÇÁÆ¶¾£¬´«ÎªÇ§¹Å¼Ñ»°£¿
+    µ±Ê±Ë­ÕıÔÚºÍË­ÏÂÆå£¿
+        »ªÙ¢£¬¹ØÓğ¡£
+6¡¢ Èı¹úÀï×îÖøÃûµÄÈıÎ»¾ıÖ÷£º²Ü²Ù£¬Áõ±¸£¬ËïÈ¨¡£ÆäÖĞËûÃÇµÄÊÅ
+    ÊÀË³ĞòÎª£¿
+        Áõ±¸£¬²Ü²Ù£¬ËïÈ¨¡£
+7¡¢ Èı¹úÓÎÏ·Àï£¬Í¨³£ÎäÁ¦×î¸ßµÄÊÇË­£¿ÖÇÁ¦×î¸ßµÄÊÇ£¿÷ÈÁ¦×î¸ß
+    µÄÊÇ£¿£¨Ã»ÓĞ±¦ÎïµÄÇé¿öÏÂ£©
+        ÂÀ²¼£¬¿×Ã÷£¬Áõ±¸¡£
+8¡¢ ³öÆ·¡¶Èı¹úÖ¾¡·ÏµÁĞÓÎÏ·µÄÈÕ±¾ÓÎÏ·¹«Ë¾Ãû³Æ¡£
+        ¹âÈÙ
+9¡¢ ¡°ÂíÊÏÎå³££¬°×Ã¼×îÁ¼¡±Ö¸µÄÊÇ£¿½ÖÍ¤Ê§ÊØ£¬Öî¸ğÁÁÕ¶µÄÊÇË­£¿
+        ÂíÁ¼£¬ÂíÚÕ¡£
+10¡¢³ÆÎ½£º
+    ¡°µ¥¸£¡±ÊÇÖ¸Èı¹úÀïÃæÄÄÒ»Î»ÈËÎï£¿
+     Ë×Óï¡°ÊñÖĞÎŞ´ó½«£¬__ __ µ±ÏÈ·æ¡± Ö¸µÄÊÇ£¿
+        ÁÎ»¯¡£
+    ¡°»¢³Õ¡±ËµµÄÊÇÄÄÒ»Î»ÃÍ½«£¿
+    ¡°ÃÀ÷×¹«¡±¡°ººÊÙÍ¤ºî¡±Ö¸µÄÊÇË­£¿
+        ¹ØÓğ¡£
+    ¡°Ô¯ÃÅÉäêª¡±µÄµä¹ÊÊÇË­ÉäÖĞêªÉÏµÄĞ¡Ö¦£¿
+======================================================================
+PS:ÎÒ´ó²¿·ÖÊ±¼ä¶¼ÔÚ×öÎäÏÀµÄmud,Æ©Èç½ğÓ¹ÈºÏÀ´«Ò»ÀàµÄ£¬ÏÖÔÚÖ÷ÒªÊÇÏëÑ§Ï°
+LIMA,Ò»¸öºÃµÄÎ×Ê¦²»ÔÚÓÚËûµÄÄÜÁ¦£¬¶øÔÚÓÚËûÊÇ·ñÓĞ¾´Òµ¾«Éñ£¬Ã»ÓĞÈËÊÇÒ»Éú
+ÏÂÀ´¾ÍÊ²Ã´¶¼¶®µÄ£¬Ö»ÓĞ²»¶ÏµÄÑ§Ï°ÔÙÑ§Ï°£¬¶ÔÓÚ¹úÄÚµÄ´ó²¿·Ömud,²»¸ÒËµÀÃ
+Êì£¬ÖÁÉÙÒ²ÊÇÊ®·Ö¾«Í¨£¬µ«ÊÇÏÖÔÚµÄmud´ó¶àÇ§ÆªÒ»ÂÉ£¬Ò»Ì×lib¸ÄÀ´¸ÄÈ¥£¬ËùÒÔ
+ÎÒÒÑ¾­Ã»ÓĞĞËÈ¤ÔÙÈ¥¸ãÄÇÌ×¶«Î÷£¬ÎÒ¾õµÃÈı¹ú±È½ÏÓĞĞÂÒâ£¬µ«ÊÇËÙ¶È±ÈÆğ¹úÄÚµÄ
+mud¾ÍÒªÂıºÜ¶à£¬ËùÒÔÈËÆø²»ÊÇºÜÍú£¬Õâ¸úËüÒÀÈ»´¦ÓÚ¿ª·¢ÖĞÕâµãºÜÓĞ¹ØÏµ£¬¶øÇÒ
+ÎÒ·¢ÏÖÈı¹úÖĞµÄ±¦ÎïÔÚÓÎÏ·ÖĞÃ»ÓĞÌåÏÖ³öÀ´£¬ÎÒÃÇ¿ÉÒÔ¶¨ÆÚÈÃ±¦ÎïÂäÔÚÄ³¸öµØµã£¬
+ÈÃÍæ¼ÒÈ¥Ñ°±¦£¬Ìá¸ß´ó¼ÒµÄ»ı¼«ĞÔ¡£Ò»Ê±Ò²Ã»Ê²Ã´»°ÏëËµµÄÁË£¬Ï£ÍûÄÜ¼ÓÈëÄãÃÇ£¬
+Ò»Í¬¿ª·¢Ò»¸öĞÂµÄmud.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >a new application for wiz
+ÈÕÆÚ: Mon Oct 11 18:20:05 1999
+if fire think he is qualified, i have no problem.
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: >>a new application for wiz
+ÈÕÆÚ: Tue Oct 12 00:24:03 1999
+agreed, addoil roro
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: about tit
+ÈÕÆÚ: Fri Oct 15 06:40:06 1999
+as his request, he is demoted.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Suggest 2
+ÈÕÆÚ: Fri Sep 24 06:40:02 1999
+stefan got a new server, i and leeye and rulin find
+that one is a little faster than this one
+we may open a survey and check if most ppl
+especialy those from China think so, if it is
+right, we may move to that new server
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Suggest 1
+ÈÕÆÚ: Fri Sep 24 06:38:35 1999
+since we lost the data for the lastest one month
+I suggest we restart the game next week
+and select about 10 qualified players as player king
+and recover some ppl's personal data
+such as skills and literate and so on
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ½¨ÒéÌÖÂÛÍæ¼ÒÊı¾İµÄ»Ö¸´ºÍ±¾MUDµÄ°²È«ÎÊÌâ
+ÈÕÆÚ: Thu Sep 23 19:26:31 1999
+what's are your guys ideas ?
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >>> how about this 
+ÈÕÆÚ: Sat Jul 24 02:06:19 1999
+agree
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> how about this 
+ÈÕÆÚ: Fri Jul 23 20:24:34 1999
+agree
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about promoting tit
+ÈÕÆÚ: Sat Jul 17 07:48:11 1999
+Now i think we all agree to promote tit.
+but there are some problems need to disscuss first
+Because most of wizs are busy recently, so who
+will responsible to teach him some basic knowledge
+in working here as a wizards
+
+what is his task. do we need give him some certain
+tasks to begin. or just let him wronding around
+
+any suggestions ?
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >about promoting tit
+ÈÕÆÚ: Sat Jul 17 20:08:09 1999
+since fire is busy in debuging the main sys and flee is 
+doing stuff sys. so, whenever ice or me online, we can
+teach him the basic knowledge here.
+and, for the task, i think maybe let him create a basicjob
+is fine. how do u think about it?
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> about promoting tit
+ÈÕÆÚ: Sat Jul 17 21:28:09 1999
+agree with row
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: how about this
+ÈÕÆÚ: Fri Jul 23 19:00:42 1999
+ Ê®ÈıÉÙ¸æËßÄã£ºÄãÄÜÏÈ´ÓmudlistÉÏ¸úÎÒ¼ÓÈë»¥Á¬Âğ?
+Äã»Ø´ğ Ê®ÈıÉÙ£ºwe don't have mudlist yet
+> mudlist
+ÔÚ 0 ¸ö MUD ÖĞÓĞ 0 ¸ö¶ÔÓ¦µÄ£¬ÆäÖĞ 0 ¸öÕıÔÚ¿ª·Å¡£
+ÓÃ mudinfo <mudname> À´»ñÈ¡¸ü¶àµÄĞÅÏ¢¡£
+Up  Mud              Address                 Lib           Open Status       
+----------------------------------------------------------------------------
+ Ê®ÈıÉÙ¸æËßÄã£º10.69.7.23 5555
+ Ê®ÈıÉÙ¸æËßÄã£ºÎÒÒÑ¾­°ÑÈı¹úµÄip¼Ó½øÈ¥ÁË
+his id is msz
+
+i think this is no hard to us :) so what
+your guys' opinions ?
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >how about this
+ÈÕÆÚ: Fri Jul 23 19:56:37 1999
+what is that for? advertisement?
+and i think that ip is for 169 in china...but
+here seems is 163.
+anyway, advertisement is good...
+addoil.
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: apply leave
+ÈÕÆÚ: Sun Aug 15 22:59:14 1999
+I will have exams in these two weeks, and after that I will
+lose my internet connection and then got to get a job.  Thus
+I cannot continue to be here any more, at least for a not short
+period.
+
+I like this game and wiz group much, and feel sorry for I cannot
+keep with the growth of it.  Hope we can get more workable wizs
+in the future and when I can be back to this game, it's officially
+open..:P
+
+Sorry for I owed the task of fighting messages, could yuyin help
+to finish them all?
+
+I may be back take a look in these two weeks, but I am afraid that
+I don't have time to work any more.
+
+Anyway, it's my pleasure to work with u all, and thanks for all helped
+me with everything..:)
+
+Addoil!
+
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >apply leave
+ÈÕÆÚ: Mon Aug 16 02:16:24 1999
+cry ice :(
+
+
+
+---
+×÷Õß: Group
+ÌâÄ¿: >apply leave
+ÈÕÆÚ: Mon Aug 16 03:10:04 1999
+sigh....
+anyway, take care your exams and have a nice job...
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >>apply leave
+ÈÕÆÚ: Mon Aug 16 19:05:56 1999
+career is more important, anyway, when u have time
+come back and lez work together again bah.
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> apply leave
+ÈÕÆÚ: Tue Aug 17 00:26:50 1999
+good luck ice
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >>> agree to promote tit
+ÈÕÆÚ: Fri Jul 16 20:15:38 1999
+no objection..:)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >agree row
+ÈÕÆÚ: Wed Jul 14 20:12:27 1999
+On Wed Jul 14 22:01:43 1999 Ice wrote post #106:
+> should be clearer...:P
+> negotiation again...:P
+
+sweat
+escape 
+later bah :)
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: agree row
+ÈÕÆÚ: Wed Jul 14 19:01:43 1999
+should be clearer...:P
+negotiation again...:P
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >about ip
+ÈÕÆÚ: Wed Jul 14 18:49:05 1999
+Ä¿Ç°µÄwho -ip»¹²»¹»Ã÷ÏÔ£¬ÊÇ·ñ¿ÉÒÔ×ö³ÉÈçwho -iÒ»ÑùµÄ£¬Ö»
+ÁĞ³öÃû×ÖºÍID£¬È»ºóÍ¬Ò»¸öipµÄÁĞÔÚÍ¬Ò»ĞĞ£¬ÈçºÎ£¿
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about ip
+ÈÕÆÚ: Wed Jul 14 05:30:27 1999
+¼ÈÈ»´ó¼Ò¶¼Í¬ÒâÀûÓÃIP¸øÍæ¼ÒÒ»µã¹ØÓÚMulti-loginµÄÏßË÷
+ÏÖÔÚÎÒÔÚwhoÖĞ¼ÓÁËÒ»¸öĞÂµÄ²ÎÊı
+who -ip
+ÕâÑùÍæ¼Ò¾Í»á°´IPµØÖ·ÅÅĞò£¬ÕâÑùÍ¬Ò»IPÀ´µÄ
+Íæ¼Ò¾Í»áÅÅÔÚÒ»Æğ£¬¶Ô·¢ÏÖmuliti-login»áÓĞ
+Ò»Ğ©°ïÖú¡£
+xixi :)
+±ÈÔ­À´µÄ½¨Òé´òÁËµãÕÛ¿Û£¬²»ÍüÉÌÈË±¾É«,
+escape
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: >>> about dummy spy's problem
+ÈÕÆÚ: Tue Jul 13 15:43:48 1999
+man whoip
+btw, you can use whoip <user> too...
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about snoop
+ÈÕÆÚ: Tue Jul 13 07:32:48 1999
+now because we are in the development and test period
+wizs need more power to snoop player's action and msg
+so how aobut your guy's opinion about
+improve wiz's pledge to snoop players ?
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >about snoop
+ÈÕÆÚ: Tue Jul 13 18:21:05 1999
+that is fine.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >>>> about dummy spy's problem
+ÈÕÆÚ: Tue Jul 13 18:24:52 1999
+whoip is good, but is a wiz-only cmd, so...could
+we change it a little and make it accessable for
+player, such as:
+whoip xxx:ÔÚÄ³Ä³µÄipÉÏÕıÓĞ4¸öidÁªÏß£º1,2,3,4
+i think better hide the ip...
+what do u guys think.
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: > about snoop
+ÈÕÆÚ: Tue Jul 13 18:26:23 1999
+it'll be nice to trace player who may gain benefit from bug and
+not reporting, if we can give reason every time snoop, i think it'll
+be better than all Ã»À´ÓÉ¡£
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: agree row
+ÈÕÆÚ: Tue Jul 13 18:30:50 1999
+just hide ip and change whoip to a player cmd will be fine.
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> about snoop
+ÈÕÆÚ: Wed Jul 14 00:21:29 1999
+agree
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> about whoip
+ÈÕÆÚ: Wed Jul 14 00:21:39 1999
+agree row
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: a wiz application
+ÈÕÆÚ: Fri Jul 16 03:44:52 1999
+±¾MUDÖĞµÄID£ºtit   ÖĞÎÄÃû£ºÄãµÄÖĞÎÄ
+ĞÕÃû£ºÈÎ½£·æ         ÄêÁä£º22          ĞÔ±ğ£ºÄĞ
+½ÌÓı³Ì¶È£º´óÑ§Éú      ËùÔÚ³ÇÊĞ£ºĞÂ¼ÓÆÂ      Ä¿Ç°Ö°Òµ£ºÑ§Éú
+E-mailµØÖ·£ºeng70759@nus.edu.sg
+Ö÷Ò³(Èç¹ûÓĞµÄ»°)£º
+----------------¹ØÓÚ¼ÆËã»úÓïÑÔ------------------------
+1 ÇëÁĞ³öÄãÑ§¹ıµÄ¼ÆËãÓïÑÔºÍÊìÏ¤³Ì¶È¡£
+c++ Ñ§¹ı°ëÄê
+fortran Ñ§¹ı°ëÄê
+2 ÓÃÃ»ÓÃ¹ıCºÍC++£¬¶à³¤Ê±¼ä¡£
+ÓÃ¹ıCºÍC++, Á½Äê
+3 ÓÃÃ»ÓÃ¹ıLPC£¬Ê²Ã´³Ì¶È¡£
+Ã»×ö¹ıÎ×Ê¦, Ã»ÓÃ¹ıLPC.
+----------------¹ØÓÚMUD------------------------
+1 Íæ¹ıÄÄĞ©MUD£¬¶à³¤Ê±¼ä£¬¶à¸ßµÈ¼¶¡£
+Î÷ÓÎ¼Ç×ÜÕ¾      Ò»Äê¶à, 2000ÄêµÀĞĞ
+·çÔÆ×ÜÕ¾                Á½¸öÔÂ°É£¬30000¾­ÑéÖµ, Ã»Íæ¶à¾Ã
+ÏÀ¿ÍĞĞ´ÓÕ¾              Ò»Äê¶à,350Íò¾­ÑéÖµ.
+Èı¹úÖ¾(ÁíÍâÒ»¸ö)        ËÄ¸ö¶àÔÂ°É. Ôø¾­µ±¹ıµÚÒ».
+2 ÔÚ±¾MUDÍæ¹ı¶à³¤Ê±¼ä£¬¼¸¸öÖ÷ÒªDUMMY£¬µÈ¼¶¡£
+ÔÚ±¾MUDÍæ¹ıËÄ¸ö¶àÔÂ.
+Ò»Ö÷ÒªDUMMY.  36 ¼¶°É.
+3 ÔÚÄÄĞ©MUDÀïµ±¹ıWIZ£¬¶à³¤Ê±¼ä£¬×÷¹ıÊ²Ã´¹¤×÷¡£
+Ã»µ±¹ıWIZ.
+sigh
+----------------¹ØÓÚÈı¹úÖ÷Ìâ------------------------
+1 ¿´¹ı¡¶Èı¹úÑİÒå¡·Âğ£¬¶àÉÙ±é£¬¶à¾ÃÒÔÇ°¡£
+ ¿´¹ı²»ÖªµÀÓĞ¶àÉÙ±é.¡£ÎÒÂòÁËÒ»±¾Èı¹úÑİÒå²î²»¶àÌìÌì¿´¡£ÎÒÊÇÒ»¸öµØµØµ½µ½µÄ
+Èı¹úÃÔ¡£
+¹âÈÙ¹«Ë¾³öµÄÈı¹úÓÎÏ·²î²»¶àÎÒ¶¼Íæ¹ı¡£
+san1
+san2
+san3
+san4
+san5
+san6
+dragon
+Èı¹úÓ¢½Ü´«
+Èı¹ú²Ü²Ù´«
+Èı¹úÏµÁĞÖ®Îå»¢ÉÏ½«
+Èı¹úÈºÓ¢´«(sanguo)
+Èı¹úÈºÓ¢´«2(sanguo2)
+ÆäÖĞÈı¹úÎåÎÒ²»ÖªµÀÍæÁË½â¶àÉÙ´Î£¬ÖÁÉÙÒ²ÓĞÈıËÄÊ®´Î°É¡£
+Èı¹úËÄÒ²ÍæÁËºÜ¶à´Î¡£
+3 Ì¸Ì¸Äã¶ÔËùÍæ¹ı¸÷Èı¹úÓÎÏ·µÄ¿´·¨¡£±È½Ï±¾MUDµÄÓÅÈ±µã¡£
+Õâ¸öÖ÷ÌâÌ«¹ã£¬²»ÊÇÈıÑÔÁ½ÓïÄÜËµÃ÷°×£¬µ«ÊÇÎÒ×î°®ÍæµÄÈı¹úÓÎÏ·ÊÇÈı¹úÎå¡£
+Èı¹úÎå´Ó¹ÜÀíÄÚÕşºÍ¾üÊÂµÄºÏÀí·Ö¹¤£¬µ½Õó·¨µÄÉúÉúÏà¿Ë£¬µ½²»Í¬µØĞÎ¶Ô¾ü¶ÓĞĞ¶¯
+µÄÓ°Ïì£¬ºÍ¸÷ÖÖ²ßÂÔµÄÔËÓÃ£¬¶¼ÊÇÎÒÏ²°®Èı¹úÎåµÄÔ­Òò¡£
+----------------¹ØÓÚĞËÈ¤£¬ĞÔ¸ñ------------------------
+1 ÄãÍæ¹ıµÄ×îÓĞÒâË¼µÄPC GAME£¬Ì¸Ì¸Ìå»á
+²»ºÃÒâË¼£¬ÎÒ×î°®µÄÊÇÈı¹úÎå¡£ÓÀÔ¶Íæ²»Äå¡£
+2 ÄãÈÏÎªÄã×îÄÃÊÖµÄ¹¤×÷ÊÇÊ²Ã´¡£
+ÎÒ×ÜÊÇÏëÏñÎÒ×öÎªÒ»¸öÈı¹úÍ³Ë§Ö¸»ÓÇ§¾üÍòÂíµÄ¾°Ïó¡£ÎÒÍæ¹ıÕâÃ´¶àÈı¹úÓÎÏ·£¬Ó¦
+¸ÃÄÜÏë³öÒ»Ğ©ÓĞÈı¹úÊ±´úÆøÏ¢µÄjobÀ´¡£ÎÒÓĞÒ»¸öÏë·¨£¬ÔÚ¹Ù±øÒÔÍâÉèÁ¢Ò»¸öÍÁ·ËµÄ
+ÏßË÷¡£½«¾ü´òÁË°ÜÕÌ¾ÍÂä²İÎª¿Ü£¬Ö±µ½¶áÈ¡ĞÂµÄ³Ç³Ø£¬»òÕß×÷ÎªÁ÷¿ÜµÄÊ×ÁìÒ²¿ÉÒÔ¡£
+ÕâÑùÍæ¼Ò¿ÉÑ¡ÔñÎª¿Ü»òÊÇ¹Ù¡£
+3 ÄãÈÏÎªÄã×îÏ£Íû¸ÉµÄ¹¤×÷ÊÇÊ²Ã´¡£
+ÎÒÃ»×ö¹ıÎ×Ê¦£¬Ò²²»ÊÇºÜÇå³ş×öÎ×Ê¦ÓĞÄÄĞ©¹¤×÷£¬²»¹ıÎŞÂÛ¸øÎÒÊ²Ã´¹¤×÷£¬ÎÒ¶¼»á
+¾¡Á¦È¥Íê³É¡£
+4 µ±Äã½Óµ½Ò»¸ö²»Ï²»¶µÄ¹¤×÷Ê±£¬Äã½«ÈçºÎ¶Ô´ı¡£
+ÕâÊÇÒ»¸ö²»ºÃ»Ø´ğµÄÎÊÌâ¡£ÒòÎª×ÜÈÃÈË¾õµÃĞéÎ±Èç¹û»Ø´ğµÃ¸»ÀöÌÆ»Ê¡£
+Ê×ÏÈÈç¹ûÎÒ½Óµ½Ò»¸ö²»Ï²»¶µÄ¹¤×÷£¬¿Ï¶¨²»»áÌ«¸ßĞË£¬²»¹ı¼ÈÈ»ÊÇ·ÖÅä¸øÎÒµÄ¹¤×÷£¬
+ÎÒÓÖ³Ğµ£ÏÂÀ´ÁË£¬¾Í»áÈÎÈÎÕæÕæµÄÍê³ÉËü¡£
+5 ÄãÓĞÃ»ÓĞ²Î¼Ó¹ı¼¯ÌåºÏ×÷µÄÏîÄ¿£¬Èç¹ûÓĞ£¬Çë½éÉÜÒ»ÏÂ¸ÃÏîÄ¿
+  ÒÔ¼°ÄãµÄ¾ßÌå¹¤×÷ºÍÌå»á¡£
+ÎÒÃÇÃ¿¸öÑ§ÆÚ²î²»¶à¶¼ÓĞprojectÒª×ö£¬ÕâÓ¦¸ÃËã°É¡£
+ÎÒÏëÓ¦¸ÃÃ»±ØÒª°ÑprojectÏ¸½Ú¶¼Ğ´³öÀ´°É¡£²»¹ıÌå»áµ½ÊÇÓĞµÄ£¬¼¯Ìå×÷project,Õæ
+µÄºÜÂé·³¡£
+----------------¹ØÓÚÊ±¼ä£¬Ìõ¼ş------------------------
+1 ÄãÊÇÔÚÊ²Ã´µØ·½£¬ÒÔÊ²Ã´·½Ê½ÉÏÍø¡£
+ÎÒÊÇÔÚÑ§Ğ£ÒÔtelnetµÄ·½Ê½ÉÏÍø¡£(ÔÚĞÂ¼ÓÆÂ)
+2 Òª²»Òª¸¶·Ñ(´óÔ¼¶àÉÙ)¡£
+²î²»¶àËãÃâ·Ñ°É¡£
+3 ÄãÊ²Ã´Ê±¼äÄÜÉÏÍø£¬Ò»ÖÜ´óÔ¼¶à³¤Ê±¼ä¡£
+Ö»ÒªÊÇÃ»ÓĞ¿ÎµÄÊ±ºò£¬¾Í¿ÉÒÔÉÏÍø¡£ÎÒÃÇÒ»ÖÜ²»µ½ÈıÊ®Ğ¡Ê±¿Î£¬Ó¦¸ÃÓĞ´óÁ¿Ê±¼äÉÏ
+Íø¡£
+----------------¼òµ¥ÎÊÌâ------------------------
+µÚÒ»²¿·İ£º¹ØÓÚ¼ÆËã»úÓïÑÔ£º
+CÓïÑÔ£º
+1 Ê²Ã´ÊÇÖ¸Õë£¬ËüºÍÊı×éÓĞÊ²Ã´Çø±ğ¡£
+Ö¸ÕëÊÇÖ¸¡°pointer" °É£¬Êı×éÓÖÊÇÖ¸Ê²Ã´£¿ÎÒÊÇÓÃÓ¢ÎÄÑ§µÄc++,½ö¹ÜÎÒÊÇ´Óºş±±³ö
+À´µÄ¸ß¿¼±ÏÒµÉú¡£
+2 y=x++; ºÍ y=++x; µÄÇø±ğÊÇÊ²Ã´¡£
+y=x++, => y=x  then  x=x+1
+y=++x  =>x=x+1;then y=x
+3 Ğ´Ò»¸ö¼òµ¥³ÌĞò void sort(int x1, int x2, int x3)
+°Ñx1,x2,x3°´´ÓĞ¡µ½´óµÄË³Ğò´òÓ¡³öÀ´¡£
+4 Ğ´Ò»¸ö¼òµ¥³ÌĞòÇóºÍ 1 µ½ 100
+5 while Ñ­»·ºÍ for Ñ­»·µÄÇø±ğºÍÊÊÓÃ·¶Î§¡£
+LPC
+6 Ê²Ã´ÊÇ mapping, ËüºÍÊı×éÓĞÊ²Ã´²»Í¬¡£
+7 Ê²Ã´ÊÇ daemon£¬ËüÓĞÊ²Ã´ÌØµã
+8 Ê²Ã´ÊÇ¼Ì³Ğ£¬ËüÓĞÄÄĞ©ÓÅµã¡£
+²Ù×÷ÏµÍ³
+9 ls, cp, cd, rm, mv µÄ¹¦ÄÜÊÇÊ²Ã´¡£
+ls      show the files under the directory
+cp      copy files
+cd      move to another directory
+rm      equal to del in the dos
+mv      move file to a directory 
+10 Ê²Ã´ÊÇftp, ÃèÊöÒ»ÖÖftpÈí¼şµÄ²Ù×÷¹ı³Ì¡£
+to get files from other server or computer.
+under unix, first telnet to that server, then set bin,get or put files,
+the close bah.
+µÚ¶ş²¿·İ£ºÈı¹úÖªÊ¶
+1¡¢ ¡¶Èı¹úÑİÒå¡·ºÍ¡¶Èı¹úÖ¾¡··Ö±ğÊÇË­µÄ×÷Æ·£¿
+ÂŞ¹áÖĞ
+³ÂÊÙ
+2¡¢ »Æ½íÆğÒåÖĞ£¬ÕÅ½Ç´ÓÄÄÎ»ÏÉÈËÄÇÀïµÃµ½ÁËÊ²Ã´ÌìÊé£¿ÕÅ½ÇÏ°
+    ´ËÊéºó£¬ÄÜºô·ç»½Óê£¬ÄË¾ÙÊÂ¡£ÆäÃÅÏÂÍ½ÖÚÔÚ¸÷´¦¶ïÑÔ£º
+    »ÊÌì__ __ ÒÑËÀ£¬»Æ½í __ __ µ±Á¢£»ËêÔÚ¼××Ó£¬ÌìÏÂ´ó¼ª¡£¡±£¿
+3¡¢ Ä³ÈË¶Ô²Ü²ÙËµ£º×ÓÖÎÊÀÖ®ÄÜ³¼£¬ÂÒÊÀÖ®¼éĞÛÒ²¡££¬´ËÈËÊÇË­£¿
+    ºóÀ´²Ü²Ù³ÖÆßĞÇ½££¨Ò»ËµÆßĞÇ±¦µ¶£©ÓûĞĞ´ÌË­£¿
+»ªÍÓ
+¶­×¿
+4¡¢ Èı¹úÑİÒåÀïµÄÁ¬»·¼Æ£¨ÃÀÈË¼Æ£©ÊÇË­ÊµÊ©µÄ£¿Á¬»·¼ÆÀïµÄÅ®Ö÷
+    ½ÇºÍ±»Éè¼ÆµÄÁ½¸öÄĞÖ÷½Ç·Ö±ğÊÇË­£¿
+ÍõÔÊ
+õõ²õ
+ lv bu (²»¶®ÔõÃ´ÊäÈëÕâ¸ö"lv")
+¶­×¿
+5¡¢ Èı¹úÑİÒåÀïÄÄÎ»ÉñÒ½ÎªÄÄÎ»½«¾ü¹Î¹ÇÁÆ¶¾£¬´«ÎªÇ§¹Å¼Ñ»°£¿
+»ªÍÓ
+    µ±Ê±Ë­ÕıÔÚºÍË­ÏÂÆå£¿
+ÂíÁ¼
+6¡¢ Èı¹úÀï×îÖøÃûµÄÈıÎ»¾ıÖ÷£º²Ü²Ù£¬Áõ±¸£¬ËïÈ¨¡£ÆäÖĞËûÃÇµÄÊÅ
+    ÊÀË³ĞòÎª£¿
+²Ü²Ù    Áõ±¸    ËïÈ¨
+7¡¢ Èı¹úÓÎÏ·Àï£¬Í¨³£ÎäÁ¦×î¸ßµÄÊÇË­£¿ÖÇÁ¦×î¸ßµÄÊÇ£¿÷ÈÁ¦×î¸ß
+    µÄÊÇ£¿£¨Ã»ÓĞ±¦ÎïµÄÇé¿öÏÂ£©
+ lv bu  Öî¸ğÁÁ  Áõ±¸
+8¡¢ ³öÆ·¡¶Èı¹úÖ¾¡·ÏµÁĞÓÎÏ·µÄÈÕ±¾ÓÎÏ·¹«Ë¾Ãû³Æ¡£
+¹âÈÙ
+9¡¢ ¡°ÂíÊÏÎå³££¬°×Ã¼×îÁ¼¡±Ö¸µÄÊÇ£¿½ÖÍ¤Ê§ÊØ£¬Öî¸ğÁÁÕ¶µÄÊÇË­£¿
+ÂíÁ¼
+ÂíÚÕ
+10¡¢³ÆÎ½£º
+    ¡°µ¥¸£¡±ÊÇÖ¸Èı¹úÀïÃæÄÄÒ»Î»ÈËÎï£¿
+ĞìÊü
+    Ë×Óï¡°ÊñÖĞÎŞ´ó½«£¬__ __ µ±ÏÈ·æ¡± Ö¸µÄÊÇ£¿ÁÎ»¯
+    ¡°»¢³Õ¡±ËµµÄÊÇÄÄÒ»Î»ÃÍ½«£¿ĞíñÒ
+    ¡°ÃÀ÷×¹«¡±¡°ººÊÙÍ¤ºî¡±Ö¸µÄÊÇË­£¿¹ØÓğ
+    ¡°Ô¯ÃÅÉäêª¡±µÄµä¹ÊÊÇË­ÉäÖĞêªÉÏµÄĞ¡Ö¦£¿ lv bu
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: agree to promote tit
+ÈÕÆÚ: Fri Jul 16 04:20:01 1999
+it'll be nice if we have such a guy like sanguo games that much,
+what wiz can do is mostly like player, do job job job job ...:P
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> agree to promote tit
+ÈÕÆÚ: Fri Jul 16 04:32:50 1999
+as title ..
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: >about new wizard
+ÈÕÆÚ: Tue Jul  6 12:19:07 1999
+ÌìÄÄ, this will be remembered as the hardest wiz
+application ever...in fact, i won't even bother applying
+here after seeing all the translations...how am i suppose to
+translate english functions to chinese?
+for me, if someone can spend enough time on mud, they can learn
+LPC...if they can talk english, i can help them better...as far
+as chinese is concerned, ÎÄ·¨Í¨³© is enough, stefan can do
+all the ´í±ğ×Ö replacement, like, 'ÏÂ´Ë±í¸ñ', should be
+'ÏÂÃæ±í¸ñ' bah...(*wink)
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >> about open war for short time
+ÈÕÆÚ: Mon Jul  5 18:23:24 1999
+agree
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >about wiz rain
+ÈÕÆÚ: Sat Jul  3 03:10:33 1999
+agree
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> about wiz rain
+ÈÕÆÚ: Sat Jul  3 02:57:14 1999
+i agree with fire that depromote rain.
+we have discussed and decided that a wiz never 
+login for more than 30 days will be depromoted.
+i suggest we should make this wiz rule clear to
+every new wizard.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about wiz rain
+ÈÕÆÚ: Sat Jul  3 02:15:09 1999
+rain hasn't appear for 83 days
+and didn't attribute anything to this mud
+suggest to demote him
+
+your guys opinion ?
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> agree with ice
+ÈÕÆÚ: Wed Jun 30 21:38:12 1999
+as title
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: >>a request about opening mirror site
+ÈÕÆÚ: Wed Jun 30 07:37:50 1999
+agree...not when we have lots of bugs...
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >a request about opening mirror site
+ÈÕÆÚ: Tue Jun 29 18:30:12 1999
+i think better consider this request after we officially open
+sanguo, and sure i think open mirror site is good for us.
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: about the request of opening mirror site
+ÈÕÆÚ: Wed Jun 30 12:23:13 1999
+first of all, i think to open mirror site will be good.
+however, I dun think it's the right time for us to take this action.
+i think the major goal of this test version is general some new ideas
+from player and discover bugs in game playing, if we open the mirror site
+at present, i think we dun have enough energy to handle in 2 mud servers.:PP
+i have met an example of opening a mirror site while the mud was not muture,
+it's canada's sanguo.  they open a mirror site in shanghai, and let the
+applicants to handle it at all, and just let it go.  however, the
+cancda sanguo
+was not muture and the new group was not acting as they promised,
+after a period
+of time, that mud died, and i think it brings a very bad image about
+the mud game.
+
+i strongly agree row's comment, we should open mirror sites after our mud is
+officially open, and most important parts of the mud is bug free.
+
+I think the main purpose of tianji's application is just to get the
+mudlib, and let
+some more ppl play it, but if we dun put enough effort in the new server, more
+players will be meaningless to our jobs, bcoz we cannot handle the
+feedback and bugs
+efficiently and effectively.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about new wizard
+ÈÕÆÚ: Thu Jul  1 09:50:01 1999
+there are many players want to be wizards, but we 
+don't really have so much time to talk to them to
+find thier ability. 
+I and ice designed an application form 
+"help apply", all players want to apply wiz
+should fill it, your guys see if need some adjustment
+ice, please help to ÅÅ°æ°É¡£:)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about open war for short time
+ÈÕÆÚ: Mon Jul  5 02:57:48 1999
+I suggest to open war on this week's weekend
+it has several reasons
+1 our mud need some ĞË·Ü¼Á
+2 we need a chance to observe war's bugs
+
+In order to make this war open more useful for further
+development and cause less troubles, I think we can do the
+following preparations
+
+1 announce the open of war 2 or 3 days before the moment of open
+  so most players can prepare it and we hope most related players
+  can attend there during that time as well as most wizards
+
+2 we keep the right to close the war at any moment in case it
+  goes out of control.
+
+3 I hope, most currently working wizards attending there
+  and clearly record the process of the wars and the bugs
+  so make these wars very fruitful.
+
+What your guys think about this ?
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: rain is demoted
+ÈÕÆÚ: Mon Jul  5 03:00:29 1999
+according to the wizrules and the discuss result
+of wizard committee, rain is demoted
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> about open war for short time
+ÈÕÆÚ: Mon Jul  5 03:10:44 1999
+agree
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: > about open war for short time
+ÈÕÆÚ: Mon Jul  5 10:32:27 1999
+agree to open war in this weekend, but it's will be better to
+fix the following bug b4 reopen:
+
+1. look in war or train will consider enemy troops as friend troops,
+   which are different from cmd warmap here
+2. the bug that attack some area, or taishou only area, defence troop
+   will stuck in the troops deviding stage.
+3. in train or war, some times troops can move in ÌìÏÕ and stuck there.
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: about dummy spy's problem
+ÈÕÆÚ: Mon Jul 12 19:07:23 1999
+About the dummy spies, i think it's coming to be more and more
+serious nowadays, (cdd got crazy about it..:P). However, I think
+spy to enemy nation is not a bad thing, but should be treated 
+fairly, I think we dun hope every player ²İÄ¾½Ô±ø ..:P
+
+well, i got an idea as the following:
+
+when a player finger
+%^H_YELLOW%^finger%^RESET%^
+
+È 31 Î»Íæ¼ÒÄ¿Ç°ÕıÔÚÓÎÏ·ÖĞ¡£(Mon Jul 12 21:51:37 1999)
+---------------------------------------------------------------------------
+rabbit         player      19m  rabbit
+xixixi         player      3m   zudi
+lsk            player      1m   lsk
+zlong          player           zlong
+zudi           player      13m  zudi
+theking        player           theking
+everyday       player           everyday
+fifo           player           fifo
+york           player           york
+daitoue        player           daitoue
+richel         player           richel
+cdd            player           cdd
+feeling        player      6m   daitoue
+xxcdd          player           cdd
+
+
+When a player login, finger will show his id instead of showing ip
+from the player finger, when he tries to login more than 1 id, finger
+may indicate the 2nd id or later ids by using the first logged in id.
+if the first id logged out, the 2nd one will be the indicator.
+
+I think this way can make players know better to control dummy spies,
+however, if sb really wants to make some spies, he has to quit his id
+and play his dummy to get his target player's trust, i think it's the
+way to solve the currently dummy spy problem.
+
+Well, if a ppl has more than 1 IP to play with, i think we cannot
+control at all, it's not a problem of multilog any more, so i think
+it's not much concerning about fair, after all, we cannot treat every
+player equally fair...:P
+
+looking forward for discussion
+* dream
+
+
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> about dummy spy's problem
+ÈÕÆÚ: Mon Jul 12 19:21:28 1999
+yeah, i agree with ice, we should make finger
+more powerful. such as in xkx, finger will sort
+the players according to their ips, which means
+players from same or similar ips will put together
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new wizard zhanpu
+ÈÕÆÚ: Mon Jun  7 16:54:12 1999
+Welcome :)
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> application from °×ÀæÔÆ(zhanpu)
+ÈÕÆÚ: Sat Jun  5 04:38:46 1999
+agree
+addoil zhanpu
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: application from °×ÀæÔÆ(zhanpu)  
+ÈÕÆÚ: Sat Jun  5 04:37:20 1999
+¡ÎÒ·Ç³£Ïë³ÉÎªÈı¹úÓÎÏ·µÄÎ×Ê¦£¬ÒòÎªÎÒÖªµÀ
+ÔÚÎäÏÀMUD·ºÀÄµÄMUDÊÀ½ç£¬Èı¹úÓÎÏ·ÓĞ×ÅÎŞÒÔæÇÃÀµÄ÷ÈÁ¦£¬ËäÈ»ÏÖÔÚ»¹ÓĞÒ»Ğ©
+Ğ¡BUG£¬µ«ÊÇ±ØÈ»Ô½À´Ô½ÊÜ»¶Ó­¡£ÒÔÏÂÊÇÎÒµÄ¸öÈË×ÊÁÏ
+   Õ²³¤»Ô£¬ÄĞ£¬1977ÄêÉúÓÚÖĞ¹úºşÄÏÊ¡³£µÂÊĞ£¬1996Äê½øÈëÖØÇì´óÑ§²ÄÁÏ¹¤³Ì×¨Òµ
+Ñ§Ï°£¬Í¨ĞÅµØÖ·£ºÖØÇì´óÑ§Ê®Ò»Éá619ÊÒ¡£ÓÊ±à400044¡£ÎÒÆ½Ê±Ï²°®µçÄÔÓÎÏ·£¬ÌØ±ğ
+ÊÇMUDÓÎÏ·£¬Ñ§Ï°¹ıTURBO C ±à³Ì£¬ÒÔ¼°LPC£¬ĞÂ×öÁË¸öÈËÍøÒ³£ººÚ°µÄàÌ¶£¬½éÉÜMUD
+ÓÎÏ·¼°Î×Ê¦±à³Ì£¬ÎÒ¶ÔÎ×Ê¦ÓĞÒ»¶¨µÄÁË½â£¬ËùÒÔÎÒ·Ç³£Ï£ÍûÄãÃÇÄÜ½ÓÊÜÎÒÎªÄãÃÇµÄÒ»Ô±¡£
+  thank you to see my letter!
+
+What do your guys think about this ppl.
+he said he like do jobs as room desc, map and help files
+and i think that is what we really have a lot works
+
+so i suggest accept his application:)
+so what your opinions ?
+
+fire
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: addoil all
+ÈÕÆÚ: Thu Jun  3 07:00:12 1999
+Èı¹ú£º£¨µ±µØÊ±¼ä£º¾ÅÊ®¾ÅÄêÁùÔÂÈıÈÕÉÏÎç¾ÅÊ±ÎåÊ®¾Å·Ö£©
+©¤©¤IDÁĞ±í©¤©¤  ×ÜÈËÊı37¸ö¡£
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+york       xyun       ice        wj         hhrr       klkl       zhanpu
+theng      hhr        mimi       hans       xfang      ccbb       sss
+xue        dpn        netboy     piss       sanshao    flee       dummy
+shampoo    you        ddcc       xpig       ppq        meimei     gsy
+cowboy     boday      qqq        abc        fire       deadb      eagle
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >>revised reply
+ÈÕÆÚ: Wed Jun  2 18:16:34 1999
+i agree
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: agree stefan
+ÈÕÆÚ: Tue Jun  1 15:50:45 1999
+in current situation.
+I can't see any benefit from the cooperation.
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> >>ÓĞ¹ØÒ¶¹«µÄÌáÒé
+ÈÕÆÚ: Wed May 26 22:06:48 1999
+agree with stefan, fire, row .. :)
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: drafted reply
+ÈÕÆÚ: Mon May 31 23:47:54 1999
+I drafted this before I received jun's reply, I think in this reply
+I was too harsh, will drafted a better one later...
+
+
+Anyway, all please take a look and give some comments :)
+Hi Yeg,
+
+ÄãºÃ£¡ÎÒÊÇĞÂ¼ÓÆÂÈı¹ú£Í£Õ£ÄµÄ·¢ÆğÈËÖ®Ò»£¬ÔÚ´Ë½÷¶ÔÓÚÄúÔÚÀ´ĞÅÖĞÌáµ½
+µÄË«·½ºÏ×÷ÎÊÌâ¸øÓè´ğ¸´¡£ÔÚ¾­¹ıÎÒÃÇÖÆ×÷×éµÄÖ÷ÒªÎ×Ê¦³ÉÔ±ÌÖÂÛÖ®ºó£¬
+ÎÒÃÇÈÏÎªÄ¿Ç°Ë«·½ºÏ²¢µÄÊ±»úÉĞÎ´³ÉÊì£¬Ô­ÒòÈçÏÂ£º
+
+£±£®ÎÒÃÇ¶ÔÓÚÄúËùÌá³öµÄÖÆ×÷Ğ­»áµÄ¸ÅÄî²»ÊÇÊ®·ÖÇå³ş¡£Ä¿Ç°ÎªÖ¹£¬ÎÒÃÇ
+µÄ¿ª·¢¹¤×÷ÍêÈ«ÊÇÊôÓÚÎ×Ê¦µÄ×ÔÔ¸ĞĞÎª£¬ÓĞ¹Ø°æÈ¨µÄÎÊÌâÎÒÃÇÈÏÎªÓ¦µ±×ğ
+ÖØÔ­ MudOS ºÍ Lima µÄ·¢ĞĞ°æÈ¨£¬ÕâÒâÎ¶×Å·ÇÉÌÒµÓÃÍ¾¡£ÎÒÃÇ²»Çå³şÄú
+Ìá³öµÄÈı¹úÖÆ×÷Ğ­»áÊÇ·ñÊÇÒ»¸öÕıÊ½×¢²áµÄ»ú¹¹£¬Èç¹ûÊÇ£¬ÏëÇëÎÊÄãÃÇµÄ
+ÖÆ×÷ÒÔ¼°°æÈ¨µÄÄ£Ê½ÊÇÊ²Ã´ÑùµÄ£¿Èç¹û²¢·ÇÕıÊ½×¢²áµÄ»ú¹¹£¬ÄÇÃ´¿ª·¢³ö
+À´µÄ²úÆ·µÄËùÓĞÈ¨ÖµµÃÉÌÈ¶£¬ÔÚÕâÑùµÄ»ù´¡ÉÏÉÌÌ¸ºÏ²¢£¬ÊÇ·ñ²»ÇĞÊµ¼ÊÄØ£¿
+
+£²£®ÎÒÃÇË«·½¹ÜÀíµÄÄ£Ê½Ïà²î½ÏÔ¶¡£ÎÒÃÇÒ»Ö±ÊÇ±È½Ï·ÇÕıÊ½µÄ¹ÜÀí·½°¸£¬
+¶ÔÕıÔÚ¹¤×÷µÄÎ×Ê¦Ã»ÓĞÈÎºÎÇ¿ÖÆĞÔµÄÒªÇó£¬À´È¥×ÔÓÉ¡£Èç¹ûºÏ²¢Ò²ÒâÎ¶×Å
+¹ÜÀíÉÏµÄºÏ²¢£¬ÆäÖĞ±ØÓĞ·ÖÆç£»Èç¹ûºÏ²¢ºó»¹ÊÇÁ½×éÈË¸÷¸É¸÷µÄ£¬ÄÇÃ´Îª
+Ê²Ã´ÒªºÏ²¢ÄØ£¿Èç¹ûËµÖ»ÊÇÎ×Ê¦µÄ½»Á÷£¬ÎÒÃÇ×ğÖØÎ×Ê¦¸öÈËµÄ¾ö¶¨£¬²»ºÏ
+²¢Ò²¿ÉÒÔ½»Á÷¡£ÄúËùÌá³öµÄºÏ²¢µÄÄ¿µÄºÍÒâÒå¶ÔÓÚÎÒÃÇÀ´½²£¬¸ÅÄî¶¼±È½Ï
+Ä£ºı¡£
+£³£®ÎÒÃÇ±¾ÉíÄ¿Ç°Õı´¦ÓÚÕıÊ½¿ª·ÅÇ°½ôÂàÃÜ¹ÄµÄ³ï±¸½×¶Î£¬ÏÖÔÚËùÓĞµÄÎ×
+Ê¦¶¼ºÜÃ¦Âµ£»¶øÇÒ´Ó¿ª·Åµ½³õ²½³ÉÊìµÄÒ»¶ÎÊ±¼ä£¬ÊÇ¶ÔÒ»¸ö£Í£Õ£ÄÄÜ·ñ³É
+¹¦µÄ¹Ø¼ü¿¼Ñé¡£Òò´ËÎÒÃÇÈÏÎªÔİÊ±²¢·ÇºÏ²¢µÄºÃÊ±»ú£¬¼ÙÒÔÊ±ÈÕ£¬´Ó³¤Ô¶
+À´¿´Ë«·½ºÏ×÷²»ÊÇÒ»¼ş²»¿ÉÄÜµÄÊÂ£¬µ«Ò²²»ÊÇÒ»õí¶ø¾ÍµÄ¡£
+
+£´£®´Ó¼¼Êõ½Ç¶È¿¼ÂÇ£¬Ò²´æÔÚºÜ´óÄÑ¶È¡£Ê×ÏÈË«·½Ëù»ùÓÚµÄ mudlib ºÜ²»
+Í¬£¬ÔÚºÜ¶àÉè¼Æ·½°¸ÉÏÒ²Ïà²î½ÏÔ¶£¬²¢·ÇÊÇ¼òµ¥µÄ°Ñ³ÌĞò×ªÀ´×ªÈ¥¾Í¿ÉÒÔ
+½â¾öµÄ£¬ÆäÖĞÀ§ÄÑÖØÖØ¡£¶øÇÒÈç¹ûÁ½×éÈË¸÷¿ª·¢¸÷×ÔµÄ¶«Î÷£¬ÄãÃÇÖ÷¹¦Í¼
+Ïó£Í£Õ£Ä£¬ÄÇÃ´Æä¼¼ÊõÉÏµÄÓÅÔ½ĞÔ½«»á´ó´ó³¬¹ıÎÒÃÇµÄ´¿ÎÄ±¾£¬¿ÉÒÔÔ¤¼û
+×îºó´¿ÎÄ±¾µÄ¿ª·¢½«»áÄÑÒÔ¼ÌĞøÏÂÈ¥£¬ÒòÎªËùÓĞÈËÁ¦¶¼»á×ªÈ¥Í¼Ïó£Í£Õ£Ä¡£
+ÕâÑùÒ»±ßµ¹µÄ¾ÖÃæ£¬ÊÇ·ñÓĞÎ¥ÓÚºÏ×÷µÄ±¾ÒâÄØ£¿Èç¹ûºÏ²¢Ö®ºóÒ»Æğ¿ª·¢Í¼
+Ïó£Í£Õ£Ä£¬¸÷×Ô¶¼·ÅÆúÔ­ÓĞµÄ´¿ÎÄ±¾°æ£¬ÄÇÃ´ÆäÉè¼Æ·½°¸ºÍ°æÈ¨ÎÊÌâ¶¼ÊÇ
+ÔÚºÏ²¢Ö®Ç°ÖµµÃÈÏÕæÉÌÁ¿µÄ¡£
+
+»ùÓÚÒÔÉÏ¼¸µã£¬ÎÒÃÇÈÏÎªÄ¿Ç°²»ÊÊÒËºÍÄã·½ÍêÈ«ºÏ²¢£¬Ò²ÇëÄãÃÇÈÏÕæ¿¼ÂÇ
+Ò»ÏÂÎÒÃÇÌá³öµÄÎÊÌâºÍÔ­Òò¡£·Ç³£¸ĞĞ»ÄãÃÇÖ÷¶¯Ìá³öÕâÑùÒ»¸öºÏ×÷µÄ»ú»á£¬
+ÎÒÃÇ½ñºóÒ²¿ÉÒÔÔÚÆäËû·½Ãæ½øĞĞÊÊµ±µÄ½»Á÷ºÍÌ½ÌÖ£¬Èç¹ûÊ±»ú³ÉÊìºÍÒÉÎÊ
+Ïû³ıµÄ»°£¬ÎÒÃÇÒ²ÆÚÍû×ÅÄÜ¹»ÓëÄãÃÇÒ»Æğ¹¹½¨Ò»¸öÓÅĞãµÄÈı¹úÓÎÏ·¡£
+
+½÷´ú±íÎÒÃÇÈ«ÌåÖÆ×÷Ğ¡×é³ÉÔ±¶ÔÄã·½±íÊ¾¾´ÒâºÍ¸ĞĞ»£¡
+
+Regards,
+stefan
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >drafted reply
+ÈÕÆÚ: Tue Jun  1 00:29:00 1999
+i agree with stefan on this letter, but seems he missed
+point 3? :)
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: agree 
+ÈÕÆÚ: Tue Jun  1 19:27:44 1999
+as title.
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: revised reply
+ÈÕÆÚ: Tue Jun  1 23:56:11 1999
+Hi Yeg,
+
+ÄãºÃ£¡ÎÒÊÇĞÂ¼ÓÆÂÈı¹ú£Í£Õ£ÄµÄ·¢ÆğÈËÖ®Ò»£¬ÔÚ´Ë½÷¶ÔÓÚÄúÔÚÀ´ĞÅÖĞÌáµ½
+µÄË«·½ºÏ×÷ÎÊÌâ¸øÓè´ğ¸´¡£¿¼ÂÇµ½ÎÒÃÇÄ¿Ç°µÄÇé¿ö£¬ÒòÎªÎÒÃÇÕı´¦ÓÚÕıÊ½
+¿ª·ÅÇ°½ôÂàÃÜ¹ÄµÄ³ï±¸½×¶Î£¬ÏÖÔÚËùÓĞµÄÎ×Ê¦¶¼ºÜÃ¦Âµ£»¶øÇÒ´Ó¿ª·Åµ½³õ
+²½³ÉÊìµÄÒ»¶ÎÊ±¼ä£¬ÊÇ¶ÔÒ»¸ö£Í£Õ£ÄÄÜ·ñ³É¹¦µÄ¹Ø¼ü¿¼Ñé¡£Òò´ËÎÒÃÇÈÏÎª
+µ±Ç°²¢·ÇºÏ²¢µÄºÃÊ±»ú¡£
+
+´Ó³¤Ô¶½Ç¶ÈÀ´¿´£¬Èç¹ûÄÜ¹»ÓĞÒ»¸öÕıÊ½µÄ×éÖ¯ºÍĞí¶àÓĞ¹²Í¬°®ºÃµÄÈËÒ»Æğ
+ÖÆ×÷Í¼ĞÎ»¯µÄÈı¹úÓÎÏ·£¬»òÕßÍÆ¹ãÒ»²½£¬ÖÆ×÷ÖĞÎÄÍ¼ĞÎ£Í£Õ£Ä£¬¶¼ÊÇÒ»¼ş
+ÁîÈËÕñ·ÜµÄÊÂÇé¡£¶Ô´Ë£¬ÎÒÃÇÓĞÒÔÏÂ¼¸µãÒÉÂÇ£º
+
+£±£®ÎÒÃÇ¶ÔÓÚÄúËùÌá³öµÄÖÆ×÷Ğ­»áµÄ¸ÅÄî²»ÊÇÊ®·ÖÇå³ş¡£Ä¿Ç°ÎªÖ¹£¬ÎÒÃÇ
+µÄ¿ª·¢¹¤×÷ÍêÈ«ÊÇÊôÓÚÎ×Ê¦µÄ×ÔÔ¸ĞĞÎª£¬ÓĞ¹Ø°æÈ¨µÄÎÊÌâÎÒÃÇÈÏÎªÓ¦µ±×ğ
+ÖØÔ­ MudOS ºÍ Lima µÄ·¢ĞĞ°æÈ¨£¬ÕâÒâÎ¶×Å·ÇÉÌÒµÓÃÍ¾¡£ÎÒÃÇ²»Çå³şÄú
+Ìá³öµÄÈı¹úÖÆ×÷Ğ­»áÊÇ·ñÊÇÒ»¸öÕıÊ½×¢²áµÄ»ú¹¹£¬Èç¹ûÊÇ£¬ÏëÇëÎÊÄãÃÇµÄ
+ÖÆ×÷ÒÔ¼°°æÈ¨µÄÄ£Ê½ÊÇÊ²Ã´ÑùµÄ£¿Èç¹û²¢·ÇÕıÊ½×¢²áµÄ»ú¹¹£¬ÄÇÃ´¿ª·¢³ö
+À´µÄ²úÆ·µÄËùÓĞÈ¨ÖµµÃÉÌÈ¶¡£´Ó³¤Ô¶À´¿´£¬ÎŞÂÛÊÇ·ñ×ßÉÌÒµ»¯µÄÂ·Ïß£¬°æ
+È¨ÎÊÌâÊÇ±È½ÏÖØÒªµÄ¡£
+
+£²£®ÎÒÃÇË«·½¹ÜÀíµÄÄ£Ê½Ïà²î½ÏÔ¶¡£ÎÒÃÇÒ»Ö±ÊÇ±È½Ï·ÇÕıÊ½µÄ¹ÜÀí·½°¸£¬
+¶ÔÕıÔÚ¹¤×÷µÄÎ×Ê¦Ã»ÓĞÈÎºÎÇ¿ÖÆĞÔµÄÒªÇó£¬À´È¥×ÔÓÉ¡£Èç¹ûºÏ²¢Ò²ÒâÎ¶×Å
+¹ÜÀíÉÏµÄºÏ²¢£¬ÆäÖĞ±ØÓĞ·ÖÆç£»Èç¹ûºÏ²¢ºó»¹ÊÇÁ½×éÈË¸÷¸É¸÷µÄ£¬ÄÇÃ´Îª
+Ê²Ã´ÒªºÏ²¢ÄØ£¿Èç¹ûËµÖ»ÊÇÎ×Ê¦µÄ½»Á÷£¬ÎÒÃÇ×ğÖØÎ×Ê¦¸öÈËµÄ¾ö¶¨£¬²»ºÏ
+²¢Ò²¿ÉÒÔ½»Á÷¡£ÄúËùÌá³öµÄºÏ²¢µÄÄ¿µÄºÍÒâÒå¶ÔÓÚÎÒÃÇÀ´½²£¬¶¼»¹±È½ÏÄ£
+ºı¡£
+
+£³£®´Ó¼¼Êõ½Ç¶È¿¼ÂÇ£¬Ò²´æÔÚºÜ´óÄÑ¶È¡£Ê×ÏÈË«·½Ëù»ùÓÚµÄ mudlib ºÜ²»
+Í¬£¬ÔÚºÜ¶àÉè¼Æ·½°¸ÉÏÒ²Ïà²î½ÏÔ¶£¬²¢·ÇÊÇ¼òµ¥µÄ°Ñ³ÌĞò×ªÀ´×ªÈ¥¾Í¿ÉÒÔ
+½â¾öµÄ£¬ÆäÖĞÀ§ÄÑÖØÖØ¡£¶øÇÒÈç¹ûÁ½×éÈË¸÷¿ª·¢¸÷×ÔµÄ¶«Î÷£¬ÄãÃÇÖ÷¹¦Í¼
+Ïó£Í£Õ£Ä£¬ÄÇÃ´Æä¼¼ÊõÉÏµÄÓÅÔ½ĞÔ½«»á´ó´ó³¬¹ıÎÒÃÇµÄ´¿ÎÄ±¾£¬¿ÉÒÔÔ¤¼û
+×îºó´¿ÎÄ±¾µÄ¿ª·¢½«»áÄÑÒÔ¼ÌĞøÏÂÈ¥£¬ÒòÎªËùÓĞÈËÁ¦¶¼»á×ªÈ¥Í¼Ïó£Í£Õ£Ä¡£
+ÕâÑùÒ»±ßµ¹µÄ¾ÖÃæ£¬ÊÇ·ñÓĞÎ¥ÓÚºÏ×÷µÄ±¾ÒâÄØ£¿Èç¹ûºÏ²¢Ö®ºóÒ»Æğ¿ª·¢Í¼
+Ïó£Í£Õ£Ä£¬¸÷×Ô¶¼·ÅÆúÔ­ÓĞµÄ´¿ÎÄ±¾°æ£¬ÄÇÃ´ÆäÉè¼Æ·½°¸ºÍ°æÈ¨ÎÊÌâ¶¼ÊÇ
+ÔÚºÏ²¢Ö®Ç°ÖµµÃÈÏÕæÉÌÁ¿µÄ¡£
+
+¾Í³¤Ô¶´òËã£¬¼á³Ö´¿ÎÄ±¾µÄ£Í£Õ£ÄÊÇ²»»áÓĞ¶à´óÇ°¾°µÄ£¬Ò²Ã»ÓĞ±ØÒªÒ»Ö±
+¿ª·¢ÏÂÈ¥¡£ÎÒÃÇÒ²·Ç³£Ï£ÍûÄÜ¹»×éÖ¯Ò»¸ö±È½ÏÇ¿´óµÄÍøÂçÓÎÏ·¿ª·¢Ğ¡×é½ø
+ĞĞÍ¼Ïó£Í£Õ£ÄµÄ¿ª·¢¡£Ä¿Ç°ÍøÉÏÒÑ¾­ÓĞÕâÑùµÄ×éÖ¯£¬±ÈÈç 
+http://www.worldforge.org/¡£Ö»ÊÇ¶«Î÷·½µÄÎÄ»¯±³¾°ÏàÈ¥ÉõÔ¶£¬²»ÄÜÕÕ
+°á¡£ÈËÊÖ²»×ãÒ²ÊÇÎÒÃÇ¾­³£Åöµ½µÄÎÊÌâ£¬½ö½öÄãÎÒË«·½µÄÎ×Ê¦¼ÓÔÚÒ»ÆğÒ²
+»¹ÊÇ²»¹»£¬ĞèÒªÁªÏµµ½¸ü¶àÓĞÄÜÁ¦ºÍÓĞĞËÈ¤µÄÈË¼ÓÈë£¬·â±ÕĞÎÊ½µÄ¿ª·¢¹Ü
+ÀíÊÇ²»ÄÜ¹»½â¾öÎÊÌâµÄ¡£
+
+·Ç³£¸ĞĞ»ÄãÃÇÖ÷¶¯Ìá³öÕâÑùÒ»¸öºÏ×÷µÄ»ú»á£¬Ò²ÇëÊÊµ±¿¼ÂÇÒ»ÏÂÎÒÃÇÌá³ö
+µÄÎÊÌâ¡£ÎÒÃÇÒ²¿ÉÒÔ¼ÌĞøÔÚÕâĞ©·½Ãæ½øĞĞÊÊµ±µÄ½»Á÷ºÍÌ½ÌÖ¡£
+
+½÷´ú±íÎÒÃÇÈ«ÌåÖÆ×÷Ğ¡×é³ÉÔ±¶ÔÄã·½±íÊ¾¾´ÒâºÍ¸ĞĞ»£¡
+
+Regards,
+stefan
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >revised reply
+ÈÕÆÚ: Tue Jun  1 23:57:27 1999
+If no problem, I will send it as the reply leh.
+
+
+---
+×÷Õß: Swallow
+ÌâÄ¿: >>> application from °×ÀæÔÆ(zhanpu)
+ÈÕÆÚ: Sun Jun  6 02:10:07 1999
+agree
+ :) 
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >>>> application from °×ÀæÔÆ(zhanpu)
+ÈÕÆÚ: Sun Jun  6 06:42:48 1999
+no objection, we need more wiz to work here. :)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: a request about opening mirror site
+ÈÕÆÚ: Tue Jun 29 17:24:31 1999
+ÌâÄ¿£ºhi
+---------------------------------------
+I'm a player of sanguo. And I'm zzfy's arch. We have a server
+with 5.6G disk driver. We can use all the spaces. But we haven't
+enough program to fit. So we want to be a mud site. Now we have fy
+with a Sun 3500 server, and we have a better server, with enough space.
+I like sanguo very much, I think it's very good. And about 30-40 of
+my friends want to play sanguo too. And not every people here can login
+the server out of China. So would you give me a chance to open a site
+of sanguo? You can update the files when you want.
+Sorry my English is poor, I'm junior student. Please forgive me.
+Please write back soon even we can't do that. Thanks.
+Tianji
+
+what your guys think about this ?
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: >another letter from pishou
+ÈÕÆÚ: Mon May 24 10:54:37 1999
+On Sun May 23 20:18:41 1999 Fire wrote post #53:
+> ¸÷Î»ºÃ£º
+> 
+> ÕâÁ½ÌìÓöµ½ÁËÄãÃÇÈıÎ»Î×Ê¦£¬Ì¸ÁËÌ¸ºÏ×÷ÊÂÒË¡£¶ÔÒ»Ğ©
+> ÎÊÌâ£¬ÎÒÔÙÀ´³ÎÇåÒ»ÏÂ¡£
+Now he met 5 lah, including me. I told him that there are
+currently 15 wiz, then he commented that he met 1 wiz 
+and 2 new wizs, and then he logged out without much deep
+discussion :(  I didn't even know what his Ğ­»á is 
+going to do nor his ideas on how our muds can ºÏ×÷
+and the like...
+> 
+> Ê×ÏÈËµÃ÷Ò»ÏÂ£¬Ğ­»áºÏ²¢ºÍMUD Í³Ò»ÊÇÁ½¸ö¸ÅÄî¡£Ò»¸ö
+> Ğ­»á¿ÉÒÔÓĞºÃ¼¸¸ö²»Í¬MUD ¡£Ğ­»áºÏ²¢£¬²¢²»ÒâÎ¶×ÅÖ»
+> ÓĞÒ»¸ö¿ª·ÅµÄMUD ¡£ÏÖÔÚºÃ¶àµçÄÔ¹«Ë¾»òÕßÊÇÓÎÏ·¹«Ë¾£¬
+> ÓĞÒ»ÏµÁĞ²úÆ·ÉÏÊĞ¡£ÔÚÉÏÒ»·âĞÅÖĞ£¬ÎÒÒ²Ìáµ½MUD Í³Ò»
+> ¿ÉÒÔÂıÂıÀ´£¬Èç¹û×îºó´ó¼Ò»¹ÊÇ¾õµÃÓ¦¸Ã±£ÁôÁ½¸öÎÄ×Ö
+> ĞÍ°æ±¾£¬Ò²²»ÊÇ´óÎÊÌâ¡£¶øÇÒÎÒÃÇ»¹Òª¿ª·¢Í¼Ïñ°æ£¬×¢
+> ¶¨Òª±£Áô²»Ö»Ò»¸ö°æ±¾¡£
+geez...someone please enlighten me on what Ğ­»á do,
+i am not in a mud/game company, but i think pishou
+is equating Ğ­»á with company, while as in my definition,
+Ğ­»á is like a club, like ĞËÈ¤Ğ¡×é...
+> 
+> »¹ÓĞÒ»µã£¬ÎÒ´òÒ»¸ö±È·½¡£Á½¸öÈË¸÷×Ô¶ÀÁ¢×öÁ½Ö»±­×Ó£¬
+> ºÍÁ½¸öÈËºÏ×÷×öÁ½Ö»±­×Ó£¬ËÙ¶ÈºÍĞ§ÒæÊÇÍêÈ«²»Ò»ÑùµÄ¡£
+> Õâ¾ÍÊÇÏÖ´ú»¯´óÉú²ú£¬ÓĞ±ğÓÚ·â½¨Éç»áÊÖ¹¤×÷·»µÄ¾«Ëè¡£
+> ÓĞµçÄÔ±³¾°£¬Ñ§¹ıÈí¼ş¹¤³ÌµÄ£¬»òÕßÔÚµçÄÔ¹«Ë¾¹¤×÷¹ı£¬
+> ¶Ô´ËÒ»¶¨ÉîÓĞÌå»á£¬±à³ÌÒ²Ò»Ñù¡£
+hmm, from my understanding of mass production (ÏÖ´ú»¯´óÉú²ú),
+pishou's cup making example is like 2 ppl need to
+divide the work into 1 person make ±­µ×, another one
+make ±­±ú, one person do the first shaping, another
+one add colours, another one put the cup into oven, etc
+but then, what's the point? aren't we ·Ö¹¤ already?
+aren't they ·Ö¹¤ already? if he really wants a club to
+½»Á÷, why not we all just goto some other site (like
+a wizschool) and chat our ideas, problems, solutions?
+Also, i only learned about "team work" in my classes, not
+"mass production" per se...was i getting bad education?
+
+> 
+> Ğ­»áºÏ²¢ºó£¬ÎÒÃÇ¿ÉÒÔ¸üÈİÒ×µØÏà»¥Ñ§Ï°¶Ô·½³¤´¦¡£Ò»
+> ·½Ãæ´óµÄ£¬ÏµÍ³»¯µÄÉè¼Æ¹¤×÷Á¿ÊÇ¾Ş´ó£¬²»ÊÇÒ»°ãµÄ·¿
+> ¼ä£¬¹¤×÷Éè¼Æ£¬ËùÒÔÃ»ÓĞ±ØÒªÀË·ÑÊ±¼ä£¬Ò²Ã»ÓĞÕâÃ´¶à
+> Ê±¼ä¾«Á¦À´Ë«·½ÖØ¸´±à³ÌÌ½Ë÷¡£ºÏ²¢ºó¿´ÁË¶Ô·½µÄÔ´´ú
+> Âë£¬ºÜÇáËÉµØÒÆÖ²¹ıÀ´¡£ÁíÒ»·½Ãæ£¬ÒÆÖ²ºó£¬Ò²²»ÓÃµ£
+> ĞÄÓĞ³­Ï®¶Ô·½µÄÚ©²¡£¬·´ÕıÊÇÒ»¼ÒµÄ²»Í¬²úÆ·£¬Ìì¾­µØ
+> Òå¡£
+hmm, i better learn how to ÒÆÖ² different mudlib from
+pishou as soon as the Ğ­»á is formed. it seems he is
+excellent in adopting Ô´´úÂë, and i am dying for such
+knowledge...
+> 
+> ÔÚ²»Í¬µÄ°æ±¾ÖĞ£¬±£Áô¸÷×ÔµÄ·ç¸ñ£¬Ò²ºÜ²»´í¡£Éè¼ÆÊ±
+> Ò»¸öÎÊÌâÓĞ²»Í¬µÄ½â¾ö·½°¸ÊÇ³£ÓĞµÄÊÂ£¬Ò»¿ªÊ¼ºÜÄÑËµ
+> Çå³şË­ÓÅË­Êë£¬¶øÇÒÉõÖÁ×ÔÊ¼ÖÁÖÕÊÇÄÑ·Ö¸ßÏÂ¡£Òò´ËÔÚ
+> ²»Í¬µÄ°æ±¾ÖĞÌ½Ë÷£¬¿ÉÒÔ¼õÉÙÎ×Ê¦Ö®¼äµÄÕùÂÛ¡£Ê¹Ë«·½
+> ¶¼ÓĞ·¢»ÓµÄ¿Õ¼ä¡£ËùÒÔ»á²úÉúÕâÑùÒ»ÖÖÇéĞÎ£¬Ò»ÃûÎ×Ê¦
+> ÔÚÄ³Ò»½×¶ÎÔÚÒ»¸ö°æ±¾ÖĞ¾õµÃÃ»·¨·¢»ÓÌØ³¤£¬ÎŞËùÊÂÊÂ
+> Ê±£¬ÔÚÁíÒ»¸ö°æ±¾ÖĞÕÒµ½ÁËÓÃÎäÖ®µØ¡£Í¬ÑùÕâÃûÎ×Ê¦£¬
+> ÔÚÁíÒ»¸ö½×¶Î£¬ÓÖ»Øµ½Ô­À´µÄ°æ±¾£¬ÔÙ·¢»ÓÌØ³¤¡£ËùÒÔ
+> ×ÜĞ§ÒæºÜÃ÷ÏÔÌá¸ßÁË¡£
+huh? so pishou wanted 2 different muds with 2 
+different wiz teams? that's exactly status quo yeah...
+papaya tset, i am very confused now
+> 
+> Ò¶¹«
+
+hmm...i remember there used to be a talk of ºÏ×÷ too
+before, but get no where...  I really like to see
+pishou's plan of Ğ­»á, be it a guild of sanguo wizs
+or a company to develop graphics mud.
+
+ºıÀïºıÍ¿£¬ÊÃÄ¿ÒÔ´ı
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> agree stefan
+ÈÕÆÚ: Mon May 24 04:19:39 1999
+i agree with stefan, these two muds are totally
+difference from each other, unification is nearly
+impossible.
+howerver, both of us use SGZ as story base and have
+a similar core idea, focus on the coorpation of players
+rather than indivadule effect. it will be good to both
+of us if we can change ideas frequently.
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >open source graphics mud
+ÈÕÆÚ: Sun May 23 19:26:38 1999
+On Sun May 23 22:22:14 1999 Stefan wrote post #54:
+> http://www.altima.org/
+> 
+> very impressive screen shots, I have not given it a try yet.
+> Wanna ºº»¯ it? :-)
+
+forgot to mention, there is a very good explanation of "why open source"
+at http://www.worldforge.org/website/intro/succeed.html
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: open source graphics mud
+ÈÕÆÚ: Sun May 23 19:22:14 1999
+http://www.altima.org/
+
+very impressive screen shots, I have not given it a try yet.
+Wanna ºº»¯ it? :-)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: another letter from pishou
+ÈÕÆÚ: Sun May 23 17:18:41 1999
+¸÷Î»ºÃ£º
+
+
+ÕâÁ½ÌìÓöµ½ÁËÄãÃÇÈıÎ»Î×Ê¦£¬Ì¸ÁËÌ¸ºÏ×÷ÊÂÒË¡£¶ÔÒ»Ğ©
+ÎÊÌâ£¬ÎÒÔÙÀ´³ÎÇåÒ»ÏÂ¡£
+
+Ê×ÏÈËµÃ÷Ò»ÏÂ£¬Ğ­»áºÏ²¢ºÍMUD Í³Ò»ÊÇÁ½¸ö¸ÅÄî¡£Ò»¸ö
+Ğ­»á¿ÉÒÔÓĞºÃ¼¸¸ö²»Í¬MUD ¡£Ğ­»áºÏ²¢£¬²¢²»ÒâÎ¶×ÅÖ»
+ÓĞÒ»¸ö¿ª·ÅµÄMUD ¡£ÏÖÔÚºÃ¶àµçÄÔ¹«Ë¾»òÕßÊÇÓÎÏ·¹«Ë¾£¬
+ÓĞÒ»ÏµÁĞ²úÆ·ÉÏÊĞ¡£ÔÚÉÏÒ»·âĞÅÖĞ£¬ÎÒÒ²Ìáµ½MUD Í³Ò»
+¿ÉÒÔÂıÂıÀ´£¬Èç¹û×îºó´ó¼Ò»¹ÊÇ¾õµÃÓ¦¸Ã±£ÁôÁ½¸öÎÄ×Ö
+ĞÍ°æ±¾£¬Ò²²»ÊÇ´óÎÊÌâ¡£¶øÇÒÎÒÃÇ»¹Òª¿ª·¢Í¼Ïñ°æ£¬×¢
+¶¨Òª±£Áô²»Ö»Ò»¸ö°æ±¾¡£
+
+»¹ÓĞÒ»µã£¬ÎÒ´òÒ»¸ö±È·½¡£Á½¸öÈË¸÷×Ô¶ÀÁ¢×öÁ½Ö»±­×Ó£¬
+ºÍÁ½¸öÈËºÏ×÷×öÁ½Ö»±­×Ó£¬ËÙ¶ÈºÍĞ§ÒæÊÇÍêÈ«²»Ò»ÑùµÄ¡£
+Õâ¾ÍÊÇÏÖ´ú»¯´óÉú²ú£¬ÓĞ±ğÓÚ·â½¨Éç»áÊÖ¹¤×÷·»µÄ¾«Ëè¡£
+ÓĞµçÄÔ±³¾°£¬Ñ§¹ıÈí¼ş¹¤³ÌµÄ£¬»òÕßÔÚµçÄÔ¹«Ë¾¹¤×÷¹ı£¬
+¶Ô´ËÒ»¶¨ÉîÓĞÌå»á£¬±à³ÌÒ²Ò»Ñù¡£
+
+
+Ğ­»áºÏ²¢ºó£¬ÎÒÃÇ¿ÉÒÔ¸üÈİÒ×µØÏà»¥Ñ§Ï°¶Ô·½³¤´¦¡£Ò»
+·½Ãæ´óµÄ£¬ÏµÍ³»¯µÄÉè¼Æ¹¤×÷Á¿ÊÇ¾Ş´ó£¬²»ÊÇÒ»°ãµÄ·¿
+¼ä£¬¹¤×÷Éè¼Æ£¬ËùÒÔÃ»ÓĞ±ØÒªÀË·ÑÊ±¼ä£¬Ò²Ã»ÓĞÕâÃ´¶à
+Ê±¼ä¾«Á¦À´Ë«·½ÖØ¸´±à³ÌÌ½Ë÷¡£ºÏ²¢ºó¿´ÁË¶Ô·½µÄÔ´´ú
+Âë£¬ºÜÇáËÉµØÒÆÖ²¹ıÀ´¡£ÁíÒ»·½Ãæ£¬ÒÆÖ²ºó£¬Ò²²»ÓÃµ£
+ĞÄÓĞ³­Ï®¶Ô·½µÄÚ©²¡£¬·´ÕıÊÇÒ»¼ÒµÄ²»Í¬²úÆ·£¬Ìì¾­µØ
+Òå¡£
+
+ÔÚ²»Í¬µÄ°æ±¾ÖĞ£¬±£Áô¸÷×ÔµÄ·ç¸ñ£¬Ò²ºÜ²»´í¡£Éè¼ÆÊ±
+Ò»¸öÎÊÌâÓĞ²»Í¬µÄ½â¾ö·½°¸ÊÇ³£ÓĞµÄÊÂ£¬Ò»¿ªÊ¼ºÜÄÑËµ
+Çå³şË­ÓÅË­Êë£¬¶øÇÒÉõÖÁ×ÔÊ¼ÖÁÖÕÊÇÄÑ·Ö¸ßÏÂ¡£Òò´ËÔÚ
+²»Í¬µÄ°æ±¾ÖĞÌ½Ë÷£¬¿ÉÒÔ¼õÉÙÎ×Ê¦Ö®¼äµÄÕùÂÛ¡£Ê¹Ë«·½
+¶¼ÓĞ·¢»ÓµÄ¿Õ¼ä¡£ËùÒÔ»á²úÉúÕâÑùÒ»ÖÖÇéĞÎ£¬Ò»ÃûÎ×Ê¦
+ÔÚÄ³Ò»½×¶ÎÔÚÒ»¸ö°æ±¾ÖĞ¾õµÃÃ»·¨·¢»ÓÌØ³¤£¬ÎŞËùÊÂÊÂ
+Ê±£¬ÔÚÁíÒ»¸ö°æ±¾ÖĞÕÒµ½ÁËÓÃÎäÖ®µØ¡£Í¬ÑùÕâÃûÎ×Ê¦£¬
+ÔÚÁíÒ»¸ö½×¶Î£¬ÓÖ»Øµ½Ô­À´µÄ°æ±¾£¬ÔÙ·¢»ÓÌØ³¤¡£ËùÒÔ
+×ÜĞ§ÒæºÜÃ÷ÏÔÌá¸ßÁË¡£
+
+
+
+Ò¶¹«
+
+
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: my opinion towards ºÏ×÷
+ÈÕÆÚ: Sun May 23 15:03:27 1999
+²»ÄÜ²»ËµÕâÊÇÒ»¼şÍ¦ÓĞÒâË¼µÄÊÂ :)
+
+ÎÒÏë£¬×îÖ÷ÒªµÄÊÇºÏ×÷Ö®ºóÒª¸ÉÊ²Ã´£¬È»ºó²ÅÊÇ·ÖÅäÈÎÎñºÍÈËÔ±µ÷¶¯£¬
+×îºó²ÅÊÇ¼¼ÊõÉÏµÄÎÊÌâ¡£
+
+ºÏ×÷Ö®ºóÒª¸ÉÊ²Ã´£¿
+
+ÎÒÏë´ó¼Ò¶¼ÖªµÀ£¬Ò»Ö±ÒÔÀ´ÎÒÃÇ×ö mud ¶¼ÊÇ¿¿ÈÈÇé£¬Æ¾×ÔÔ¸£¬µ±³õ¿ª
+Ê¼Èı¹úµÄÊ±ºò£¬¿à³ÅÁËºÜ¾Ã¶¼Ã»¶à´ó¶¯¾²£¬ºóÀ´Òª²»ÊÇ fire£¬¿ÉÄÜÒÑ
+¾­Í£µôÁË :) ÁíÒ»¸öÈı¹úµ½ÊÇĞÛĞÄ²ª²ª£¬´ÓËûÃÇµÄ homepage ÉÏ¿ÉÒÔ¿´
+³öÀ´£¬ÓÖÊÇ¿ª¹«Ë¾£¬ÓÖÊÇ×öÍ¼ĞÎ mud¡£ÈËÊÖÕâÃ´·ÖÉ¢£¬ÔõÃ´¿ª¹«Ë¾£¿
+¿ª¹«Ë¾Òª×¬Ç®£¬Èç¹û×öµÃºÃµÄ»°£¬²¢·ÇÌì·½Ò¹Ì·£¬¿ÉÒÔµ½ ultimaonline.coom
+È¥¿´¿´£¬·Ç³£µÄ×¬Ç® :) µÈ×¬ÁËÇ®£¬ÎÊÌâ¾ÍÀ´ÁË£¬×öÎ×Ê¦µÄÁ÷¶¯ĞÔºÜ´ó£¬
+½ñÌì×öÁËºÜ¶à£¬Ã÷Ìì¾Í²»ÔÚÁË¡£ÔõÃ´·Ö£¿ÎÒÏëÕâ¶¼ÊÇºÜÊµ¼ÊµÄÎÊÌâ£¬¿¼
+ÂÇ¿¼ÂÇÒ²ÊÇÓ¦¸ÃµÄ¡£
+
+ÔİÇÒÆ²¿ªÇ®µÄÎÊÌâ£¬ºÏ×÷Ö®ºó×öÊ²Ã´£¬ÔõÃ´×ö£¿Í¼ĞÎ mud Ë­²»ÄÜÏë×ö£¬
+ÎÒÒ²Ïë×ö£¬ÄÑ¶È´óÊÇÖÚËùÖÜÖªµÄ£¬¶øÇÒÕû¸ö¿ò¼ÜºÍÊµÏÖÄ£Ê½£¬¹À¼Æ²»Í¬
+µÄÈËµÄÒâ¼û»á·ÖÆçºÜ´ó¡£ºÏ×÷ÁË£¬ËûÃÇÄÃÁËÎÒÃÇµÄÉè¼Æ·Å½øÈ¥Í¼ĞÎ mud£¬
+ÎÒÃÇ¸ÉÊ²Ã´£¿×öÒ»ÑùµÄ¶«Î÷Âğ£¿»òÕßÒ»Ö±ÑØÀÏÂ·×ßÎÄ×Ö mud Âğ£¿Èç¹û
+Ëµ£¬Ë«·½¿ÉÒÔ¸÷×Ô¿ª·¢¸÷×ÔµÄ£¬Ö»ÊÇ»¥Ïà½»Á÷Ò»ÏÂÔ´Âë£¬ÄÇÃ´ÎÒ°ÑÄãµÄ
+¶«Î÷¶¼°á¹ıÀ´£¬×öµÄÊÇÀàËÆµÄÍ¼ĞÎ mud£¬ÄÇ×îºóÕâ¸ö¶«Î÷µ½µ×¹éË­£¿
+Èç¹ûËµ´ó¼ÒºÏ²¢£¬³ÉÒ»¹øÖà£¬Õâ¸ö¿ª·¢ÉÏµÄ·ÖÆçÔõÃ´½â¾ö£¿ÄãËµÒªÓÃ C++£¬
+ÎÒËµÓÃ lima£¬ËûËµ²»ÈçÓÃ Java£¬Õ¦°ì£¿Ñ¡ÔñÁËÆäÖĞÒ»ÑùÒâÎ¶×Å·ÅÆúÆä
+ËüµÄ£¬´ÓÇ°×öµÄ¶¼°××öÁË£¿ËäÈ»¿ÉÒÔÒÆÖ²£¬¼¸ÍòĞĞµÄ code£¬Ë­ÄÇÃ´´ó¹¤
+·òÈ¥ÒÆÖ²£¿ÓÖÃ» pay£¬ÓÖ²»ÊÇÈ«Ö°£¬ĞÁĞÁ¿à¿à×öÁË£¬¹ı¼¸Ìì±»Ìß³öÎ×Ê¦
+µÄ¶ÓÎé£¬Ë­ÀÖÒâ£¿
+
+ÆäÖĞ»¹ÓĞÒ»¸ö°æÈ¨µÄÎÊÌâ£¬ÎÒÃÇÓÃµÄ Lima ¿É²»ÊÇ¹éÎÒÃÇËùÓĞµÄ£¬Æä
+license ÀïÃæĞ´µÃºÜÇå³ş£¬²»µÃÓÃÓÚÉÌÒµÓÃÍ¾ (LPmud ¶¼ÕâÑù)£¬×îºóÏë
+¿¿Õâ¸ö×¬Ç®£¬¿ÖÅÂµÃ¶àÏëÏë :P
+
+µ±È»£¬Èç¹ûÎÒÃÇË«·½Æ·µÂ¶¼¸ßÉĞ£¬´ó¼ÒÒ»ÆğÀ´¿ª·¢Ò»¸ö GPL µÄÖĞÎÄÍ¼
+ĞÎ mud£¬Ò²²»Ê§ÎªÒ»¸öºÃÖ÷Òâ¡£²»¹ıÎÒ¿´¶Ô·½»¹ÊÇÏë×¬Ç®µÄ :) GPL Òâ
+Î¶×Å¹«¿ªÔ´Âë£¬ËäÈ»Ã»ÓĞ¹æ¶¨²»ÄÜ×¬Ç®£¬µ«Õâ¸ö×¬Ç®µÄÄ£Ê½ÖµµÃÌ½ÌÖ :)
+¾ÍÄ¿Ç°Çé¿öÀ´¿´£¬×ß GPL ÎÒ¾õµÃÊÇ¶Ô¿ª·¢ÕßÀ´Ëµ×î¹«Æ½£¬ÒòÎªË­¶¼¿ÉÒÔ
+ÄÃÒ»Ì× source »Ø¼Ò£¬Ã»ÓĞ°×¸É¡£µ«ÊÇÁíÒ»·½ÃæÒ²ºÜ²»¹«Æ½£¬ÒòÎªÃ»ÓĞ
+²ÎÓë¿ª·¢µÄÈËÒ²ÄÜÄÃµ½ source code¡£³ı·Ç´ó¼Ò¶¼²»×¬Ç®£¬»ò×ÅÎÒÃÇ¿´
+×ÅÈË¼ÒÄÃÁËÎÒÃÇĞ´µÄ¶«Î÷×¬Ç®¶ø²»ÑÛºì£¬ÓÖ»ò×ÅÎÒÃÇ×¬ÁËÇ®±ÈÆäËûÄÃÁË
+ÎÒÃÇ source code ÔÙ×¬Ç®µÄÈË¶àºÜ¶à£¬²ÅÃ»ÓĞÀàËÆµÄ¾À·×¡£
+
+ÈËÔ±µ÷¶¯
+
+ÎÒ¿´£¬Ë«·½µÄÖ÷Á¦¶¼²»¶à£¬ÎÒÃÇÏà¶ÔÒª¿íËÉÒ»Ğ©£¬²»ÏŞÖÆĞÂÎ×Ê¦À´£¬²»
+ÏŞÖÆ¾ÉÎ×Ê¦×ß¡£ËûÃÇÏà¶Ô¶øÑÔ£¬ÒÑ¾­ÊÇÎ×Ê¦µÄÈË£¬ÔğÈÎÒª´óºÜ¶à£¬ĞÂÀ´
+µÄÑ¹Á¦Ò²´ó£¬¸É²»ºÃ¾Í±»ÌßµôÁË¡£Èç¹ûºÏ×÷µÄ»°£¬½»Á÷ code ¿Ï¶¨¶ÔË«
+·½¶¼ÓĞÄª´óµÄºÃ´¦£¬½»Á÷Î×Ê¦Âï£¬¾ÍÖµµÃ¿¼ÂÇ¿¼ÂÇÁË¡£ÉÙÁË¸ùÖ÷ĞÄ¹Ç¿É
+²»ÊÇÄÖ×ÅÍæµÄ¡£
+
+¼¼ÊõÄÑÌâ
+
+ËµÊÇ½»Á÷ code£¬ÆäÊµÕâ¸öÒÆÖ²µÄÎÊÌâ·Ç³£´ó£¬²»ÊÇËµ×ö¾Í×öµÄ¡£ÎÒ±¾ÈË
+µÄ¹¤×÷ºÍ data integration ÓĞ¹Ø£¬¹âÊÇ²»Í¬ format µÄ data Ö®¼äµÄ
+×ª»»¾ÍÒÑ¾­ºÜÍ·Í´ÁË (²»¹âÊÇ format£¬»¹Ç£Éæµ½ structure)£¬¾Í±ğÌá
+code ºÍ code Ö®¼äµÄ½»Á÷ÁË¡£ÎÒ¿ÉÒÔ»¨Ò»Ğ©¹¤·ò¿´ÄãĞ´µÄ¶«Î÷£¬²»¶®µÄ
+µØ·½Çë½ÌÇë½Ì£¬È»ºóÎÒÔÚ×Ô¼ºµÄ mud Àï¿ÉÒÔĞ´Ğ©¶«Î÷ÊµÏÖÒ»ÑùµÄ¹¦ÄÜ£¬
+µ«ÊÇ½ĞÎÒ°ÑÄãµÄ code ÒÆÖ²¹ıÀ´£¬¼¸ºõÊÇ impossible¡£Ò»¶Î code ºÍ
+Õû¸ö mud ÖĞÆäËûµÄµØ·½ÓĞÇ§Ë¿ÍòÂÆµÄÁªÏµ£¬»»Ò»¸ö mud ¾Í³¹µ×²»Í¬ÁË£¬
+ÔõÃ´ÒÆÖ²°¡£¿Ó¢¶ÔÖĞµÄ·­ÒëºÜ¼òµ¥£¬°Ñ code ×ªÀ´×ªÈ¥¾ÍÊÇÁíÒ»ÂëÊÂÁË¡£
+Èç¹ûË«·½¶¼ÊÇ ES2 based£¬»òÕß¶¼ÊÇ lima based£¬ÄÇ»¹ºÃËµÒ»µã£¬Ä¿
+Ç°¿´À´²»ÊÇÕâÑùµÄ¡£
+
+ËµÁË°ëÌì£¬¾»ÊÇĞ©ÌáÎÊ£¬ÎÒÒ²Ã»ÓĞÊ²Ã´½â¾ö·½°¸£¬Ö»ÊÇÅ×¿é×©£¬ÄÜ²»ÄÜ
+ÒıÀ´Óñ¾Í²»ÖªµÀÁË :)
+
+stefan
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: what you guys think about that suggestion.
+ÈÕÆÚ: Sun May 23 05:42:04 1999
+welcome discuss
+:)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: a letter from canada sanguo
+ÈÕÆÚ: Sun May 23 05:40:29 1999
+Subject: 
+        the letter to singapore sanguo
+   Date: 
+        Sat, 22 May 1999 23:19:20 -0400
+   From: 
+        "shashasha" <yfc@rci.rutgers.edu>
+     To: 
+        windchaukf@hotmail.com, michael_chu_h@hotmail.com,
+pangwei@geocities.com,
+        darknessfall@hotmail.com, wenl@fsc.qut.edu.au
+¸÷Î»ºÃ£º
+ÎÒÊÇ±±ÃÀÈı¹úMUD µÄÒ»Î»ÕæÈË(arch), ÎÒ´ú±íÎÒÃÇĞ­»á
+È«ÌåÍ¬ÈÊ£¬ºÍÄãÃÇÉÌÌ¸ºÏ×÷ÊÂÒË¡£
+ÎÒÏÈ×ÔÎÒ½éÉÜÒ»ÏÂ¡£ÎÒËäÈ»ÄÃµÄÊÇ»¯Ñ§²©Ê¿£¬»¹ÊÇ¸ÄÁË
+ĞĞ£¬ÄÃÁË¸öµçÄÔÑ§Î»¾ÍÔÚÅ¦Ô¼Ò»¼ÒÍ¼ÏñÓÎÏ·¹«Ë¾¹¤×÷¡£
+¾ÅÁùÄêÄê³õ¿ªÊ¼ÍæÏÀ¿ÍĞĞ£¬µÚÒ»´Îµ±Î×Ê¦ÊÇÔÚ¹úÄÚµÄ½ğ
+Ó¹ÈºÏÀ´«£¬´Ó»ù²ã×öÆğ£¬Éıµ½ÌìµÛºó²»¾ÃÓÖµ½ÏÀ¿ÍĞĞ£¬
+Ò²ÊÇ´Ó»ù²ã×öÆğ¡££º-)Éıµ½wizardºó²»¾Ã³öÀ´³ï°ìÈı¹ú£¬
+Òò´ËÀë¿ªÁËÏÀ¿ÍĞĞ¡£²»¹ı´óÁ¿µÄ»ù²ã¹¤×÷¾­Ñé£¬Ê¹ÎÒÔÚ
+¹¤×÷Á¿µÄ·ÖÅäºÍĞÂÎ×Ê¦µÄÅàÑµÉÏ£¬»ıÀÛÁË²»ÉÙ¾­Ñé¡£Ëù
+ÒÔÔÚ±±ÃÀÈı¹úµ£ÈÎ¡°¿ÖÁúĞ­»áÃØÊé³¤¡±½×¶Î£¬ºÜÉÙ·¸¡°
+Õ¾×ÅËµ»°²»ÑüÍ´¡±µÄ´íÎó¡££º-)
+±±ÃÀÈı¹úÊÇÔÚÈ¥ÄêÎåÔÂÖĞÑ®³ÉÁ¢µÄ£¬¾ÅÔÂÒ»ÈÕ¶ÔÍâ¿ª·Å¡£
+ÎÒÏë£¬ÄãÃÇ¶¼ÒÑ¾­À´ÎÒÃÇMUD ²Î¹Û¹ıÁË¡£ÎÒÃÇµÄÌØÉ«ÔÚ
+³ÇÊĞÏµÍ³ºÍ·¿¼äÉè¼ÆÉÏ£¬ÓĞ±ğÓÚÒÔÍùËùÓĞÖĞÎÄMUD ¡£ºó
+À´ËäÈ»ÔÚÕ½ÕùÏµÍ³ÉÏ»¯ÁËÒ»Ğ©¹¦·ò£¬²»¹ı½á¹û²»ÊÇÌ«ÈÃ
+ÈËÂúÒâ¡£´Ó½ñÄêÄê³õ¿ªÊ¼£¬ÎÒÃÇ°Ñ¾«Á¦¼¯ÖĞÔÚÍ¼ÏñMUD 
+µÄÖÆ×÷ÑĞ¾¿ÉÏ£¬ÔÚÎÄ×ÖĞÎMUD ÉÏÁ¦²»´ÓĞÄ£¬Òò´ËÔÚÏßÍæ
+¼ÒÈËÊı£¬´ÓÎåÊ®¶àÎ»½µµ½ÁËÁ½ÈıÊ®Î»¡£ÎÒÃÇ¼Æ»®ÔÚ½ñÄê
+¾ÅÔÂÒ»ÈÕ¿ª·ÅÎÒÃÇµÄÍ¼Ïñ°æMUD ¡£
+´ó¼Ò¶¼ÖªµÀÔ­ÖøºÍµçÓ°¸÷ÓĞÌØÉ«£¬ËùÒÔµçÓ°Ê±´ú£¬Ğ¡Ëµ
+»¹ÊÇÓĞĞí¶àÈËÂò¡££º-)MUD Ò²Ò»Ñù£¬ÎÄ×ÖĞÍºÍÍ¼ÏñĞÍ¸÷
+ÓĞÇ§Çï£¬¸÷ÓĞ¸÷µÄ±íÏÖÌØ³¤¡£ËùÒÔÎÒÃÇÔÚ¿ª·¢Í¼Ïñ°æÊ±
+Ã»ÓĞ·ÅÆúÎÄ×Ö°æ¡£ÎÒÃÇÏ£ÍûºÍÄãÃÇÄÜºÏ×÷£¬¹²Í¬¿ª·¢Èı
+¹úÕâÒ»Ìâ²Ä¡£
+Ê×ÏÈËµÃ÷Ò»ÏÂ£¬¼ÈÈ»ÊÇºÏ×÷£¬²»ÊÇËµË­³ÔÁËË­¡£ÎÒÆÚÍû
+Ë«·½ÄÜÅ×¿ª³É¼û£¬Ì¹³ÏÒÔ´ı¡£µ±½ñÖĞÎÄMUD ½çµ½´¦³ä³â
+×Å¡°ÄşÎª¼¦Í·£¬²»ÎªÅ£Î²¡±£¬¡°É½Í·ÁÖÁ¢¡±µÄ²»Á¼·çÆø£¬
+ËùÒÔÎÒÏ£ÍûÎÒÃÇµÄºÏ×÷ÄÜÔÚÖĞÎÄMUD ½çÒıÎª¼Ñ»°¡£ÖÁÓÚ
+ÈçºÎºÏ×÷£¬ÎÒÃÇ¿ÉÒÔÉÌÌ¸¡£
+ÔÚÈËÔ±·½Ãæ£¬ÎÒÃÇÌÎÌ­ÁË´óÁ¿¹¤×÷²»Å¬Á¦µÄÎ×Ê¦(Ç°ºó¹²
+ÓĞ23Î») ºó£¬Ö»Ê£ÏÂÎåÃûÖ÷Á¦³ÉÔ±¡£ÎÒÒÑ¾­½éÉÜ¹ı×Ô¼º
+ÁË¡£ÁíÒ»Î»archÔÚ¼ÓÄÃ´ó£¬ÄîµÄÊÇ½¨ÖşÉè¼Æ£¬ËùÒÔÔÚÍ¼
+Ïñ·½ÃæÌô´óÁº¡£Á½Î»wizard¶¼ÊÇÔÚÂíÀ´Î÷ÑÇ£¬Ò»Î»ÊÇÄî
+µçÄÔ£¬ÁíÒ»Î»ÊÇÄêÍÁÄ¾¹¤³ÌÉè¼Æ¡£×îºóÒ»Ãûapprentice
+ÔÚ¼ÓÄÃ´ó£¬ÊÇ¸öÈı¹úÍ¨¡£
+ºÏ×÷ºó£¬ÎÒÃÇ¿ÉÒÔÏÈÔİÊ±±£ÁôÁ½¸ö°æ±¾µÄÎÄ×Ö°æ£¬Òò´Ë
+Í¬Ê±¿ª·ÅÁ½¸öÎÄ×Ö°æÕ¾µã¡£ÒÔºóÒ»²½²½°ÑÁ½ÕßµÄÓÅµã½Ó
+ºÏÆğÀ´£¬ºÏ²¢³ÉÒ»¸öÎÄ×Ö°æ°æ±¾¡£µ½ÄÇÊ±£¬Í¼Ïñ°æÒ²¿ª
+·ÅÁË£¬Òò´Ë»¹ÊÇÁ½¸ö°æ±¾Í¬Ê±¿ª·Å¡£ÎÒÃÇÓĞ×ã¹»µÄÊ±¼ä
+À´Ò»²½²½ºÏ²¢³ÉÎªÒ»¸öĞ­»á¡£Ö÷Ò³¿ÉÒÔÂíÉÏÍ³Ò»¶ÔÍâ¿ª
+·Å£¬ËäÈ»»¹º¬ÓĞÁ½¸öÎÄ×Ö°æµÄ°ïÖúÒ³Ãæ¡£ÕâÓ¦¸Ã²»ÊÇ´ó
+ÎÊÌâ¡£
+ÎÒÃÇµÄÎ×Ê¦¶ÓÎé¼Ü¹¹»¹²»´í£¬Á½Ãûarch, Á½Ãûwizard,
+ºÍÒ»Ãûapprentice. ÎÒÃÇ¶ÔÄãÃÇµÄÎ×Ê¦¶ÓÎé¼Ü¹¹²»Ì«ÁË
+½â£¬Ö»ÖªµÀÄãÃÇÓĞadmin ÖÆ¡£²ÉÈ¡ÄÄÒ»ÖÖÖÆ¶È£¬¿ÉÒÔÔÙ
+Ğ­ÉÌ¡£ÎÒÃÇÏ£ÍûÄãÃÇÖ»ÓĞÁ½Ãûadmin,  ²»³¬¹ıÈıÃûarch,
+ÕâÑùºÏ²¢Ê±£¬²»»áÓĞÌ«´óµÄÈËÊÂÎÊÌâ¡£
+Ò¶¹«(yeg)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about liyu
+ÈÕÆÚ: Tue May 18 19:11:43 1999
+liyu is one of the best players in this mud
+so perhaps we can give him a chance to try
+we will give him a wiz account and see what is going
+what your guy's opinion ?
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about the new feature of war system
+ÈÕÆÚ: Wed May 19 19:31:57 1999
+Hi, flee and group.
+I think that in current situation, introduce more feature to
+the war system will be very hard.
+your ideas of more type of troops are very nice.
+but now easy to develop in a short time.
+especially now the war system still has a lot bugs.
+so I suggest that you can keep on trying for an extra week, 
+if still can not open the war and make sure no fatal bugs and affect
+for other system, then i will be fine
+If can not finish that within one week.
+I strongly suggest you delay your plan until next version
+then we will redesign the war system.
+Then you can work on job systems.
+now the job of landlord still has bugs.
+and we still need jobs related to our d_obj.
+in fact, we have a lot thing that must do before the
+opening of this mud (hope in next month). and the improvement of war
+is not so emergency.
+
+best regards
+
+fire
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ÁùÔÂ¹¤×÷¼Æ»®£º
+ÈÕÆÚ: Mon May 24 21:33:55 1999
+ºÜ¸ßĞË£¬ÎÒÃÇµÄMUD Ô½À´Ô½ÍêÉÆ£¬ÀëÕıÊ½¿ª·ÅµÄÈÕÆÚÔ½À´Ô½½øÁË¡£
+×÷Îª¿ª·ÅÇ°µÄ×îºó³å´Ì£¬ÏÈ×öÒÔÏÂ¹¤×÷¼Æ»®¡£
+1  ĞÂÊÖÁªÏßÓë³É³¤¡£
+   ĞÂÊÖ´ÓÁªÏß£¬³É³¤µ½µ±¹ÙÕâÒ»½×¶ÎÊÇ·Ç³£ÖØÒªµÄÒ»¸ö½×¶Î£¬Õâ
+   Ò»²¿·ÖÉè¼ÆµÄ²»ºÃ£¬ÎÒÃÇ»áËğÊ§ºÜ¶àÇ°À´³¢ÊÔµÄÇ±ÔÚÍæ¼Ò¡£
+   fire½«¸ºÔğ¶ÔÕâÒ»²¿·Ö½øĞĞÕûÀíºÍÍêÉÆ¡£
+2  ¶«ÄÏÓë¶«±±µØÇø¡£
+   Î÷ÄÏÓëÎ÷±±µØÇøÒÑ¾­»ù±¾Íê³É¡£ÏÂÒ»²½Òª¾¡¿ìÍê³É¶«ÄÏºÍ¶«±±
+   µØÇø£¬ÕâÒ»²¿·ÖÓÉrow¸ºÔğ¡£ ice£¬guanfengºÍyuyin²Î¼Ó¡£
+3  Ö÷Ò³
+   Ö÷Ò³ÊÇºÜÖØÒªµÄÒ»¸ö²¿·Ö¡£µ«×î½üÃ»¼ûµ½swallow£¬ËùÒÔ¹¤×÷
+   ¿ÉÏòºóÔÚÍÆÍÆ¡£
+4  Õ½ÕùÏµÍ³
+   Õ½ÕùÏµÍ³ÒÔ»ù±¾Íê³É¡£ÒòÎªÆäÄÚ²¿ÒÔ¼°ºÍÆäËûÏµÍ³¶¼ÓĞºÜ´óµÄ
+   ÁªÏµËùÒÔÔÚfleeÍê³ÉtroopÀàĞÍµÄÉı¼¶ºóÖØµã·ÅÔÚÅÅ³ıBUGºÍÃ÷
+   ÏÔ²»ºÏÀí´¦ÉÏ¡£»ù±¾ÉÏ£¬Ó¦¸Ã±£Ö¤Õ½ÕùÊ¤¸ºµÄ¹Ø¼üÊÇË«·½µÄ¾ü
+   ÊÂÊµÁ¦(±øÊı£¬Ê¿Æø£¬±øÖÖ£¬½«ÁìµÈ¼¶µÈ)µ«×îÖØÒªµÃ»¹ÊÇÊ¿±ø
+   µÄÊıÁ¿¡£Í¬Ê±Òª¸ø·ÀÊØ·½ºÍNPC ·½Ò»µã²¹³¥£¬ÒÔ±£³ÖÊÆÁ¦µÄÆ½
+   ºâ¡£ÔÚÕıÊ½¿ª·ÅÇ°¾Í²»ÒªÔÙ×öÖØ´óÌØ±ğÊÇ»áÓ°ÏìÆäËûÏµÍ³µÄÉı
+   ¼¶ÁË¡£
+5  WIZ¹¤¾ßBUG¡£
+   Tset¸ºÔğBUGµÄ»ã±¨ÕûÀí¹¤×÷¡£Í¬Ê±Ï£Íû¿ÉÒÔÎ¬ĞŞ¿ª·ÅÒ»Ğ©WIZ
+   ¹¤¾ß¡£
+6  Ïà¶Ô¶ÀÁ¢µÄĞ¡ÏµÍ³¡£
+   ÓĞĞí¶àÏà¶Ô¶ÀÁ¢µÄĞ¡ÏµÍ³ĞèÒªÉè¼ÆºÍ¸üĞÂ¡£ÕâĞ©¶«Î÷ÓĞĞí¶à£¬
+   Ä¿Ç°¿ÉÒÔÁĞ³öÀ´ÓĞ£º
+   a ³ÇÊĞÎÀ±ø(row)
+   b ººÏ×¹¬(group £¿)
+   c suicideÏµÍ³(stefan)
+   d ¹ÙÖ°ÏµÍ³
+   e landlord (flee)
+   f ĞÂµÄJOB¡£
+   g ±¦Îï
+   ÕâĞ©¶«¶«»¹ÓĞĞí¶à£¬ÒòÎªÆäÏà¶Ô¶ÀÁ¢£¬ËùÒÔ¿ÉÒÔ½Ï×ÔÓÉµØÉè¼Æ£¬
+   µ«ÕâÀïÓĞĞí¶à²»ÊÇ±ØĞèÍê³ÉµÄ¡£
+Ï£Íû¸ºÔğ¸÷·ÖÏµÍ³µÄWIZ¶Ô¸ÃÏµÍ³µÄÉè¼Æ×öÒ»¸öÏêÏ¸µãµÄ¼Æ»®¹©²Î
+¿¼¡£Ğ»Ğ»¡£
+---------------------------------------------------------
+Èç¶ÔÕâÑùµÄ¹¤×÷¼Æ»®ÓĞÒìÒé£¬»¶Ó­ÌÖÂÛ¡£²»·¢±íÒâ¼û¾Í±íÊ¾ÔŞÍ¬£¬
+Ï£ÍûÄÜ×ñÕÕ¼Æ»®µÄ°²ÅÅ¹¤×÷¡£
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> curren task
+ÈÕÆÚ: Mon May 24 23:38:37 1999
+1  ĞÂÊÖÁªÏßÓë³É³¤¡£
+I think it is very important, espeicily our basic jobs
+are even harder than middle level jobs. We should reconsider
+the dificulties and rewards, to make sure that a player
+without any MUDing experience still can survive.
+3  Ö÷Ò³
+I had send a mail to Swallow yestoday, hope he got already.
+about the contents of the HP, please read caolu post 639.
+any suggestions and comments ?
+4  Õ½ÕùÏµÍ³
+Ó¦¸Ã±£Ö¤Õ½ÕùÊ¤¸ºµÄ¹Ø¼üÊÇË«·½µÄ¾üÊÂÊµÁ¦(±øÊı£¬Ê¿Æø£¬±øÖÖ£¬
+½«ÁìµÈ¼¶µÈ)µ«×îÖØÒªµÃ»¹ÊÇÊ¿±øµÄÊıÁ¿¡£
+agreed, Õ½ÕùµÄÊ¤¸ºÊÇ¾ö¶¨ÓÚÕ½³¡Ö®ÍâµÄ¡£ÖØÒªµÄÊÇ¾­¼ÃÊµÁ¦µÄ
+¶Ô±È£¬ÌØ±ğÊÇÔÚĞÂ±øÖÖÒıÈëÏµÍ³Ö®ºó£¬ÒªÉı¼¶µ½×î¸ß±øÖÖ¾ÍĞèÒª
+×ã¹»µÄ¾­¼ÃÊµÁ¦¡£µ«Ä¿Ç°Íæ¼ÒÃ»ÓĞÌ«¶àµÄÊÖ¶ÎÀ´·¢Õ¹¾­¼Ã£¬Ó¦¸Ã
+¼ÓÈë¸ü¶àµÄÓÚ³ÇÊĞ×´Ì¬ÓĞ¹ØµÄÖĞ¼¶¹¤×÷¡£ÒÔÉÏ»ù±¾ÉÏÊÇ´ÓÕ½ÂÔ½Ç
+¶ÈÀ´½²¡£´ÓÕ½Êõ½Ç¶ÈÀ´¿´£¬¾ÍÊÇÎä½«±¾ÉíµÄ×÷ÓÃÒÔ¼°Õ½ÕùÖĞÎä½«
+¼äµÄ·Ö¹¤ºÏ×÷¡£ÕâÁ½·½Ãæ¶¼Òª¼ÓÇ¿¡£
+6  Ïà¶Ô¶ÀÁ¢µÄĞ¡ÏµÍ³¡£
+   b ººÏ×¹¬(group £¿) f ĞÂµÄJOB¡£
+  	 how about the ÏÉÈË in SGZ, such as Ë¾Âí»Õ, »ªÍÓ,
+etc. let them give jobs. acctually we can make it more 
+close to real history, for example, »ªÍÓ may ask a player
+to find some grass for medicine .. :)
+   e landlord (flee)
+	Now, Landlord is the only job which is related the
+city's condition, which can increase the Aragriculture of
+that city and increase gold and food as well. as i metioned
+in part 4), I will create some more job which will related 
+to Industry, Bussiness and Techinical .. etc.
+
+
+
+---
+×÷Õß: Group
+ÌâÄ¿: fairy
+ÈÕÆÚ: Tue May 25 01:50:55 1999
+itake that la, but maybe need some time.
+all idea just post, i try to find a best way to implement that.
+group
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: ÓĞ¹ØÒ¶¹«µÄÌáÒé
+ÈÕÆÚ: Wed May 26 15:09:27 1999
+ÊÇ²»ÊÇÒª¸øÒ»¸ö±È½ÏÕıÊ½µÄ´ğ¸´£¿ÎÒĞ´ÁË¸ö email ¸ø jun£¬ÎÊ
+ÁËÒ»Ğ©ÆäËüÇé¿ö£¬²»¹ı»¹Ã»ÓĞ»Ø´ğ¡£¹À¼Æ¹ıÁ½ÌìÎÒÃÇ¿ÉÒÔ´ğ¸´
+Ò¶¹«£¬Ä¿Ç°¿´À´ºÃÏóËùÓĞµÄ¶¼ÊÇ·´¶ÔÒâ¼û£¿
+
+µ½Ê±ºòÎÒ»áÆğ²İÒ»·İ²İ¸å£¬´ó¼Ò¿´ÁËÈç¹ûÃ»Òâ¼û£¬¾Í»ØĞÅ¸øÒ¶¹«¡£
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >ÓĞ¹ØÒ¶¹«µÄÌáÒé
+ÈÕÆÚ: Wed May 26 19:14:49 1999
+On Wed May 26 18:09:27 1999 Stefan wrote post #61:
+> ÊÇ²»ÊÇÒª¸øÒ»¸ö±È½ÏÕıÊ½µÄ´ğ¸´£¿ÎÒĞ´ÁË¸ö email ¸ø jun£¬ÎÊ
+> ÁËÒ»Ğ©ÆäËüÇé¿ö£¬²»¹ı»¹Ã»ÓĞ»Ø´ğ¡£¹À¼Æ¹ıÁ½ÌìÎÒÃÇ¿ÉÒÔ´ğ¸´
+> Ò¶¹«£¬Ä¿Ç°¿´À´ºÃÏóËùÓĞµÄ¶¼ÊÇ·´¶ÔÒâ¼û£¿
+> 
+> µ½Ê±ºòÎÒ»áÆğ²İÒ»·İ²İ¸å£¬´ó¼Ò¿´ÁËÈç¹ûÃ»Òâ¼û£¬¾Í»ØĞÅ¸øÒ¶¹«¡£
+
+good, i support stefan
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >>ÓĞ¹ØÒ¶¹«µÄÌáÒé
+ÈÕÆÚ: Wed May 26 19:39:05 1999
+On Wed May 26 22:14:49 1999 Fire wrote post #62:
+> On Wed May 26 18:09:27 1999 Stefan wrote post #61:
+> > ÊÇ²»ÊÇÒª¸øÒ»¸ö±È½ÏÕıÊ½µÄ´ğ¸´£¿ÎÒĞ´ÁË¸ö email ¸ø jun£¬ÎÊ
+> > ÁËÒ»Ğ©ÆäËüÇé¿ö£¬²»¹ı»¹Ã»ÓĞ»Ø´ğ¡£¹À¼Æ¹ıÁ½ÌìÎÒÃÇ¿ÉÒÔ´ğ¸´
+> > Ò¶¹«£¬Ä¿Ç°¿´À´ºÃÏóËùÓĞµÄ¶¼ÊÇ·´¶ÔÒâ¼û£¿
+> > 
+> > µ½Ê±ºòÎÒ»áÆğ²İÒ»·İ²İ¸å£¬´ó¼Ò¿´ÁËÈç¹ûÃ»Òâ¼û£¬¾Í»ØĞÅ¸øÒ¶¹«¡£
+> 
+> good, i support stefan
+
+me 2, altho i dunt quite get the point of cooperation...
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >about wiz rain and bean
+ÈÕÆÚ: Tue May 18 07:44:45 1999
+On Tue May 18 10:43:06 1999 Fire wrote post #46:
+> rain and bean didn't appear for more than one month
+> and have never done anything for this mud
+> I suggested demote them
+> what your guys openions ?
+
+agree.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about wiz rain and bean
+ÈÕÆÚ: Tue May 18 07:43:06 1999
+rain and bean didn't appear for more than one month
+and have never done anything for this mud
+I suggested demote them
+what your guys openions ?
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: liyu's applications
+ÈÕÆÚ: Tue May 18 07:07:16 1999
+ÉêÇëÂÄÀú
+ÏÖËùÔÚµØ : ºÉÀ¼
+ĞËÈ¤ : µçÄÔÓÎÏ·, Èı¹úÖ¾ÏµÁĞ
+ÌØ³¤ : ²»»á C ÓïÑÔ, ²»»á Mudlib, lima.......ÆäËû....»¹ºÃ
+¼Æ»® : Ğ­Öú½«ÃÎ»ÃÈı¹úÖ¾½Ó½üÔ­Öø¼°ÏÖ´æÓÎÏ·
+ÈÎÎñÉêÇë : ÕûÀíºÍ·¢Õ¹°ïÖúÎÄ¼ş
+           ³¯Í¢¹ÙÎ»ÉèÖÃ (ÒÔµ±Ê±Ö÷ÒªµÄ¹ÙÏÎÖÆÃüÃû¼°description)
+           ³ÇÊĞdescription
+           Èı¹ú×ÜµØÍ¼ÍêÉÆ
+           Èı¹úNPCÈËÎï description, ÈçÎä½«ÁĞ´«
+           Èı¹úÖİ¿¤ÏØÖÆ¶ÈÉèÖÃ
+           Èı¹ú¾ôÎ»ÉèÖÃ
+           Ğ­Öú¼°½¨ÒéÆäËûÈÎÎñ
+À§ÄÑ : ²»»áÓïÑÔ, need sb code them for me, and dun know if I can still have 
+       internet access after this summer, maybe disconnected for around half
+       years
+P.S.  ÄÇĞ©ÈÎÎñ²»ÊÇÒ»¿ÚÆøÒªÍêµÄ, Ò»µãÒ»µãÀ´...:P
+
+my opinion: although most of those tasks he apply can be done as a
+player, we really need some wiz doing some txt work or help me:)
+so we may consider his application. for the problem that liyu cannot
+be a king when he becoming a wiz (i suggest he to register a new
+id), pls think out a way to solve it.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >addoil fire
+ÈÕÆÚ: Wed Apr  7 17:44:18 1999
+On Wed Apr  7 08:49:56 1999 Flee wrote post #41:
+> today, i had tried to attack anding .. :)
+> maybe i can code some Jimo according to SanGuo 5.
+> but, i am very very busy this month for final exams .. :(
+> 
+> addoil all .. ^_^
+
+that is good.
+
+addoil.
+
+Now the formula for war still not fair. so I need to 
+adjust it and give out a formula.
+
+This is the same to ji mou. need to make the formula
+clear and easy to adjust. 
+
+addoil flee
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: addoil fire
+ÈÕÆÚ: Wed Apr  7 05:49:56 1999
+today, i had tried to attack anding .. :)
+maybe i can code some Jimo according to SanGuo 5.
+but, i am very very busy this month for final exams .. :(
+
+addoil all .. ^_^
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >welcome rain and litmann
+ÈÕÆÚ: Tue Mar 30 06:42:55 1999
+did rain apply for wiz? or just applied for building huayin and welcome msg?
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >a new wiz application
+ÈÕÆÚ: Tue Mar 23 22:52:38 1999
+agree
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: > agree
+ÈÕÆÚ: Wed Mar 24 01:04:36 1999
+bean is my friend, i am sure that he is more profional, 
+create and resposible than me .. :)
+
+welcome bean and addoil.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: a new wizard, beans
+ÈÕÆÚ: Wed Mar 24 18:37:53 1999
+according to the wiz committee rules,
+I promoted beans as a new wizard.
+Now we have three new wizard: guanfeng, yuyin and beans
+we will give them a month of ÊÔÓÃÆÚ.
+after that, if they have shown to be capable for their work
+they will become ÕıÊ½ wizards
+
+welcome :)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: a new wiz application
+ÈÕÆÚ: Sun Mar 28 17:56:00 1999
+litmann(sgzl) apply to be a wizard here.
+i know him, he has worked in xyj as a wizard.
+a pretty good one, and he also take two ideas 
+for this mud.
+one is ¿Æ¾ÙÖÆ¶È (ÓÃÓÚrobot²âÊÔ)
+another is try to simply our basic level job
+because it is a little too harder for newbies.
+I think he will be a good wizards,
+what do your guys think ?
+
+
+---
+×÷Õß: Guanfeng
+ÌâÄ¿: welcome litmann,agree fire
+ÈÕÆÚ: Sun Mar 28 22:59:00 1999
+addoil litmann,xixi
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >welcome litmann,agree fire
+ÈÕÆÚ: Sun Mar 28 23:20:51 1999
+welcome litmann.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: another wiz application
+ÈÕÆÚ: Mon Mar 29 20:47:45 1999
+from rain,
+he has made a post in fire to show his idea.
+he want to change the welcome page and
+some desc in huayin.
+and also want to build one or more perfect place.
+
+what do you guys think ?
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: welcome rain and litmann
+ÈÕÆÚ: Mon Mar 29 20:53:37 1999
+as title.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: about map southwest
+ÈÕÆÚ: Mon Apr 26 21:13:37 1999
+»ùÓÚÄ¿Ç°Î÷±±²¿µØÍ¼ÒÑ´óÖÂÍê³É²¢ÇÒÎÈ¶¨£¬¶øÇÒ¶àÊıÍæ¼Ò
+ÈÏÎªÄ¿Ç°19¸ö³ÇÊĞÌ«ÉÙ£¬ËùÒÔ£¬ÎÒÈÏÎª¿ÉÒÔ¿ªÊ¼Éè¼ÆÎ÷ÄÏ
+µØÇø¡£½¨ÒéÏòÍæ¼ÒÕ÷¼¯µØÍ¼¸å£¬²¢¸øÓèÒ»¶¨½±Àø¡£¶ø·¿¼ä
+µÄÃèÊö¿ÉÒÔ²ÉÈ¡ÀàËÆÏÌÑôµÈµØµÄ¼òµ¥Í¼ĞÎ±íÏÖ·½Ê½¡£
+´ó¼ÒÒÔÎªÈçºÎ£¿
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >about map southwest
+ÈÕÆÚ: Tue Apr 27 20:21:17 1999
+On Tue Apr 27 00:13:37 1999 Row wrote post #43:
+> »ùÓÚÄ¿Ç°Î÷±±²¿µØÍ¼ÒÑ´óÖÂÍê³É²¢ÇÒÎÈ¶¨£¬¶øÇÒ¶àÊıÍæ¼Ò
+> ÈÏÎªÄ¿Ç°19¸ö³ÇÊĞÌ«ÉÙ£¬ËùÒÔ£¬ÎÒÈÏÎª¿ÉÒÔ¿ªÊ¼Éè¼ÆÎ÷ÄÏ
+> µØÇø¡£½¨ÒéÏòÍæ¼ÒÕ÷¼¯µØÍ¼¸å£¬²¢¸øÓèÒ»¶¨½±Àø¡£¶ø·¿¼ä
+> µÄÃèÊö¿ÉÒÔ²ÉÈ¡ÀàËÆÏÌÑôµÈµØµÄ¼òµ¥Í¼ĞÎ±íÏÖ·½Ê½¡£
+> ´ó¼ÒÒÔÎªÈçºÎ£¿
+
+½¨Òé²»´í£¡£¡
+
+¿ÉÄÜÒªÒ»¸ö³ÇÊĞÒ»¸ö³ÇÊĞµÄ¿ª
+
+
+---
+×÷Õß: Guanfeng
+ÌâÄ¿: Âò¶«Î÷³ÔµÄµØ·½¶¼¿ÉÒÔ¹àË®ÁË
+ÈÕÆÚ: Sun Mar 21 16:10:55 1999
+ÈçÌâ
+
+
+---
+×÷Õß: Guanfeng
+ÌâÄ¿: Í¬ÒâmimiµÄÒ»¸öËæ»úÈÎÎñµÄÉèÏë
+ÈÕÆÚ: Sun Mar 21 13:06:36 1999
+ÏÖÔÚ´ó²¿·ÖµØÇø¶¼¿ÉÒÔÂòµ½Ê³Îï(³ıÁËÒ»Ğ©ºÜĞ¡µÄ¹Ø°¯)
+¶øÇÒÃ¿¸öµØ·½ÄÜÂòµ½µÄÊ³ÎïÊÇ²»Í¬µÄÁË.ËùÒÔÕâ¸ö½¨Òé
+
+²»µ«ÊÇÔö¼ÓÁËjobÏµÍ³µÄÖÊÁ¿£¬¶øÇÒÒ²Ìá¸ßÁËÊ³ÎïµÄÒâÒå
+
+agree mimi
+
+
+---
+×÷Õß: Mimi
+ÌâÄ¿: Ò»¸öËæ»úÈÎÎñµÄÉèÏë£º
+ÈÕÆÚ: Sun Mar 21 01:57:08 1999
+1 ÖÆ×÷Ò»¸öÌØÊâNPC½ĞÏ×µÛ£¬´ıÔÚÂåÑô¡£
+2 Ëû»áÊ±²»³£ÅÉÈËÈ¥ÕĞÒ»Ğ©ÔÚÏßµÄÍæ¼Ò¡£
+3 ÔÚÏßÍæ¼ÒÔÚÒ»¶¨Ê±¼äÄÚ¸Ïµ½Ï×µÛ´¦£¬Ï×µÛ»á¸øËû·ÖÅäÒ»Ïî
+  ÌØÊâÈÎÎñ¡£
+4 Ò»¸ö¼òµ¥µÄÈÎÎñÊÇÏ×µÛÌ°³Ô£¬ÏëÈÃ¸ÃÍæ¼ÒÈ¥¸øËûÕÒÒ»ÖÖ³ÔµÄ
+  (ÏÖÔÚÎÒÃÇÒÑ¾­ÓĞÁËÊ®¼¸ÖÖ²»Í¬µÄÊ³Æ·£¬»¹¿ÉÒÔ¼ÓºÜ¶à¡£ÕâĞ©
+  Ê³Æ·É¢²¼ÔÚ²»Í¬µØÇøµÄ·¹µêÀï¡£Íæ¼ÒµÄ¹¤×÷¾ÍÊÇµ½ÄÇÀïÂòÀ´
+  ½»¸øÏ×µÛ£¬µ±È»ÓĞÊ±¼äÏŞÖÆ¡£)
+5 »¹¿ÉÉè¼ÆÒ»¸ö½ÇÉ«½ĞÂ·Â·Í¨(Ò²¿ÉÏëÒ»¸öÈı¹úµÄ½ÇÉ«Èç¹ÜÂå)
+  Ëû¿ÉÒÔ°îÄãËãËã¸ÃÖÖÊ³Æ·ÔÚÄÄ(µ±È»Ò²¿ÉÒÔËã±ğµÄ)µ«ÊÇËûËã
+  Ö»ÄÜ¸æËßÄã¸ö´ó¸Å£¬ÈçÔÚÂåÑô³Ç¸½½ü£¬ÄÇÑù¸ÃÎïÆ·¿ÉÄÜÔÚÂåÑô
+  Ò²¿ÉÄÜÔÚÓëÂåÑôÏàÁÚµÄµØÇø¡£
+ÄÄÎ»Î×Ê¦¶ÔÕâÑùÒ»¸öÓĞÈ¤µÄJOBÓĞĞËÈ¤£¬ÇëºÍÎÒÁªÏµ£¬ÎÒºÍÄã¹²Í¬
+Íê³ÉÕâ¸öËæ»úJOB¡£
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: agree to swallow 
+ÈÕÆÚ: Sat Mar 20 19:26:19 1999
+as title.
+
+
+---
+×÷Õß: Swallow
+ÌâÄ¿: ¹ØÓÚip ¼°ÆäËû
+ÈÕÆÚ: Sat Mar 20 18:07:57 1999
+¹ØÓÚip ÎÒÍ¬ÒâÁÒ»ğµÄÒâ¼û,ÎÒÒÔÇ°Íæ¹ıµÄ¼¸¸ömudÖĞ,¶¼Ã»ÓĞ¶ÔÍæ¼Ò¿ª·Å¹ıipµÄ.
+ÕâÀï»¹¿¼ÂÇµ½Ò»¸öÎÊÌâ,¼´Íæ¼ÒÀûÓÃip½øĞĞ¶ñÒâµÄ¹¥»÷.
+(ÎÒ±¾ÈË¾Í±»ÅóÓÑ¿ª¹ıÕâÑùµÄÍæĞ¦)  0_&
+Èç¹ûÍæ¼ÒÔÚÓÎÏ·½øĞĞÖĞ,ÊÜµ½ÁË¹¥»÷¶ÏÏß,¶øÊ¹Êı¾İ´óËğ,Ò²ÊÇ¿ÉÄÜµÄ,
+Õâ¶ÔÍæ¼Ò¾ÍÌ«²»¹«Æ½ÁË,²»ÊÇÃ¿¸öÍæ¼Ò¶¼ÓĞ×ÔÎÀµÄÄÜÁ¦.
+»¹ÓĞÔÚÕıÊ½¿ª·Åºó,¶ÔÍæ¼ÒµÄÊı¾İÓ¦¸Ã½øĞĞÉ¾³ı,¶ø¸ù¾İÍæ¼ÒÆ½ÈÕµÄ±íÏÖ¸øÓè²»Í¬µÄ½±Àø.
+ÎÒ¿´µ½Ä¿Ç°ºÜ¶à¸öid¶¼ÊÇÍ¬Ò»¸öËùµÇ,ÕâÑùµÄidÈç¹ûÈ«²¿±£ÁôÁË
+ÔÚ¿ª·Åºó±ØÈ»ĞÎ³É¸öÈËĞ¡ÊÆÁ¦,»áÕ¼¾İÕû¸ö¹ú¼ÒÒ²²»ÄÑ,
+¹ØÓÚÈçºÎĞŞÀí¶à¸öidµÄÎÊÌâ,ÊÇ±È½ÏÄÑ°¡!
+¹ØÓÚÈçºÎĞŞÀí¶à¸öidµÄÎÊÌâ,ÊÇ±È½ÏÄÑ°¡!
+¸öÈËÒâ¼û,»¶Ó­....edit
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: welcome new wiz : yuyin & guanfeng
+ÈÕÆÚ: Sat Mar 20 04:28:43 1999
+as title...hehe.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: about ip
+ÈÕÆÚ: Sat Mar 20 04:27:51 1999
+±¾ÈËÍ¬ÒâÒş²ØÍæ¼ÒµÄip£¬ÒòÎªÏàĞÅ´ó¶àÊıµÄÈË¶¼²»Ô¸
+ÇáÒ×Í¸Â¶×Ô¼ºµÄip¡£ÖÁÓÚfireÌáµÄdummyÎÊÌâ£¬ÎÒ
+Ò²ÈÏÎªÕâÊÇÒ»ÖÖcheating£¬¶Ô´ËÎ×Ê¦¿ÉÒÔ¼ÓÒÔ¹Ü
+Àí£¬ÌØ±ğÊÇ¶ÔÓÚÄÇĞ©±È½Ï¹ı·ÖµÄÍæ¼Ò¡£
+¡£
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Íæ¼ÒµÄĞÄÌ¬
+ÈÕÆÚ: Fri Mar 19 23:01:30 1999
+¹ØÓÚËæ»úÊÂ¼ş£¬ÎÒÔç¾ÍÓĞÕâ¸öÉèÏë£¬µ«ÊÇ²»³ÉÊì¡£Í¬Ê±Ò²Ã»ÓĞ¾«Á¦×÷¡£
+ÏÖÔÚµÄJOBÊµ¼ÊÉÏÖ÷Òª¸øÍæ¼ÒµãÊÂ¸É¡£²¢²»ÊÇÄ¿µÄËùÔÚ¡£ÓÎÏ·µÄ¹Ø¼ü
+ÊÇÕù¶áµØÅÌ¡£¶øÕâÒªµÈÕ½ÕùÏµÍ³Íê³É¡£µ«ÏÖÔÚ£¬ÖØµãÊÇJOBÏµÍ³¡£
+¾¡Á¿°ÑJOB»¨Ñù×÷¶à£¬×öµÃÓĞÈ¤£¬¶øJOBµÄ½±Àø£¬²»±ãÌ«¶à£¬ÒòÎª
+Èç¹ûÌ«¶à£¬Íæ¼ÒµÄ×´Ì¬ºÜ¿ìµ½¶¥£¬ÓÖÓĞÊ²Ã´ÒâË¼ÄÜ£¬Êµ¼ÊÉÏ³É·ç
+µÄÒâ¼ûÊÇÓĞµÀÀíµÄ£¬Íæ¼Ò¸öÈËµÄ²ÎÊı²»ÊÇ×îÖ÷ÒªµÄ¡£×îÖ÷ÒªµÄÊÇ
+¿ÉÒÔÕùÈ¡µÄµØÅÌ¡£
+
+
+---
+×÷Õß: Guanfeng
+ÌâÄ¿: Íæ¼ÒµÄĞÄÌ¬
+ÈÕÆÚ: Fri Mar 19 22:45:53 1999
+¶àÊıÍæ¼ÒÍæÕâ¸ömud¶¼ÊÇĞÛĞÄ²ª²ª£¬ÏëÔçÈÕ³Æ°ÔÒ»·½,´óÕğÉùÃû,ÓĞ×Ô¼ºµÄÌìÏÂ
+È»¶ø¸ù¾İÎÒµÄÁË½â£¬ÓĞÍ¬ÑùµÄ¸Ğ¾õ¾ÍÊÇ ¹¹Ë¼ÆæÇÉ£¬µ«Â·Ïßµ¥µ÷£¬¹ÊÊÂÇé½Ú½ÏÉÙ
+Íæ¼ÒÀ­²»¿ªµµ´Î,¾õµÃÊÇÔÚÍÏÑÓÊ±¼ä.ÒòÎªjobµÄ½±ÉÍÌ«ÉÙ£¬¶øÃ»ÓĞjobµÄÊ±ºòÎŞËù
+ÊÂÊÂ£¬ÓĞĞ©Íæ¼Ò½¨Òé°ÑÖØµã·ÅÔÚplayerÖ®¼äµÄ¹´ĞÄ¶·½ÇÖ®ÉÏ£¬¶ø²»ÊÇ¸öÈËµÄÁ·¹¦
+ÎÒ¾õµÃ¿ÉÄÜÊÇËûÃÇ¶ÔjobµÄµ¥µ÷¾õµÃ¿İÔï£¬Ó¦¸ÃÔö¼ÓÒ»Ğ©Ëæ»úµÄÌØÊâÊ¹Ãü£¬ÌåÏÖ³ö
+playerµÄ÷ÈÁ¦ºÍË®Æ½£¬À­¿ª¾àÀë,Ôö¼ÓjobµÄ»¨ÑùºÍÔöÌíÒ»Ğ©RpgÇé½ÚÊÇ±ØÒªµÄ
+±ÈÈçÄ³ÈÕ£¬ÄÏ»ªÀÏÏÉ¾­¹ıÄ³µØ£¬ÄãÔÚÑ²ÂßµÄ¹ı³ÌÖĞÕıºÃÅö¼û,Ëû¿ÉÄÜÔùËÍÄãÒ»±¾
+Ì«Æ½ÒªÊõÖ®ÀàµÄÊé,Äã¿ÉÒÔÑ§µ½Ò»Ğ©±ğÈËÃ»ÓĞµÄ¼ÆÄ±»òÕßÕó·¨.
+Ò»Îİ²»É¨£¬ºÎÒÔÉ¨ÌìÏÂ£¬È»¶øÍæ¼Ò¾ÃÉ¨Ò»ÊÒ£¬ÈÕ¾ÃÉú·³£¬Ö»ÓĞËæ»úµÄ³öÏÖÒ»Ğ©
+×ª»ú£¬²ÅÄÜÈÃËûÃÇ¸üÓĞĞÅĞÄºÍĞËÈ¤,ÒòÎªËûÃÇ¶ÔÎ´À´»á·¢ÉúÊ²Ã´ÊÇÎ´ÖªµÄ
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >about cities
+ÈÕÆÚ: Fri Mar 19 22:19:43 1999
+On Sat Mar 20 00:55:06 1999 Guanfeng wrote post #20:
+> Èı¹úÊ±´úÓĞºÜ¶àµÄ³ÇÊĞºÍ¿¤ÏØ£¬µ«ÎÒÃÇÕâÀïµÄµØÇøÉÙÁËµã£¬Ò»Ğ©³öÃûµÄÕ½³¡ºÍÖŞÏØ
+> Ó¦¸Ã¼ÓÈë£¬±ÈÈç Ğí²ı,³ÂÁô£¬¾£Öİ£¬½ğÁê£¬½­ÏÄ£¬ĞÂÒ°£¬»á»ü£¬³É¶¼£¬ºëÅ©£¬½úÑô£¬
+> ÔÆÄÏ£¬³¤É³,±±Æ½£¬ÏåÑô£¬²ñÉ££¬½­Áê£¬ÚÛ£¬å§Ñô£¬ÄÏÆ¤£¬è÷äü£¬½¨Äş,¹ğÑô
+> ººÖĞ£¬½­Öİ£¬ÓÀ°²£¬Â®½­£¬Ğ¡Åæ£¬Íğ£¬ÓÄÖİ£¬²¢ÖİµÈµÈ
+> ÕâĞ©µØ·½¶¼ÔøÓĞ´óËŞµÄ³öÏÖ£¬»òÊÇÒ»¹úÖ®¶¼£¬»òÊÇ³öÃûµÄÕ½³¡ºÍµØÃû,´í¹ıÊµÔÚ¿ÉÏ§
+> Òò´ËÎÒ½¨ÒéÒª¼Ó´óµØÍ¼,Ôö¼Ó³ÇÊĞ£¬Õâ¶ÔÍæ¼ÒµÄÈİÄÉÁ¿ºÍ¹ÙÄÉÁ¿¶¼ÓĞºÃ´¦µÄ
+guanfend µÄ½¨ÒéÊÇ¶ÔµÄ¡£µ«ÎÒÃÇÄ¿Ç°¾«Á¦ÓĞÏŞ£¬Ä¿Ç°¿ª·¢µÄÖ»ÊÇÒ»¸ö²âÊÔ°æ¡£
+Ö÷Òª²âÊÔÈı¹úµÄºËĞÄºÍ¹Ø¼üLIB¡£µÈ´ó²¿·ÖMUDLIB¶¼ÔËĞĞÁ¼ºÃ£¬×´Ì¬ÎÈ¶¨ºó£¬
+Ôö¼Ó³ÇÊĞ¾Í²»ÊÇÒ»¸öºÜÀ§ÄÑµÄÎÊÌâÁË¡£
+¸ù¾İ¼Æ»®£¬ÎÒÃÇÔÚÕıÊ½°æÖĞ£¬¿ÉÄÜ»áÓĞ½üÒ»°Ù¸ö³ÇÊĞºÍÈı°Ùµ½Îå°Ù¸ö½ÇÉ«NPC¡£
+
+
+---
+×÷Õß: Guanfeng
+ÌâÄ¿: about cities
+ÈÕÆÚ: Fri Mar 19 21:55:06 1999
+Èı¹úÊ±´úÓĞºÜ¶àµÄ³ÇÊĞºÍ¿¤ÏØ£¬µ«ÎÒÃÇÕâÀïµÄµØÇøÉÙÁËµã£¬Ò»Ğ©³öÃûµÄÕ½³¡ºÍÖŞÏØ
+Ó¦¸Ã¼ÓÈë£¬±ÈÈç Ğí²ı,³ÂÁô£¬¾£Öİ£¬½ğÁê£¬½­ÏÄ£¬ĞÂÒ°£¬»á»ü£¬³É¶¼£¬ºëÅ©£¬½úÑô£¬
+ÔÆÄÏ£¬³¤É³,±±Æ½£¬ÏåÑô£¬²ñÉ££¬½­Áê£¬ÚÛ£¬å§Ñô£¬ÄÏÆ¤£¬è÷äü£¬½¨Äş,¹ğÑô
+ººÖĞ£¬½­Öİ£¬ÓÀ°²£¬Â®½­£¬Ğ¡Åæ£¬Íğ£¬ÓÄÖİ£¬²¢ÖİµÈµÈ
+ÕâĞ©µØ·½¶¼ÔøÓĞ´óËŞµÄ³öÏÖ£¬»òÊÇÒ»¹úÖ®¶¼£¬»òÊÇ³öÃûµÄÕ½³¡ºÍµØÃû,´í¹ıÊµÔÚ¿ÉÏ§
+Òò´ËÎÒ½¨ÒéÒª¼Ó´óµØÍ¼,Ôö¼Ó³ÇÊĞ£¬Õâ¶ÔÍæ¼ÒµÄÈİÄÉÁ¿ºÍ¹ÙÄÉÁ¿¶¼ÓĞºÃ´¦µÄ
+
+
+---
+×÷Õß: Guanfeng
+ÌâÄ¿: I am alive here
+ÈÕÆÚ: Fri Mar 19 21:37:45 1999
+¸÷Î»WizÊ¦¸µ´ó¼ÒºÃ,ÎÒÊÇĞÂÀ´µÄ,¿´µ½ÄãÃÇÏÖÔÚµÄÅ¬Á¦ºÍÔø¾­È÷ÏÂº¹Ë®µÄ×ã¼£
+ÎÒÕæµÄºÜ²ÑÀ¢.²»¹ıÎÒÒ²»á¼ÓÓÍµÄ£¬Ï£ÍûÒÔºó¶à¶àÖ¸µã,Ò²Ï£ÍûÎÒÄÜ°ïÉÏÃ¦
+ÎÒÍ¬ÒâfireµÄ¹Ûµã,ÎÒ¾õµÃplayer»¥Ïà²»ºÃ¿ÉÒÔ¿´µ½±Ë´ËµÄip,ÒòÎªÒ»¸öÍø°ÉµÄ
+ÈËµÄipµØÖ·Ò²ÊÇÒ»ÑùµÄ£¬Ò²Ğí»áÔì³ÉºÜ¶àÎó»á£¬ÔÚ·çÔÆÄÇ¸ömudÉÏ£¬ÓĞĞ©ÈË
+¾ÍÊÇÓÃfinger²é£¬È»ºóÉ±ËûµÄ³ğ¼ÒÁ¬ÏßÏàÁÚµÄ¼¸¸öID(ÆäÊµÊÇÎŞ¹¼µÄ),µ«
+È´Ôì³ÉÁËÍø°É´óÕ¾£¬ÏÖÔÚ·çÔÆ(¹ãÖİÕ¾202.96.158.229 3333)ÉÏÄãÃÇ¾Í¿ÉÒÔ¿´µ½
+pk³É·ç£¬·Ç³£ÂÒ.ËùÒÔÎÒ¾õµÃIP¶ÔÍæ¼ÒÓ¦¸Ã±£ÃÜ
+
+
+---
+×÷Õß: Group
+ÌâÄ¿: about ip
+ÈÕÆÚ: Fri Mar 19 21:24:01 1999
+ÎÒÍ¬ÒâÁÒ»ğµÄ¿´·¨£¬Íæ¼ÒÓĞÈ¨Àû±£³ÖËûÃÇµÄipµØÖ·²»±»ÆäËü
+Íæ¼Ò¿´µ½£¬ÆäÊµ¿ÉÒÔÈÃÍæ¼Ò×Ô¼ºÉè¶¨fingerÊ±¿É¿´µ½µÄÄÚÈİ£¬
+²»¹ıÒ»ÇĞÄÚÈİÎ×Ê¦ÊÇ¿ÉÒÔ¿´µÄÀ²¡£
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about ip 
+ÈÕÆÚ: Fri Mar 19 20:51:28 1999
+¹ØÓÚIPµØÖ·µÄÎÊÌâ¡£ÕâÖ»ÊÇÒ»¸öĞ¡ÎÊÌâ£¬Êµ¼ÊÉÏ
+MUDÊÇÒ»¸öĞéÄâÊÀ½ç£¬ÔÚÕâÀïÎÒÃÇ¹ØĞÄµÄÖ»ÊÇMUDÀïµÄ
+ÊÂ¡£¶øIPµØÖ·ÊÇÒ»¸öºÍÓÎÏ·±¾ÉíºÁÎŞÏà¹ØµÄ¸öÈËĞÅÏ¢£¬
+µ±È»°ÑËü¹«²¼£¬Ò²²»»á´øÀ´¶àÉÙÉËº¦¡£Ö»ÊÇÕâÒ»ĞÅÏ¢
+ºÍÓÎÏ·ÎŞ¹Ø£¬°ÑËü¶ÔÍæ¼ÒÆÁ±ÎÆğÀ´£¬²»»áÓ°ÏìÓÎÏ·µÄ
+Õı³£½øĞĞ¡£¶ÔÓÚÎÒ¸öÈË£¬ÎÒÊÇ¼«²»Ï£ÍûËùÓĞµÄÈËÄÜ¹»
+¿´µ½ÎÒµÄIPµØÖ·¡£ËäÈ»²»ÊÇËùÓĞµÄÈË¶¼ÏóÎÒÕâÑù¶ÔÒş
+Ë½Ãô¸Ğ¡£µ«ÎÒÏàĞÅÔÚÕâÒ»µãÉÏÎÒ²»ÊÇ¶ÀÒ»µÄ¡£ÔÚÕâÖÖ
+ÎÒÇé¿öÏÂ£¬ÎªÊ²Ã´ÎÒÃÇ²»ÄÜ×öÒ»¼şËäÈ»Ö»¶Ô²¿·ÖÈËÓĞ
+Àûµ«È´¶ÔËùÓĞÈËÎŞº¦µÄÊÂÇéÄØ£¿
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >¹ØÓÚfingerµÄÎÊÌâ¡£
+ÈÕÆÚ: Fri Mar 19 20:33:49 1999
+¹ØÓÚ email ºÍÕæÊµĞÕÃûµÄÎÊÌâ£¬ÎÒÔÚºº»¯Ê±·¸ÁË¸ö´íÎó£¬µ±ĞÂÍæ¼ÒµÇ¼ÇÊ±£¬
+ÕıÈ·µÄÌáÊ¾ĞÅÏ¢Ó¦¸ÃÊÇ£º
+
+> Èç¹ûÄãÔÚÒÔÏÂ»Ø´ğµÄÇ°Ãæ¼ÓÒ»¸ö #£¬ÕâĞ©ĞÅÏ¢½«²»»á±»ÆäËûÍæ¼Ò¿´µ½¡£
+> Èç¹ûÄãÒª×öÎ×Ê¦µÄ»°£¬ÇëÎñ±Ø»Ø´ğ¡£
+
+ÎÒÒÑ¾­¸üÕı¹ıÀ´ÁË£¬Èç¹ûÄãÓÃ menu ÃüÁî°Ñ×Ô¼ºµÄ email Ç°Ãæ¼ÓÉÏÒ»¸ö #£¬
+¾Í²»»á±»ÆäËûÍæ¼Ò¿´µ½¡£ÕæÊµĞÕÃûÃ»ÓĞ function ¿ÉÒÔ¸Ä£¬²»¹ıÎÒÏëÖ»ÓĞÉÙ
+ÊıÈËÊäÈëÁËËûÃÇµÄÕæÊµĞÕÃû¡£Èç¹ûÎÒÃÇÔÚÕıÊ½¿ª·¢Ç°É±É±µµ£¬¾ÍÃ»ÓĞ²ĞÓàÎÊ
+Ìâ¡£
+
+¹ØÓÚ IP Ó¦²»Ó¦¸ÃÏÔÊ¾£¬ÎÒÍæ¹ıºÜ¶à mud£¬¶¼ÊÇ¹«¿ªµÄ£¬ÎÒ¼ûµ½µÄµÚÒ»¸ö²»
+¹«¿ª IP µÄ mud ÊÇÏÀ¿ÍĞĞ£¬È»ºóºóÀ´µÄÒ»Ğ© mud ¶¼Ğ§·¨Ëü¡£
+
+ÎÒ¾õµÃ¹«¿ª ip ¸ü·½±ã¹ÜÀí£¬Íæ¼ÒÒòÎª¶Ô·½ÖªµÀ×Ô¼ºµÄ ip »á¸ü×¢Òâ×Ô¼ºµÄ
+¾Ù¶¯£¬»¥ÏàÒ²»á¸ü×ğÖØÒ»Ğ©¡£ÖÁÓÚ fire Ìáµ½µÄÈıµã»µ´¦£º
+
+1. ¹Û²ìÍæ¼Ò£¬Äã¿ÉÒÔ snoop£»±à³Ì£¬Äã¿ÉÒÔ²»»Ø´ğ¶Ô·½µÄÎÊÌâ£¬»òÕß±ä³É
+invisible¡£¶ÔÓÚÎ×Ê¦£¬Äã²»Ó¦µ±Òş²Ø×Ô¼ºµÄÉí·İ£¬Î×Ê¦ÊÇÎªÍæ¼Ò·şÎñµÄ£¬
+ÎªÊ²Ã´ÒªÆÛÆ­£¿
+
+2. ¶ÔÓÚµÇÂ¼ dummy ÒÔÖúÍê³ÉÈÎÎñ£¬ÎÒÈÏÎªÊÇÒ»ÖÖ±äÏàµÄÆÛÆ­£¬ÎÒÃÇÓ¦¸Ã¹Ä
+ÀøÍæ¼ÒÖ®¼äµÄºÏ×÷£¬¶ø²»ÊÇÒ»¸öÈËºÍ×Ô¼ºµÄÒ»Èº dummy ×îºó¾ıÁÙÌìÏÂ¡£¶Ô
+Íæ¼Ò¶øÑÔ£¬Òş²Ø×Ô¼ºµÄÆäËûÉí·İ£¬²»ÍâÊÇ²»ÏëÈÃËûÈËÖªµÀ£¬ÇëÎÊÓĞÊ²Ã´Õıµ±
+µÄÀíÓÉ²»ÄÜÈÃËûÈËÖªµÀÄØ£¿ÄãÒ»ÃæÊÇ top 1 pker£¬Ò»ÃæÊÇ top 1 ÀÏºÃÈË£¬
+²»¶ÏµØÆÛÆ­ÆäËûµÄÍæ¼Ò£¬ÕâÑùµÄÀíÓÉÕıµ±Âğ£¿Òş²ØÕæÊµÉú»îÖĞµÄÉí·İÊÇÎªÁË
+¸üºÃµØÍ¶ÈëÓÎÏ·£¬Õâ¿ÉÒÔÀí½â£»µ«ÊÇÒş²ØÓÎÏ·ÖĞµÄÉí·İÈ´ÊÇÎªÁËÊ²Ã´£¿
+
+3. ¹«Ë¾Ñ§Ğ£²»×¼ÄãÍæ£¬µ±È»ÊÇ²»ÍæÁË£¬¶Ô¼º¶ÔÈË¶¼ÓĞºÃ´¦¡£ÅÂÄãÀÏ°å½øÀ´
+²é ip£¬ÒªÊÇ²»Ó°Ïì¹¤×÷ºÍÑ§Ï°£¬Ëû²éÄã¸ÉÂğ£¿ËùÒÔÕâÑùµÄ½è¿Ú£¬ÎÒ¾õµÃĞĞ
+²»Í¨¡£ÒªËµÓ°ÏìÈËÊı£¬ÎÒ¾õµÃÕâÑùµÄÍæ¼Ò²¢²»Õ¼¶àÊı¡£
+
+¸÷Êã¼º¼û :)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: a new wiz application
+ÈÕÆÚ: Tue Mar 23 22:23:35 1999
+I have just received a new wiz application from beans(¶¹×Ó)
+
+¼ÄĞÅÈË £ºbeans
+ÈÕÆÚ   £ºWed Mar 24 01:10:11 1999
+ÌâÄ¿£ºapplication 
+---------------------------------------
+i am from computer science in NUS, i have learnt C, Java,
+and some other standard languages. and i learnt LPC before to 
+code in another mud. i like coding here.
+
+what do you guys think about this application
+
+I think that we can give him one month's ÊÔÓÃÆÚ as other new wizards
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ¹ØÓÚ¹¤×÷¼Æ»®¡£
+ÈÕÆÚ: Fri Mar 19 20:33:29 1999
+×îĞÂµÄ¹¤×÷¼Æ»®ÒÑ¾­¹«²¼ÁË¡£¼¸ºõËùÓĞµÄÎ×Ê¦¶¼ÓĞ¾ßÌåµÄÈÎÎñ
+µ«Ğí¶àÎ×Ê¦ÏÖÔÚ¶¼»¹Ã»ÓĞ¸ø³öÈÎºÎ·µÀ¡Òâ¼û¡£ÎÒÈÏÎª£¬Èç¹û
+ÎŞÂÛÄãÊÇÓÉÓÚ¿Í¹ÙµÄÔ­Òò»¹ÊÇÖ÷¹ÛµÄÒòËØ²»Ô­Òâ»òÎŞ·¨Íê³É
+²¼ÖÃµÄ¹¤×÷¡£¿ÉÒÔÌá³öÀ´£¬ÎÒÃÇ»á¾¡Á¿µ÷Õû¡£
+µ«ÊÇÈç¹û²»¿Ô²»¹ş£¬ÎÒÃÇ»áÈÏÎªÄãÒÑ¾­Ä¬ÈÏÁË°²ÅÅµÄ¹¤×÷¡£
+ÕâÑùÄã¾ÍÓ¦¸Ã¶ÔÄãµÄÈÎÎñÓĞËù¿¼ÂÇ£¬¸ø³öÒ»¸ö¾ßÌåµÄ¼Æ»®
+ºÍÍê³ÉÊ±¼ä±í»òÖÁÉÙ´ÓÊÂÒ»Ğ©¿ÉÒÔ¿´µÃµ½µÄ¹¤×÷¡£Èç¹û²»ÕâÑù¡£
+µ½Ê±Íê³É²»ÁË£¬²»ÊÇÒ»¸öÈËµÄ¹¤×÷£¬¶øÊÇµ¢ÎóÁËÕû¸öMUDµÄ¿ª·¢½ø¶È¡£
+Õâ¶ÔÄãºÍ¶Ô´ó¼Ò¶¼ÊÇ²»¸ºÔğµÄ
+ÔÚÕâÀïÎÒÒª¸ĞĞ»benben,group,»¹ÓĞ¼¸¸öĞÂµÄÎ×Ê¦Èç£ºyuyin ºÍ swallow
+ËûÃÇÔÚÕâÒ»¶ÎÊ±¼ä¶¼×÷³ö²»Ğ¡µÄ¹±Ï×¡£
+row ×î½üºÜÃ¦£¬µ«Ò²¶ÔĞÂµÄ¹¤×÷¼Æ»®·¢±íÁËÒâ¼û¡£ËùÒÔÎÒÏ£Íû
+»¹Ã»ÓĞ¶ÔĞÂ¹¤×÷¼Æ»®·¢±íÒâ¼ûµÄ£¬Çë¾¡¿ì±íÌ¬¡£Èç¹û²»ÄÜÍê³É
+ÈÎÎñ£¬ÎÒÃÇºÃÁ¢¼´µ÷Õû¡£
+ÔÚÊÕµ½ÄãÃÇµÄ·µÀ¡Òâ¼ûºó£¬ÎÒÃÇ½«ÔÚ½üÆÚ¾ÙĞĞÒ»¸öÈ«ÌåÎ×Ê¦´ó»á¡£ÌÖÂÛ
+¾ßÌå¹¤×÷¡£ÎÒµÄÒâ¼ûÊÇÁ¦ÕùÔÚËÄÔÂÖĞÕıÊ½¿ª·Å²âÊÔ°æ¡£
+addoil all
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ¹ØÓÚfingerµÄÎÊÌâ¡£
+ÈÕÆÚ: Fri Mar 19 20:06:06 1999
+ÏÖÔÚÔÚlimaÖĞ£¬ÈÎºÎÒ»¸öÍæ¼Ò¶¼¿ÉÒÔÓÃfingerÃüÁî
+²ì¿´µ½ÆäËûÍæ¼ÒµÄÒ»Ğ©¸öÈËĞÅÏ¢Èç£º
+ÕæÊµĞÕÃû£¬emailµØÖ·µÈ¡£Í¬Ê±Ö±½ÓÀûÓÃfinger¡£»¹
+¿ÉÒÔ²ì¿´µ½ËùÓĞÔÚÏßÕßµÄIPµØÖ·¡£ÎÒÈÏÎªÕâÊÇ²»ºÏÀí
+µÄ¡£ÔÚÆäËûMUD£¬ÖÁÉÙÔÚXYJÖĞ£¬ÉÏÊöĞÅÏ¢¶¼ÊÇÖ»ÓĞÎ×
+Ê¦²Å¿ÉÒÔ¿´µ½µÄ¡£ËùÒÔÎÒ½¨ÒéÔÚÎÒÃÇµÄMUDÖĞ¶ÔÒÔÉÏ
+ĞÅÏ¢¶ÔÍæ¼Ò¼ÓÒÔÆÁ±Î¡£
+ÌØ±ğÊÇIPµØÖ·¡£ÆÁ±ÎIPµØÖ·ÓĞÒÔÏÂÒæ´¦¡£
+1 ×÷ÎªÒ»ÃûWIZ£¬ÓĞÊ±ÎÒÃÇ¿ÉÄÜ»áµÇÂ¼ÁíÒ»¸ö½ÇÉ«£¬
+  ÔÚ²»ÎªÍæ¼Ò·¢ÏÖÕæÊµÉí·İ¶ø±»´òÈÅµÄÇé¿öÏÂ¹Û²ì
+  »ò±à³Ì¡£µ«ÊÇÒ»µ«Íæ¼Ò¿ÉÒÔ¿´µ½ÄãµÄIPµØÖ·£¬ÄãµÄ
+  ÕæÊµÉí·İºÜ¿ÉÄÜ»á±©Â¶¡£
+2 ÓĞĞ©Íæ¼Ò¿ÉÄÜÔÚÒ»¹úÎª¹Ù£¬Í¬Ê±µÇÂ¼¸öDUMMYµ½Ëû¹ú
+  ´ÌÌ½Çé±¨¡£Èç¹ûÕâÃûÍæ¼ÒÓÉÓÚ×ÔÎÒÑÔĞĞ²»Éõ±©Â¶ÁË
+  Éí·İ£¬ÊÇÇéÓĞ¿ÉÔ­µÄ¡£µ«Èç¹û±»ÈË·¢ÏÖIPµØÖ·ÏàÍ¬
+  ¶ø±©Â¶ÁËÉí·İ£¬ÄÇ¾ÍÊ¹ÊÂÇé³¬³öÁËÓÎÏ·Íâ£¬ÕâÊÇ²»
+  ¹«Æ½µÄ¡£
+3 ÓĞĞ©Íæ¼Ò²»Ï£Íû¹«¿ª×Ô¼ºµÄIPµØÖ·£¬ÒòÎªËû¿ÉÄÜÊÇ
+  ´ÓÒ»¸ö²»Ö§³ÖMUDÓÎÏ·µÄÑ§Ğ££¬¹«Ë¾»ò¹ú¼Ò»ú¹Ø¡£¶ø
+  ÎÒÃÇÔÚÎ´¾­¹ıÆäÍ¬ÒâµÄÇ°ÌáÏÂ¹«²¼(±©Â¶)ÆäIPµØÖ·
+  ÊÇ²»ºÃµÄ¡£
+ÒÔÉÏÊÇÎÒµÄ½¨Òé£¬ÓĞ·´¶ÔÒâ¼û»¶Ó­Ìá³ö¡£²»·¢±íÒâ¼ûÒÔ
+Ö§³ÖÂÛ¡£
+hoho :)
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> ½¨Òé£º¹ØÓÚÍæ¼ÒÊı¾İ
+ÈÕÆÚ: Thu Dec 10 19:09:46 1998
+agree with tset.
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: >½¨Òé£º¹ØÓÚÍæ¼ÒÊı¾İ
+ÈÕÆÚ: Thu Dec 10 12:32:53 1998
+agree...however it really create discrepencies between
+old players and new players...so maybe there could be
+a high limit of skills? like 100?  just to make sure
+new players are not hurt by not coming earlier...
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: summary
+ÈÕÆÚ: Wed Dec  9 12:36:42 1998
+for the suggestion of "demote nono to playe"
+all members agree, so the suggestion is approved
+for the suggestion about ½¨Òé£º¹ØÓÚÍæ¼ÒÊı¾İ just two
+members fire and row show their opinions, could other
+members please post your opinion? we expect to collect
+all member's opinion within one week!
+cheers
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >>suggestion : demote nono to playe 
+ÈÕÆÚ: Tue Dec  8 20:44:30 1998
+agree
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >>suggestion : demote nono to player
+ÈÕÆÚ: Tue Dec  8 20:42:56 1998
+agree
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >suggestion : demote nono to player
+ÈÕÆÚ: Tue Dec  8 15:48:02 1998
+agree
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: >suggestion : demote nono to player
+ÈÕÆÚ: Tue Dec  8 15:32:41 1998
+agree
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: suggestion : demote nono to player
+ÈÕÆÚ: Tue Dec  8 15:30:30 1998
+nono hasn't done anything for this mud
+and she did't appear since Nov 6
+it is more than one month from now
+so I suggest demote her to player
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: agree fire on ½¨Òé£º¹ØÓÚÍæ¼ÒÊı¾İ
+ÈÕÆÚ: Mon Dec  7 16:35:10 1998
+as title.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ½¨Òé£º¹ØÓÚÍæ¼ÒÊı¾İ
+ÈÕÆÚ: Sun Dec  6 18:04:06 1998
+1ÔÚ¿ª·Å²âÊÔ°æÊ±±£ÁôÍæ¼ÒÊı¾İ
+2¶ÔÓÉÓÚBUG»ò²âÊÔ»òÒÔÇ°²»ºÏÀíÉè¼ÆÒıÆğµÄ²¿·ÖÍæ¼Ò
+ µÄ¹ı¸ßÊı¾İ½«½øĞĞÊÊµ±µÄÏû¼õ»òµ÷Õû¡£
+ÒÔÉÏ½¨Òé»ùÓÚÈç¹ûÕıÊ½¿ª·ÅÊ±¶ÔËùÓĞÊı¾İÈ«²¿ÇåÁã½«»á´ò»÷Ä¿Ç°
+Íæ¼ÒµÄ»ı¼«ĞÔ£¬Ä¿Ç°Íæ¼ÒËäÈ»ÉÙ£¬µ«ÊÇ¶ÔÓÚ·¢ÏÖBUG£¬ÕÒµ½³ÌĞò
+Éè¼ÆµÄ²»ºÏÀíĞÔÈ´ÓĞÕâ²»¿É¹ÀÁ¿µÄ×÷ÓÃ£¬ÁíÍâ»¹ÔÚÏàµ±³É¶ÈÉÏ¹Ä
+ÎèÁËWIZµÄ¿ª·¢¶·Ö¾¡£
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ½¨ÒéÏÖÔÚÊÇÈı¹ú¹«ÔªÇ°,¿ªÕÅºóÎª¹«ÔªÔªÄê
+ÈÕÆÚ: Sun Dec  6 17:48:11 1998
+i don't think this is necessary
+I aginst it
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: IMPORTANT, ALL WIZARDS PLEASE READ CAREFULLY
+ÈÕÆÚ: Tue Dec  1 13:16:51 1998
+This is the board just used to post news related to 
+wizard committee. Now we have five members in this 
+committee they are stefan, tset, flee, row and fire.
+This board is used to collect suggestions (each 
+suggestion should be solved as approve or unapprove
+within no more than one week) and post members opinion
+on suggestions. Every wizards has right to give 
+suggestion( just post here). once just make one suggestion.
+If you have more, please post them differently so we 
+can discuss them differently. and make the suggestion 
+clear. (an obscure suggestion may be refused). 
+Every member of the committee is supposed to post
+his opionion about each suggestion clearly and quickly.
+He should make it clear that he supports one suggestion
+or against. Expra explain and comment are also welcomed.
+After one suggestion is given, each member is expected
+to give his opinion by post here. If he did post anything
+about that suggestion within one week. we will consider
+this situation by two ways. one is that he has login during
+that time another is that he didn't login in that time.
+If he indeed login in that time but didn't give any respond
+about a suggestion, we will take it as he SUPPORT that
+suggestion as DEFAULT and this will reduce his reputation
+in this committee for not fulfiling his duty. If he didn't
+login during that period, then we will remove his name out
+of the committee temporarily. and the result of this suggestion
+will be determined by a smaller group of the committee.
+Did I make this rules clear? any one has anything unclearly,
+please just post your question out. And this rules will be
+approved unless more than one committee member post agains it.
+If no more than one ppl against this, this will be used
+until we other suggestion against this rules approved.
+xixi:)
+cheers
+fire
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new wizards
+ÈÕÆÚ: Thu Mar 18 15:36:58 1999
+I am sorry that i promote two wizards without discuss
+within the wizcommittee, they are yuyin and guanfeng
+I will not do like this next time. 
+sorry.
+swallow is an old wizard before.
+mimi is a dummy or me. 
+because sometime when players find i am online, they
+continue ask me questions so i can't code at all.
+therefore i create a dummy wiz to check code quitely
+bow
+the latest tasklist has been announced in wiz.com
+and also put in the man system
+please use man tasklist to check
+thanks
+
+
+---
+×÷Õß: Ğş±ù(ice)
+ÌâÄ¿: I get it
+ÈÕÆÚ: Fri Feb 25 12:02:16 2000
+I think i get the spirit of working in mirrors.
+pardon me.:P
+
+
+---
+×÷Õß: »ÆµÛ(emperor)
+ÌâÄ¿: Í¬Òâfire,´ó¼Ò¿ì°ïfireºÍstefan·ÖÓÇ½âÄÑ°É
+ÈÕÆÚ: Thu Feb 24 08:15:15 2000
+as title
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: The work as an admin in the mirror site.
+ÈÕÆÚ: Wed Feb 23 17:49:35 2000
+The admin in the mirror site will not going to do and programming
+there. The reason is simple, he can't even view the source code
+in the mirror site. Now I list what an admin may do in a mirror.
+1 To watch and report bugs 
+  As you all know, because our system is much more complex than 
+  other Chinese Mud, so there are many bugs in our system. This
+  maybe even more obvious in a new mirror. For example because the
+  lack of severl news group caused some room unaccessable is a very
+  typical bug in mirrors. To watch bug is simple, just need
+  a chan errors /on        This will open the error message channel
+  b When find some error message, use 
+    dbxwhere last,  to findout which files caused the bug and some
+    information.
+  c Then use dbxframe last <frame number> to view the source code which
+    caused the error message. and report them to main site.
+
+2 To handle urgent events.
+  In most situation, the bug doesn't cause too much trouble, but 
+  sometimes, it may cause a player traped in a mache or in the war field.
+  In this case, they need urgent help from a wiz.
+  In certain cases, bugs may cause disaster lose for a country or an area,
+  and we are responsible to recover their lose.
+
+3 To find if there are some ways to cheat in our mud.
+  New players may find new ways to cheat. One example is they find can
+  give other players money by type put gold in <sb>. 
+
+4 Help new players.
+  Our mud is so different from other chinese muds that many players find
+  it's hard to begin in our mud. Even though we have plenty help files,
+  few players have the patient to read at begining and some of the helps
+  are missleading. I have goto Tsing's BBS and find there is a warm discuss
+  about our mud. But I find none of the post can really tell others what
+  our mud is like. In other word, few ppl really understand what mud it is.
+  So we need some highhand and wizs from main site to help them getting 
+  start.
+
+5 Post and announce the new progress
+  Now several systems are under development, and each day we may release 
+  something new. So the admin in the mirror need announce and post these
+  progresses.
+
+6 Deal with complains.
+  Different site may have different problems. xfan has raise two problem.
+  One is use channnel to flood, another is a none char player will lost
+  most of his stuff when disconnected, which are quite common on his site.
+  When we got these complain, we can modify our code to solve the problems.
+  If we can't, it's better to give some explains.
+
+Anyway, a mirror difinately need an admin from main site to work there. And
+it's not necessary to be the programer.
+Of cause, I can do some of the work, but I can't do all. I've heard that
+the farm in FZ site can't work. I try to figure it out but find it's
+impossible.
+That site is TOO LAG for me. On other hand, I don't have so much time to
+look after more than 2 sites. So I raise this problems and want every wizs
+share this task. I believe every one in our wiz team can be a good admin
+in the mirror site, because he has a full team backup him and can always 
+goto the main site to check code and seeking for help.
+
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: About the admin of mirror site
+ÈÕÆÚ: Tue Feb 22 20:12:48 2000
+Now we are going to open more and more mirrors. I think for
+each mirror, we should have one or two members in our wiz
+group to be the admin there to help maintain and deal with
+bugs. I suggest to share the chance and tasks among the wiz
+group. Each senior wiz has the responsiblity and right to 
+admin one or two mirror.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: >About the admin of mirror site
+ÈÕÆÚ: Wed Feb 23 07:49:18 2000
+can i be the only exception?.:P
+as all guys know, i am not a programmer, thus.....
+pardon me..
+* escape
+
+I hope to take the responsibility but i dun have enough ability.:P
+however, i cannot spare enough time to spend in mud in the current
+situation, I will do whatever i can do, except the admin.:P
+pardon me again.
+
+regards
+ice
+
+

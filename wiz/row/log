@@ -1,0 +1,450 @@
+/wiz/row/exec.c line 6: Missing '(' in macro call before >("o");}
+/wiz/row/exec.c line 6: Undefined variable 'GETHERE' before ("o");}
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: Undefined variable 'GETHERE' before }
+/wiz/row/exec.c line 6: Undefined variable 'sgdomain' before jieyi/oldguy.c:1]));
+/wiz/row/exec.c line 6: Bad argument 1 to '/': "string " before jieyi/oldguy.c:1]));
+/wiz/row/exec.c line 6: Undefined variable 'jieyi' before oldguy.c:1]));}
+/wiz/row/exec.c line 6: Undefined variable 'oldguy' before c:1]));}
+/wiz/row/exec.c line 6: parse error before c:1]));}
+/wiz/row/exec.c line 6: Undefined variable 'sgdomain' before jieyi/oldguy.c:1]));
+/wiz/row/exec.c line 6: Bad argument 1 to '/': "string " before jieyi/oldguy.c:1]));
+/wiz/row/exec.c line 6: Undefined variable 'jieyi' before oldguy.c:1]));}
+/wiz/row/exec.c line 6: Undefined variable 'oldguy' before c:1]));}
+/wiz/row/exec.c line 6: parse error before c:1]));}
+/wiz/row/exec.c line 6: Undefined variable 'sgdomain' before jieyi/oldguy.c:1]) )
+/wiz/row/exec.c line 6: Bad argument 1 to '/': "string " before jieyi/oldguy.c:1]) )
+/wiz/row/exec.c line 6: Undefined variable 'jieyi' before oldguy.c:1]) );}
+/wiz/row/exec.c line 6: Undefined variable 'oldguy' before c:1]) );}
+/wiz/row/exec.c line 6: parse error before c:1]) );}
+/wiz/row/exec.c line 6: parse error before GETHERE();}
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: parse error before GETHERE("");}
+/wiz/row/exec.c line 6: parse error before GETHERE;}
+/wiz/row/exec.c line 6: Missing '(' in macro call before }
+/wiz/row/exec.c line 6: parse error before GETHERE("exits");}
+/wiz/row/exec.c line 6: parse error before );}
+/wiz/row/exec.c line 6: Undefined variable 'rickal' before set_sg_skill("sk_wul
+/wiz/row/exec.c line 6: parse error before rickal->set_sg_skill
+/wiz/row/exec.c line 6: parse error before sabah->set_sg_skill(
+/wiz/row/exec.c line 6: parse error before flag->set_sg_skill("
+/wiz/row/exec.c line 6: parse error before flag->set_sg_skill("
+/wiz/row/exec.c line 6: parse error before std/race/human#70556
+/wiz/row/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 0556,2950);}
+/wiz/row/exec.c line 6: parse error before "kingkui;}
+/wiz/row/exec.c line 7: End of file in string at the end of the file
+/wiz/row/exec.c line 6: parse error before "kingkui","weapon":"
+/wiz/row/exec.c line 6: parse error before "horse":"hxbma"]));}
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: parse error before );}
+/wiz/row/exec.c line 6: parse error before ));}
+/wiz/row/exec.c line 6: parse error before time;}
+/wiz/row/exec.c line 6: parse error before time();}
+/wiz/row/exec.c line 6: parse error before "jianye","builder":"
+/wiz/row/exec.c line 6: Undefined variable 'MONEY_' before }
+/wiz/row/exec.c line 6: Undefined function findchar before ;}
+/wiz/row/exec.c line 6: parse error before fun->set_test_time(5
+/wiz/row/exec.c line 6: parse error before fun->set_test_time(7
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: Missing '(' in macro call before }
+/wiz/row/exec.c line 6: Undefined variable 'GETHERE' before the end of line
+/wiz/row/exec.c line 6: parse error before the end of line
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: Undefined variable 'GETHERE' before }
+/wiz/row/exec.c line 6: Missing '(' in macro call before }
+/wiz/row/exec.c line 6: Undefined variable 'GETHERE' before the end of line
+/wiz/row/exec.c line 6: parse error before the end of line
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: Undefined variable 'GETHERE' before }
+/wiz/row/exec.c line 6: parse error before GETHERE();}
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: parse error before GETHERE;}
+/wiz/row/exec.c line 6: Missing '(' in macro call before }
+/wiz/row/exec.c line 6: Missing '(' in macro call before }
+/wiz/row/exec.c line 6: Undefined variable 'SETHERE' before the end of line
+/wiz/row/exec.c line 6: parse error before the end of line
+/wiz/row/exec.c line 6: Undefined variable 'HERE' before }
+/wiz/row/exec.c line 6: parse error before ("footman":5683]));}
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: Undefined function findchar before ->responda("ask mast
+/wiz/row/exec.c line 6: parse error before "dilu","torso":"baih
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: Undefined function idfind before ->responda("ask mast
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: Undefined variable 'GETHERE' before }
+/wiz/row/npc/zth.c line 46: Undefined function ask_meet before ;
+/wiz/row/npc/zth.c line 103: Warning: Unused local variable 'p_s' before the end of line
+/wiz/row/npc/zth.c line 181: Warning: Unused local variable 'p_s' before the end of line
+/wiz/row/npc/zth.c line 181: Warning: Unused local variable 'isrobot' before the end of line
+/wiz/row/npc/zth.c line 198: Illegal lvalue before 20)
+/wiz/row/npc/zth.c line 209: parse error before ;
+/wiz/row/exec.c line 6: parse error before zhiwei->add_id("zhiw
+/wiz/row/npc/lmeat.c line 56: Reserved type name unexpected. before ;
+/wiz/row/npc/lmeat.c line 56: parse error before ;
+/wiz/row/npc/lmeat.c line 57: Illegal LHS before the end of line
+/wiz/row/npc/lmeat.c line 57: Warning: Expression has no side effects, and the value is unused before the end of line
+/wiz/row/npc/lmeat.c line 58: Undefined variable 'm_hp' before 10)
+/wiz/row/npc/lmeat.c line 83: Undefined variable 'ob' before new(__DIR__"pork");
+/wiz/row/npc/lmeat.c line 83: Illegal lvalue before new(__DIR__"pork");
+/wiz/row/npc/lmeat.c line 87: parse error before the end of file
+/wiz/row/npc/lmeat.c line 84: parse error before the end of file
+/wiz/row/npc/lmeat.c line 84: parse error before the end of file
+/wiz/row/npc/lmeat.c line 25: Undefined function set_ori_size before ;
+/wiz/row/npc/lmeat.c line 25: Undefined function set_ori_size before ;
+/wiz/row/exec.c line 6: parse error before 1]));}
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: parse error before yeying->set_age(18);
+/wiz/row/exec.c line 7: End of file in string at the end of the file
+/wiz/row/exec.c line 7: parse error at the end of the file
+/wiz/row/exec.c line 6: Left argument of -> is not a class before }
+/wiz/row/exec.c line 6: parse error before TASK_D->remove_all()
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: Undefined variable 'SETHERE' before }
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: Undefined variable 'SETHERE' before }
+/wiz/row/exec.c line 6: parse error before ",100);}
+/wiz/row/exec.c line 7: End of file in string at the end of the file
+/wiz/row/exec.c line 6: Left argument of -> is not a class before }
+/wiz/row/exec.c line 6: Left argument of -> is not a class before }
+/wiz/row/npc/gfz.c line 11: Illegal to inherit after defining global variables. before the end of line
+/wiz/row/npc/gfz.c line 57: parse error before the end of line
+/wiz/row/npc/gfz.c line 80: Undefined variable 'usr' before query_id()[0];
+/wiz/row/npc/gfz.c line 80: Illegal LHS before the end of line
+/wiz/row/npc/gfz.c line 80: parse error before the end of line
+/wiz/row/npc/gfz.c line 93: Illegal LHS before the end of line
+/wiz/row/npc/gfz.c line 11: Illegal to inherit after defining global variables. before the end of line
+/wiz/row/npc/gfz.c line 161: Warning: Unused local variable 'ob' before the end of line
+/wiz/row/npc/gfz.c line 161: Warning: Unused local variable 'ob' before the end of line
+/wiz/row/npc/gfz.c line 161: Warning: Unused local variable 'ob' before the end of line
+/wiz/row/npc/gfz.c line 166: Warning: Unused local variable 'ob' before the end of line
+/wiz/row/npc/soybean.c line 45: Undefined variable 'soil' before query_isfill();
+/wiz/row/npc/soybean.c line 54: parse error before the end of line
+/wiz/row/npc/soybean.c line 54: parse error before the end of line
+/wiz/row/npc/shimo.c line 5: parse error before ;
+/wiz/row/npc/shimo.c line 66: Undefined variable 'ob' before new(__DIR__"pork");
+/wiz/row/npc/shimo.c line 66: Illegal lvalue before new(__DIR__"pork");
+/wiz/row/npc/shimo.c line 5: parse error before ;
+/wiz/row/npc/shimo.c line 5: parse error before ;
+/wiz/row/npc/shimo.c line 5: parse error before ;
+/wiz/row/npc/shimo.c line 6: parse error before ;
+/wiz/row/npc/shimo.c line 29: Undefined variable 'isput' before 0;
+/wiz/row/npc/shimo.c line 29: Illegal lvalue before 0;
+/wiz/row/npc/shimo.c line 33: Undefined variable 'isput' before 1&&status<11)
+/wiz/row/npc/shimo.c line 56: Undefined variable 'write' before ;
+/wiz/row/npc/shimo.c line 56: parse error before ;
+/wiz/row/npc/shimo.c line 58: Warning: Expression has no side effects, and the value is unused before  (status<31)
+/wiz/row/npc/shimo.c line 33: Undefined variable 'isput' before 1&&status<11)
+/wiz/row/npc/shimo.c line 56: Undefined variable 'write' before ;
+/wiz/row/npc/shimo.c line 56: parse error before ;
+/wiz/row/npc/shimo.c line 58: Warning: Expression has no side effects, and the value is unused before  (status<31)
+/wiz/row/exec.c line 6: parse error before "/wiz/row/soybean#17
+/wiz/row/exec.c line 6: parse error before wiz/row/soybean#1783
+/wiz/row/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 78340->can_give(1);}
+/wiz/row/exec.c line 6: parse error before /wiz/row/soybean#178
+/wiz/row/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 78340->can_give(1);}
+/wiz/row/npc/soybean.c line 53: Left argument of -> is not a class before the end of line
+/wiz/row/npc/soybean.c line 53: Warning: Expression has no side effects, and the value is unused before the end of line
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/npc/soybean.c line 13: parse error before 	set_in_room_desc("Ò
+/wiz/row/npc/soybean.c line 13: parse error before 	set_in_room_desc("Ò
+/wiz/row/npc/shimo.c line 79: Warning: Unused local variable 'x' before the end of line
+/wiz/row/npc/gfz.c line 114: parse error before the end of line
+/wiz/row/npc/gfz.c line 122: Illegal LHS before the end of line
+/wiz/row/npc/gfz.c line 122: parse error before the end of line
+/wiz/row/npc/gfz.c line 130: Illegal LHS before the end of line
+/wiz/row/npc/gfz.c line 130: parse error before the end of line
+/wiz/row/npc/gfz.c line 136: Illegal LHS before the end of line
+/wiz/row/exec.c line 6: parse error before /wiz/row/npc/shimo#1
+/wiz/row/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 94554"->query_isfill
+/wiz/row/npc/cruet.c line 32: Undefined variable 'soy' before present("cruet",play
+/wiz/row/npc/cruet.c line 32: Illegal lvalue before present("cruet",play
+/wiz/row/exec.c line 6: parse error before daitoue->responda("e
+/wiz/row/npc/shimo.c line 139: parse error before  1;
+/wiz/row/npc/shimo.c line 145: parse error before (this_object(),"%^H_
+/wiz/row/npc/shimo.c line 139: parse error before  1;
+/wiz/row/npc/cruet.c line 50: Warning: Non-void functions must return a value. before the end of line
+/wiz/row/npc/gfz.c line 33: parse error before ","$N¶Ô$TµÀ£º¹ØÊ¦¸µ£
+/wiz/row/npc/gfz.c line 33: $var illegal outside of function pointer. before N¶Ô$TµÀ£º¹ØÊ¦¸µ£¬Õâ¸
+/wiz/row/npc/gfz.c line 33: $var illegal outside of function pointer. before TµÀ£º¹ØÊ¦¸µ£¬Õâ¸ö×ö¶
+/wiz/row/npc/gfz.c line 34: $var illegal outside of function pointer. before N¶Ô$TµÀ£ºÕâÎ»$R£¬ÓÐÊ
+/wiz/row/npc/gfz.c line 34: $var illegal outside of function pointer. before TµÀ£ºÕâÎ»$R£¬ÓÐÊ²Ã´Î
+/wiz/row/npc/gfz.c line 34: $var illegal outside of function pointer. before R£¬ÓÐÊ²Ã´ÎÒ¿ÉÒÔ°ïÃ¦µ
+/wiz/row/npc/gfz.c line 57: Undefined function ask_soybean before ;
+/wiz/row/npc/gfz.c line 60: Undefined function ask_cruet before ;
+/wiz/row/npc/gfz.c line 212: Warning: Expression has no side effects, and the value is unused before ;
+/wiz/row/npc/gfz.c line 212: parse error before ;
+/wiz/row/npc/gfz.c line 252: Warning: Expression has no side effects, and the value is unused before ;
+/wiz/row/npc/gfz.c line 252: parse error before ;
+/wiz/row/npc/gfz.c line 255: Warning: Value of conditional expression is unused before ()->targetted_action
+/wiz/row/exec.c line 6: Undefined variable 'HOUSE_D' before get_house("castle");
+/wiz/row/exec.c line 6: Undefined variable 'HOUSE_D' before query_house("castle"
+/wiz/row/exec.c line 6: Undefined variable 'HOUSE_D' before check_house("castle"
+/wiz/row/npc/guozi.c line 24: parse error before Ú");
+/wiz/row/npc/guozi.c line 88: $var illegal outside of function pointer. before NÏëÒªÉ¨%^H_YELLOW%^¶
+/wiz/row/npc/guozi.c line 112: $var illegal outside of function pointer. before N³ÔÁ¦µØÌ§Æð´ó¹ø×Ó£¬½
+/wiz/row/npc/guozi.c line 131: End of file in string at the end of the file
+/wiz/row/npc/guozi.c line 25: parse error before Ú");
+/wiz/row/npc/guozi.c line 89: $var illegal outside of function pointer. before NÏëÒªÉ¨%^H_YELLOW%^¶
+/wiz/row/npc/guozi.c line 113: $var illegal outside of function pointer. before N³ÔÁ¦µØÌ§Æð´ó¹ø×Ó£¬½
+/wiz/row/npc/guozi.c line 132: End of file in string at the end of the file
+/wiz/row/npc/m_waveable.c line 97: Undefined function all_atventory before +all_atventory(envir
+/wiz/row/npc/m_waveable.c line 97: Undefined function all_atventory before +all_inventory(envir
+/wiz/row/npc/fan.c line 15: parse error before »Ãæ´óÉÈ×Ó(fan)£¬±úÉÏ
+/wiz/row/npc/fan.c line 65: $var illegal outside of function pointer. before NÓÃÁ¦ÎÕ×¡Ê¯Ä¥ÉÏµÄÄ¾±
+/wiz/row/npc/fan.c line 66: $var illegal outside of function pointer. before NÇ°ÍÈÇú£¬ºóÍÈÖ±£¬Ñü°
+/wiz/row/npc/fan.c line 67: $var illegal outside of function pointer. before NÊ¹¾¢µØÍÆ×ÅÊ¯Ä¥£¬ÔÚÊ
+/wiz/row/npc/fan.c line 68: $var illegal outside of function pointer. before NÊ¹³ö³ÔÄÌµÄ¾¢ÍÆ×ÅÄ¥£
+/wiz/row/npc/fan.c line 88: End of file in string at the end of the file
+/wiz/row/npc/fan.c line 80: Undefined variable 'isfill' before 1)
+/wiz/row/npc/fan.c line 82: Undefined variable 'status' before 0;
+/wiz/row/npc/fan.c line 82: Illegal lvalue before 0;
+/wiz/row/npc/fan.c line 80: Undefined variable 'isfill' before 1)
+/wiz/row/npc/fan.c line 82: Undefined variable 'status' before 0;
+/wiz/row/npc/fan.c line 82: Illegal lvalue before 0;
+/wiz/row/exec.c line 6: Left argument of -> is not a class before "iori","°ËÉñÆø"});}
+/wiz/row/exec.c line 6: parse error before "iori","°ËÉñÆø"});}
+/wiz/row/npc/mutong.c line 10: parse error before  do_cold()
+/wiz/row/npc/mutong.c line 11: parse error before  query_status()
+/wiz/row/npc/mutong.c line 12: parse error before  query_isfill()
+/wiz/row/npc/mutong.c line 13: parse error before  set_isfill()
+/wiz/row/npc/mutong.c line 14: parse error before  finish_job()
+/wiz/row/npc/mutong.c line 16: parse error before  *desc = ({
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: Undefined variable 'SETHERE' before }
+/wiz/row/npc/gfz.c line 167: Left argument of -> is not a class before 1)
+/wiz/row/exec.c line 6: Newline in string before the end of file
+/wiz/row/exec.c line 6: Undefined variable 'SETHERE' before the end of file
+/wiz/row/exec.c line 6: parse error before the end of file
+/wiz/row/exec.c line 6: parse error before :1,"/sgdomain/job/ma
+/wiz/row/exec.c line 6: parse error before 10,"name":"×ö¶¹¸¯","
+/wiz/row/exec.c line 6: parse error before 10);}
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/visitofficer.c line 27: parse error before (!objectp(o)) return
+/wiz/row/visitofficer.c line 29: Illegal LHS before the end of line
+/wiz/row/visitofficer.c line 29: Warning: Expression has no side effects, and the value is unused before the end of line
+/wiz/row/visitofficer.c line 32: Illegal to use local variable in functional. before  );
+/wiz/row/visitofficer.c line 32: Illegal to use local variable in functional. before  );
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/visitofficer.c line 32: Illegal to use local variable in functional. before  );
+/wiz/row/visitofficer.c line 32: parse error before  ))  ) :) );
+/wiz/row/visitofficer.c line 33: Illegal LHS before the end of line
+/wiz/row/visitofficer.c line 33: parse error before the end of line
+/wiz/row/visitofficer.c line 37: Illegal LHS before the end of line
+/wiz/row/visitofficer.c line 37: parse error before the end of line
+/wiz/row/visitofficer.c line 53: Undefined variable 'me' before query_id()[0];
+/wiz/row/exec.c line 6: parse error before eat->set_sg_skill("s
+/wiz/row/exec.c line 6: parse error before eat->set_sg_skill("s
+/wiz/row/exec.c line 6: parse error before rulin->responda("cmd
+/wiz/row/exec.c line 7: End of file in string at the end of the file
+/wiz/row/exec.c line 7: parse error at the end of the file
+/wiz/row/exec.c line 6: parse error before wzc->remove();}
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/row/exec.c line 6: Undefined variable 'SETHERE' before }
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: Undefined variable 'yantieyi' before enable_chan();}
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: Missing '(' in macro call before >set_room("/sgdomain
+/wiz/row/exec.c line 6: Undefined variable 'SGHOME' before set_room("/sgdomain/
+/wiz/row/exec.c line 6: Undefined function set_room before ;}
+/wiz/row/exec.c line 6: Wrong number of macro arguments before ->set_room("/sgdomai
+/wiz/row/exec.c line 6: Undefined variable 'SGHOME' before set_room("/sgdomain/
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: parse error before " : "jianye",  "t" :
+/wiz/row/exec.c line 7: End of file in string at the end of the file
+/wiz/row/exec.c line 6: Undefined variable 'HOUSE_D' before get_house("castle","
+/wiz/row/exec.c line 6: parse error before );}
+/wiz/row/exec.c line 6: parse error before 5000]));}
+/wiz/row/exec.c line 6: Left argument of -> is not a class before }
+/wiz/row/exec.c line 6: Left argument of -> is not a class before }
+/wiz/row/npc/qgl.c line 52: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 95: Undefined variable 'me' before targetted_action("$N
+/wiz/row/npc/qgl.c line 95: Undefined variable 'who' before o_t);
+/wiz/row/npc/qgl.c line 99: Undefined variable 'ans' before  (:answer_agree1:) )
+/wiz/row/npc/qgl.c line 99: Undefined variable 'answer_agree1' before ) );
+/wiz/row/npc/qgl.c line 99: parse error before ) );
+/wiz/row/npc/qgl.c line 105: Undefined variable 'tar' before query_primary_id();
+/wiz/row/npc/qgl.c line 52: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 95: Undefined variable 'who' before o_t);
+/wiz/row/npc/qgl.c line 99: Undefined variable 'ans' before  (:answer_agree1:) )
+/wiz/row/npc/qgl.c line 99: Undefined variable 'answer_agree1' before ) );
+/wiz/row/npc/qgl.c line 99: parse error before ) );
+/wiz/row/npc/qgl.c line 105: Undefined variable 'tar' before query_primary_id();
+/wiz/row/npc/qgl.c line 105: Illegal LHS before the end of line
+/wiz/row/npc/qgl.c line 52: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 99: Undefined variable 'answer_agree1' before ) );
+/wiz/row/npc/qgl.c line 99: parse error before ) );
+/wiz/row/npc/qgl.c line 105: Undefined variable 'tar' before query_primary_id();
+/wiz/row/npc/qgl.c line 105: Illegal LHS before the end of line
+/wiz/row/npc/qgl.c line 105: parse error before the end of line
+/wiz/row/npc/qgl.c line 106: Undefined variable 'p1girl' before "pre_div");
+/wiz/row/npc/qgl.c line 8: parse error before »
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 93: Undefined variable 'me' before clear_answer();
+/wiz/row/npc/qgl.c line 118: Undefined variable 'p1girl' before "pre_div");
+/wiz/row/npc/qgl.c line 119: Undefined variable 'p_girl' before "pre_div",0);
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 93: Undefined variable 'this_object' before clear_answer();
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 97: parse error before ("divorce",3);
+/wiz/row/npc/qgl.c line 161: == always false because of incompatible types ( string vs int ). before the end of line
+/wiz/row/npc/qgl.c line 162: parse error before the end of line
+/wiz/row/npc/qgl.c line 184: Undefined variable 'who' before query_primary_id();
+/wiz/row/npc/qgl.c line 184: Illegal LHS before the end of line
+/wiz/row/npc/qgl.c line 184: parse error before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/npc/qgl.c line 161: == always false because of incompatible types ( string vs int ). before the end of line
+/wiz/row/npc/qgl.c line 162: parse error before the end of line
+/wiz/row/npc/qgl.c line 184: Undefined variable 'who' before query_primary_id();
+/wiz/row/npc/qgl.c line 184: Illegal LHS before the end of line
+/wiz/row/npc/qgl.c line 184: parse error before the end of line
+/wiz/row/npc/qgl.c line 186: Illegal LHS before the end of line
+/wiz/row/npc/qgl.c line 63: Warning: Unused local variable 'p_age' before the end of line
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: parse error before "/std/race/human#217
+/wiz/row/exec.c line 6: parse error before 21762->query_primary
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 7: End of file in string at the end of the file
+/wiz/row/exec.c line 7: parse error at the end of the file
+/wiz/row/exec.c line 7: End of file in string at the end of the file
+/wiz/row/exec.c line 7: parse error at the end of the file
+/wiz/row/lmeat.c line 82: parse error before ¦£¬ÕÅÍÀ»§¿Ï¶¨²»»áÒªÕ
+/wiz/row/lmeat.c line 86: $var illegal outside of function pointer. before N¾Ùµ¶ÇÐÁËÏÂÈ¥£¬ÔãÁË£
+/wiz/row/lmeat.c line 86: $var illegal outside of function pointer. before NÒ»»Å£¬²»Ð¡ÐÄ°Ñ¸ÕÇÐÏ
+/wiz/row/lmeat.c line 91: $var illegal outside of function pointer. before NÓÃ²¢²»ÊìÁ·µÄÊÖ·¨²Ù×
+/wiz/row/lmeat.c line 93: $var illegal outside of function pointer. before N×óÊÖ½«%^B_WHITE%^%^
+/wiz/row/lmeat.c line 95: $var illegal outside of function pointer. before NÒ»±ß¿´×ÅÕÅÍÀ»§µÄÊÖÊ
+/wiz/row/score.c line 142: Undefined variable 'p_id' before "salary");
+/wiz/row/score.c line 142: Type mismatch ( unknown vs string ) when initializing tm1 before the end of line
+/wiz/row/score.c line 142: Missing type for global variable declaration before the end of line
+/wiz/row/score.c line 143: Type mismatch ( unknown vs string ) when initializing tm2 before the end of line
+/wiz/row/score.c line 143: Missing type for global variable declaration before the end of line
+/wiz/row/score.c line 144: "#pragma strict_types" requires type of function before "%s%s%s%s%s%s\n",bar
+/wiz/row/score.c line 142: Undefined variable 'p_id' before "salary");
+/wiz/row/score.c line 142: Type mismatch ( unknown vs string ) when initializing tm1 before the end of line
+/wiz/row/score.c line 142: Missing type for global variable declaration before the end of line
+/wiz/row/score.c line 143: Type mismatch ( unknown vs string ) when initializing tm2 before the end of line
+/wiz/row/score.c line 143: Missing type for global variable declaration before the end of line
+/wiz/row/score.c line 144: "#pragma strict_types" requires type of function before "%s%s%s%s%s%s\n",bar
+/wiz/row/score.c line 142: Undefined variable 'p_id' before "salary");
+/wiz/row/score.c line 142: Type mismatch ( unknown vs string ) when initializing tm1 before the end of line
+/wiz/row/score.c line 142: Missing type for global variable declaration before the end of line
+/wiz/row/score.c line 143: Type mismatch ( unknown vs string ) when initializing tm2 before the end of line
+/wiz/row/score.c line 143: Missing type for global variable declaration before the end of line
+/wiz/row/score.c line 144: "#pragma strict_types" requires type of function before "%s%s%s%s%s%s\n",bar
+/wiz/row/ev_annual.c line 23: parse error before  select_member()
+/wiz/row/ev_annual.c line 142: Undefined function auto_invite before ;
+/wiz/row/ev_annual.c line 152: parse error before the end of line
+/wiz/row/ev_annual.c line 153: Illegal LHS before                    
+/wiz/row/ev_annual.c line 153: parse error before                    
+/wiz/row/ev_annual.c line 154: Illegal LHS before the end of line
+/wiz/row/ev_annual.c line 142: Undefined function auto_invite before ;
+/wiz/row/ev_annual.c line 190: Undefined function auto_run before ;
+/wiz/row/ev_annual.c line 20: Missing type for argument before );
+/wiz/row/ev_annual.c line 143: Undefined function auto_invite before ;
+/wiz/row/exec.c line 6: Undefined variable 'OFFICER_d' before query_nation_officer
+/wiz/row/ev_annual.c line 55: Illegal to redeclare local name 's' before  in ppl ) {
+/wiz/row/ev_annual.c line 57: Undefined variable 'rank' before random(sizeof(rank))
+/wiz/row/ev_annual.c line 55: Illegal to redeclare local name 'o' before  in ppl ) {
+/wiz/row/ev_annual.c line 61: Undefined variable 'list2' before ({r});
+/wiz/row/ev_annual.c line 61: Illegal lvalue before ({r});
+/wiz/row/ev_annual.c line 61: Undefined variable 'list2' before ({r});
+/wiz/row/ev_annual.c line 61: Illegal lvalue before ({r});
+/wiz/row/ev_annual.c line 28: parse error before (1)};
+/wiz/row/ev_annual.c line 31: Illegal LHS before the end of line
+/wiz/row/law/ev_annual/elect.c line 53: parse error before ,"                  
+/wiz/row/law/ev_annual/elect.c line 53: Bad right argument to '%' : "string " before "%^H_CYAN%^¾ý  %^H_Y
+/wiz/row/law/ev_annual/elect.c line 53: Invalid types to '-' ( string vs int ) before "%^H_CYAN%^¾ý  %^H_Y
+/wiz/row/law/ev_annual/elect.c line 53: parse error before ¬CHAR_D->get_char(o,
+/wiz/row/law/ev_annual/elect.c line 53: Bad left argument to '%' : "string " before s+"%^H_CYAN%^¾ý  %^H
+/wiz/row/law/ev_annual/elect.c line 53: parse error before +"%^H_CYAN%^¾ý  %^H_
+/wiz/row/law/ev_annual/elect.c line 53: parse error before ¬CHAR_D->get_char(o,
+/wiz/row/law/ev_annual/elect.c line 53: parse error before ¬OFFICER_D->query_ra
+/wiz/row/law/union_channel_d/suggest.c line 187: Undefined variable 'leg_suggest' before ,"  ");
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: Undefined variable 'o' before }
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: Undefined variable 'o' before ;}
+/wiz/row/exec.c line 6: Left argument of -> is not a class before }
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: Undefined variable 'food' before  1900,"train" : 2));
+/wiz/row/exec.c line 6: parse error before  1900,"train" : 2));
+/wiz/row/stat_me.c line 157: Too few arguments to implode before );
+/wiz/row/stat_me.c line 78: Bad assignment ( array vs string ). before the end of line
+/wiz/row/stat_me.c line 84: Undefined variable 'p_ret' before sprintf("%-#60s\n",i
+/wiz/row/stat_me.c line 84: Illegal lvalue before sprintf("%-#60s\n",i
+/wiz/row/stat_me.c line 78: Bad assignment ( array vs string ). before the end of line
+/wiz/row/stat_me.c line 84: Undefined variable 'p_ret' before sprintf("%-#60s\n",i
+/wiz/row/stat_me.c line 84: Illegal lvalue before sprintf("%-#60s\n",i
+/wiz/row/info.c line 39: Missing type for argument before )
+/wiz/row/info.c line 250: Wrong number of arguments to infoa
+    Expected: 2  Got: 1 before ;
+/wiz/row/info.c line 39: Missing type for argument before )
+/wiz/row/stat_me.c line 118: parse error before      p_ret+="%^H_MAG
+/wiz/row/stat_me.c line 118: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 119: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 119: parse error before the end of line
+/wiz/row/stat_me.c line 120: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 120: parse error before the end of line
+/wiz/row/stat_me.c line 77: parse error before "population"]);
+/wiz/row/stat_me.c line 83: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 83: parse error before the end of line
+/wiz/row/stat_me.c line 89: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 89: parse error before the end of line
+/wiz/row/stat_me.c line 95: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 77: parse error before "population"]);
+/wiz/row/stat_me.c line 82: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 82: parse error before the end of line
+/wiz/row/stat_me.c line 88: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 88: parse error before the end of line
+/wiz/row/stat_me.c line 94: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 76: parse error before "population"]);
+/wiz/row/stat_me.c line 81: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 81: parse error before the end of line
+/wiz/row/stat_me.c line 87: Illegal LHS before the end of line
+/wiz/row/stat_me.c line 87: parse error before the end of line
+/wiz/row/stat_me.c line 93: Illegal LHS before the end of line
+/wiz/row/info.c line 63: Undefined variable 'arg' before  env->get_area();
+/wiz/row/info.c line 63: Illegal lvalue before  env->get_area();
+/wiz/row/info.c line 60: Undefined variable 'more' before ;	
+/wiz/row/info.c line 60: parse error before ;	
+/wiz/row/exec.c line 6: parse error before  "xuanhua",  "feet" 
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: Left argument of -> is not a class before }
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/exec.c line 6: parse error before );}
+/wiz/row/exec.c line 6: parse error before "/sgdomain/obj/other
+/wiz/row/exec.c line 7: End of file in string at the end of the file
+/wiz/row/exec.c line 7: parse error at the end of the file
+/wiz/row/exec.c line 6: Undefined variable 'list' before }
+/wiz/row/exec.c line 6: parse error before }
+/wiz/row/exec.c line 6: Undefined variable 'list' before ;}
+/wiz/row/exec.c line 6: Undefined variable 'row' before ;}
+/wiz/row/exec.c line 6: Undefined function out_skills before ;}
+/wiz/row/exec.c line 6: parse error before "hxbma"]));}
+/wiz/row/exec.c line 6: parse error before "horse","hxbma"]));}
+/wiz/row/exec.c line 6: parse error before rrr->set_is_user(0);
+/wiz/row/exec.c line 6: Undefined variable 'zhuge' before ,luoyang,10);}
+/wiz/row/exec.c line 6: parse error before ,luoyang,10);}
+/wiz/row/exec.c line 6: parse error before ;}
+/wiz/row/obj/weapon/changji.c line 17: Undefined function set_attack_ablity before ;
+/wiz/row/obj/weapon/changji.c line 19: Undefined function set_defence_ablity before ;

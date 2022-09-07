@@ -1,0 +1,17 @@
+/wiz/beans/exec.c line 7: End of file in string at the end of the file
+/wiz/beans/exec.c line 7: parse error at the end of the file
+/wiz/beans/exec.c line 6: parse error before "])",100);}
+/wiz/beans/exec.c line 6: Undefined variable 'wuli' before );}
+/wiz/beans/exec.c line 6: Undefined variable 'wuli' before );}
+/wiz/beans/exec.c line 6: parse error before );}
+/wiz/beans/exec.c line 6: parse error before );}
+/wiz/beans/exec.c line 6: Undefined variable 'wuli' before  100));}
+/wiz/beans/exec.c line 6: parse error before  100));}
+/wiz/beans/exec.c line 6: Undefined variable 'wuli' before  100, ));}
+/wiz/beans/exec.c line 6: parse error before  100, ));}
+/wiz/beans/exec.c line 6: parse error before " : 100, ])");}
+/wiz/beans/exec.c line 6: parse error before  100);}
+/wiz/beans/exec.c line 6: parse error before );}
+/wiz/beans/exec.c line 6: parse error before );}
+/wiz/beans/exec.c line 6: parse error before }
+/wiz/beans/exec.c line 6: Undefined variable 'char_d' before get_char("spig","");

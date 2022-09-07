@@ -1,0 +1,9 @@
+/wiz/ljty/workroom.c line 38: Warning: Unused local variable 'tar_msg' before the end of line
+/wiz/ljty/workroom.c line 57: Warning: Unused local variable 'tar_msg' before the end of line
+/wiz/ljty/obj/ljtybed.c line 26: Warning: Function inherited from 'std/modules/m_mountable.c' does not match current function in return type ( void vs int ) before the end of line
+/wiz/ljty/obj/horse.c line 5: Illegal to redefine 'nomask' function "set_proper_name" before the end of line
+/wiz/ljty/obj/horse.c line 5: Illegal to redefine 'nomask' function "parse_command_adjectiv_id_list" before the end of line
+/wiz/ljty/obj/horse.c line 5: Illegal to redefine 'nomask' function "set_long" before the end of line
+/wiz/ljty/obj/horse.c line 5: Illegal to redefine 'nomask' function "get_flags" before the end of line
+/wiz/ljty/obj/horse.c line 5: Illegal to redefine 'nomask' function "configure_set" before the end of line
+/wiz/ljty/obj/horse.c line 5: Illegal to redefine 'nomask' function "test_flag" before the end of line

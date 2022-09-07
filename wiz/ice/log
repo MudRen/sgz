@@ -1,0 +1,271 @@
+/wiz/ice/exec.c line 6: Undefined variable 'HOUSE_D' before check_house("jzt");}
+/wiz/ice/exec.c line 6: Undefined variable 'HOUSE_D' before get_house("jzt");}
+/wiz/ice/exec.c line 6: parse error before óÎİ");}
+/wiz/ice/exec.c line 7: End of file in string at the end of the file
+/wiz/ice/exec.c line 6: parse error before daemons/house_d->get
+/wiz/ice/exec.c line 6: parse error before ¬·Æ¶ûÌúËş");}
+/wiz/ice/exec.c line 7: End of file in string at the end of the file
+/wiz/ice/exec.c line 6: parse error before bingo->set_sg_skill(
+/wiz/ice/exec.c line 6: parse error before bingo->set_sg_skill(
+/wiz/ice/exec.c line 6: parse error before eat->set_age(18);}
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimou" }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimou" }) ]) );
+/wiz/ice/plain.c line 66: End of file in string at the end of the file
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimou" }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimou" }) ]) );
+/wiz/ice/plain.c line 66: End of file in string at the end of the file
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/exec.c line 6: parse error before  ({      100,      5
+/wiz/ice/exec.c line 6: parse error before  {      100,      50
+/wiz/ice/exec.c line 6: parse error before ({100,500}));}
+/wiz/ice/exec.c line 6: parse error before ({100,500}));}
+/wiz/ice/exec.c line 6: parse error before {100,500});}
+/wiz/ice/exec.c line 6: parse error before 100,500);}
+/wiz/ice/exec.c line 6: parse error before (["cotton":2]));}
+/wiz/ice/exec.c line 6: parse error before (["cotton":2]));}
+/wiz/ice/exec.c line 6: parse error before "beiping"]));}
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 6: parse error before }
+/wiz/ice/exec.c line 6: parse error before }
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 6: parse error before ]));}
+/wiz/ice/exec.c line 6: parse error before 20]));}
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 6: parse error before ]));}
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 7: End of file in string at the end of the file
+/wiz/ice/exec.c line 7: parse error at the end of the file
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 6: parse error before }
+/wiz/ice/exec.c line 6: parse error before ¶;}
+/wiz/ice/exec.c line 7: End of file in string at the end of the file
+/wiz/ice/exec.c line 7: parse error at the end of the file
+/wiz/ice/exec.c line 6: parse error before æ;}
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 6: parse error before );}
+/wiz/ice/exec.c line 6: parse error before  ([      "north" : "
+/wiz/ice/exec.c line 6: parse error before  ([      "north" : "
+/wiz/ice/exec.c line 6: parse error before yuyin->set_sg_skill(
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/plain.c line 54: Undefined variable 'task' before jimo }) ]) );
+/wiz/ice/plain.c line 54: parse error before jimo }) ]) );
+/wiz/ice/exec.c line 7: End of file in string at the end of the file
+/wiz/ice/exec.c line 7: parse error at the end of the file
+/wiz/ice/obj/guard.c line 9: Undefined function set_wear before ;
+/wiz/ice/obj/guard.c line 9: Undefined function set_wear before ;
+/wiz/ice/obj/jiading.c line 15: parse error before ş±ù¼Ò  ¼Ò¶¡(jia ding
+/wiz/ice/obj/jiading.c line 27: End of file in string at the end of the file
+/wiz/ice/obj/jiading.c line 15: parse error before ş±ù¼Ò  ¼Ò¶¡(jia ding
+/wiz/ice/obj/jiading.c line 27: End of file in string at the end of the file
+/wiz/ice/exec.c line 6: Undefined variable 'master' before start(3,1,"changan")
+/wiz/ice/exec.c line 6: Undefined variable 'EV_BWDH' before ->start(3,1,"luoyang
+/wiz/ice/exec.c line 6: parse error before "obj");}
+/wiz/ice/exec.c line 6: Undefined variable 'obj' before }
+/wiz/ice/exec.c line 6: Undefined variable 'here' before }
+/wiz/ice/exec.c line 6: Left argument of -> is not a class before }
+/wiz/ice/exec.c line 6: Left argument of -> is not a class before obj;}
+/wiz/ice/exec.c line 6: No class in scope has no member 'obj' before }
+/wiz/ice/exec.c line 6: Left argument of -> is not a class before }
+/wiz/ice/exec.c line 6: parse error before "name");}
+/wiz/ice/exec.c line 6: parse error before "name");}
+/wiz/ice/exec.c line 7: Unexpected end of file at the end of the file
+/wiz/ice/exec.c line 7: Undefined variable 'SETHERE' at the end of the file
+/wiz/ice/exec.c line 7: parse error at the end of the file
+/wiz/ice/exec.c line 6: parse error before SETHERE("o",(["/wiz/
+/wiz/ice/exec.c line 7: Unexpected end of file at the end of the file
+/wiz/ice/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/ice/exec.c line 6: Undefined variable 'GETHERE' before }
+/wiz/ice/ex_room.c line 12: Undefined variable 'YEL' before "Õ¹ÀÀÌü"+NOR+"");
+/wiz/ice/ex_room.c line 12: Undefined variable 'NOR' before "");
+/wiz/ice/ex_room.c line 12: Undefined variable 'YEL' before "Õ¹ÀÀÌü"+NOR+"");
+/wiz/ice/ex_room.c line 12: Undefined variable 'NOR' before "");
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "set_proper_name" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "parse_command_adjectiv_id_list" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "set_long" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "get_flags" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "configure_set" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "test_flag" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "set_proper_name" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "parse_command_adjectiv_id_list" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "set_long" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "get_flags" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "configure_set" before the end of line
+/wiz/ice/obj/furniture/xm_bed.c line 6: Illegal to redefine 'nomask' function "test_flag" before the end of line
+/wiz/ice/obj/furniture/zt_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/zt_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/zt_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/hm_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/hm_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/hm_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/xm1_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/exec.c line 7: End of file in string at the end of the file
+/wiz/ice/exec.c line 7: parse error at the end of the file
+/wiz/ice/obj/furniture/xm_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/exec.c line 6: Undefined variable 'NPCAI_D' before check_guoshi_vote("c
+/wiz/ice/exec.c line 6: Undefined variable 'NPCAI_D' before check_guoshi_volste(
+/wiz/ice/exec.c line 6: parse error before  cao");}
+/wiz/ice/exec.c line 7: End of file in string at the end of the file
+/wiz/ice/exec.c line 6: Undefined variable 'NPCAI_D' before check_guoshi_volste(
+/wiz/ice/exec.c line 6: Undefined variable 'NPCAI_D' before check_guoshi_volst("
+/wiz/ice/exec.c line 6: Undefined variable 'NPCAI_D' before check_guoshi_vote("c
+/wiz/ice/exec.c line 6: Undefined variable 'NPCAI_D' before check_guoshi_vote("g
+/wiz/ice/npc/gguard.c line 41: Undefined function ask_out before ;
+/wiz/ice/exec.c line 6: parse error before  head;}
+/wiz/ice/obj/furniture/zt_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/zt_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/zt_bed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/xmbed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/xmbed.c line 6: Illegal to redefine 'nomask' function "set_proper_name" before the end of line
+/wiz/ice/obj/furniture/xmbed.c line 6: Illegal to redefine 'nomask' function "parse_command_adjectiv_id_list" before the end of line
+/wiz/ice/obj/furniture/xmbed.c line 6: Illegal to redefine 'nomask' function "set_long" before the end of line
+/wiz/ice/obj/furniture/xmbed.c line 6: Illegal to redefine 'nomask' function "get_flags" before the end of line
+/wiz/ice/obj/furniture/xmbed.c line 6: Illegal to redefine 'nomask' function "configure_set" before the end of line
+/wiz/ice/obj/furniture/xmbed.c line 6: Illegal to redefine 'nomask' function "test_flag" before the end of line
+/wiz/ice/obj/furniture/xmbed.c line 10: Undefined function set_value before ;
+/wiz/ice/obj/furniture/xmbed.c line 7: parse error before  setup()
+/wiz/ice/exec.c line 6: parse error before }
+/wiz/ice/exec.c line 6: Undefined function GET_HERE before ;}
+/wiz/ice/exec.c line 6: parse error before GET_HERE("o");}
+/wiz/ice/exec.c line 6: parse error before get_here("o");}
+/wiz/ice/exec.c line 6: parse error before get_here();}
+/wiz/ice/exec.c line 6: Undefined function get_here before ;}
+/wiz/ice/exec.c line 6: Undefined variable 'HERE' before }
+/wiz/ice/exec.c line 6: parse error before HERE;}
+/wiz/ice/exec.c line 6: parse error before "o");}
+/wiz/ice/exec.c line 6: Undefined function GET_HERE before ;}
+/wiz/ice/exec.c line 6: Undefined function GET_HERE before ;}
+/wiz/ice/exec.c line 6: Undefined variable 'o' before ;}
+/wiz/ice/exec.c line 6: Undefined function GET_HERE before ;}
+/wiz/ice/exec.c line 6: Undefined function GET_HERE before ;}
+/wiz/ice/exec.c line 6: parse error before GET_HERE();}
+/wiz/ice/exec.c line 6: Wrong number of macro arguments before ;}
+/wiz/ice/exec.c line 6: Undefined variable 'GETHERE' before }
+/wiz/ice/exec.c line 6: Undefined variable 'maggy' before }
+/wiz/ice/exec.c line 6: parse error before "/daemons/npc_ai.c"-
+/wiz/ice/exec.c line 6: parse error before "/daemons/npc_ai.c"-
+/wiz/ice/exec.c line 6: Undefined variable 'HERE' before }
+/wiz/ice/exec.c line 6: Undefined variable 'here' before }
+/wiz/ice/exec.c line 6: parse error before »¿éÂúÊÇ¼ÉÁ®µÄÉúÈÕµ°¸
+/wiz/ice/obj/furniture/ztbed.c line 12: parse error before ("Ò»ÕÅºÀ»ªµÄ"+MAG+"×
+/wiz/ice/obj/furniture/ztbed.c line 12: parse error before ("Ò»ÕÅºÀ»ªµÄ"+MAG+"×
+/wiz/ice/obj/furniture/ztbed.c line 12: parse error before ("Ò»ÕÅºÀ»ªµÄ"+MAG+"×
+/wiz/ice/obj/furniture/ztbed.c line 12: parse error before ("Ò»ÕÅºÀ»ªµÄ"+MAG+"×
+/wiz/ice/obj/furniture/ztbed.c line 12: parse error before ("Ò»ÕÅºÀ»ªµÄ"+MAG+"×
+/wiz/ice/npc/xiaosi.c line 47: Reserved type name unexpected. before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 47: parse error before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 47: Undefined variable 'p_obj' before ;
+/wiz/ice/npc/xiaosi.c line 47: Illegal LHS before the end of line
+/wiz/ice/npc/xiaosi.c line 48: Undefined variable 'ob' before move(usr);
+/wiz/ice/npc/xiaosi.c line 48: Undefined variable 'usr' before ;
+/wiz/ice/npc/xiaosi.c line 47: Reserved type name unexpected. before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 47: parse error before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 47: Undefined variable 'p_obj' before ;
+/wiz/ice/npc/xiaosi.c line 47: Illegal LHS before the end of line
+/wiz/ice/npc/xiaosi.c line 48: Undefined variable 'ob' before move(usr);
+/wiz/ice/npc/xiaosi.c line 48: Undefined variable 'usr' before ;
+/wiz/ice/npc/xiaosi.c line 47: Reserved type name unexpected. before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 47: parse error before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 47: Undefined variable 'p_obj' before ;
+/wiz/ice/npc/xiaosi.c line 47: Illegal LHS before the end of line
+/wiz/ice/npc/xiaosi.c line 48: Undefined variable 'ob' before move(usr);
+/wiz/ice/npc/xiaosi.c line 48: Undefined variable 'usr' before ;
+/wiz/ice/obj/furniture/sofa.c line 6: Illegal to redefine 'nomask' function "set_proper_name" before the end of line
+/wiz/ice/obj/furniture/sofa.c line 6: Illegal to redefine 'nomask' function "parse_command_adjectiv_id_list" before the end of line
+/wiz/ice/obj/furniture/sofa.c line 6: Illegal to redefine 'nomask' function "set_long" before the end of line
+/wiz/ice/obj/furniture/sofa.c line 6: Illegal to redefine 'nomask' function "get_flags" before the end of line
+/wiz/ice/obj/furniture/sofa.c line 6: Illegal to redefine 'nomask' function "configure_set" before the end of line
+/wiz/ice/obj/furniture/sofa.c line 6: Illegal to redefine 'nomask' function "test_flag" before the end of line
+/wiz/ice/npc/xiaosi.c line 45: Reserved type name unexpected. before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 45: parse error before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 45: Undefined variable 'p_obj' before ;
+/wiz/ice/npc/xiaosi.c line 45: Illegal LHS before the end of line
+/wiz/ice/npc/xiaosi.c line 46: Undefined variable 'ob' before move(usr);
+/wiz/ice/npc/xiaosi.c line 46: Undefined variable 'usr' before ;
+/wiz/ice/npc/xiaosi.c line 45: Reserved type name unexpected. before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 45: parse error before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 45: Undefined variable 'p_obj' before ;
+/wiz/ice/npc/xiaosi.c line 45: Illegal LHS before the end of line
+/wiz/ice/npc/xiaosi.c line 46: Undefined variable 'ob' before move(usr);
+/wiz/ice/npc/xiaosi.c line 46: Undefined variable 'usr' before ;
+/wiz/ice/npc/xiaosi.c line 45: Reserved type name unexpected. before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 45: parse error before =OBJ_D->clone_obj(p_
+/wiz/ice/npc/xiaosi.c line 45: Undefined variable 'p_obj' before ;
+/wiz/ice/npc/xiaosi.c line 45: Illegal LHS before the end of line
+/wiz/ice/npc/xiaosi.c line 46: Undefined variable 'ob' before move(usr);
+/wiz/ice/npc/xiaosi.c line 46: Undefined variable 'usr' before ;
+/wiz/ice/npc/xiaosi.c line 9: parse error before ,"peach","smssj","yo
+/wiz/ice/plain.c line 11: parse error before (
+/wiz/ice/plain.c line 24: Illegal LHS before the end of line
+/wiz/ice/plain.c line 26: Undefined variable 'sounds' before random(sizeof(sounds
+/wiz/ice/exec.c line 6: Undefined variable 'CHAT_D' before get_char("ice","home
+/wiz/ice/exec.c line 6: parse error before n;}
+/wiz/ice/exec.c line 6: parse error before bite->set_sg_skill("
+/wiz/ice/exec.c line 6: Undefined variable 'MUSEUMD_D' before trans_to_museum("bit
+/wiz/ice/exec.c line 6: parse error before }
+/wiz/ice/exec.c line 6: Undefined variable 'HERE' before }
+/wiz/ice/exec.c line 6: parse error before HERE;}
+/wiz/ice/exec.c line 6: parse error before HERE;}
+/wiz/ice/exec.c line 6: parse error before c;}
+/wiz/ice/exec.c line 6: Undefined variable 'zitong' before 10,"nanhai":5287]));
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before geforce->set_robot(0
+/wiz/ice/exec.c line 6: parse error before }
+/wiz/ice/exec.c line 6: parse error before "/wiz/flee/menu/emot
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 6: parse error before "/wiz/flee/menu/emot
+/wiz/ice/exec.c line 6: parse error before c;}
+/wiz/ice/exec.c line 6: parse error before "/wiz/flee/menu/emot
+/wiz/ice/exec.c line 6: parse error before "/wiz/flee/menu/emot
+/wiz/ice/exec.c line 6: parse error before ->start_menu();}
+/wiz/ice/exec.c line 6: parse error before ;}
+/wiz/ice/exec.c line 6: parse error before }
+/wiz/ice/exec.c line 6: parse error before netease->get_marry()
+/wiz/ice/exec.c line 6: parse error before netease->get_marry()
+/wiz/ice/exec.c line 6: parse error before new(EMOTE_MENU)->sta
+/wiz/ice/exec.c line 6: parse error before c->start_menu();}
+/wiz/ice/exec.c line 6: parse error before c->start_menu();}
+/wiz/ice/exec.c line 6: parse error before c->start_menu;}
+/wiz/ice/exec.c line 6: Undefined variable 'emotemenu' before c->start_menu();}
+/wiz/ice/exec.c line 6: parse error before c->start_menu();}

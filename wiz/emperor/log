@@ -1,0 +1,123 @@
+/wiz/emperor/exec.c line 6: Undefined variable 'eval' before ("/wiz/flee/menu/men
+/wiz/emperor/exec.c line 6: parse error before ("/wiz/flee/menu/men
+/wiz/emperor/exec.c line 6: parse error before daemons/condition_d.
+/wiz/emperor/exec.c line 6: Undefined variable 'daemons' before condition_d.c->do_su
+/wiz/emperor/exec.c line 6: Undefined variable 'condition_d' before c->do_summary();}
+/wiz/emperor/exec.c line 6: parse error before c->do_summary();}
+/wiz/emperor/exec.c line 6: parse error before daemons/condition_d.
+/wiz/emperor/exec.c line 6: parse error before /daemons/condition_d
+/wiz/emperor/exec.c line 6: parse error before daemons/condition_d.
+/wiz/emperor/baby/gravidity.c line 3: Cannot #include condition.h before #include <ansi.h>
+/wiz/emperor/baby/gravidity.c line 19: Undefined variable 'p_id' before "h");
+/wiz/emperor/baby/gravidity.c line 24: Undefined variable 'NO_BEDROOM' before the end of line
+/wiz/emperor/baby/gravidity.c line 41: Undefined variable 'npcs' before h1->get_npc();
+/wiz/emperor/baby/gravidity.c line 41: Illegal lvalue before h1->get_npc();
+/wiz/emperor/baby/gravidity.c line 70: Undefined variable 'me' before start_busy(30+random
+/wiz/emperor/baby/gravidity.c line 3: Cannot #include condition.h before #include <ansi.h>
+/wiz/emperor/baby/gravidity.c line 19: Undefined variable 'p_id' before "h");
+/wiz/emperor/baby/gravidity.c line 24: Undefined variable 'NO_BEDROOM' before the end of line
+/wiz/emperor/baby/gravidity.c line 41: Undefined variable 'npcs' before h1->get_npc();
+/wiz/emperor/baby/gravidity.c line 41: Illegal lvalue before h1->get_npc();
+/wiz/emperor/baby/gravidity.c line 70: Undefined variable 'me' before start_busy(30+random
+/wiz/emperor/baby/gravidity.c line 3: Cannot #include condition.h before #include <ansi.h>
+/wiz/emperor/baby/gravidity.c line 24: Undefined variable 'NO_BEDROOM' before the end of line
+/wiz/emperor/baby/gravidity.c line 88: Undefined variable 'parter' before " "+ id + (i);
+/wiz/emperor/baby/gravidity.c line 93: Undefined variable 'o_h' before add_npc(o);
+/wiz/emperor/baby/gravidity.c line 113: parse error before  :
+/wiz/emperor/baby/gravidity.c line 123: Illegal LHS before the end of line
+/wiz/emperor/baby/gravidity.c line 3: Cannot #include condition.h before #include <ansi.h>
+/wiz/emperor/baby/gravidity.c line 125: parse error before  :
+/wiz/emperor/baby/gravidity.c line 3: Cannot #include condition.h before #include <ansi.h>
+/wiz/emperor/baby/gravidity.c line 171: Undefined variable 'CND_CONTINUE' before the end of line
+/wiz/emperor/exec.c line 6: parse error before CHAR_D->setchar_loca
+/wiz/emperor/exec.c line 6: parse error before /daemons/char_d.c->s
+/wiz/emperor/exec.c line 6: parse error before /daemons/char_d.c->s
+/wiz/emperor/exec.c line 6: parse error before  /daemons/char_d.c->
+/wiz/emperor/exec.c line 6: parse error before daemons/char_d.c->se
+/wiz/emperor/exec.c line 6: parse error before /daemons/char_d.c->s
+/wiz/emperor/exec.c line 6: parse error before daemons/char_d.c->se
+/wiz/emperor/exec.c line 6: parse error before /daemons/char_d.c->s
+/wiz/emperor/exec.c line 6: parse error before /daemons/char_d.c->s
+/wiz/emperor/exec.c line 6: parse error before /daemons/char_d.c->s
+/wiz/emperor/exec.c line 6: parse error before /daemons/char_d.c->s
+/wiz/emperor/exec.c line 6: parse error before /daemons/char_d.c->s
+/wiz/emperor/exec.c line 6: parse error before daemons/char_d.c->se
+/wiz/emperor/exec.c line 6: Undefined variable 'daemons' before char_d.c->setchar_lo
+/wiz/emperor/exec.c line 6: Undefined variable 'char_d' before c->setchar_localcont
+/wiz/emperor/exec.c line 6: parse error before c->setchar_localcont
+/wiz/emperor/exec.c line 6: parse error before carol->set_robot(10)
+/wiz/emperor/whoip.c line 54: parse error before  (ob = find_user(arg
+/wiz/emperor/whoip.c line 46: Reserved type name unexpected. before ;
+/wiz/emperor/whoip.c line 46: parse error before ;
+/wiz/emperor/whoip.c line 47: Illegal LHS before the end of line
+/wiz/emperor/whoip.c line 48: 'user' is not a local or a global variable. before  in userlist ){
+/wiz/emperor/whoip.c line 48: Undefined variable 'userlist' before {
+/wiz/emperor/whoip.c line 50: Undefined variable 'user' before query_chinese_id()?u
+/wiz/emperor/whoip.c line 46: Reserved type name unexpected. before =([]);
+/wiz/emperor/whoip.c line 46: parse error before =([]);
+/wiz/emperor/whoip.c line 46: Illegal LHS before the end of line
+/wiz/emperor/whoip.c line 47: Undefined variable 'userlist' before  sort_array(users(),
+/wiz/emperor/whoip.c line 47: Illegal lvalue before  sort_array(users(),
+/wiz/emperor/whoip.c line 48: 'user' is not a local or a global variable. before  in userlist ){
+/wiz/emperor/whoip.c line 21: Illegal to inherit after defining global variables. before the end of line
+/wiz/emperor/whoip.c line 59: Undefined variable 'c_str' before  RED;
+/wiz/emperor/whoip.c line 59: Illegal lvalue before  RED;
+/wiz/emperor/whoip.c line 58: Bad assignment ( string vs int ). before the end of line
+/wiz/emperor/whoip.c line 58: Bad assignment ( string vs int ). before the end of line
+/wiz/emperor/whoip.c line 59: parse error before  = COUNTRY_D->get_co
+/wiz/emperor/whoip.c line 59: Illegal LHS before the end of line
+/wiz/emperor/whoip.c line 59: parse error before the end of line
+/wiz/emperor/whoip.c line 62: Illegal LHS before the end of line
+/wiz/emperor/whoip.c line 62: parse error before the end of line
+/wiz/emperor/whoip.c line 58: Bad assignment ( string vs int ). before the end of line
+/wiz/emperor/whoip.c line 59: parse error before  = COUNTRY_D->get_co
+/wiz/emperor/whoip.c line 59: Illegal LHS before the end of line
+/wiz/emperor/whoip.c line 59: parse error before the end of line
+/wiz/emperor/whoip.c line 62: Illegal LHS before the end of line
+/wiz/emperor/whoip.c line 62: parse error before the end of line
+/wiz/emperor/exec.c line 6: Undefined variable 'here' before stat_me();}
+/wiz/emperor/exec.c line 6: Undefined variable 'here' before stat_me();}
+/wiz/emperor/exec.c line 6: parse error before stat_me();}
+/wiz/emperor/exec.c line 6: Undefined variable 'body' before set_sk_level("qmdj",
+/wiz/emperor/exec.c line 6: parse error before l->stat_me();}
+/wiz/emperor/exec.c line 6: parse error before -'    |\  | } { } { 
+/wiz/emperor/exec.c line 6: Illegal character constant before    |\  | } { } { |  
+/wiz/emperor/exec.c line 6: Undefined variable 'cat' before ;}
+/wiz/emperor/exec.c line 6: parse error before ;}
+/wiz/emperor/exec.c line 6: Undefined variable 'cat' before ;}
+/wiz/emperor/exec.c line 6: parse error before ;}
+/wiz/emperor/exec.c line 6: Undefined variable 'cat' before ;}
+/wiz/emperor/exec.c line 6: parse error before ;}
+/wiz/emperor/exec.c line 6: Undefined variable 'cat' before ;}
+/wiz/emperor/exec.c line 6: parse error before ;}
+/wiz/emperor/exec.c line 6: Undefined function check_memory before ;}
+/wiz/emperor/te.c line 2: parse error before  setup(){
+/wiz/emperor/te.c line 2: parse error before  setup(){
+/wiz/emperor/te.c line 2: parse error before  setup(){
+/wiz/emperor/te.c line 2: parse error before  setup(){
+/wiz/emperor/te.c line 5: Undefined variable 'YEL' before "青青的小木屋"+NOR+"
+/wiz/emperor/te.c line 5: Undefined variable 'NOR' before "");
+/wiz/emperor/mm.c line 5: Undefined variable 'FLUBS' before ;  j = 0;  for(i=0, 
+/wiz/emperor/mm.c line 11: parse error before ?    if(j == xishu )
+/wiz/emperor/mm.c line 11: Illegal LHS before //FLUBS[random(fs)];
+/wiz/emperor/mm.c line 12: parse error before the end of line
+/wiz/emperor/mmm.c line 9: Undefined variable 'FLUBS' before ;
+/wiz/emperor/mm.c line 8: Undefined variable 'str' before the end of line
+/wiz/emperor/mm.c line 13: Illegal to redeclare local name 'str' before  = str1;
+/wiz/emperor/speak.c line 12: Cannot #include include/speak.h before #include <verb.h>
+/wiz/emperor/speak.c line 14: Cannot #include /c/include/talk_type.h before inherit VERB_OB;
+/wiz/emperor/speak.c line 48: Undefined variable 'TALK_LOCAL' before  str, lang);
+/wiz/emperor/speak.c line 64: Undefined variable 'TALK_LOCAL' before  str, l);
+/wiz/emperor/speak.c line 75: Undefined function do_speak_in_str_about_str before ;
+/wiz/emperor/speak.c line 94: Undefined variable 'TALK_LOCAL' before  str, "说道", l);
+/wiz/emperor/speak.c line 12: Cannot #include include/speak.h before #include <verb.h>
+/wiz/emperor/speak.c line 14: Cannot #include /c/include/talk_type.h before inherit VERB_OB;
+/wiz/emperor/speak.c line 75: Undefined function do_speak_in_str_about_str before ;
+/wiz/emperor/speak.c line 75: Undefined function do_speak_in_str_about_str before ;
+/wiz/emperor/bazi.c line 59: Undefined variable 'flage' before  0;
+/wiz/emperor/bazi.c line 59: Illegal lvalue before  0;
+/wiz/emperor/bazi.c line 80: Value indexed has a bad type : "int " before [flag];
+/wiz/emperor/bazi.c line 81: Value indexed has a bad type : "int " before ;
+/wiz/emperor/bazi.c line 99: Type mismatch ( float vs array ) when initializing nla before the end of line
+/wiz/emperor/bazi.c line 112: Type mismatch ( float vs array ) when initializing nlb before the end of line
+/wiz/emperor/bazi.c line 117: Type mismatch ( float vs array ) when initializing mlc before the end of line

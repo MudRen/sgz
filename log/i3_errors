@@ -1,0 +1,6510 @@
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "Final Realms",
+  "Network fd 7",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年五月三日下午十时五十二分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+花儿朵朵(huaer)    怀旧(klss)
+"
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  277514,
+  1304585906,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "channel" : 1,
+    "ucache" : 1,
+    "file" : 1,
+    "auth" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+    "mail" : 1,
+    "ftp" : 21,
+    "who" : 1,
+    "locate" : 1,
+    "tell" : 1,
+    "http" : 80,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  277514,
+  1304585906,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "channel" : 1,
+    "ucache" : 1,
+    "file" : 1,
+    "auth" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+    "mail" : 1,
+    "ftp" : 21,
+    "who" : 1,
+    "locate" : 1,
+    "tell" : 1,
+    "http" : 80,
+  ]),
+  0
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "Final Realms",
+  "Network fd 4",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年五月十一日下午八时五十二分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：6人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+巴山夜雨(funnyboy)        花儿朵朵(huaer)           哦了可(lddummy)
+东门吹雨(capcom)          猪哥靓(zgl)               哦也(lddummya)
+"
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "channel" : 1,
+    "ucache" : 1,
+    "tell" : 1,
+    "mail" : 1,
+    "ftp" : 21,
+    "locate" : 1,
+    "http" : 80,
+    "finger" : 1,
+    "auth" : 1,
+    "who" : 1,
+    "file" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "channel" : 1,
+    "ucache" : 1,
+    "tell" : 1,
+    "mail" : 1,
+    "ftp" : 21,
+    "locate" : 1,
+    "http" : 80,
+    "finger" : 1,
+    "auth" : 1,
+    "who" : 1,
+    "file" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "channel" : 1,
+    "ucache" : 1,
+    "tell" : 1,
+    "mail" : 1,
+    "ftp" : 21,
+    "locate" : 1,
+    "http" : 80,
+    "finger" : 1,
+    "auth" : 1,
+    "who" : 1,
+    "file" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "channel" : 1,
+    "ucache" : 1,
+    "tell" : 1,
+    "mail" : 1,
+    "ftp" : 21,
+    "locate" : 1,
+    "http" : 80,
+    "finger" : 1,
+    "auth" : 1,
+    "who" : 1,
+    "file" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "channel" : 1,
+    "ucache" : 1,
+    "tell" : 1,
+    "mail" : 1,
+    "ftp" : 21,
+    "locate" : 1,
+    "http" : 80,
+    "finger" : 1,
+    "auth" : 1,
+    "who" : 1,
+    "file" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "channel" : 1,
+    "ucache" : 1,
+    "tell" : 1,
+    "mail" : 1,
+    "ftp" : 21,
+    "locate" : 1,
+    "http" : 80,
+    "finger" : 1,
+    "auth" : 1,
+    "who" : 1,
+    "file" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "channel" : 1,
+    "ucache" : 1,
+    "tell" : 1,
+    "mail" : 1,
+    "ftp" : 21,
+    "locate" : 1,
+    "http" : 80,
+    "finger" : 1,
+    "auth" : 1,
+    "who" : 1,
+    "file" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  699873142,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "locate" : 1,
+    "http" : 80,
+    "ftp" : 21,
+    "tell" : 1,
+    "mail" : 1,
+    "channel" : 1,
+    "auth" : 1,
+    "ucache" : 1,
+    "who" : 1,
+    "file" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "locate" : 1,
+    "http" : 80,
+    "ftp" : 21,
+    "tell" : 1,
+    "mail" : 1,
+    "channel" : 1,
+    "auth" : 1,
+    "ucache" : 1,
+    "who" : 1,
+    "file" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "locate" : 1,
+    "http" : 80,
+    "ftp" : 21,
+    "tell" : 1,
+    "mail" : 1,
+    "channel" : 1,
+    "auth" : 1,
+    "ucache" : 1,
+    "who" : 1,
+    "file" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "locate" : 1,
+    "http" : 80,
+    "ftp" : 21,
+    "tell" : 1,
+    "mail" : 1,
+    "channel" : 1,
+    "auth" : 1,
+    "ucache" : 1,
+    "who" : 1,
+    "file" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "locate" : 1,
+    "http" : 80,
+    "ftp" : 21,
+    "tell" : 1,
+    "mail" : 1,
+    "channel" : 1,
+    "auth" : 1,
+    "ucache" : 1,
+    "who" : 1,
+    "file" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "locate" : 1,
+    "http" : 80,
+    "ftp" : 21,
+    "tell" : 1,
+    "mail" : 1,
+    "channel" : 1,
+    "auth" : 1,
+    "ucache" : 1,
+    "who" : 1,
+    "file" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "locate" : 1,
+    "http" : 80,
+    "ftp" : 21,
+    "tell" : 1,
+    "mail" : 1,
+    "channel" : 1,
+    "auth" : 1,
+    "ucache" : 1,
+    "who" : 1,
+    "file" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) not-allowed: Bad password
+({ /* sizeof() == 20 */
+  "startup-req-3",
+  5,
+  "三国志",
+  0,
+  "*wpr",
+  0,
+  0,
+  281739,
+  1305592066,
+  7878,
+  7879,
+  0,
+  "Lima 1.0a2",
+  "Lima",
+  "MudOS v22.2b13",
+  "LP",
+  "open",
+  "funny001@163.com",
+  ([ /* sizeof() == 12 */
+    "locate" : 1,
+    "http" : 80,
+    "ftp" : 21,
+    "tell" : 1,
+    "mail" : 1,
+    "channel" : 1,
+    "auth" : 1,
+    "ucache" : 1,
+    "who" : 1,
+    "file" : 1,
+    "finger" : 1,
+    "emoteto" : 1,
+  ]),
+  0
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "Looney II",
+  "zed",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年五月二十八日上午六时五十二分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+花儿朵朵(huaer)           巴山夜雨(funnyboy)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十时七分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：8人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+西瓜太郎(xigua)    花儿朵朵(huaer)    前田庆次(qingci)   静静(qiong)
+天地只狼(tiandi)   大米一(damii)      李牧(berlin)       胡锦涛(henhao)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十时八分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：8人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+西瓜太郎(xigua)    花儿朵朵(huaer)    前田庆次(qingci)   静静(qiong)
+天地只狼(tiandi)   大米一(damii)      李牧(berlin)       胡锦涛(henhao)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十时十一分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：8人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+西瓜太郎(xigua)    花儿朵朵(huaer)    前田庆次(qingci)   静静(qiong)
+天地只狼(tiandi)   大米一(damii)      李牧(berlin)       胡锦涛(henhao)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十时三十三分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：6人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+西瓜太郎(xigua)           花儿朵朵(huaer)           前田庆次(qingci)
+天地只狼(tiandi)          大米一(damii)             胡锦涛(henhao)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十时三十五分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：6人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+西瓜太郎(xigua)           花儿朵朵(huaer)           前田庆次(qingci)
+天地只狼(tiandi)          大米一(damii)             胡锦涛(henhao)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十时四十二分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：6人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+西瓜太郎(xigua)           花儿朵朵(huaer)           前田庆次(qingci)
+天地只狼(tiandi)          大米一(damii)             胡锦涛(henhao)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "三国志",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十一时一分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：6人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+西瓜太郎(xigua)           花儿朵朵(huaer)           李牧(berlin)
+迷糊点点(jennfier)        大米一(damii)             治国栋梁(lddummyd)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十一时三分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：6人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+西瓜太郎(xigua)           花儿朵朵(huaer)           李牧(berlin)
+迷糊点点(jennfier)        大米一(damii)             治国栋梁(lddummyd)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十一时四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：5人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+西瓜太郎(xigua)           大米一(damii)             治国栋梁(lddummyd)
+花儿朵朵(huaer)           李牧(berlin)              
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月六日下午十一时十二分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：4人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+李牧(berlin)       花儿朵朵(huaer)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月七日上午十时五分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：4人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+测试一(testuser)                       哦了可(lddummy)
+静静(qiong)                            治国栋梁(lddummyd)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志",
+  0,
+  "开发一",
+  "huaer",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年六月七日上午十时十三分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：4人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+测试一(testuser)                       哦了可(lddummy)
+静静(qiong)                            治国栋梁(lddummyd)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午八时五十一分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午八时五十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+雅典娜(athena)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午九时四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午九时十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午九时二十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午九时三十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午九时四十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午九时五十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十时四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十时十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)     小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十时二十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)     小龙(xiaolong)
+"
+})
+(<- *wpr) unk-dst: Destination is down, it said it would be back shortly
+({ /* sizeof() == 6 */
+  "who-req",
+  5,
+  "三国志总站",
+  0,
+  "三国志",
+  0
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十时三十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)     小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十时四十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)     小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十时五十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)     小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十一时四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十一时十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十一时二十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十一时三十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十一时四十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十一时五十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十二时四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十二时十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十二时二十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)     小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十二时三十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)     小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十二时四十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)     小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日上午十二时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午一时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午一时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午一时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午一时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午一时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午一时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午二时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午二时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午二时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午二时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午二时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午二时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午三时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午三时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午三时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午三时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午三时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午三时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午四时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午四时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午四时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午四时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午四时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午四时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午五时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午五时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午五时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午五时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午五时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午五时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午六时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午六时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午六时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午六时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午六时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午六时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午七时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午七时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午七时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午七时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午七时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午七时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午八时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午八时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午八时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午八时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午八时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午八时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午九时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午九时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午九时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午九时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午九时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午九时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十一时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十一时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十一时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十一时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十一时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十日下午十一时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+大米一(damii)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午零时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午零时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午零时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午零时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午零时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午零时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午一时一分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午一时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午一时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午一时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午一时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午一时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午二时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午二时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午二时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午二时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午二时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午二时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午三时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午三时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午三时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午三时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午三时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午三时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午四时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午四时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午四时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午四时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午四时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午四时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午五时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午五时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午五时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午五时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午五时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午五时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午六时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午六时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午六时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午六时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午六时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午六时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午七时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午七时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午七时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午七时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午七时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午七时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午八时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午八时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午八时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午八时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午八时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午八时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午九时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午九时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午九时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午九时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午九时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午九时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十一时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十一时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十一时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十一时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十一时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十一时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十二时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十二时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十二时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十二时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十二时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十二时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "Ardneh's World",
+  "ardneh",
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日上午十二时五十一分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午一时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午一时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午一时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午一时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午一时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午一时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午二时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午二时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午二时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午二时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午二时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午二时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午三时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午三时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午三时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午三时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午三时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午三时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午四时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午四时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午四时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午四时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午四时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午四时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午五时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午五时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午五时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午五时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午五时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午五时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午六时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午六时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午六时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午六时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午六时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午六时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午七时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午七时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午七时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午七时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午七时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午七时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午八时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午八时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午八时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午八时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午八时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午八时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午九时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午九时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午九时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午九时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午九时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午九时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十一时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十一时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十一时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十一时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十一时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十一日下午十一时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午零时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午零时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午零时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午零时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午零时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午零时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午一时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午一时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午一时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午一时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午一时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午一时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午二时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午二时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午二时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午二时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午二时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午二时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午三时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午三时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午三时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午三时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午三时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午三时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午四时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午四时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午四时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午四时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午四时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午四时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午五时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午五时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午五时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午五时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午五时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午五时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午六时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午六时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午六时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午六时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午六时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午六时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午七时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午七时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午七时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午七时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午七时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午七时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午八时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午八时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午八时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午八时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午八时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午八时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午九时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午九时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午九时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午九时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午九时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午九时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十一时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十一时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十一时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十一时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十一时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十一时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十二时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十二时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十二时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十二时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十二时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日上午十二时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午一时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午一时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午一时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午一时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午一时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午一时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午二时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午二时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午二时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午二时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午二时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午二时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午三时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午三时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午三时二十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午三时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午三时四十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午三时五十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午四时正）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午四时十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午四时十一分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午四时二十一分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午四时二十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：2人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)     王龙(wanglong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午四时三十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午四时四十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午四时五十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午五时四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午五时十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午五时二十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午五时三十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午五时四十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午五时五十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午六时四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午六时十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午六时二十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午六时三十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午六时四十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午六时五十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午七时四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午七时十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午七时二十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午七时三十四分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午七时三十八分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午九时十六分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午九时三十分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午九时三十五分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午九时四十五分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午九时五十五分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午十时五分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午十时十五分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午十时二十五分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：0人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午十时三十一分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) bad-pkt: Bad type for field who_data
+({ /* sizeof() == 7 */
+  "who-reply",
+  5,
+  "三国志总站",
+  0,
+  "三国志总站",
+  0,
+  "
+%^H_MAGENTA%^※ %^H_GREEN%^三国志总站%^H_MAGENTA%^ ※%^RESET%^  %^H_WHITE%^（当地时间：二千零十一年八月十二日下午十时四十一分）
+%^H_WHITE%^─＝%^H_YELLOW%^ID列表%^H_WHITE%^＝─%^RESET%^  %^H_WHITE%^目前总人数：1人%^RESET%^
+%^H_CYAN%^─────────────────────────────────────%^RESET%^
+小龙(xiaolong)
+"
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "smblah",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "urlbot",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "mystic_dev",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "elephant_link",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "skylib",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "firefly",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "smblah",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "firefly",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "elephant_link",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "mystic_dev",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "urlbot",
+  1
+})
+(<- *wpr) not-allowed: Your mud is not allowed to use that channel
+({ /* sizeof() == 8 */
+  "channel-listen",
+  5,
+  "三国志总站",
+  0,
+  "*wpr",
+  0,
+  "skylib",
+  1
+})

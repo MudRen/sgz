@@ -1,0 +1,62 @@
+#include <ansi.h>
+
+static string *title = ({"Ø©Ïà","Ì«Î¾","´óË¾¿Õ","Ì«ÆÍÇä","Ì«³£Çä",
+                                "ºèëÍÇä","Í¢Î¾Çä","ÎÀÎ¾Çä","×ÚÕýÇä","Ë¾Å©Çä" });
+
+void announce_elect_result(string *ss, int turn);
+void call_for_meeting(string *ss);
+void announce_process(int tt);
+void announce_start();
+void call_for_ministers(string *ss);
+void announce_end();
+void announce_nojudge(string k);
+void announce_who_win(string k);
+void announce_who_lose(string k);
+void announce_end_meeting();
+void call_for_judge();
+
+void announce_elect_result(string *ss, int turn)
+{    
+    string str  = "%^H_YELLOW%^¡¾¶«ºº¹¬Í¢¡¿%^H_RED%^¹ú¾Ë%^H_CYAN%^¶­³Ð£º\n";
+    string *msg = ({ 	"%^H_RED%^¹ú¾Ë%^H_CYAN%^¶­³Ð£ºÎá»ÊÍòËêÍòÍòËê£¬³¼ÓÐÒ»±¾£¬Æô×à±ÝÏÂ¡£%^RESET%^\n",
+			"%^H_CYAN%^ººÏ×µÛ£ºÄî¡£%^RESET%^\n",
+			"%^H_RED%^¹ú¾Ë%^H_CYAN%^¶­³Ð£ºÊÇ¡£%^RESET%^\n",
+			"%^H_RED%^¹ú¾Ë%^H_CYAN%^¶­³Ð£ºÐ¢Áé»ÊµÛ£¬ÔçÆú³¼Ãñ£¬»ÊµÛ³ÐËÃ£¬º£ÄÚÑöÍû¡£¶øµÛÄêÉÙ£¬ÍþÒÇ\n                      ²»ã¡£¬ÄÑÃâ¾ÓÉ¥Âý¶è¡£ÒËÔñÁ¼³¼£¬ÎªÆä½õÄÒ£¬¸¨×ô³¯¸Ù£¬Ó¦Ìì\n                      Ë³ÈË£¬ÒÔÎ¿ÉúÁéÖ®Íû¡£%^RESET%^\n",
+			"%^H_CYAN%^ººÏ×µÛÐßµÃÂúÁ³Í¨ºì£¬ºÞ²»µÃÕÒ¸öµØ·ì×ê½øÈ¥¡£%^RESET%^\n",
+			"%^H_CYAN%^ººÏ×µÛ£ºÉÆ£¬Èç´Ë¹ÑÈË±ã½µÒ»Ú¯£¬¹ú¾Ë´úÎªÐû¶Á°Õ¡£%^RESET%^\n",
+			"%^H_CYAN%^Æ¬¿Ìºó¡£¡£¡£%^RESET%^\n\n",
+			"%^H_RED%^¹ú¾Ë%^H_CYAN%^¶­³Ð£º·îÌì³ÐÔË£¬»ÊµÛÚ¯Ô»¡£¹ÑÈËË³Ó¦ÌìÃü£¬ÔñÁ¼³¼¶øÎªëÅ¹É£¬ÖÚÇä\n"+"                      Ìý·â£º%^RESET%^\n\n", });
+    if ( !turn||!intp(turn) ) turn = 0;
+    if ( turn>=sizeof(msg) ) {
+          foreach ( string s in ss ) {
+              str +=    HIC+"                      ´Í  "+HIG+
+			COUNTRY_D->get_country(CHAR_D->get_char(s, "nation"), "name")+
+			AREA_D->get_area(CHAR_D->get_char(s, "area"),"name")+
+			OFFICER_D->get_officer(CHAR_D->get_char(s, "ranklocal"),"name")+"£¬"+ 
+			CHENGHU_D->query_char_jun(s)+"£¬"+NOR+
+			CHAR_D->get_char(s, "name")+HIC+"¾ý  "+HIY+
+			title[CHAR_D->get_char(s,"rankroyal")]+HIC+"Ò»Ö°£»"+NOR+"\n";
+          }
+	tell( users(), str+"%^RESET%^\n");
+    } else {
+    	tell( users(), "%^H_YELLOW%^¡¾¶«ºº¹¬Í¢¡¿"+msg[turn] );
+	turn ++;
+	remove_call_out("announce_elect_result");
+        call_out("announce_elect_result", 2, ss, turn);
+    }
+    return;
+}
+void call_for_meeting(string *ss)
+{
+    int i;
+    string str  = "%^H_YELLOW%^¡¾¶«ºº¹¬Í¢¡¿%^H_RED%^¹ú¾Ë%^H_CYAN%^¶­³Ð£º·îÌì³ÐÔË£¬»ÊµÛÚ¯Ô»: Ôð\n                      ";
+    foreach ( string s in ss ) {
+	str += HIW+title[CHAR_D->get_char(s,"rankroyal")]+NOR+CHAR_D->get_char(s,"name")+"£¬";
+        i++;
+        if ( i == 3 ) {
+     	    i = 0;
+	    str += "\n                      ";
+	}
+    }
+    tell(users(), str[0..sizeof(str)-2]+"ËÙÀ´½ú¼û£¡" );
+}

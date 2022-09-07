@@ -1,0 +1,4 @@
+#/daemons/condition_d.c
+conds (["stim pack":(["path":"/sgdomain/conditions/stim_pack.c","name":"ÐË·Ü¼Á","times":5,"level":0,]),
+	"poison":(["path":"/sgdomain/conditions/poison.c","name" :"ÖÐ¶¾","times": 15,"level":1]),
+      ])

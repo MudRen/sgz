@@ -1,0 +1,27 @@
+/wiz/yuyin/exec.c line 6: Undefined variable 'yuyin' before "rongmao",30);}
+/wiz/yuyin/exec.c line 6: parse error before CHAR_D->set_char(yuy
+/wiz/yuyin/exec.c line 6: Undefined variable 'yuyin' before "rongmao");}
+/wiz/yuyin/obj/bed.c line 26: Warning: Function inherited from 'std/modules/m_mountable.c' does not match current function in return type ( void vs int ) before the end of line
+/wiz/yuyin/ji.c line 1: parse error before  /wiz/yuyin/ji.c
+/wiz/yuyin/unarmed.c line 1: parse error before  /wiz/yuyin/unarmed.
+/wiz/yuyin/unarmed.c line 215: parse error before 
+/wiz/yuyin/unarmed.c line 215: parse error before the end of line
+/wiz/yuyin/unarmed.c line 216: parse error before );
+/wiz/yuyin/unarmed.c line 215: parse error before the end of line
+/wiz/yuyin/unarmed.c line 215: parse error before the end of line
+/wiz/yuyin/unarmed.c line 215: parse error before the end of line
+/wiz/yuyin/unarmed.c line 1: parse error before  /wiz/yuyin/unarmed.
+/wiz/yuyin/exec.c line 6: Undefined variable 'xixixi' before gold",50000);}
+/wiz/yuyin/exec.c line 6: parse error before gold",50000);}
+/wiz/yuyin/exec.c line 7: End of file in string at the end of the file
+/wiz/yuyin/unarmed.c line 1: parse error before  /wiz/yuyin/unarmed.
+/wiz/yuyin/unarmed.c line 215: parse error before 
+/wiz/yuyin/exec.c line 6: parse error before Ù∑Á’˝‘⁄ø‡¡∑∑Á…ÒÕ»,√ª
+/wiz/yuyin/exec.c line 7: End of file in string at the end of the file
+/wiz/yuyin/exec.c line 7: Undefined variable 'reputation' at the end of the file
+/wiz/yuyin/exec.c line 7: parse error at the end of the file
+/wiz/yuyin/exec.c line 7: End of file in string at the end of the file
+/wiz/yuyin/exec.c line 7: Undefined variable 'reputation' at the end of the file
+/wiz/yuyin/exec.c line 7: parse error at the end of the file
+/wiz/yuyin/exec.c line 6: Undefined variable 'yuyin' before set_sg_skill("spear"
+/wiz/yuyin/obj/bed.c line 26: Warning: Function inherited from 'std/modules/m_mountable.c' does not match current function in return type ( void vs int ) before the end of line

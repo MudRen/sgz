@@ -1,0 +1,8 @@
+read_callback: self/secure/obj/socket#2
+read_callback: fd2
+read_callback: self/secure/obj/socket#2
+read_callback: fd2
+read_callback: self/secure/obj/socket#2
+read_callback: fd2
+read_callback: self/secure/obj/socket#2
+read_callback: fd2

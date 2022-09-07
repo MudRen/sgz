@@ -1,0 +1,21 @@
+/wiz/rough/exec.c line 6: Illegal character constant before }
+/wiz/rough/exec.c line 6: parse error before the end of line
+/wiz/rough/exec.c line 6: Undefined variable 'reputation' before ;}
+/wiz/rough/exec.c line 6: parse error before ;}
+/wiz/rough/exec.c line 6: Undefined variable 'notell' before ;}
+/wiz/rough/exec.c line 6: parse error before ;}
+/wiz/rough/exec.c line 6: Undefined variable 'me_notell' before ;}
+/wiz/rough/exec.c line 6: parse error before ;}
+/wiz/rough/exec.c line 6: Undefined variable 'unarmeld' before 100;}
+/wiz/rough/exec.c line 6: Undefined variable 'set_sg_skill' before dodge,200;}
+/wiz/rough/exec.c line 6: Undefined variable 'dodge' before 200;}
+/wiz/rough/exec.c line 6: Undefined variable 'here' before  taiyuan);}
+/wiz/rough/exec.c line 6: Undefined variable 'taiyuan' before ;}
+/wiz/rough/exec.c line 6: Undefined variable 'rougher' before ;}
+/wiz/rough/exec.c line 6: Undefined variable 'init_sg_gifts' before 30,20,10;}
+/wiz/rough/exec.c line 6: Undefined variable 'init_sg_gifts' before 30,20,10;}
+/wiz/rough/exec.c line 6: Undefined variable 'init_sg_gifts' before 30,20,10;}
+/wiz/rough/exec.c line 6: parse error before }
+/wiz/rough/exec.c line 6: parse error before }
+/wiz/rough/exec.c line 6: parse error before guanfeng,set_sg_skil
+/wiz/rough/exec.c line 6: parse error before daemons/char_d,get_c

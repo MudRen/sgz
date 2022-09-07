@@ -1,0 +1,135 @@
+1£ºÐÂÊÖ±Ø¶Á£¨Ò»£©¡´¸ÐÐ»ÀîìÏÌá¹©¡µ      ¡¾Row        May 15¡¿
+¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ
+ÐÂÊÖ½µÉúÖ®ºó ÆøÑª, ¾«Éñ ¶¼ÊÇ 0, ÒªÏÈÕÒÊ³ÎïºÍË®, È»ºóË¯¾õ, ×îºÃ³ÃÕâ¶ÎÊ±¼ä¿´¿´
+help
+ÆøÑªÔö³¤»Ö¸´²»¿ì, ËùÒÔ»¹ÊÇÏÈ¿´¿´ help µÄºÃ, Èç¹û²»¿´ help, Ã»Ó
+ÐÈËÄÜ°ïµÃÉÏÃ¦
+
+1. ÈçºÎÕÒÊ³Îï
+map here,  ÕÒµ½³ø·¿, ask chu niang about food, Ö»ÔÚÐÂÊÖÒ»ÎÞËùÓÐÊ±²ÅÐÐ
+
+2. ÈçºÎ¹¤×÷ºÍÍê³ÉÈÎÎñ
+read help job, ÀïÃæÐ´µÃºÜÇå³þ, Èç¹ûÃ»ÓÐ¹¤¾ß»òÆäËûÈËÕýÔÚ×ö, ÄÇÃ´ÏÈ×öÆäËû¹¤×÷°É
+
+
+3. ÈçºÎ¿´×Ô¼ºµÄ×´Ì¬
+Èç¹ûÄãÃ»ÓÐÔÚÄ³µØ¶¨¾Ó, ½«ÎÞ·¨ÁË½â×Ô¼ºµÄ×´Ì¬, read help settle
+¶¨¾ÓÒÔºó, ÓÃ info me ¿´×Ô¼ºµÄ×´Ì¬, ÆäÖÐÉùÍûÊÇµ±¹ÙµÄ±ØÒªÌõ¼þ, ÉùÍû ´óÓÚµÈÓÚ 10
+10
+µÄÊ±ºò²ÅÄÜµ±¹Ù, ´ËÍâ, »¹ÒªÏàµ±µÄ¼¼ÄÜ²ÅÄÜµ±¹Ù, ÓÃ skills ²é¿´, ÐÂÊÖÄÜµ±µÄÖ»ÓÐÎÄ
+ÐÂÊÖÄÜµ±µÄÖ»ÓÐÎÄ
+(1-20 40%) [h]:
+¹Ù
+ÎÄ¹ÙµÄ¼¼ÄÜÒªÇóÊÇ ±ø·¨ÐÞÑø(bfxy) 31 ÖÎ¹úÐÞÑø 31, ÎäÑ§ÐÞÑø ÔÚµ±ÏÍÈËÊ±²»ÄÜÔö¼Ó
+
+4. ÈçºÎÑ§ skills
+µ½Ë½ÛÓ, give 5 silver to kong, ask kong about bfxy (±ø·¨ÐÞÑø) »ò zgxy
+(ÖÎ¹úÐÞÑø) ´ÓÔÚµ±¹ÙÇ°Ö»ÄÜÑ§µ½ 31, ¶øÇÒÐèÒªÕõÇ®
+
+5. ÈçºÎµ±¹Ù
+help position, ÓÃ info me ²é¿´×Ô¼ºÓë¸÷¹ú¹ØÏµ, ÆäÖÐ´óÓÚµÈÓÚ 45 µÄ¹ú¼Ò²ÅÄÜ×Ô¼ö
+
+6. ÈçºÎÀë¿ª»ªÒõ
+help yizhan
+
+7. ¹¤×÷¶¼ÓÐÈË×öÁËÔõÃ´°ì
+ÔÚ¶¨¾ÓÒÔºó, ¿ÉÒÔ×öÕÒÈË(findbody)¹¤×÷, help findbody, ´Ë¹¤×÷¿ÉÒÔÍ¬Ê±ÈÃ¶àÈËÒ»Æð
+´Ë¹¤×÷¿ÉÒÔÍ¬Ê±ÈÃ¶àÈËÒ»Æð
+¹¤×÷
+ÈçºÎÕÒÈË¿ÉÒÔÓÃ help boy
+
+8. µ±¹ÙÒÔºóÔõÃ´Ñ§ skills
+(21-40 80%) [h]:
+Ê×ÏÈ, ÎäÑ§ÐÞÑø²»¹» 31 µÄÍæ¼Ò¿ÉÒÔÏòÍ¬¹ú¼ÒµÄ¹ÙÔ±Çë½Ì, ask sb about wxxy
+µ±È«²¿µ½´ï 31 ¼¶ÒÔºó, ¾ÍÒª¿¿¹¤×÷À´Ôö¼Ó skills ÁË, Ã¿´Î¹¤×÷»áÔö¼ÓÒ»Ð©¾­ÑéÖµ, µ±
+µ±
+¾­ÑéÖµ´ïµ½Ò»¶¨Ë®Æ½ (ÏÖÓÐµÄ¼¼ÄÜ + 1)^2 »òÓÃ skills ²é¿´Ê±±ä³ÉÀ¶É«Ê±,
+¿ÉÒÔÏòÔÚÕâÒ»Ïî
+¼¼ÄÜ±È×Ô¼ºË®Æ½¸ßµÄ¹ÙÔ±Çë½Ì
+
+9. ÆäËûµÄÇë×ÔÐÐÏêÏ¸ÔÄ¶Á help starts and help jobs
+
+
+> 
+> read 2
+[from ÁôÑÔ°å(board)]
+2£ºÈý¹ú½ú¼¶Æª¡´¸ÐÐ»ÀîìÏÌá¹©¡µ          ¡¾Row        May 16¡¿
+¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ¡þ
+  ½ú¼¶Æª :
+
+  1. ÔõÃ´Ñù²ÅÄÜÉý¹Ù
+
+  µ±±ø·¨ÐÞÑøºÍÖÎ¹úÐÞÑø´ïµ½35, ¿ÉÉýÊéÒ¯;µ±±ø·¨ÐÞÑøºÍÎäÑ§ÐÞÑø´ïµ½35, ¿ÉÉýÑÀ½«
+
+  ÏÂÒ»¼¶µÄ¹Ù½×ÐèÒª50µÄÐÞÑø
+
+  2. ²»ÊÇÃØÃÜµÄÃØÃÜ
+
+  ±ø·¨ÐÞÑø : ¿Éµ½³¤°²ÑÃÃÅ±±, ask officer about job, È»ºóÕÕ×Å×ö, 
+             ÔÚµÈ¼¶ 41 Ö®Ç°ÓÐÐ§
+
+  ÖÎ¹úÐÞÑø : µ½ÂåÑô½½»¨, help waterflower
+
+  ÎäÑ§ÐÞÑø : ÀÏÊµ¸É»î
+
+  »ù±¾Ë®¼Æ : ÔÚ»ªÒõÓÎÓ¾, ³ØÌÁ±ß, swim in pool, È»ºó ask shuijing about jbsj 
+(1-20 25%) [h]:
+             ÔÚµÈ¼¶ 30 Ö®Ç°ÓÐÐ§
+
+  »ù±¾»ð¼Æ : ¿Éµ½³¤°²ÑÃÃÅÄÏ, ask officer about job, È»ºóµ½»ðÔÖÏÖ³¡
+
+             turn shuilong, ÖÁ»ðÃðÎªÖ¹, Èç¹ûË®ÁúÃ»ÓÐË®, ¿Éµ½Ë®¾® fill shuilong
+             È»ºó ask officer about jbhj, ÔÚµÈ¼¶ 42 Ö®Ç°ÓÐÐ§
+
+  ×¢ : »ù±¾»ð¼ÆºÍË®¼ÆÏÖÔÚ¶¼Ã»ÓÐÓÃ
+
+  3. µ±¹ÙÒÔºó¸Ã×¢ÒâÐ©Ê²Ã´
+
+  ¹¤×÷ : help job, ¹ÙÔ±Ö»ÄÜ×öÀïÃæµÄÖÐ¼¶¹¤×÷, Ö»ÓÐ¹¤×÷²ÅÄÜÌá¸ß¼¼ÄÜ,
+Ìá¸ß¼¼ÄÜ²ÅÄÜ
+  Ìá¸ß¼¼ÄÜ²ÅÄÜ
+         Éý¹Ù, Éý¹Ù²ÅÄÜÓÐ¸ßÐ½
+
+  Ð½Ë® : Ïê¼û help money, ÆäÖÐÌáÈ¡ÙºÂ»ÓÐÁ½ÖÖ·½·¨, ´ÓÇ®×¯ÌáÈ¡»òÃüÇ×±øÈ¡Ç®
+
+  Ç×±ø : Ïê¼û help myarmy, ÏÖÃ¿ 10 Ç×±øÏûºÄ 1 gold, Ã¿¸öÔÂ¹Ù±ø·¢âÃµÄ
+Ê±ºò»á×Ô¶¯¿Û
+  Ã¿¸öÔÂ¹Ù±ø·¢âÃµÄÊ±ºò»á×Ô¶¯¿Û
+(21-40 51%) [h]:
+         ³ý, Èç¹ûÙºÂ»Îª 1 gold µÄ¹ÙÔ±´ø×Å 10 ¸öÇ×±ø, µÈÓÚÃ»ÓÐÇ®ÊÕ
+
+  4. ÈçºÎµ±Ì«ÊØ
+
+  ÏÖÓÐÏµÍ³ÀïÎÞÂÛÔõÃ´ÇÚÀÍ¹¤×÷¶¼²»»á±»ÉýÎªÌ«ÊØ, Ö»ÓÐÔÚ Íæ¼Ò
+¿ØÖÆµÄ¹ú¼Ò, ÆäËûÍæ¼Ò²Å
+  ÆäËûÍæ¼Ò²Å
+  ÓÐ»ú»áÔÚ²»ÐèÒªÕ½ÕùµÄÇé¿öÏÂ³ÉÎªÌ«ÊØ.  Èç¹û³ÉÎªÌ«ÊØºó, ÇëÏêÏ¸ÔÄ¶Á help pos
+
+  5. ÈçºÎ¿ª»á
+
+  Ïê¼û help localmeeting, help meeting, help localbuy, help suggest
+
+  ×¢ : Èç¹û½¨ÒéÊ§°Ü, ¼´Ã»ÓÐ»ñµÃÍ¨¹ý, Íæ¼Ò½«ËðÊ§´óÔ¼ 10% µÄÉùÍûºÍÒ»Ð©ÖÒ³Ï¶È
+
+  6. ÈçºÎÑµÁ·
+
+  Ïê¼û help train, help war, help warinfo, help warmap, help warorder
+
+  7. ÈçºÎµÖ¿¹ÍÁ·Ë ºÍ Õ½Õù 
+(41-60 77%) [h]:
+  µÖ¿¹ÍÁ·Ë : ÔÚ½ô¼±»áÒéÖÐ cmd me, È»ºóµã±ø, È»ºóÊØ×¡Ë§ÕÊ, »÷ÍËÍÁ·Ë
+
+  Õ½Õù : ½ø¹¥·½ : ÔÚ localmeeting ÖÐ cmd war, ÆäÓà²Î¼Ó½ø¹¥µÄÍæ¼ÒÓÃ cmd me,
+                  Ö÷Ë§µã±ø, ½øÈëÕ½³¡, ÏûÃðËùÓÐ·ÀÓùµÄµÐÈË
+
+         ·ÀÊØ·½ : ÔÚ½ô¼±»áÒéÖÐ cmd me, È»ºóµã±ø, Ö÷Ë§µã±ø, ½øÈëÕ½³¡,
+                  ÏûÃðËùÓÐ½ø¹¥µÄµÐÈË
+
+  ×¢ : 1. Èç¹ûÁ½ÃûÔÚÏßÍæ¼ÒÔÚÍ¬Ò»¾üÍÅÄÚ, ½«ÄÜÍ¬Ê±¿ØÖÆÍ¬Ò»¾üÍÅ,
+×îºÃÏÈÍ³Ò»Òâ¼ûÔÚÒÆ
+  ×îºÃÏÈÍ³Ò»Òâ¼ûÔÚÒÆ
+          ¶¯. 
+       2. Èç¹ûÔÚÑ¡Ôñ½«ÁìÊ±ÐèÒªÑ¡³¬¹ýÒ»¸ö½«Áì, ¿ÉÒÔÓÃ , ·Ö¸ô, Èç
+          ÇëÑ¡Ôñ²ÎÕ½µÄ½«Áì: 
+          ©¼abc,def,ghij klm,nopq©°
+          ÊäÈë: abc,def,ghif klm ¼´¿É

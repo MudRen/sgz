@@ -1,0 +1,2054 @@
+---
+×÷Õß: Fire
+ÌâÄ¿: >about typo
+ÈÕÆÚ: Wed Mar 24 21:28:56 1999
+On Wed Mar 24 07:43:49 1999 Row wrote post #95:
+> i've checked all files under /sgdomain/event/ and corrected
+> the typos, meanwhile i changed some disc, but seems it may
+> take effect after reboot. plz test.
+
+In fact, there are just a little thing that really 
+need reboot.
+
+for the event, if you update the event then all the modified should work
+
+there are one useful paraters for update that is
+update -R <something>
+
+then it will go deep to update all the related files
+
+xixi
+
+
+---
+×÷Õß: Guanfeng
+ÌâÄ¿: Í¬ÒâmimiµÄÒ»¸öËæ»úÈÎÎñµÄÉèÏë
+ÈÕÆÚ: Sun Mar 21 16:05:13 1999
+ÏÖÔÚ´ó²¿·ÖµØÇø¶¼¿ÉÒÔÂòµ½Ê³Îï(³ıÁËÒ»Ğ©ºÜĞ¡µÄ¹Ø°¯)
+¶øÇÒÃ¿¸öµØ·½ÄÜÂòµ½µÄÊ³ÎïÊÇ²»Í¬µÄÁË.ËùÒÔÕâ¸ö½¨Òé
+²»µ«ÊÇÔö¼ÓÁËjobÏµÍ³µÄÖÊÁ¿£¬¶øÇÒÒ²Ìá¸ßÁËÊ³ÎïµÄÒâÒå
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: didao finished
+ÈÕÆÚ: Sun Aug 30 03:51:32 1998
+a guan named didao has been basically finished, please test. thx.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about the local meeting
+ÈÕÆÚ: Sat Aug  1 08:24:22 1998
+now system can auto hold local meeting
+but what can be done in that meeting
+and how to use other way to trigger
+has not been designed
+addoil
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about the status
+ÈÕÆÚ: Thu Jul 23 01:44:59 1998
+for player char
+3 status
+online sleeping and active
+for npc char 
+2 status
+sleeping and active
+to place a char in a room
+the only way is CHAR_D->put_char(<chir id>,<filename of room>)
+to remove a npc char
+the only way is CHAR_D->remove_npc_char(<char id>)
+remember
+the only way !!!!!
+if use other way
+it will be quite hard to keep the integerity in the future
+thanks
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: now the player can become a char
+ÈÕÆÚ: Tue Jul 21 09:02:09 1998
+the file is in /sgdomail/event/ev_settle
+next step will be about to make the staus of that
+char be coincide with the status of that player
+for a player, he will has two copy of data
+so need modify several system codes
+all wizs please notice any bug from the 
+duplicated copy of data
+thanks
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: formulars
+ÈÕÆÚ: Sat Jul 11 08:41:32 1998
+formulars for the progress of
+safe, industry, agricultre, business, and military 
+has been designed and installed in
+area_d and country_d.c
+they will be called by ai_d.c
+so now the ÈË¿Ú  °²¶¨ ¹¤Òµ Å©Òµ ÉÌÒµ ÑµÁ· Ê¿Æø for
+all areas will be dynamically adjusted by the system
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: fix a bug
+ÈÕÆÚ: Fri Jul 17 10:58:44 1998
+the bug of the error message after killing an npc
+has been fixed
+sweat
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: the topology of the map
+ÈÕÆÚ: Sat Jul 18 10:18:42 1998
+now the map has its topology
+use info a <area_id> will display the
+neighbor areas
+and the listarea /2 will display the number
+of the neighbor areas of each area
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: the event in ai_d
+ÈÕÆÚ: Sat Jul 18 10:19:41 1998
+now the ai_d has got the event_creater
+any body has suggestiona bout event
+can post here
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new events available
+ÈÕÆÚ: Sun Jul 26 07:11:55 1998
+now the EV_ADDREPUTATION AND EV_ADDLOYALTY AND
+EV_POSITION are finished
+now the reputation and loyalty will be increase
+automally and one ppl can ask local
+leader for a position
+addoil
+sweat
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new command is available
+ÈÕÆÚ: Mon Aug  3 09:35:05 1998
+a new command cmd is availiabel
+in fact it is not a signle cmd, but a cmd set
+to use it just reduce the number of cmds and verbs
+and will be also to managed and can be
+added into menu easily
+just type cmd and see what display
+the most file is under
+/sgdomain/cmd/
+and use sg cmd to goto that path quickly
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: tongguan done
+ÈÕÆÚ: Wed Sep  2 09:11:55 1998
+as title.
+
+                       row
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: hangu modified over
+ÈÕÆÚ: Sat Sep  5 10:25:24 1998
+as title.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: mianchi done
+ÈÕÆÚ: Mon Sep 14 10:59:29 1998
+mianchi finished, welcome test. hehe.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: tianshui done
+ÈÕÆÚ: Tue Sep 15 10:35:25 1998
+tianshui dacoration over. welcome to have a tour there.
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: about typo
+ÈÕÆÚ: Wed Mar 24 07:43:49 1999
+i've checked all files under /sgdomain/event/ and corrected
+the typos, meanwhile i changed some disc, but seems it may
+take effect after reboot. plz test.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: the area's development
+ÈÕÆÚ: Fri Jul 10 10:35:40 1998
+   ´úºÅ¡¡ ¡¡Ãû³Æ  µÈ¼¶  ÈË¿Ú  °²¶¨ ¹¤Òµ Å©Òµ ÉÌÒµ  Îï×Ê ¡¡ Á¸²İ   ¡¡½ğ
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+   anding  °²¶¨³Ç   3    2500  80   50   60   60   1506   39500    167
+    caolu    ²İÂ¬   2     500  95   90   90   30    761   21357     72
+  changan  ³¤°²³Ç   5  100000  50   80   75   70  77372 1975800  63536
+ chencang    ³Â²Ö   3    7672  53   51   44   58   1489   39625   2646
+  daixian    ´úÏØ   3    2886  35   59   47   31    483   12504    410
+   guandu    ¹Ù¶É   1     351  51   51   48   36     61    2129     61
+    hangu  º¯¹È¹Ø   1     258  30   58   48   57     62     985     61
+ hongnong  ºëÅ©³Ç   3   10000  70   40   80   70   4720  284568   9884
+   huayin    »ªÒõ   2     390  32   56   39   57     62    1367     96
+    hulao  »¢ÀÎ¹Ø   1     246  35   58   32   48     62     760     61
+  jieting    ½ÖÍ¤   1     243  41   55   55   33     62    1399     61
+ jingyang    ãşÑô   3    3374  45   56   44   30    641   15632    536
+  jinyang    ½úÑô   3    2082  39   39   56   58    259   11694    584
+   longxi    Â¤Î÷   3     117  41   37   55   34      0     692      0
+  luoyang  ÂåÑô³Ç   5  300000  20   75   65   80 229886 3229090   4531
+  mianchi    äÅ³Ø   2     338  49   33   44   50     62    1695    100
+ qinchuan    ÇØ´¨   3    8229  48   59   45   55   1786   42103   2561
+shangdang    ÉÏµ³   3    8099  55   41   39   32   1305   41978   1586
+(1-20 64%) [h]:
+   sishui  ãáË®¹Ø   1    4094  39   48   32   38    287    5967    373
+  taiyuan  Ì«Ô­³Ç   5  118336  42   33   44   37  12596  543630  22517
+ tianshui    ÌìË®   3    8350  42   56   56   41   1495   50445   1759
+ tongguan    äü¹Ø   1     359  50   35   34   33     61    1484     61
+   xiakou  ÏÄ¿Ú³Ç   3    3000  40   60   60   50   1422   34332    437
+ xianyang    ÏÌÑô   4   14511  46   52   54   54   2577   90195   4306
+   xibian  Îöãê´å   2     300  80   50   60   40    173    6809    120
+  xiliang    Î÷Á¹   4   25000  52   32   31   40   2230   80724   4340
+ xingyang    ÜşÑô   3    5474  46   43   56   46    818   35609   1349
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+now i have add a function in country_d to adjust the development
+of ¹¤Òµ Å©Òµ ÉÌÒµ
+these will be determined by the officer's skills
+please notice the change of these numbers and make sure if these
+functions works properly
+
+
+---
+×÷Õß: Benben
+ÌâÄ¿: New characters added.
+ÈÕÆÚ: Thu Jul  2 09:28:47 1998
+I added some characters in northwest area and added several new
+area. you can check it by useing listchar /s, /g and listarea /g1.
+I will finish the NPC generating of Northwest area at end of this week.
+addoil all
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: country_d.c
+ÈÕÆÚ: Thu Jul  2 04:16:25 1998
+new daemon country_d.c has be added
+the related files are
+/cmds/player/listcountry
+/cmds/wiz/createcountry
+/cmds/wiz/rmcountry
+/cmds/wiz/setcountry
+/data/data/countries.o
+/data/log/country.log
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: benben's new map for northwest
+ÈÕÆÚ: Wed Jul  1 08:44:44 1998
+use map northwest to see the new map of
+the northwest part of sg
+thank benben
+kiss benben
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: area system
+ÈÕÆÚ: Thu Jun 18 07:39:02 1998
+area system is one of the most important system
+for the game of sg, it is the base of the country
+and most imformation about the ÊÆÁ¦ will be handle by this
+now several new file are related to it
+/daemons/area_d.c
+/data/daemon/areas.o
+/cmds/wiz/addarea.c
+/cmds/wiz/rmarea.c
+/cmds/wiz/setarea.c
+/cmds/wiz/listarea.c
+please use listarea,  listarea /s, listarea /g1 and listarea /g2
+to check the information stored in areas
+new progress will be released as soon as possible
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about fomular
+ÈÕÆÚ: Fri Jun 19 10:07:58 1998
+the fomular is stored in /sgdomain/txt/other/fomular/incomeandoutput.txt
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: day_d and related file updated
+ÈÕÆÚ: Sat Jun 20 21:29:08 1998
+now the day_d and related files inlcude
+m_age.c area_d.c are updated
+the old date command in /cmds/wiz have beed disabled
+the new date command is /cmds/player which
+can display mud time and weather
+the fomular is in /sgdomain/txt/other/fomular/time.txt
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ia system
+ÈÕÆÚ: Sun Jun 21 07:29:49 1998
+now the ia system will be introduced into this mud
+currently just one file /daemons/ia_d.c related
+to this system
+hope wizs take a look of that file
+new feature will be feed in gradually in this
+month
+addoil all
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ¹ÙÔ±±í
+ÈÕÆÚ: Sun Jun 21 12:13:10 1998
+please see the table and defination in /sgdomain/other/offical.txt
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Èı¹úÕ½³¡µØÍ¼
+ÈÕÆÚ: Tue Jun 23 00:44:29 1998
+the first war map has been finished
+in /sgdomain/txt/warmap/xibian.map
+in the future development
+each area (at least famous areas) should have an
+identical warmap.
+all the maps with fixed length 33 and fixed
+height 20 unit
+Í¼Àı£º
+ÊØ·½²¿¶Ó£º	¢Ù¢Ú¢Û¢Ü¢İ¢Ş¢ß¢à¢á¢â ×î¶à10  ¢Ù ÎªÖ÷Ë§
+¹¥·½²¿¶Ó£º	¢Å¢Æ¢Ç¢È¢É¢Ê¢Ë¢Ì¢Í¢Î ×î¶à10  ¢Å ÎªÖ÷Ë§
+½ø¹¥·½È¡Ê¤µã:	¡ò
+³ÇÇ½£º 		©¦©¸©¼©°©´©¤
+Ë®:		¡«
+Æ½µØ: 		£®
+²İµØ£º		£ª
+Ê÷ÁÖ£º		¡á
+É½µØ£º		¡Ä
+²»¿É´ïµØÇø£º	¡ù
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: char system
+ÈÕÆÚ: Sun Jun 28 10:25:03 1998
+now char system is under construct
+the related file:
+/daemons/char_d.c
+/sgdomain/modules/m_char.c
+/sgdomain/modules/m_charnpc.c
+/cmds/wiz/addchar.c
+/cmds/wiz/rmchar.c
+/cmds/wiz/setchar.c
+/cmds/player/listchar.c
+the char system will be one of the most important part
+of contry system
+the ai core will genernal include
+ai system, country system, char system, area system and 
+day system
+all wizs if have time
+please read these files and try to understand the
+operation of them
+xixi
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: fomular for local development
+ÈÕÆÚ: Tue Jun 30 02:25:32 1998
+please check the fomular in
+/sgdmoain/txt/other/fomular/development.txt
+for the fomular used for area development
+for the officer system
+please check /include/officer.h
+and /sgdomain/txt/other/officer.txt
+thanks
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: officer_d.c
+ÈÕÆÚ: Tue Jun 30 10:28:34 1998
+the new daemons officer_d.c and officer.h has
+been introduced
+wiz please check them
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: 8 countries and 26 areas
+ÈÕÆÚ: Fri Jul  3 11:36:47 1998
+now we have 8 countries and 26 areas
+and the areas of xibian, xiakou and caolu
+will not connected to other areas
+during the test period
+no more areas and no more countries will be
+manually introuded
+now we still need some npc
+i think the average area's npc number is
+2 or 3 will be ok
+so we need about 30 more npc chars
+addoil benben
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new cmd
+ÈÕÆÚ: Tue Jul  7 04:42:49 1998
+new cmd "info" has been designed
+this commond will be used for user to
+get detailed information about a country
+a char or an area.
+
+
+---
+×÷Õß: Shaoyng
+ÌâÄ¿: Î÷Á¹ÖØÕò
+ÈÕÆÚ: Tue Jul  7 13:06:19 1998
+added on 7/7
+ÃèĞ´ÓïÑÔÌ«Æ¶·¦ÁË¡£Çë´ó¼ÒÌáÒâ¼û¡£
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Íæ¼Ò²ÎÊıÒ»ÀÀ
+ÈÕÆÚ: Sun Jun  7 10:12:16 1998
+the para for players has been got
+it's in /sgdomain/txt/other/playerpara.txt
+we need discuss them and modify so that
+make a more clear and useful list
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: addition about last post
+ÈÕÆÚ: Fri Apr 17 19:55:30 1998
+please refer /wiz/fire/npc/p_tuotuo.c as an example
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about the m_triggers
+ÈÕÆÚ: Fri Apr 17 19:54:02 1998
+usually, if we want a npc react for some triggers
+we use inherit M_TRIGGERS which unfortunately has
+a little bug, when the file first load will give
+a wrong message.
+now i changed a little of m_triggers to fix this
+bug. but if you want npc react in some situation
+you need add several addition lines of code
+void receive_outside_msg(string str){
+    receive_outside_msga(str);
+}
+void receive_private_msg(string str) {
+    receive_outside_msga(str);
+}
+this is the best i can do
+sorry for any unconvient
+xixi :)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new function query_chinese_id
+ÈÕÆÚ: Sun Apr  5 05:56:57 1998
+a new function query_chinese_id is introduced 
+to replace the short()
+usually the short() will return a chinese name
+and a english id 
+this is useful for identify object
+but some time mess the sentence
+now use query_chinese_id() to replace
+espacially in $o and $O will make sentence
+more clear
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: ÂíÆ¥ÏµÍ³Íê¹¤
+ÈÕÆÚ: Sun Apr  5 17:47:49 1998
+ÌØÊâÂíÓĞ³àÍÃ, ¾øÓ°, µÄÂ¬ºÍ×¦»Æ·Éµç.
+Ò»°ãÂíÓĞĞ¡ºìÂí, °«½ÅÂí, ´óÍğÂí, ÒÁÀæÂí, ºÚ¿¥Âí, »ÆæôÂíºÍÔæºìÂí.
+
+ÕâĞ©ÂíµÄA/DĞÔÄÜ²»¶¯.  Ã¿Î»Íæ¼Ò¶¼¿ÉÒÔµ½Âí³¡È¥Áì×Ô¼ºµÄÂí, µ«ÉùÍû
+²»Í¬ÔòÁìµ½µÄÂíÒ²²»Í¬. ÉùÍû¸ßÔòÁìµ½µÄÂí¾ÍºÃ.
+ÃüÁîÊÇask mafu about horse
+
+ÂíÆ¥ÊÇÓĞËùÊôµÄ, Áìµ½ÂíÒÔºóÓÃride horse ÃüÁîÆïÂí. unride »ò stand
+ÏÂÂí. Ò»Æ¥Âí¿ÉÒÔÆïÁ½¸öÈË, µ«±ØĞëÓÉÖ÷ÈËÍ¬Òâ. Ò²¾ÍÊÇÔÚÂíÉÏµÄÖ÷ÈË´ò
+Èëridetwo horseºó, ÁíÒ»ÈË²Å¿ÉÉÏÂí, Èç¹ûÖ÷ÈË²»ÏëÁ½ÈËÍ¬Æï, ÓÃ
+rideone horseÃüÁîÔò±ğÈËÎŞ·¨ÉÏÂí, defaultÊÇÒ»¸öÈËÆïµÄ.
+
+Ò»¸öÈËÖ»ÄÜÁìÒ»Æ¥Âí. µÃÂíµÄ·½Ê½ÓĞÈıÖÖ, Ò»ÊÇÁìÂí, ¶şÂòÂí, ÈıÊÇ¾ıÖ÷
+ÉÍÂí. ÈçÇ°ËùÊö, ²»Í¬µÄÂíĞÔÄÜ²»Ò»Ñù, Íæ¼ÒÔÚÕ½¶·ÖĞ»áÌå»á.
+
+ÓĞÎÊÌâmail ljty.
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: ³¤°²Æô¶¯
+ÈÕÆÚ: Sun Apr  5 18:27:15 1998
+Èı¹úµÄÁíÒ»´ó³Ç³¤°²¿ªÈç¶¯¹¤.
+
+µØÍ¼fileÎª: /wiz/ljty/txt/changan.txt
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: ³¤°²Íê¹¤
+ÈÕÆÚ: Tue Apr  7 19:12:19 1998
+³¤°²³ÇÍê¹¤£¬³ÇÖĞĞÄfileÎª/sgdomain/area/cities/changan/ca_center
+
+ÏÖÔÚ¿É´ÓÎÒµÄ¿ÍÌütype changan µ½´ï¡£
+
+ÓĞÎÊÌâmail ljty¡£
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: ºëÅ©³Ç¶¯¹¤.
+ÈÕÆÚ: Wed Apr  8 04:33:23 1998
+map file Îª /wiz/ljty/txt/hongnog.txt
+
+ÇëÌáÒâ¼û. mail ljty.
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: ÊØ³Ç,¹¥³Ç,³ÇÃÅÏµÍ³Íê³É
+ÈÕÆÚ: Thu Apr  9 18:40:36 1998
+³ÇÃÅÊÇÒ»¸ö³ÇµÄ·ÀÊØ¹Ø¼ü, ³ÇÃÅÔ¿³×ºÜÖØÒª, ¿ªÃÅÓë¹ØÃÅ¶¼Òª
+Ïò³ÇÃÅ¹ØÒªÔ¿³×. Èç³¤°², ¹ùãáÊÇ³ÇÃÅ¹Ù´ó½«, ÄãÈçÒªÏë¿ª
+ÃÅ»ò¹ØÃÅ, ±ØĞë, ask guoshi about Î÷ÃÅ. È»ºóËû²Å»á¸øÄã
+Ô¿³×. ÎÊ¶«ÃÅÔòÊÇ¶«ÃÅÔ¿³×. ¸øÔ¿³×ÊÇÓĞÌõ¼şµÄ.
+
+¶Ô³ÇÃÅ¾ßÌåÖ¸ÁîÎª open citydoor, close citydoor, lock
+citydoor ºÍ unlock citydoor.
+
+µ±¶Ô·½¹¥³ÇÔòlock citydoor, µ«¹¥·½¿ÉÓÃ¹¥³Ç³µ×²ÃÅ, Ö¸Áî
+Îªchuang citydoor. µ«Ã¿´Î×²ÃÅÓĞbusy time, ¶øÇÒºÄ·Ñ¾«Á¦.
+ÇÒÔÚbusy timeÖĞ²»ÄÜ»¹ÊÖ, ¶Ô·½»á·¢¹­¼ıÉäÄã, ±ØĞëÓĞ¹¥³Ç³µ
+²Å¿É×²ÃÅ, ÆäËû²»ĞĞ,(Ä¿Ç°²»ĞĞ). ¹¥³Ç³µ¿ÉÖÆÔì, µ«ÊÇquest.
+ÁíÍâÂåÑô, ³¤°², ÏåÑô, ½­Áê, ³É¶¼Îå´ó³ÇÊĞÓĞ¹¤½³¿ÉÔì, µ«
+¼Û¸ñ²»·Æ. Ó¦ËµºÜ¹ó. command ÊÇ: ask gongjiang about gongchengche
+
+¶ÔÓÚÊØ·½, ¿ÉÒÔĞŞ¸´³ÇÃÅ, command ÊÇ: xiufu citydoor. µ«
+Ìõ¼şÊÇÉíÉÏ±ØĞëÓĞÄ¾²Ä(muchai), Ä¾²ÄÓÃÒ»´ÎÉÙÒ»µã, ¿ÉÒÔÂò
+µ½»á¿³Ê÷. ĞŞ¸´µÄÈË±ØĞë»áĞŞ¸´skill, ¶øÇÒĞŞ¸´²»ÊÇ¶¼ÄÜ³É¹¦.
+Íæ¹ısg4 pc gameµÄ»áÓĞ¸Ğ¾õ. µ«ĞŞ¸´µÄÈË²»ÊÜ¹¥»÷, µ«Í¬ÑùÓĞ
+busy time.
+
+ÏÖÔÚÓĞĞËÈ¤¿ÉÈ¥³¤°²Î÷ÃÅÊÔÊÔ, ÓĞÎÊÌâmail ljty.
+ÎÒ»á¸üÍêÉÆÕâ¸öÏµÍ³.
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new place
+ÈÕÆÚ: Sat Apr 11 03:57:45 1998
+with the work of ljty and yue
+now new place ³¤°² and ºëÅ© is open
+can use fly to get there
+and use map to check the maps of these new area
+one more thing
+yue, your map about hongnong seem ×óÓÒµßµ¹
+please fix it
+thank
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about the path in /sgdomain
+ÈÕÆÚ: Sat Apr 11 04:01:11 1998
+now a new file path.h is in /include
+this file include all the macro of the path
+under /sgdomain
+this file has been refered by mudlib.h
+so when coding, no need to add #include <path.c> 
+in your file
+but please check /include/path.h
+all new file if refer obj or others in /sgdomain
+please use the macros
+VERY VERY IMPORTANT
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about the cmd sg
+ÈÕÆÚ: Sat Apr 11 04:03:55 1998
+because most wiz's works will be in the
+/sgdomain
+and there are a lot of pathes in /sgdomain
+in order to save the time for change path
+please use the command sg
+forexample if you type "sg luoyang"
+you will go directly to /sgdomain/area/cities/luoyang
+all path in /sgdomain are included in this cmd
+such as "sg ji" "sg horse" "sg module"
+please check /cmds/wiz/sg.c for details
+thank you
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: m_useable.c
+ÈÕÆÚ: Sun Apr 12 04:31:02 1998
+Õâ¸öfileÊÇ¹ØÓÚÏûºÄĞÔÎïÆ·µÄ£¬Éè¶¨¿ÉÓÃ´ÎÊı£¬
+Ö»ÄÜÓÃÈç´Ë¶à´Î£¬ÓÃÍêºóÏûÊ§.
+
+file is /wiz/ljty/modules/m_useable.c
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: roomÏµÍ³µÄÍêÉÆ
+ÈÕÆÚ: Mon Apr 20 16:29:29 1998
+ÎÒÒÑÍê³Éindoor room Óëoutdoor room µÄÇø·Ö. ÏÖÔÚÈç¹ûÔÚÎİÄÚÌìÆøÎª.¡¾´°
+Íâ¡¿Ì«ÑôÂäÉ½ÁË£¬Î÷·½Ìì¼Ê±»ÂäÈÕÓ³³öÒ»Æ¬»ğºì¡£
+¶øÔÚÎİÍâÔòÊÇÌ«ÑôÂäÉ½ÁË£¬Î÷·½Ìì¼Ê±»ÂäÈÕÓ³³öÒ»Æ¬»ğºì¡£
+
+ÁíÍâÆïÂí²»ÄÜ½øÈëindoor room,»áÌáÊ¾"Äã±ØĞëÏÂÂí²ÅÄÜ½øÈ¥".
+
+ÓĞÒ»¸öÎÊÌâÊÇÎÒ²»ÖªÈçºÎ´ÓĞÂÆğ¶¯ÏµÍ³, who can tell me, thanks.
+
+ÏÖÔÚÏµÍ³Á½Ì×Ê±¼äÔÚ×ß, µ«ÎÒ²»ÖªÈçºÎreboot.
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >roomÏµÍ³µÄÍêÉÆ
+ÈÕÆÚ: Tue Apr 21 06:17:32 1998
+
+try 'shutdown' if you have the right to do so.
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: ×¢Òâ
+ÈÕÆÚ: Fri Apr 24 09:57:44 1998
+ÎÒÔÚbase_room.c ÉÏ¼ÓÁË¸ö²ÎÊıheight. Ö÷ÒªÊÇÎª²¿¶Ó
+¾«Á¦ËùÉè, µ±ÒÆ¶¯Ê±, ¸ù¾İÁ½¸ö·¿¼äheightÖ®²îÀ´È·¶¨
+ÏûºÄµÄ¾«Á¦. 
+
+ÁíÍâÇëwiz×÷·¿¼äÊ±×¢Ã÷indoor or outdoor, ¶ø²»ÊÇÒ»¸öroom, ÒòÎªÒÔºó
+»¹ÓĞ±ğÑùµÄroomÒª×ö. ÈçÉ½µØ, ²İµØÎªoutdoor, µ«
+indoorÓÖÓĞÓª·¿, ¿Í·¿µÈ, ÌØÊâroom.
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: now can kill npc
+ÈÕÆÚ: Sun Apr  5 05:02:07 1998
+but still something wield
+xixi
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Õ½¶·ÖĞµÄºÀÑÔ×³Óï
+ÈÕÆÚ: Sat Apr  4 08:54:37 1998
+now during fight
+the fighter can say some ºÀÑÔ×³Óï
+the txt is in /daemons/messages_d.c
+and the select of ºÀÑÔ×³Óï is in /std/results.c
+any suggestion for this part is welcome
+thank
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: progress of this week
+ÈÕÆÚ: Sat Mar 28 07:58:29 1998
+row finish many new weapons
+some of them have been moved to /sgdomain/obj/weapon/. . .
+some new type, because hasn't finish the fight message
+for these kind of weapon 
+such as spear and axe, are still left in /wiz/row/obj/weapon
+now row has been offered the right to modify
+the files under /sgdomain/obj/weapon
+this will give him more convience to do better work
+on sg's weapon system
+benben has finish some desc of new clothes and armors
+now a new set of directories have been added
+under /sgdomain/obj/cloth and benben has been offered
+the write priviliage for those directories
+this will give her more convinence for finishing
+sg's clothes system
+now a new slot ARMORS has been added in
+the clothes
+so the common cloth such as ²¼ÒÂ and ³ñÅÛ use
+the slot of TORSO and all armors will use the
+slot of ARMORS
+the kill command has be improved a little
+so we have a head message before fighting
+good luck
+addoil everyone
+thanks
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ÂÀ²¼»Ó¶¯ÊÖÖĞµÄ·½Ìì»­êª(ji)ÏòÄãÒ»êª´ÌÈ¥£¬Äã×İÂíÏòºóÒ»ÉÁ£¬¶ã¿ªÕâÒ»
+ÈÕÆÚ: Sat Mar 21 10:15:13 1998
+êª¡£
+now ppl can fight by riding horse
+the desc for dodge and wait is different when one
+is on horse
+please check /std/monster/base/results.c
+and /daemons/messages_d.c to see the fight 
+desc details
+we need more and better descs
+any wiz or player has interest
+please post here
+thank you
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: the weapon warehouse 
+ÈÕÆÚ: Sun Mar 15 04:33:33 1998
+thank for row's work
+the first weapon has been build in
+/sgdomain/obj/weapon/sword
+thank row
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: now can fight with weapon
+ÈÕÆÚ: Fri Mar 13 19:32:39 1998
+please check /wiz/fire/obj/wear/ji.c
+and /daemons/messages_d.c
+now we can use ji to fight
+say we need more different types of weapon
+addoil yue
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Ğ¡ÀòÀòÇÎÁ³Éú´º£¬ÃîÄ¿º¬Çé£¬½¿ÈáÎŞÏŞ£¬²»¿É·½Îï¡£
+ÈÕÆÚ: Sat Feb 21 07:02:49 1998
+thank row for he has rewrite all the desc for rongmao in sangguo
+now the rongmao desc has been improved a lot
+xixi
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: score, skills, normal_d.c
+ÈÕÆÚ: Sun Feb  8 22:48:14 1998
+wizards now can use score and skills on players and
+objects.  the side effect is you can score non-living
+things if it is in your environment, but you cannot
+do that to all npcs and objects.
+
+about the bug reported on news fire:36 and subsequent
+posts, i used to get a bug when i try to login myself
+the second time, ÄãÒÑ¾­ÔÚÏßÉÏÁË! 
+ÄãÈ·¶¨ÒªÌæ»»Âğ£¿yes
+then get errors...which trace back to normal_d.c
+if answer 'no' i login fine (which should be the
+right thing for wizards).  i have modified normal_d.c
+and backup of old normal_d.c is at normal_d.d, it 
+solved the problem i was having, hope that is all the
+problem with normal_d.c  :)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new system : weather and season
+ÈÕÆÚ: Fri Jan 23 10:36:21 1998
+now players can see the describe of seasons and weather
+the weather is perhaps ok
+but the season is not sure 
+because it display once for every 3 month hard to check
+in mudtime perhaps 6 hours once
+hard to see
+the code is in /cmds/verbs/day_d.c
+hope xiaoxi can help add more desc for weather or possible for seasons
+thank you
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ¹ØÓÚÆïÂíµÄÃèÊö
+ÈÕÆÚ: Sun Jan 25 19:05:51 1998
+when living is riding now the desc from the rider(s) and the observers
+have both been modified, make them more nature
+and comfort, if any suggestion, welcome to post
+xixi, thank
+
+
+---
+×÷Õß: Yue
+ÌâÄ¿: semotes r finished
+ÈÕÆÚ: Wed Jan 28 18:33:51 1998
+now i finished all semotes' adj and typo
+if u find any typo or add a new semotes pls
+report to me
+:)
+addoil all wizs
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: attack and defence
+ÈÕÆÚ: Sun Mar  1 08:54:55 1998
+now introduce four important property in cloth(armor), horse
+and weapon system
+they are attack ablity (determine the chance to hit the target)
+attack power (determine the damage of the target if hit)
+defence ablity (determine the chance to be hiten by the target)
+defence power (determine the damage of oneself if be hitten by others)
+look example of /wiz/fire/obj/horse1.c, /wiz/fire/obj/wear/ji.c and
+/wiz/fire/obj/wear/jia.c to see how to add this feature in the 
+object of clothes(armor), horses and weapons.
+players can use score to check these figures
+as example:
+µ¥Ìô¹¥»÷Á¦£º  600 [110] µ¥Ìô·ÀÓùÁ¦£º  500 [100]
+here attack ablity is 600
+attack power is 110
+defence ablity is 500
+and defence power is 100
+thanks
+good luck
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: cloth can add ÈİÃ²
+ÈÕÆÚ: Sun Mar  1 08:59:33 1998
+see example in /wiz/fire/obj/wear/jia.c
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: try kill others
+ÈÕÆÚ: Sat Mar  7 09:43:31 1998
+now the fight system is begin
+try kill others
+say lots of typo
+blush
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: for fight system
+ÈÕÆÚ: Sat Mar 14 03:07:57 1998
+now the weapon can be used for fight
+check the file in /sgdomain/obj/weapon/*.c
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new funciton
+ÈÕÆÚ: Fri Jan 23 08:01:50 1998
+now add a new function set_is_keeping(int i) for object
+if an obj with set_is_keeping(1)
+when a player have this obj and when he left game
+this obj will be kept, and when he login
+he will still has this obj
+if an obj is set_is_keeping(0) default
+the obj will be drop when the player leave game
+and in order not get too much rabbish, this object will
+be destroyed by system
+now just the money has been set_is_keeping(1)
+xixi
+becareful, when you login , you should try to find a cloth
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: ĞÂÂåÑôµØÍ¼
+ÈÕÆÚ: Sun Jan 11 17:11:18 1998
+ĞÂÂåÑôµØÍ¼. ÇëÌáÒâ¼û.
+/wiz/ljty/txt/luoyang.txt
+
+
+---
+×÷Õß: Ljty
+ÌâÄ¿: ±¦Îï±í
+ÈÕÆÚ: Sat Jan 10 08:47:55 1998
+±¦Îï±í³õ²½Íê³É, ÇëÌáÒâ¼û, file ÔÚ:
+/wiz/ljty/txt/specthings.txt
+
+
+---
+×÷Õß: Litao
+ÌâÄ¿: ÎÒÏë¼ÓÈë±à¼­¿ÉÒÔÂğ
+ÈÕÆÚ: Thu Jan  8 11:55:58 1998
+h
+ÎÒÏë¼ÓÈë±à¼­¿ÉÒÔÂğ
+ÎÒÏëÃèÊöÈËÎï
+ÃèÊö»·¾³ 
+ÕâÀïµÄ»·¾³Ì«ÏÖ´ú»°ÁË
+È±ÉÙÒ»ÖÖ·ÕÎ§
+ÎÒ¸ÃÈçºÎ¿ªÊ¼¸É
+email : xlit@mail.263.net.cn
+`p
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new command fly
+ÈÕÆÚ: Thu Jan  8 11:02:58 1998
+use fly can goto other place
+tye way to use is just type fly then can get the help
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: map ĞÂµÄÖ¸Áî
+ÈÕÆÚ: Thu Jan  8 04:09:32 1998
+ÏµÍ³Ä¿Ç°ĞÂÔöÍæ¼ÒÖ¸Áîmap
+´ËÖ¸ÁîÓÃÓÚ²éÔÄµØÍ¼
+ÓÃ·¨Ò»ÊÔ±ãÖª
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ÂåÑôÆÌÂ·¹¤³ÌÒÑ¾­Íê¹¤
+ÈÕÆÚ: Thu Jan  8 04:06:49 1998
+ÂåÑôÆÌÂ·¹¤³ÌÒÑ¾­Íê¹¤,
+Ä¿Ç°row, yue and jakey µÈÕıÔÚ½øĞĞ×°ĞŞ¹¤×÷
+yue ÒÑ¾­Íê³ÉÁË¼¸´¦½ÖµÀµÄ×°ĞŞ
+addoil all
+
+
+---
+×÷Õß: Jakey
+ÌâÄ¿: hi
+ÈÕÆÚ: Wed Jan  7 22:46:33 1998
+Í¬Ö¾ÃÇ£¬ÎªÁË½¨Á¢Èı¹úµÄ×İºáÊ±´ú£¡¼ÓÓÍÑ½£¡
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: wear system »ù±¾Íê¹¤
+ÈÕÆÚ: Tue Jan 13 09:17:58 1998
+the modules file is /std/modules/m_wearable.c
+the example is in /wiz/fire/obj/wear
+for npc to wear please check /wiz/fire/npc/semote_test/lvbu.c
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: wield system is nearly ok
+ÈÕÆÚ: Tue Jan 13 09:19:50 1998
+module file /std/modules/m_wieldable.c
+example : /wiz/yue/obj/longdao.c or /wiz/fire/obj/wear/ji.c
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: for horse
+ÈÕÆÚ: Tue Jan 13 09:20:53 1998
+module file /wiz/fire/modules/m_horse.c
+example : /wiz/ljty/obj/chituhorse.c
+or /wiz/fire/obj/horse1.c
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: board system is ok
+ÈÕÆÚ: Fri Jan 16 03:49:51 1998
+now the board is ok
+wizs can chekc /wiz/fire/room/vhall.c or 
+/sgdomain/area/cities/luoyang.c to check how to
+install a board
+one board must connected to one news group
+players can use post to post on board
+use read about next or read about <number>
+to read the message on board
+use look board to check the list of messages
+use discard <number> to deleate the message
+(must post by oneself)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: a little improvment for board
+ÈÕÆÚ: Fri Jan 16 05:37:36 1998
+now you can use read <num> to the
+the numth message
+and you can use read new or read next to
+read the new message just quite similar to xyj
+good luck
+xixi :)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: improvement for inventory(i)
+ÈÕÆÚ: Tue Jan 20 01:55:24 1998
+now wizard can use i sb to obverse the matters
+other player carries
+but for player, can just use i to check 
+what he himself carries
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: rumor is ok
+ÈÕÆÚ: Wed Jan 21 01:45:58 1998
+now the channel of rumor is ok
+this is useful for those who like rumors
+in the rumor channel, the $N and $M will be changed to Ä³ÈË
+but the other ÈË³Æ will be keep as usual,
+so when you make a rumor really dn't want others to know 
+who makes it
+be careful to select semote
+in some semote the $C $c $S and $s and $n perhaps
+will dispose some information of the rumor maker
+good luck
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new command for semote system
+ÈÕÆÚ: Mon Jan  5 23:07:13 1998
+now involve a new command checkemote
+usage : checkemote filter switch
+filter is used to limit the search range of semotes
+if * means all semote, a means all the semote begin from a
+ki means all the semote begin from ki
+there are three switches : /l, /s and /c
+/l is the default. /l will list the semotes similar to feelings
+/s will show the structure of filtered semotes 
+/c will show the effect of filtered semotes
+/s just opened to wizs
+for some reason
+checkemote * /c will just display most of the semote instead of all
+so if want to get a through list of the content of semote
+it's better to use checkemote x /c
+x means a, b, c, ... z
+good luck
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: improvment of follow
+ÈÕÆÚ: Sat Jan  3 09:52:32 1998
+with the help of row
+the follow is nearly ok
+now one player can follow npc as well as another player
+just npc can't follow others
+perhaps this kind of function is not very useful
+so put it back
+thank you row
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: the follow command
+ÈÕÆÚ: Sat Jan  3 08:36:49 1998
+say the follow now is working
+use follow with out any arg to give up follow
+use follow sb to begin follow
+now the follow can just be used for a player to follow another player
+hope can make a player to follow a npc and a npc can follow a player soon
+the follow is based on dan's work
+thank you dan
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ÈÕÆÚ±¨Ê±
+ÈÕÆÚ: Thu Jan  1 07:11:13 1998
+ÔÚÈı¹úÖĞÕıÊ½ÒıÈëÈÕÆÚµÄ¸ÅÄî
+Èı¹úÖĞµÄÒ»ÌìÏàµ±ÓÚÕæÊµÊÀ½çÖĞµÄ4·ÖÖÓ
+ÔÚÃ¿ÌìµÄÇå³¿£¬ÕıÎç£¬°øÍíºÍ×ÓÒ¹£¬ÏµÍ³¶¼»áÏòÍæ¼Ò¸ø³öÏàÓ¦µÄÌáÊ¾¡£
+¶ÔÌáÊ¾µÄÄÚÈİÃèÊöÓĞ²»Í¬Òâ¼ûµÄ£¬»¶Ó­post.
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: some improvement for semote system
+ÈÕÆÚ: Wed Dec 31 23:22:20 1997
+now the semote involve to self semote
+for example
+hammer
+the screen will disp Äã¾ÙÆğÒ»¸öºÃ´óºÃ´óµÄÌú´¸£¬²»Ğ¡ÔÒµ½×Ô¼º½ÅÉÏ¡£
+hammer cao
+the screen will display Äã¾ÙÆğÒ»¸öºÃ´óºÃ´óµÄÌú´¸£¬ÓÃ¾¡È«Á¦Ïò²Ü²ÙÍ·ÉÏ
+ÔÒÈ¥£¬Ö»¼ûµØÉÏ¶àÁË¸öÈâ±ı¡£
+hammer fire
+the screen will display :ÄãÄÃ×Å¸öÌú´¸µ½´¦Ñ°ÕÒÄ¿±ê¡£
+to design the three type of semote
+for the first one no target in rule input xx or just return
+for the semote to someone else in the rule input LIV
+for the semote to oneself in the rule input STR
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: cmd of age
+ÈÕÆÚ: Tue Dec 30 06:06:23 1997
+a new cmd age is ok
+this cmd use to check the exact age of one player
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: score Ö¸Áî 
+ÈÕÆÚ: Tue Dec 30 06:05:19 1997
+score Ö¸Áî»ù±¾Íê³É
+a player can use score to list his scores
+and a wiz can use score xxx to check other's score include npc
+the display of score is just a ³ûĞÎ
+any suggestion welcomed
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ¸üÕı and ²¹³ä of ÄêÁäÏµÍ³
+ÈÕÆÚ: Mon Dec 29 09:34:05 1997
+the increase number equal the muli gift
+should be the increase number equal the wuli gift
+say a player play one day in the mud
+say the age of player will increase one
+say the age system is also can detect the player is get his ÊÙÃü
+say but noting except a ÌáÊ¾ has been installed yet
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ÄêÁäÏµÍ³
+ÈÕÆÚ: Mon Dec 29 09:31:01 1997
+now the age system is installed
+the time of 4 min in mud equal 1 day for player
+1 year has 12 monthes
+1 month has 30 days
+the max_hp will increase before 30 years old
+the increase number equal the muli gift
+the max_hp will decrease after 50 years old
+decrese 2 point each year
+the module file is /wiz/file/modules/m_age.c
+it is inherited by race.c
+the begin of that is in body.c
+start_age()
+this is just a test system
+any ideas welcome.
+
+
+---
+×÷Õß: Lei
+ÌâÄ¿: new news group
+ÈÕÆÚ: Mon Dec 29 09:16:20 1997
+
+ÈÎºÎ±à¼­¶¼ÓĞÒåÎñ½«×îĞÂµÄ¹¤×÷³É¹ûÔÚÕâÀï»ã±¨¡£
+ÎÒÃÇ½«´ÓÕâÀïÀ´¼ìÑéÄãµÄ¹¤×÷³É¹û¡£
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: the semote system 
+ÈÕÆÚ: Wed Dec 31 06:32:41 1997
+the semote has been improved a little
+involve ×ğ³Æ£¬±á³Æ£¬Ç«³ÆÏµÍ³
+can check /txt/emoterule.txt for further information
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: improvment about chanel
+ÈÕÆÚ: Fri Jan  2 07:30:21 1998
+say now open 2 new channels for players
+one is sgz Èı¹úÖ¾ one is chat 
+when log in use chan to check if these are in your channel list
+say if not, use chan chat /on and chat sgz /on to open them
+there are also wiz , annunce, newbie available
+you can use semote, emote and common chat in these channels
+for semote the method is
+chat :hi
+sorry , should be chat *hi
+for emote the method is:
+chat ;XXXXXX.
+for common chat just :
+chat XXXXXX
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ÈËÎïÃèÊö
+ÈÕÆÚ: Sun Jan  4 09:56:12 1998
+¹ØÓÚÈËÎïÃèÊöÏµÍ³µÄ¿ò¼ÜÒÑ¾­´ïºÃ
+ÆäºËĞÄº¯ÊıÊÇ /daemons/normal_d.c ÖĞµÄ get_rongmao
+ÓëÈËÎïµÄ¹Ò½ÓµãÊÇ /std/body/naming.c ÖĞµÄ our_description
+Ä¿Ç°Ò»¸öÈËÎïµÄÃèÊöÖ÷ÒªÓÉÈËÎïµÄĞÔ±ğ£¬ÄêÁäºÍÈİÃ²Öµ¾ö¶¨
+½øÒ»²½Ò²¿ÉÒÔ¿¼ÂÇÆäËûµÄÒòËØ
+ÏÖÔÚµÄget_rongmaoÖ»ÊÇÒ»¸ö¿ò¼Ü£¬»¹ĞèÒªĞí¶àÄÚÈİÀ´³äÊµ¡£
+Ï£Íû´ó¼Ò¶àÌáÒâ¼û£¬¹²Í¬Íê³ÉÕâÒ»º¯Êı
+Í¬Ê±ÕâÒ»º¯ÊıÒòÎª½á¹¹¼òµ¥ºÜÊÊºÏĞÂÎ×Ê¦ÊìÏ¤ÏµÍ³
+ËùÒÔÏ£Íû¸ĞĞËÈ¤µÄĞÂÎ×Ê¦¿É°ÑËü¿¼µ½×Ô¼ºµÄÄ¿Â¼ÏÂ¼ÓÒÔ¸ÄÔìºÍ³äÊµ
+Íê¹¤ºó¿ÉÔÙ¼ÓÈëµÀÏµÍ³ÖĞ¡£
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: new fun for weapon
+ÈÕÆÚ: Tue Jan  6 20:59:30 1998
+now invlove two funcion for weapon
+set_wield_message and set_unwield_message
+say this information will be used when one wield a weapon
+or unwield a weapon
+say example on /wiz/fire/obj/dart.c
+the usage of command is wield xxxx and unwield
+please notice when use unwield no parameter is needed
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: ÂåÑôÕıÊ¼¿ª¹¤
+ÈÕÆÚ: Wed Jan  7 10:07:06 1998
+ÂåÑôµÄÎ»ÖÃ£º/sgdomain/area/cities/luoyang
+now row and fire have finished half of the base work
+hope can finish it tomorrow
+wiz can goto there directly
+player need wiz to lead
+will add a quest for player to get there soon
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: about jimou
+ÈÕÆÚ: Tue Feb 22 07:03:41 2000
+all jimou are open to public now .. :P
+any comments, suggestion and bug report are appreciated.
+
+u can learn jimou from xianren:
+hua tuo         ({"jiaoma", "guwu", "shidu", "jiedu", })
+xu zijiang      ({"hunluan", "shoushi", "tianbian", "fengbian","zhanbu" })
+yu ji           ({"maifu", "fenfa", "luanshe", "qibing" })
+zuo ci          ({"neihong", "scout", "huangbao","jbsj","luoshi" })
+bao dating      ({"qibing", "scout"})
+
+
+b4 30 level, u can learn directly from them,
+after 30, u need to get exp to levelup.
+by using jimou, u can get exp/
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Ä³Ğ©Îï×ÊµÄÉú²úĞèÒªÔ­ÁÏ
+ÈÕÆÚ: Sun Feb 20 13:00:44 2000
+Äã¶ÔÎÂÓ¨¶ù¿´ÁËÒ»ÑÛ
+ÎÂÓ¨¶ùÁ¬Ã¦¹ªÉíµÀ£ºÁÒ»ğ´óÈËÕæÊÇÕÛÉ±Ğ¡ÈËÁË£¬´óÈËÓĞºÍ·Ô¸À¡£
+ÇëÎÊÓĞºÍ¹ó¸É£º
+----------------------------------------------------------------------
+                                                                      
+  1)  Ñ¯ÎÊÇé¿ö       2)  Ôö¼Ó¾Æ·»¹¤     3)  ²Ã¼õ¾Æ·»¹¤     4)  Ö¸»Ó¾Æ·»¹¤
+  5)  ´¦ÀíÎÊÌâ       6)  Ôö¼ÓÔ­ÁÏ       7)  ¼õÉÙÔ­ÁÏ       q)  ÍËÏÂ      
+                                                                      
+ÊäÈëÖ¸Áî[1234567q]: 6
+Ôö¼ÓºÎÖÖÔ­ÁÏ£º
+food
+Ôö¼Ó¶àÉÙ£¿1000
+Äã¶ÔÎÂÓ¨¶ùµÀ£ºÎÒ¿´ÕâÀïÔ­ÁÏ²»×ã£¬Ó¦¸ÃÔÙµ÷½ø1000Ê¯Á¸Ê³¡£
+> ÎÂÓ¨¶ù¶ÔÄãµÀ£º´óÈË·ÅĞÄ£¬Ğ¡Å®×ÓÕâ¾ÍÈ¥°ì¡£
+ÄãÂúÒâµØµãÁËµãÍ·¡£
+Äã¶ÔÎÂÓ¨¶ùµÀ£ºÏÖÔÚÃ»ÊÂÁË£¬ÏÈÍËÏÂ°É¡£
+ÎÂÓ¨¶ùÒ»¾Ï¹ªµÀ£ºÊÇ£¬È»ºóÍËµ½Ò»±ß£¡
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Ì«ÊØ´¦ÖĞ¼¶ÈÎÎñµÄµ÷Õû
+ÈÕÆÚ: Sun Feb 20 07:57:56 2000
+1 »Ø´ğrobotÎÊÌâÊ±£¬¾ÍÊÇÌ«ÊØÅÜÁË£¬Ò²¿ÉÒÔµÃµ½½±Àø
+2 ËùÓĞÖĞ¼¶ÈÎÎñµÄ½±Àø¸ÄÎªÈı¹ú½±µã¡£½±µãµÄ¶àÉÙ»áÓĞÒ»µãËæ»úĞÔ¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ÕâÊÇÎ×Ê¦ÁôÑÔ°å
+ÈÕÆÚ: Sun Feb 20 07:57:34 2000
+Î×Ê¦½«ÔÚ´ËPOST×îĞÂµÄ¿ª·¢½øÕ¹¡£
+
+
+---
+×÷Õß: °¢Âå(row)
+ÌâÄ¿: µ÷ÕûÁË¹¤×÷µÄ½±Àø
+ÈÕÆÚ: Thu Feb 24 21:50:30 2000
+Ï£ÍûÄÜºÍÒÔÇ°µÄ²î²»¶à¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¿ÉÒÔ¿ª³ı²»³ÆÖ°µÄ¹¤Í·ÁË
+ÈÕÆÚ: Thu Feb 24 07:58:43 2000
+addoil
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: the sgz channel
+ÈÕÆÚ: Thu Feb 24 06:57:57 2000
+now for new players, the sgz channel will be auto open
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¶ÏÏßºó²»ÔÙ×Ô¶¯ÍË³ö
+ÈÕÆÚ: Wed Feb 23 04:43:43 2000
+¶ÔÓÚÃ»ÓĞ¶¨¾ÓµÄÍæ¼Ò£¬ÏÖÔÚ¶ÏÏßºó²»»á×Ô¶¯ÍË³ö¡£
+ÕâÃ´¾Í²»ÓÃµ£ĞÄÉíÉÏµÄÎïÆ·À­»áµôÀ²:)
+
+
+---
+×÷Õß: ÍşÉÙÒ¯(suicide)
+ÌâÄ¿:  ÅÅĞĞ°ñÏµÍ³È«²¿Íê³É
+ÈÕÆÚ: Mon Feb 28 07:05:30 2000
+ÒÔºóÃ»Ò»¸öÈı¹úÄê¸üĞÂÒ»´Î.
+board¹«¸æ°æÉèÔÚÂåÑô³ÇÖĞĞÄ.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: NPC skill ÏÂ½µµÄbug
+ÈÕÆÚ: Mon Feb 28 05:43:30 2000
+fix lah
+
+
+---
+×÷Õß: ÍşÉÙÒ¯(suicide)
+ÌâÄ¿: ÌìµÀÏµÍ³ÊÔ¿ª·Å
+ÈÕÆÚ: Mon Feb 28 01:59:41 2000
+diqu 
+µØÇøµÄÑ¡ÔñºÍÌìµÀÊÂ¼şµÄËµÃ÷¼ûÎÒÔÚÈı¹úÖ¾¹«¸æ°æµÄpost.
+ÏµÍ³»á×Ô¶¯ÔÚÃ¿ÄêµÄ3,6,9,12ÔÂµÄµÚÒ»ÌìÅĞ¶Ï¸÷µØÇøÌõ¼şÊÇ·ñÂú×ã·¢×÷Ìõ¼ş.
+¸ß°²¶¨ÊÇ±ÜÃâÔÖº¦»ò½µµÍÔÖº¦³Ì¶ÈµÄÎ¨Ò»ÒòËØ,´ó¼ÒÒ»¶¨ÒªÖØÊÓ.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ĞÂµÄ¹úÍõ½±Àø¡£
+ÈÕÆÚ: Mon Feb 28 00:58:59 2000
+Ä¿Ç°¹úÍõ¸øÊÖÏÂµÄ½±ÀøÖ»ÊÇÒ»¸öĞÎÊ½¡£ÒòÎªËùÓĞµÄ¹¤×÷
+¶¼ÊÇÊÖÏÂ×öµÄ£¬µÃµ½µÄÒ²ÊÇ¸ÃµÃµÄ£¬¹úÍõµÄ¹¤×÷²»¹ıÊÇ
+ÀıĞĞ¹«ÊÂ¶øÒÑ¡£ÏÖÔÚÒªÔö¼ÓĞÂµÄÕæÕıµÄ¹úÍõ½±Àø¡£½±Àø
+¼Æ»®ÈçÏÂ¡£
+1 Ã¿Ò»ÃûÍæ¼ÒÔÚÒªÇó¹úÍõ¸øÓè½±Àø(´«Í³µÄ»ùÓÚ¹ú¼Ò¹±Ï×
+   µÄ½±Àø)Ê±£¬¸ù¾İ½±ÀøµÄ´óĞ¡£¬Æä¹ú¼Ò½«µÃµ½Ò»¶¨µÄ´¢
+   ±¸½±µã¡£
+2 ¹úÍõÒ»ÄêÓĞÒ»´Î»ú»á(Ê±¼ä²»ÏŞ)°Ñ´¢±¸µÄ½±µã½±Àø¸ø±¾
+   ¹úµÄÍæ¼Ò¡£
+3 ½±ÀøµÄ·ÖÅä»áÔÚ¸Ã¹úµÄÁôÑÔ°åÉÏ×Ô¶¯¹«²¼¡£
+ÕâÏîÉè¼ÆµÄÄ¿µÄÊÇ
+1 ´«Í³µÄ½±ÀøÊÇ¸ù¾İÍæ¼ÒµÄ¹¤×÷ÓÉÏµÍ³×Ô¶¯¸ø½±Àø£¬ÕâÑù
+   Ä³Ğ©´ÓÊÂÌØÊâ¹¤×÷ÀıÈç°ïÖúĞÂÊÖ£¬Ğ´ºÃµÄPOSTµÄÍæ¼ÒËäÈ»
+   ¶Ô¹ú¼Ò¹±Ï×ºÜ´ó£¬µ«È·µÃ²»µ½ÏàÒËµÄ½±Àø¡£
+2 ´«Í³µÄ½±Àø´óĞ¡£¬ÊÇÓÉ¼ÆËã»ú×Ô¶¯¼ÆËã³öÀ´µÄ¡£ÌåÏÖ²»
+   ³ö¹úÍõ½±·£·ÖÃ÷µÄÁìµ¼¾«Éñ¡£¹úÍõÒ²²»Ì«·ÑĞÄÈ¥¿¼²é
+   ¸÷Íæ¼ÒµÄ¾ßÌå±íÏÖ¡£ĞÂµÄÉè¼Æ£¬¶Ô¸÷Î»¹úÍõÊÇÒ»¸ö»ú»á£¬
+   Ò²ÊÇÒ»¸ö¿¼Ñé¡£ÎÒµ½Òª¿´¿´ÄÄÎª¹úÍõ½±·£·ÖÃ÷£¬Íæ¼ÒÊ¿Æø
+   ´óÔö¡£ÄÄÎª¹úÍõÓªË½Îè±×¸ãµÃÍæ¼ÒÔ¹Æø³åÌì¡£:)
+¾ßÌå¹«Ê½½«Ëæºó¹«²¼¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: busy time for fanpeople
+ÈÕÆÚ: Sun Feb 27 05:48:43 2000
+now ppl will have several second busy time
+after fanpeople so will not have this kind of bug again
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÀî¹ãµ½0É¿¶¯°ÙĞÕ²»ÂúÇéĞ÷£¬µ±µØ°²¶¨¶ÈÏÂ½µÁË¡£
+
+if find similar bug, please report :)
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ÏÂÒ°²¿·Öµ÷Õû
+ÈÕÆÚ: Sat Feb 26 06:08:22 2000
+1 NPCµÄÖÒ³Ï»áÔÚÒ»¶¨·¶Î§ÄÚ×Ô¶¯¸¡¶¯¡£¸¡¶¯µÄÖĞĞÄ»ù±¾µÈÓÚ
+  (¹úÍõ÷ÈÁ¦+Ì«ÊØ÷ÈÁ¦)/2+10¡£
+2 ÖÒ³Ï²»×ã90µÄNPC¿ÉÄÜ»áÒòÎª²»Âú³¯Õş¶øÀëÖ°¡£ÖÒ³ÏÔ½µÍ¸ÅÂÊ
+  Ô½´ó¡£ÀëÖ°ºó£¬NPCÓëÔ­¹ú¹ØÏµ½µµÍ¡£ÁíÍâ£¬NPC¿ÉÄÜ»áËæ»ú
+  ÅÜµ½ÆäËûÈÎºÎ³ÇÊĞÖĞÈ¥¡£
+3 Èç¹ûÏÂÒ°NPC×ÜÊıÉÙÓÚ30ÈË£¬ÏµÍ³»áËæ»úÑ¡ÔñÒ»Ğ©NPCÒÔÆäËû
+  ½è¿ÚÏÂÒ°¡£ÕâÑùÏÂÒ°µÄNPCÓëÔ­¹ú¹ØÏµ²»ÏÂ½µ£¬ÆÜÏ¢µØ¿ÉÄÜ»á
+  ×ªÒÆµ½ÆäËûµØÇø¡£Í¬Ê±ÔÚÒ»¶ËÊ±¼äÄÚ(1-4)ÌìÄÚ½«²»»áÔÙµ±¹Ù
+4 Èı¹úNPC×ÜÊıÊÇ502¸ö£¬ÓĞÈıÊ®¸öÔÚÒ°µÄÊôÓÚÕı³£¡£Ë­µÄNPC
+  ²»ĞÒÅÜÁËÒ²²»ÒªÌ«¼Æ½Ï£¬×ÜÖ®£¬Ë­µÄNPCÔ½¶à£¬Ë­µÄNPCÅÜ
+  µÄ¿ÉÄÜĞÔ¾ÍÔ½´ó¡£
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: latest upgrades of jimou
+ÈÕÆÚ: Fri Feb 25 22:34:44 2000
+1) busy time for scout is reduced to 60 seconds
+2) duration of hide condition applied by qibing will 
+depends on the number of soldiers in that troop, the
+more soldiers, the short u can hide .. 
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Èı¹úµÈ¼¶µã
+ÈÕÆÚ: Sun Feb 27 03:55:29 2000
+(×ªÔØ×Ôcaolu)
+SGRATE£¬Èı¹úµÈ¼¶µãÊÇÒ»¸öºâÁ¿Íæ¼Ò×ÛºÏÈı¹úµÈ¼¶µÄÒ»¸öÖØÒª²ÎÊı¡£¼ÆËã
+¹«Ê½²İ°¸ÈçÏÂ£º
+SGRATE Èı¹úµÈ¼¶µã =
+(sk_meili+sk_wuli+sk_zhimou)*30 + 
+sum(other skills)*10		
+ÈıÏà»ù±¾ĞŞÑøµÈ¼¶µÄºÍ³Ë30+ÆäËûskillµÈ¼¶µÄºÍ³Ë10
+±È½ÏÏÖÊµµÄ×î´óÖµÊÇ10000
++reputation /100		
+¼ÓÉùÍû³ı100£¬±È½ÏÏÖÊµµÄ×î´óÖµÊÇ10000
++literate * 1 			
+¼ÓÎÄÑ§³ËÒÔ2±È½ÏÏÖÊµµÄ×î´óÖµÊÇ10000
++ju * 1000
+¼Ó¾ôÎ»µÈ¼¶³ËÒÔ1000±È½ÏÏÖÊµµÄ×î´óÖµÊÇ10000
++nationcontribution 
+¼Ó¹ú¼Ò¹±Ï×£¬±È½ÏÏÖÊµµÄ×î´óÖµÊÇ10000
+Èı¹úµÈ¼¶µãÓÉÍæ¼ÒµÄ¼¼ÄÜ£¬ÉùÍû£¬ÎÄÑ§£¬¾ôÎ»ºÍ¹ú¼Ò¹±Ï×Îå²¿·Ö×é³É£¬
+ÆäÖĞÃ¿Ò»²¿·ÖµÄ½ÏÏÖÊµµÄ×î´óÖµ¶¼ÊÇ10000(µ±È»²»ÅÅ³ıÊµ¼ÊÖµ³¬¹ı
+ÉÏÏŞ£¬Êµ¼ÊÉÏÎÒÃÇÔÚ¼ÆËãÊ±£¬²ÉÓÃÉÏÏŞ²»·â¶¥µÄ°ì·¨¡£
+ÕâÀïµÄÉÏÏŞÖ»ÊÇÒ»¸ö¼òµ¥µÄ¹À¼Æ£¬Ä¿µÄÊÇÆ½ºâÈ¨Öµ)¡£
+ÔÚÈı¹úµÈ¼¶µãµÄ¼ÆËãÖĞ²»°üÀ¨½ğÇ®ºÍ¹ÙÖ°Ô­ÒòÈçÏÂ¡£
+1 ¹úÍõºÍÒ»°ãÍæ¼ÒÔÚÕõÇ®µÄÄÑÒ×ÉÏ²»Í¬¡£
+2 ÓĞĞ©Íæ¼ÒÈçrulinÓÉÓÚÀúÊ·Ô­Òò±©¸»¡£
+3 Íæ¼ÒµÄ½ğÇ®ÓÉ¹ú¿â£¬ÉíÉÏ´øµÄºÍÒøĞĞÈı²¿·Ö×é³É£¬²»ºÃÍ³¼Æ¡£
+4 ÖÁÓÚ¹ÙÖ°£¬ÓÉÓÚĞèÒª¿ÉÍ»¸ßÍ»µÍ£¬¶øÒ»ÃûÍæ¼Ò¹ÙÖ°µÄ×î¸ß¿ÉÄÜ
+  ÖµÒÑ¾­ÓÉÆäËû¼¸Ïî²ÎÊı¾ö¶¨¡£
+5 ±ÈÆğÆäËû¼¸Ïî²ÎÊıÀ´£¬¹ÙÖ°ºÍ½ğÇ®¸ü½Ó½üÉíÍâÖ®Îï¡£
+ºÃÀ²£¬¹«Ê½Éè¼ÆµÄÀíÓÉ¾ÍÊÇÕâĞ©¡£Èı¹ú¶¨ÆÚ½«¶ÔÍæ¼Ò¸ù¾İ²»Í¬µÄÔ­Ôò
+½øĞĞÅÅĞò£¬¶øÈı¹úµÈ¼¶µã½«ÊÇËùÓĞÅÅĞòÔ­ÔòÖĞ×îÈ«ÃæµÄÒ»¸ö¡£Ò²¾ÍÊÇ
+×îÖØÒªµÄÒ»¸ö¡£ÉÏÃæÁĞ³öµÄ¹«Ê½Ö»ÊÇÎÒ¸öÈË¸ø³öµÄ²İ¸å£¬»¶Ó­ÌÖÂÛ£¬
+»¶Ó­½¨Òé¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ØÓÚÈı¹úµÈ¼¶µã
+ÈÕÆÚ: Sun Feb 27 04:39:10 2000
+(×ªÔØ×Ôcaolu)
+ÎªÁË·½±ã´ó¼Ò±È½ÏºÍ²âÊÔ£¬ÏÖÔÚ½«Èı¹úµÈ¼¶µãÁÙÊ±
+¼ÓÔÚ info c ÀïÃæ¡£
+ÁíÍâÓÉÓÚBUG£¬ÓĞĞ©Íæ¼ÒÔÚ info cÖĞµÄĞŞÑøµÈ¼¶¶¼ÇåÎªÁã¡£
+²»ÓÃµ£ĞÄ£¬Ö»ÒªÄãÓÃcmd honour¸ø×Ô¼º½±ÀøµãĞŞÑø£¬»òÕß
+ÈÃ¹úÍõ¸øÄã½±Àø£¬»ò×Å×ö¹¤×÷£¬»òÕßfightÖ»Òª¾­ÑéÉÏÉıÒ»
+µãµã£¬ĞŞÑø¾Í»á×Ô¶¯»Ö¸´¡£Èç¹û»¹ÓĞÎÊÌâ¾ÍºÍÔÚÏßwizÁªÏµ
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: »ùµØÉú²ú¹¤×÷Ö¸ÄÏ¡£
+ÈÕÆÚ: Fri Mar  3 10:09:27 2000
+µ±Éú²ú»ùµØµÄ×Ü¼à£¬¹¤Í·£¬ÀÍ¹¤µÈ¶¼È«ÁËºó£¬¾ö¶¨»ùµØ²úÁ¿
+¸ßµÍµÄÒ»¸öÖ÷ÒâÒòËØ¾ÍÊÇÀÍ¹¤µÄ¸É¾¢¡£Ä¿Ç°Ö»ÓĞÍ¨¹ıÔÚ»ùµØ
+Ö¸»ÓÀÍ¹¤(Å©·ò)µÄ·½·¨À´Ìá¸ß¸É¾¢¡£·½·¨ÊÇ£º
+1  ask head about order
+2  4)  Ö¸»ÓÅ©·ò
+3  È»ºóÔÚÔ­µØ²»¶¯¾Í»á×Ô¶¯Óöµ½Ò»Ğ©ÀÍ¹¤(Å©·ò)£¬ÕâĞ©ÀÍ¹¤
+   ÓĞµÄ¿ÉÄÜÔÚË¯¾õ£¬ÓĞµÄ¿ÉÄÜÔÚ·¢´ô£¬ÓĞµÄ¿ÉÄÜÔÚÅ¬Á¦¸É»î¡£
+4  ¶ÔÓÚÃ¿ÖÖÇé¿ö£¬ÏµÍ³¶¼»áÈÃÄãÑ¡Ôñ¶Ô²ß¡£ÀıÈçÈç¹ûÄã·¢ÏÖ
+   ÓĞÈËÔÚË¯¾õ£¬¿ÉÒÔÑ¡ÔñÒ»½ÅÌßĞÑ(0) ÈÃËûË¯(1)¡£
+5  ¾ßÌåÑ¡ÔñÄÄÏîºÏÊÊÄØ£¬Òª¸ù¾İ¾ßÌåÇé¿ö¶¨¡£Èç¹ûÕâÃûÀÍ¹¤
+   Æ½Ê±¾ÍÊÇÒ»¹áÀÁÉ¢£¬ÕâÊ±µ±È»Ó¦¸ÃÒ»½ÅÌßĞÑ£¬µ«Èç¹ûËûÆ½
+   Ê±Ò»¹á¹¤×÷Å¬Á¦£¬ÏÖÔÚË¯¾õ¶à°ëÊÇÀÛµÃ²»ĞĞÁËËùÒÔÓ¦¸ÃÑ¡
+   ÔñÈÃËûË¯¡£
+6  ÈçºÎÖªµÀËûÆ½Ê±µÄÒ»¹á±íÏÖÄØ£¬Ä¿Ç°ÓĞÁ½ÖÖ°ì·¨£¬Ò»ÖÖÊÇ
+   ÎÊÇé¿ö(a)£¬Ò²¾ÍÊÇÏò¹¤Í·´òÌı£¬ÁíÒ»ÖÖÊÇ¿´(l)£¬¾ÍÊÇ×Ô
+   ¼º¹Û²ì¡£Èç¹ûÄãµÄ¹¤Í·ÖÇ»Û±È½Ï¸ß£¬ºÜ¿ÉÄÜ»á¸æËßÄãÕıÈ·
+   µÄĞÅÏ¢¡£ÁíÍâ£¬Èç¹ûÄãµÄ±ø·¨ĞŞÑø±È½Ï¸ßµÄ»°£¬¹Û²ìÒ²¿É
+   ÒÔµÃµ½ÕıÈ·µÄ½á¹û¡£ÕâÊ±Äã¾Í¿ÉÒÔÍ¨¹ıÕâĞ©ÏßË÷À´Ñ¡ÔñºÏ
+   ÊÊµÄ´¦Àí·½·¨¡£µ«Ò²¿ÉÄÜÊ²Ã´ÓĞÓÃµÄĞÅÏ¢¶¼µÃ²»µ½£¬ÕâÃ´
+   Äã¾ÍÖ»ÄÜËæ»úÑ¡ÔñÁË¡£
+7  ÔÚÑ¡ÔñÍê´¦Àí·½·¨ºó£¬Èç¹ûÄãµÄÖÎ¹úĞŞÑø±È½Ï¸ß£¬¾ÍËãÑ¡
+   µÄ²»Ì«ºÏÊÊ£¬Ò²¿ÉÄÜ»áÓĞºÃµÄ½á¹û¡£·´Ö®£¬Èç¹ûÖÎ¹úĞŞÑø
+   ±È½ÏµÍ£¬¾ÍËãÑ¡ÔñµÄºÏÊÊ£¬½á¹ûÒ²¿ÉÄÜ²îÒ»µã¡£
+8  ´¦ÀíÍêÒ»¼şÎÊÌâ£¬×îºÃÇé¿öÊÇµ±Ç°·¿¼äµÄ¸É¾¢ÕÇÁ½µã£¬×î
+   ²îÊÇ¸É¾¢½µÒ»µã¡£Äã×îºóµÄ·ÖÊıµÈÓÚËùÓĞ¸É¾¢Ôö³¤µãµÄ×Ü
+   ºÍ¡£
+9  Ò»´Î»ùµØÉú²ú¹¤×÷ÓĞÊ®´Î½â¾öÎÊÌâµÄ»ú»á¡£Èç¹ûÄãÔÚÊ®´Î
+   ÎÊÌâÃ»ÓĞÈ«Íê³ÉÇ°Àë¿ª¸Ã·¿¼ä£¬ÏµÍ³»á¸ù¾İÄãÒÑ¾­Íê³ÉµÄ
+   ÎÊÌâÖ®ºÍ¶ÔÄã´ò·Ö¡£
+10 Èç¹ûÄãµÄ·ÖÊı×ÜºÍ³¬¹ı5·Ö£¬ÏµÍ³¾Í»á¸øÄãÒ»´ÎROBOT²âÊÔ
+   µÄ»ú»á£¬Í¨¹ı²âÊÔ¾Í¿ÉÒÔµÃµ½±È·ÖÊı¸ßÒ»Ğ©µÄÈı¹ú½±µã¡£
+11 ÔÚ»ùµØÉú²úÖĞ¿ÉÒÔÅöµ½µÄÎÊÌâÖÖÀàÎÒÃÇ½«»á²»¶ÏÔö¼Ó¡£
+12%^H_RED%^ Èç¹ûÃ»ÓĞÌØ±ğBUGµÄ»°£¬¾ÍÒâÎ¶×Å»ùµØµÄ»ù´¡²¿·ÖÒÑ¾­È«²¿
+%^H_RED%^   Íê³É£¬ËùÒÔ¿ÉÄÜ»áÔÚÒ»ÖÜºóÍ£Ö¹ÉÌÈËµÄÂô»õ¹¦ÄÜ%^RESET%^
+ .
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: robot ×öÁËµ÷Õû
+ÈÕÆÚ: Thu Mar  2 00:12:44 2000
+Ó¦¸Ã²»»á³öÏÖÁ½¸öÏàÍ¬µÄ×ÖÁªÔÚÒ»Æğ£¬Ìô´íÎóµÄÇé¿öÁË¡£
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ØÓÚ¶ªÊ§Ê¿±ø
+ÈÕÆÚ: Wed Mar  1 05:53:13 2000
+Èç¹ûÏµÍ³ÓÉÓÚÌØÊâÔ­ÒòÔÚÑµÁ·»òÕ½ÕùÊ±µ²»ú£¬¿ÉÄÜ»áÒıÆğ
+Ò»Ğ©µØÇøµÄÊ¿±øÊıÁ¿ÓĞĞ©ËğÊ§¡£ÏÖÔÚÏµÍ³Ôö¼ÓÁËĞÂµÄLOG
+¹¦ÄÜ¡£ÔÚÃ¿´ÎÑµÁ·ºÍÕ½ÕùÇ°£¬¶¼»á×Ô¶¯¼ÇÂ¼Ïà¹ØµØÇøµÄÊ¿
+±øÊıÁ¿£¬ÑµÁ·£¬Ê¿ÆøµÈĞÅÏ¢¡£ËùÒÔ½«À´µÄ¶ÔÊ¿±ø»Ö¸´½«»á
+ÓĞ¾İ¿É²é¡£²»¹ıÓĞÒ»µã£¬Ò»µ©ÔÚµ²»úºó·¢ÏÖÊ¿±øËğÊ§£¬Çë
+Á¢¼´POSTµ±Ê±µÄ¹Û²ìÖµ(ËğÊ§ºó)£¬Í¬Ê±²»µÃÔÚ¸ÃµØÇøÕ÷±ø
+£¬Á·±ø£¬ÔË±ø¡£Ëû¹úÒ²²»µÃ¶Ô¸ÃµØÇø½øĞĞÕ½Õù¡£ÕâÒ»×´Ì¬
+ÇëÒ»Ö±±£³Öµ½ÓĞWIZÉÏÏß´¦Àíºó²Å½áÊø£¬ÄÄ¸ö¹ú¼ÒÎ¥·¸¹æ¶¨£¬
+ÄÄ¸ö¹ú¼Ò³Ğµ±Ò»ÇĞËğÊ§¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Èı¹ú½±Àø£¬
+ÈÕÆÚ: Mon Feb 28 08:30:36 2000
+ÒÔÏÂ½±Àø¹«Ê½Ö»¶Ôµ±¹ÙºóµÄÖĞ¼¶¹¤×÷ÓĞĞ§£¬µ±¹ÙÇ°µÄ³õÆÚ¹¤×÷ºÍÓëÏÍÈË
+ÓĞ¹ØµÄÌØÊâ¹¤×÷²»±¥º¬ÔÚÄÚ¡£
+1 Ã¿Íê³ÉÒ»¼ş¹¤×÷ÓĞ1/2µÄ¿ÉÄÜĞÔµÃµ½Ò»¸örobot²âÊÔ£¬Í¨¹ıÕÇÒ»µãÎÄÑ§¡£
+2 Ã¿Íê³ÉÒ»¼ş¹¤×÷µÃµ½Ò»¶¨µÄÈı¹ú½±µã£¬Í¬Ê±»áµÃµ½Ò»Ğ©¹ú¼Ò¹±Ï×¹«Ê½
+  ÈçÏÂ¡£
+  10 ½±µã  =>    2  ¹ú¼Ò¹±Ï×
+          Áí¼Ó   1  ÖÒ³Ï¶È
+          »ò     1  gold
+          »ò     10 ÉùÍû
+          »ò     5  ¾­Ñé
+3 µ±¹ú¼Ò¹±Ï×³¬¹ı100µãºó¿ÉÒÔÏò¹úÍõ(»ò¹úÊ¦)ÒªÇó¼Î½±£¬¹«Ê½ÈçÏÂ£º 
+  100 ¹ú¼Ò¹±Ï×  =>    50   ¹ú¼Ò½±Àøµã´¢±¸
+               Áí¼Ó   10  gold
+               »ò     100 ÉùÍû
+               »ò     10  ÖÒ³Ï¶È
+               »ò     50  ¾­Ñé
+  ½±ÀøµÄ°ì·¨ÊÇ£ºpos i)  ½±Àø²¿ÏÂ,ÒªÇó±»½±ÀøÕß±ØĞëÔÚÏß¡£ 
+4 ÔÚ¹úÍõ»ò¹úÊ¦½±ÀøÍæ¼ÒµÄÍ¬Ê±£¬±¾¹ú¿ÉÒÔÔö¼ÓÒ»Ğ©´¢±¸½±µã¡£»ù±¾
+  ¹ØÏµÊÇ±¾¹úÍæ¼ÒÃ¿µÃµ½100¹ú¼Ò¹±Ï×£¬¹ú¼Ò¾Í¿ÉÒÔ¶à50´¢±¸½±µã¡£
+  µ±´¢±¸½±µã³¬¹ı1000Ê±£¬¸Ã¹ú¿É¶Ô±¾¹úÓĞÌØÊâ¹±Ï×µÄÍæ¼Ò¸øÓèÌØ±ğ
+  ½±Àø¡£ÌØ±ğ½±ÀøÒ»´Î²»ÄÜ³¬¹ıÎåÈË¡£Ã¿ÄêÖ»ÄÜ½øĞĞÒ»´Î½±Àø¡£½±Àø
+  µÄÏêÏ¸Çé¿öÏµÍ³»á×Ô¶¯ÌûÔÚ±¾¹úµÄ¹«¸æÀ¸ÄÚ¹©±¾¹úÍæ¼Ò¼à¶½²éÑ¯¡£
+  ½±ÀøµÄµãÊı¾ÍÊÇÈı¹ú½±µã¡£
+  ½±Àø°ì·¨£º pos j)  Äê¶ÈÌØ±ğ½±Àø£¬,±»½±ÀøÕß²»Ò»¶¨ÔÚÏß¡£ 
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ú¼Ò´¢±¸½±µã
+ÈÕÆÚ: Mon Feb 28 20:04:58 2000
+ÏÖÔÚÓÃinfo n <n_id> ¿ÉÒÔ²é¿´¹ú¼ÒµÄ´¢±¸½±µã¡£Èç¹û¹úÍõ²»½±Àø
+Õâ¸öÖ±Ò²¿ÉÒÔÓÃÀ´¹ÀËã¸Ã¹úÍæ¼ÒµÄÇÚ·Ü³Ì¶È¡£
+ÏÖÔÚ½±µã²»ÓÃ£¬Ò²²»»áÀË·Ñ¡£µ«ºÜ¿ìÎÒÃÇ»áÉè¼ÆÒ»¸ö½±µãÉÏÏŞ¡£
+³¬¹ıÉÏÏŞÁË£¬¿É¾ÍÀË·ÑÁË¡£
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: I adjusted the ÏÂÒ°
+ÈÕÆÚ: Sat Mar  4 05:35:37 2000
+so npc will a basic skill more than 90 will
+not »Ø¼ÒÌ½Ç×
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Å©³¡¹«Ê½×Ü½á
+ÈÕÆÚ: Sat Mar  4 08:24:11 2000
+²úÁ¿¼ÆËã£º
+  ²úÁ¦=Å©·òÊı*(Éú²úÏµÊı/100)*(°²¶¨+100)/300*(¹¤Òµ+ÉÌÒµ+Å©Òµ*8+1000)/3000*
+       (×Ü¼àÖÎ¹úĞŞÑø+×Ü¼à±ø·¨ĞŞÑø)/200*
+       (¹¤Í·Á¦Á¿*3+¹¤Í·ÄÍÁ¦*6+¹¤Í·ÖÇ»Û*1)/1000*
+       ¸É¾¢/100;
+  ÔÂ²úÁ¿=²úÁ¦*10*100/50;  10 - ÌìÊı 100 - Ã¿Ò»Éú²úµ¥Î»Á¸Ê³Êı
+                          50 - Ã¿Ò»Éú²úµ¥Î»ĞèÒªÉú²úÁ¦¡£
+  Äê²úÁ¿=ÔÂ²úÁ¿*12;
+  Éú²úÏµÊıÊÇÒ»¸ö¿ØÖÆÈ«¾Ö²úÁ¿µÄÒ»¸ö³£Êı£¬ÏÖÔÚÉèÎª150£¬½«À´¸ù¾İÆ½ºâ
+  ĞèÒª£¬¿ÉÒÔËæÊ±±ä¶¯µ÷Õû¡£
+Àı×Ó£º
+  ËÄ¼¶Å©³¡£ºÅ©·òÊıÁ¿£º6400
+  µØÇø£º°²¶¨ 180, ¹¤Å©ÉÌ£º100
+  ×Ü¼à£º±ø·¨ĞŞÑø£¬ÖÎ¹úĞŞÑø£º80
+  ¹¤Í·£ºÁ¦Á¿£¬ÄÍÁ¦£¬ÖÇ»Û£º60
+  ¸É¾¢£º80
+  ²úÁ¦=6400*(150/100)*(280)/300*(2000)/3000*(160)/200*(600)/1000*80/100
+      =2293.76
+  ÔÂ²úÁ¿=2211*10*100/50=45875£¬¹»Ñø»î40k±ø»òÕß80kÆäËû·ÇÅ©³¡µÄ¹Í¹¤¡£
+  Äê²úÁ¿=550k
+  ¶ş¼¶Å©³¡£ºÅ©·òÊıÁ¿£º1600
+  µØÇø£º°²¶¨ 120, ¹¤Å©ÉÌ£º80
+  ×Ü¼à£º±ø·¨ĞŞÑø£¬ÖÎ¹úĞŞÑø£º70
+  ¹¤Í·£ºÁ¦Á¿£¬ÄÍÁ¦£¬ÖÇ»Û£º50
+  ¸É¾¢£º70
+	
+  ²úÁ¦=1600*(150/100)*(220)/300*(1800)/3000*(140)/200*(500)/1000*70/100
+      =259
+  ÔÂ²úÁ¿=259*10*100/50=5k£¬¹»Ñø»î5k±ø»òÕß10kÆäËû·ÇÅ©³¡µÄ¹Í¹¤¡£
+  Äê²úÁ¿=60k Ò»¸ö´å×¯ÓĞÕâÃ´µÄ²úÁ¿Ó¦¸Ã¿ÉÒÔÂúÒâ¡£
+¹ØÓÚ¸É¾¢£º
+  1 ÔÚÃ»ÈëÖÎÀíµÄÇé¿öÏÂ£¬¸É¾¢µÄ×îºóÆ½ºâµãÊÇ30×óÓÒ¡£
+  2 Èç¹û¸É¾¢³¬¹ı50£¬24Ğ¡Ê±´óÔ¼ÏÂ½µ20µã¡£
+  3 Ò»¸öÖ¸»Ó¹¤×÷¿ÉÒÔ¼Ó10-20µã¸É¾¢£¬µÃµ½30+Èı¹ú½±Àøµã£¬ºÄÊ±Ô¼5·ÖÖÓ¡£
+
+
+---
+×÷Õß: °¢Âå(row)
+ÌâÄ¿: µØÇø×ÊÑ¶µÄ¸üĞÂ
+ÈÕÆÚ: Mon Mar  6 22:18:11 2000
+ÏÖÔÚinfo a area_id¿ÉÒÔ²éÔÄµ½¸ÃµØÇøµÄ»ùµØÔÂÉú²úÁ¿¡£
+ÓÉÓÚÄ¿Ç°µØÇø×ÉÑ¯Ôö¶à£¬½«Ìí¼Ó·ÖÖ§ÃüÁîÒÔ·ÖÀàÏÔÊ¾¡£
+ÇëÁôÒâ¸üĞÂ¡£
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: zhanbu fixed
+ÈÕÆÚ: Mon Mar  6 01:45:17 2000
+now level 33 can use
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ²é¿´Èı¹úÎï×ÊÊı¾İ¿â
+ÈÕÆÚ: Tue Mar  7 08:13:13 2000
+ÃüÁî£º info s [id]
+ÒòÎª´ó²¿·ÖµÄÊı¾İ»¹²»ÍêÕû£¬ËùÒÔÖ®ÓĞÉÙÊı¼¸ÖÖÎï×ÊµÄ
+Êı¾İ¶¨ÒåÊÇÕıÈ·µÄ
+£®
+
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¶ÔÓÚNPCÏÂÒ°µÄµ÷Õû£º
+ÈÕÆÚ: Tue Mar  7 05:40:31 2000
+Ö»ÓĞµ±ÔÚÒ°NPCÉÙÓÚ10µÄÊ±ºò£¬²Å»á³öÏÖNPCÒòÎªÌ½Ç×µÈÔ­ÒòÏÂÒ°¡£
+µ±ÔÚÒ°NPC´óÓÚ60Ê±£¬³ı·ÇwhisperºÍletter£¬NPC²»»áÒòÎª²»Âú
+³¯Õş¶øÏÂÒ°¡£
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: new change of jimou
+ÈÕÆÚ: Thu Mar  9 14:15:00 2000
+now NPC and players not online will be considered as their
+bfxy level to be their jimou skill level. they cant use jimou, but
+be careful, dont use jimou to zhuge liang when your skill is not high enough
+be careful, dont use jimou to zhuge liang when your skill is not high enough
+
+group
+
+
+---
+×÷Õß: °¢Âå(row)
+ÌâÄ¿: info aÃüÁîµÄ¸üĞÂ
+ÈÕÆÚ: Fri Mar 10 01:28:42 2000
+ÓÉÓÚÄ¿Ç°µØÇøĞÅÏ¢Ôö¶à£¬½öÒ»Ìõinfo aÔì³ÉÏÔÊ¾¹ıÁ¿¡£
+ÏÖÔÚ±£ÁôÔ­ÓĞinfo aµÄ»ù´¡ÉÏ£¬Ôö¼ÓÁË·ÖÖ§ÃüÁîÒÔ¹©²éÑ¯£º
+info ag£ºµØÇø»ù±¾ĞÅÏ¢
+info am£ºµØÇø¾üÊÂ¼°´¢±¸ĞÅÏ¢
+info af£ºµØÇø²ÆÕşĞÅÏ¢
+info ao£ºµØÇøÈËÊÂĞÅÏ¢
+
+Ï£ÍûÄÜ¸ø´ó¼ÒÌá¹©±ãÀû£¬Èç¹ûÓĞºÃµÄÒâ¼û£¬¾´ÇëÌá³ö¡£
+Ïà¹Ø°ïÖúÎÄ¼ş½«¼°Ê±¸üĞÂ¡£
+
+Áí£º¸ĞĞ»ÍşÉÙÒ¯(suicide)µÄ°ïÖú¡£
+
+
+---
+×÷Õß: °¢Âå(row)
+ÌâÄ¿: info aÃüÁî¸üĞÂ
+ÈÕÆÚ: Fri Mar 10 03:07:24 2000
+Ôö¼Óinfo aa area_id£¬´úÌæÔ­À´µÄinfo a area_id¡£
+info aÔò»áÏÔÊ¾ËùÓĞÏà¹Ø·ÖÖ§Ö¸Áî¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: the bug for losing money
+ÈÕÆÚ: Sat Mar 11 09:10:41 2000
+fixed
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: about spy
+ÈÕÆÚ: Sat Mar 11 09:32:25 2000
+now spy can only display
+¾üÊÂ¼°´¢±¸ĞÅÏ¢£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: two things about ¡Ñ¾«Éñ¡Ñ 
+ÈÕÆÚ: Sat Mar 11 10:13:14 2000
+1 ¡Ñ¾«Éñ¡Ñ  can only recover when sleep, can't auto recover
+2 a bug in ¡Ñ¾«Éñ¡Ñ  has been fixed, so rob and leeye don't worry
+  the negative ¡Ñ¾«Éñ¡Ñ  lah, hoho
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: fightµÄ¸Ä½ø
+ÈÕÆÚ: Mon Mar 13 07:18:33 2000
+1 ÓĞĞ©³¡ºÏÊÇ²»ÄÜ±ÈÎäµÄ¡£
+2 Èç¹û¶Ô·½ÊÇÔÚÏßÍæ¼Ò£¬±ØĞèË«·½¶¼Í¬Òâ²ÅÄÜ±ÈÎä¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Õ½ÕùµÄÒ»¶¨Ğ¡ÇÏÃÅ
+ÈÕÆÚ: Tue Mar 14 08:12:19 2000
+help wartips
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: fenfa changed
+ÈÕÆÚ: Wed Mar 15 02:03:20 2000
+according to balance, the fenfa's lost has been increased to about 1.5 times
+level 60 fenfa use once lost 100 soldiers.
+
+and if the troop is not connected to troops number >2, it can not fenfa.
+
+group
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ĞŞ²¹bug±¨¸æ
+ÈÕÆÚ: Wed Mar 15 07:29:24 2000
+ÏÖÔÚ¶Ôfanpeople,visitpeople,recruitµÈÈ«Ãæ×öÁËµ÷Õû¡£
+Ä¿µÄÊÇĞŞ²¹Í¬Ê±¿ÉÒÔrecruitºÍfanpeople,¶à´ÎÀûÓÃppl£¬
+¶ÏÏß´ÓÁªÈëºó»¹¿ÉÄÜ±»×¥µÄbug¡£
+»ù±¾µÄË¼Â·ÊÇ£º
+1 Ò»¸öpplÎŞÂÛÊÇrecuit,fanppl,visitpplµÈ¶¼Ö»ÄÜÓÃÒ»´Î¡£
+2 Óëppl½»Ì¸µÄÍæ¼ÒÖ»ÒªÀë¿ª¸Ã·¿¼ä£¬»òÕß¶ÏÏß£¬ppl½«»á
+  ºÜ¿ìÏûÊ§£¬Í¬Ê±¸ÃÍæ¼Ò½«´¦ÓÚ²»ÄÜ±»×¥µÄ×´Ì¬¡£²»¹ı¶ÏÏß
+  ´Óµ½NPCÏûÊ§¿ÉÄÜ»áÓĞÒ»¶¨ÑÓÊ±¡£ËùÒÔ×örecruit»òfanppl
+  jobµÄÍæ¼ÒÈç¹û¶ÏÏß£¬×îºÃµÈ1·ÖÖÓÔÚ´ÓĞÂÁªÏß£¬ÒÑ·ÀÍòÒ»¡£
+3 ĞŞ²¹bug¿ÉÄÜ»á´øÀ´¸ü¶àµÄbug£¬·¢ÏÖÇë¼°Ê±»ã±¨:)
+
+
+---
+×÷Õß: Ä³Ä³(fire)
+ÌâÄ¿: ¹ØÓÚpplµÄbug
+ÈÕÆÚ: Thu Mar 16 05:53:54 2000
+ÎÒÓÖ¶ÔËùÓĞÏà¹ØµÄ³ÌĞòµ÷ÕûÁËÒ»ÏÂ£¬
+Ó¦¸ÃÃ»ÓĞÎÊÌâÁË¡£ÓĞÎÊÌâÇë¼°Ê±»ã±¨¡£
+Á½¸ö¹Ø¼üµÄÎÊÌâÊÇ£º
+1 ÎŞÂÛ¶Ôppl×öÊ²Ã´job£¬ÎŞÂÛÊÇÕı³£»¹ÊÇ²»Õı³£
+  ½áÊø£¬ppl¶¼Ó¦¸ÃÏûÊ§¡£Èç¹û²»£¬Çë»ã±¨Ò»ÏÂ
+  ´ÓÊÂÊ²Ã´ÑùµÄjob£¬ÔÚÊ²Ã´ÑùµÄÇé¿öÏÂppl²»ÏûÊ§¡£
+2 Ö»ÓĞÔÚpplÏûÊ§ºó£¬²Å¿ÉÒÔÒÆ¶¯µ½ÆäËû·¿¼äÀïÈ¥£¬
+  ²»È»¿ÉÄÜ»áÒıÆğÒ»Ğ©robot²âÊÔ²»Õı³£¡£ÕâÖÖÇé¿ö
+  ²»ÊôÓÚbug£¬ËğÊ§×Ô¸º¡£
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: fenfa
+ÈÕÆÚ: Sat Mar 18 05:58:15 2000
+now fenfa can only be used when you are surrended by enemies... that
+is more reasonable.
+regards
+
+group
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: Îï×ÊµÄ×ÔÈ»ËğºÄ
+ÈÕÆÚ: Fri Mar 17 06:28:00 2000
+ÏÖÔÚ£¬Ã¿¸öÈı¹úÄê£¬¸÷ÀàÎï×Ê½«ÓĞ1%µÄ×ÔÈ»ÏûºÄ¡£
+Õâ¸öÉè¼ÆÖ÷ÒªÊÇÎªÁËÕæÊµ£¬Í¬Ê±·ÀÖ¹Îï×ÊÊıÄ¿¹ı
+´óÉÏÏŞÒç³ö¡£
+1%µÄËğºÄ¶Ô¹ú¼ÒËğÊ§ºÜĞ¡¡£ÔÚÍêÈ«Ã»ÓĞÉú²úµÄÇé¿ö
+ÏÂ£¬Îï×ÊÒª¹ı´óÔ¼68.5¸öÈı¹úÄê(ÏÖÊµÉú»îÖĞÔ¼Èı¸ö
+ÔÂ)£¬Îï×ÊÁ¿²Å»áË¥¼õÒ»°ë¡£ËùÒÔ¶ÔÏÖÔÚµÄÕı³£ÓÎÏ·
+½«Ã»ÓĞÊ²Ã´Ó°Ïì¡£
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: new formular of mp consuming
+ÈÕÆÚ: Sun Mar 19 00:43:52 2000
+10 + level of jimou * 5
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ØÓÚÉÌÒµ
+ÈÕÆÚ: Mon Mar 20 05:44:26 2000
+ÕâÁ½Ìì¾ÍÒªÍÆ³öĞÂµÄÉÌÒµÏµÍ³¡£
+ÀÏµÄÉÌÒµÏµÍ³ÒÑ¾­È¡Ïû¡£
+ÇëÔİÊ±²»Òª×ölocalbuyµÄjob
+thanks
+
+
+---
+×÷Õß: ÍşÉÙÒ¯(suicide)
+ÌâÄ¿: ¼ÓÈëÄÏ»ªÀÏÏÉÔ¤²âÌìµÀ
+ÈÕÆÚ: Mon Mar 20 21:11:01 2000
+ÕÒboy¿ÉÒÔÕÒµ½ÄÏ»ªÀÏÏÉµÄĞĞ×Ù£®
+£®
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: letter µ÷ÕûÁË
+ÈÕÆÚ: Thu Mar 23 06:21:04 2000
+ÖÒ³Ï¸ßÓÚ80µÄ£¬²»»á¸øletterÅÜ¡£
+addoil :)
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: cmd bl <area_id>
+ÈÕÆÚ: Thu Mar 23 05:42:52 2000
+¿ÉÒÔÓÃÀ´²é¿´ÄãÊÇ²»ÊÇÔÚÄ³µØµÄºÚÃûµ¥ÉÏ£¬
+Ãâ×ßÔ©Í÷Â·ÁË¡£hoho :)
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: more
+ÈÕÆÚ: Wed Mar 22 21:24:22 2000
+to see the help of cmd troop
+cmd help troop
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: cmd troop
+ÈÕÆÚ: Wed Mar 22 21:20:45 2000
+ĞÂÃüÁî¼ÓÈë¡£ 
+cmd troop <troop id>
+¿ÉÒÔ²é¿´²¿¶ÓÖĞµÄÖ¸»Ó¹Ù¡£
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: info µÄÉı¼¶
+ÈÕÆÚ: Wed Mar 22 06:55:53 2000
+ÏÖÔÚÓÃ info ag ºÍ info n ¿ÉÒÔ²éÔÄµØÇøºÍ¹ú¼ÒµÄÉú²ú»ùµØÇé¿ö¡£
+ÓĞÒ»µã²»Í¬µÄµØÇøÏÔÊ¾ÖĞ»ùµØÃû³ÆºóÃæµÄ²ÎÊıÊÇ»ùµØµÈ¼¶£¬¹ú¼Ò
+²ÎÊıÖĞºóÃæµÄ²ÎÊıÊÇÈ«¹ú¸ÃÀà»ùµØµÄÊıÁ¿¡£
+
+
+---
+×÷Õß: ÍşÉÙÒ¯(suicide)
+ÌâÄ¿: ¿ª·Å¹úÍõÉ¾³ı±¾¹úÁôÑÔ°æpostµÄ¹¦ÄÜ
+ÈÕÆÚ: Tue Mar 21 23:10:55 2000
+µ«±ØĞëÊÇÒ»ÌìÇ°µÄpost .
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: fakeorder
+ÈÕÆÚ: Tue Mar 21 04:38:58 2000
+new jimou fakeorder open.
+please help fakeorder to see details
+
+group
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: bug in cast to trainee in training
+ÈÕÆÚ: Fri Mar 24 00:24:32 2000
+fixed
+
+
+---
+×÷Õß: Ğş±ù(ice)
+ÌâÄ¿: most bases and stuffs settled
+ÈÕÆÚ: Fri Mar 24 10:17:05 2000
+"info b list" to check the existing base.
+"info s list" to check the existing stuff.
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ØÓÚwhisper
+ÈÕÆÚ: Mon Mar 27 05:47:58 2000
+ÏÖÔÚ×öwhisperÖ»ÓĞÉùÍû¸ßÓÚ10000µÄÍæ¼Ò²Å¿ÉÒÔ
+ºÍNPC½»Ì¸£¬ÈÃNPCµÄÖÒ³Ï½µµÍ£¬ÉùÍûµ×ÓÚ10000
+Íæ¼Ò¿ÉÒÔÍ¨¹ı¸ÃjobÄÃ¾­Ñé£¬µ«ÎŞ·¨½µµÍNPCµÄÖÒ³Ï¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ØÓÚÔËÊäµÄµ÷Õû
+ÈÕÆÚ: Fri Mar 31 07:47:37 2000
+ÎªÁËÇ¿»¯ºó·½»ùµØµÄ×÷ÓÃ£¬µ÷ÕûÁËÔËÊäµÄ¹«Ê½¡£
+Ä¿Ç°ÔËÊäËğºÄÎŞÂÛ¸ÅÂÊ»¹ÊÇËğºÄÖµ¶¼´ó·ù¶È½µµÍ¡£
+×î´óËğºÄÊÇ10%¡£
+ÔËÊäÊ¿±ø£¬Èç¹ûÊ¿Æø+ÑµÁ·>320½«Ã»ÓĞËğºÄ¡£
+ÔËÊäÎï×ÊºÍ½ğ£¬Èç¹ûÁ½µØ°²¶¨Ö®ºÍ´óÓÚ320½«Ã»ÓĞËğºÄ¡£
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: a but in letter
+ÈÕÆÚ: Thu Mar 30 22:39:15 2000
+sorry, there is a small bug in letter
+I hope this time, i fixed it, escape
+
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ¹ØÓÚ×¥ÈËµÄĞŞ¸Ä£º
+ÈÕÆÚ: Tue Mar 28 05:46:41 2000
+1 ±»×¥·½ÉùÍûËğÊ§5%,×î´óËğÊ§²»³¬¹ı15000¡£
+2 ×¥ÈË·½¿ÉÒÔµÃµ½±»×¥·½ËğÊ§ÉùÍûµÄÒ»°ë£¬µ«×î¶à²»ÄÜ³¬¹ı
+  5000£¬Ò²²»ÄÜ³¬¹ı±¾À´µÄÉùÍû¡£
+
+
+---
+×÷Õß: ÌÒÌÒ(flee)
+ÌâÄ¿: new jimou fakeorder released, tutor is Bao Dating
+ÈÕÆÚ: Sat Apr 15 06:22:22 2000
+as title
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: the bug in tran
+ÈÕÆÚ: Tue Apr 11 20:34:38 2000
+that bug is due to data overflow
+now the upper limit of tran is set as 1000000
+hope this can avoid that bug :)
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: jimou
+ÈÕÆÚ: Wed Apr 12 04:59:09 2000
+According to the complain, i increase the succeed rate of target
+jimou, such as
+jbsj,luoshi,hunluan,shidu,huangbao,fakeorder,neihong.
+
+regards
+group
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: sugong
+ÈÕÆÚ: Mon Apr 24 04:28:53 2000
+new jimou sugong open for test. can ask lao taijian to gain the skill
+and ask bao dating for skills up. 
+help sugong for details.
+
+regards
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: the bug of tran
+ÈÕÆÚ: Tue Apr 25 06:05:05 2000
+fixed
+now only nation officer and related local leader can suggest tran
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: WEBÉÏ¶ÁÈı¹úÁôÑÔ
+ÈÕÆÚ: Wed May  3 20:59:38 2000
+ĞÂµÄCGI¿ÉÒÔÊ¹Íæ¼Ò·½±ãµØÔÄ¶Á´ó²¿·ÖÁôÑÔ°åµÄÁôÑÔ¡£ÉõÖÁ¿ÉÒÔÔÄ¶Á·ÖÕ¾µÄ
+ÁôÑÔ(Ä¿Ç°Ö®ÏŞÓÚÉÏº£ºÍ¸£Öİ£¬ÆäËü·ÖÕ¾ÒªÔÙµÈ¼¸ÌìÏµÍ³¸üĞÂºó²Å¿ÉÒÔ)ÍøÖ·
+ÊÇ£ºhttp://64.22.25.69:5080/news_frame.html
+Ä¿Ç°ÉĞ³öÓÚ¿ª·¢ºÍ²âÊÔ½×¶Î£¬»¶Ó­²âÊÔºÍ½¨Òé¡£
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: mubing open
+ÈÕÆÚ: Thu May  4 02:19:58 2000
+help mubing for details
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: ³ÆµÛÒÑ¾­×öºÃÁË
+ÈÕÆÚ: Wed May 10 03:21:52 2000
+ÏêÏ¸Çé¿ö¼û help chengdi
+¿ÉÄÜÓĞBUG£¬»¶Ó­²âÊÔ¡£
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: update of mubing
+ÈÕÆÚ: Mon May 15 05:44:47 2000
+if total soldiers > total population/12, cant mubing
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: kwar
+ÈÕÆÚ: Wed May 17 03:21:42 2000
+king war reopen la..addoil
+regards
+,
+
+
+---
+×÷Õß: ·ÖÖÓ(group)
+ÌâÄ¿: new change of mubing
+ÈÕÆÚ: Sun May 21 04:54:12 2000
+according to players' idea for mubing, we do the following change (
+or cut) to mubing:
+1 the cost for mubing becomes soldiers number * 20 for gold as well as food
+2 one city can only mubing once per year, either in april or in october
+3 the formula for the soldiers got becomes
+li * population / (8600* 1.8)
+
+regards
+
+
+---
+×÷Õß: ÁÒ»ğ(fire)
+ÌâÄ¿: a litte bug
+ÈÕÆÚ: Fri May 19 03:35:26 2000
+now if an area doesn't have a leader.
+the system will only select other npc officers in
+that country to become a new leader.
+so there is no chance for a no-country npc to become
+a leader automically.
+this bug is reported by hufei.
+so hufei can ask for some reward :)
+addoil 
+
+

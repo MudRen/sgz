@@ -1,0 +1,3349 @@
+---
+Sat Aug 20 04:19:05 2011
+*String indexes must be integers.
+Object: /sgdomain/event/ev_enter at line 77
+
+'<function>' at /secure/user#3 (<function>) at :0
+'dispatch_modal_input' at /secure/user#3 (secure/user/inputsys.c) at line 314
+'<function>' at /secure/user#3 (<function>) at :0
+'rcv_password' at /secure/user#3 (secure/user/login.c) at line 416
+'existing_user_ready' at /secure/user#3 (secure/user/sw_body.c) at line 235
+'existing_user_enter_game' at /secure/user#3 (secure/user/sw_body.c) at line 143
+'incarnate' at /secure/user#3 (secure/user/sw_body.c) at line 129
+'enter_game' at /std/race/human#4 (std/body.c) at line 277
+'finish_enter_game' at /std/race/human#4 (std/body.c) at line 178
+'move_to_start' at /std/race/human#4 (std/body/start.c) at line 36
+'enter' at /sgdomain/event/ev_enter at line 77
+---
+Sat Aug 20 04:19:23 2011
+*String indexes must be integers.
+Object: /sgdomain/home/npc/sc_menu#21 at line 59
+
+'<function>' at /secure/user#3 (<function>) at :0
+'dispatch_modal_input' at /secure/user#3 (secure/user/inputsys.c) at line 314
+'<function>' at /sgdomain/home/npc/sc_menu#21 (<function>) at :0
+'parse_menu_input' at /sgdomain/home/npc/sc_menu#21 (std/menu.c) at line 352
+'<function>' at /sgdomain/home/npc/sc_menu#21 (<function>) at :0
+'do_gethorse' at /sgdomain/home/npc/sc_menu#21 at line 59
+---
+Sat Aug 20 07:57:45 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/hongnong boy (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/hongnong boy (sgdomain/modules/m_charnpc/boy.c) at line 120
+'do_my_semote' at /sgdomain/modules/char_server/hongnong boy (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/hongnong boy (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/hongnong boy (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/hongnong boy (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sat Aug 20 07:57:45 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_charnpc/boy.c) at line 120
+'do_my_semote' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 08:59:37 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 11:53:25 2011
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+
+'auto_run' at <none> (sgdomain/event/ev_bwdh/master.c) at line 156
+'add_connect' at <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+---
+Sat Aug 20 12:11:45 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sat Aug 20 13:15:43 2011
+*Array index out of bounds.
+Object: /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+
+'my_heart' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+---
+Sat Aug 20 14:00:01 2011
+*Bad argument 1 to find_object()
+Expected: string Got: 0.
+Object: /sgdomain/job/askobj/askobj at line 26
+
+'<function>' at /secure/user#1151 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1151 (secure/user/inputsys.c) at line 314
+'<function>' at /obj/pshell#1153 (<function>) at :0
+'shell_input' at /obj/pshell#1153 (secure/obj/shell.c) at line 131
+'execute_command' at /obj/pshell#1153 at line 147
+'do_game_command' at /std/race/human#1152 (std/body/cmd.c) at line 61
+'do_answer_str_to_str' at /cmds/verbs/answer at line 38
+'do_answer_wrd_to_liv' at /cmds/verbs/answer at line 30
+'be_answered' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_answer.c) at line 30
+'<function>' at /sgdomain/event/ev_job (<function>) at :0
+'myjob' at /sgdomain/event/ev_job at line 224
+'job' at /sgdomain/job/askobj/askobj at line 26
+---
+Sat Aug 20 14:19:50 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sat Aug 20 14:51:41 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 15:23:50 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sat Aug 20 15:39:42 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 15:55:36 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 16:59:39 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/huo ge (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/huo ge (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/huo ge (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/huo ge (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/huo ge (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/huo ge (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sat Aug 20 17:47:37 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 17:49:09 2011
+*String indexes must be integers.
+Object: /sgdomain/event/ev_enter at line 77
+
+'<function>' at /secure/user#1849 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1849 (secure/user/inputsys.c) at line 314
+'<function>' at /secure/user#1849 (<function>) at :0
+'rcv_password' at /secure/user#1849 (secure/user/login.c) at line 416
+'existing_user_ready' at /secure/user#1849 (secure/user/sw_body.c) at line 235
+'existing_user_enter_game' at /secure/user#1849 (secure/user/sw_body.c) at line 143
+'incarnate' at /secure/user#1849 (secure/user/sw_body.c) at line 129
+'enter_game' at /std/race/human#1850 (std/body.c) at line 277
+'finish_enter_game' at /std/race/human#1850 (std/body.c) at line 178
+'move_to_start' at /std/race/human#1850 (std/body/start.c) at line 36
+'enter' at /sgdomain/event/ev_enter at line 77
+---
+Sat Aug 20 17:49:29 2011
+*String indexes must be integers.
+Object: /sgdomain/home/npc/sc_menu#1859 at line 59
+
+'<function>' at /secure/user#1849 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1849 (secure/user/inputsys.c) at line 314
+'<function>' at /sgdomain/home/npc/sc_menu#1859 (<function>) at :0
+'parse_menu_input' at /sgdomain/home/npc/sc_menu#1859 (std/menu.c) at line 352
+'<function>' at /sgdomain/home/npc/sc_menu#1859 (<function>) at :0
+'do_gethorse' at /sgdomain/home/npc/sc_menu#1859 at line 59
+---
+Sat Aug 20 17:57:41 2011
+*String indexes must be integers.
+Object: /daemons/char_d (daemons/char_d/stat_me.c) at line 101
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/info (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/info at line 328
+'infoc' at /cmds/player/info at line 185
+'stat_me' at /daemons/char_d (daemons/char_d/stat_me.c) at line 101
+---
+Sat Aug 20 17:58:03 2011
+*String indexes must be integers.
+Object: /daemons/char_d (daemons/char_d/stat_me.c) at line 101
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/info (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/info at line 328
+'infoc' at /cmds/player/info at line 185
+'stat_me' at /daemons/char_d (daemons/char_d/stat_me.c) at line 101
+---
+Sat Aug 20 18:17:12 2011
+*String index out of bounds.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1878 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1878 (secure/user/inputsys.c) at line 314
+'<function>' at /obj/pshell#1880 (<function>) at :0
+'shell_input' at /obj/pshell#1880 (secure/obj/shell.c) at line 131
+'execute_command' at /obj/pshell#1880 at line 177
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:17:24 2011
+*String index out of bounds.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:17:30 2011
+*String index out of bounds.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:17:34 2011
+*String index out of bounds.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:17:50 2011
+*Cannot index value of type 'int'.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:18:34 2011
+*String index out of bounds.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:18:44 2011
+*String index out of bounds.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:18:44 2011
+*String index out of bounds.
+Object: /daemons/country_d at line 109
+
+'process_input' at /secure/user#1867 (secure/user/inputsys.c) at line 340
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:18:50 2011
+*Cannot index value of type 'int'.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:19:06 2011
+*String index out of bounds.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:19:18 2011
+*String index out of bounds.
+Object: /daemons/country_d at line 109
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/cmd (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/cmd at line 64
+'start' at /sgdomain/cmd/wartime at line 44
+'war_status' at /daemons/day_d at line 100
+'get_wartime' at /daemons/country_d at line 109
+---
+Sat Aug 20 18:27:24 2011
+*Bad argument 1 to implode()
+Expected: array Got: 0.
+Object: /daemons/troop_type_d at line 176
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/player/info (secure/obj/cmd.c) at line 39
+'main' at /cmds/player/info at line 364
+'infot' at /cmds/player/info at line 253
+'stat_me' at /daemons/troop_type_d at line 224
+'show_troop' at /daemons/troop_type_d at line 176
+---
+Sat Aug 20 18:30:08 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 151
+
+'my_heart' at /sgdomain/modules/char_server/zhao yun (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhao yun (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhao yun (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhao yun (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhao yun (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhao yun (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 151
+---
+Sat Aug 20 18:35:44 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 18:35:54 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2110 at line 60
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 250
+'call_main' at /cmds/wiz/wizz (secure/obj/cmd.c) at line 39
+'main' at /cmds/wiz/wizz at line 42
+'move' at /std/race/human#1868 (std/object/move.c) at line 52
+'create' at /domains/std/wizroom (std/base_room.c) at line 111
+'setup' at /domains/std/wizroom at line 53
+'set_objects' at /domains/std/wizroom (std/container.c) at line 295
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2110 at line 50
+'set_group' at /sgdomain/modules/m_board#2110 at line 60
+---
+Sat Aug 20 18:51:48 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 19:18:55 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2258 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2258 at line 50
+'set_group' at /sgdomain/modules/m_board#2258 at line 60
+---
+Sat Aug 20 19:39:37 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 166
+
+'my_heart' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 166
+---
+Sat Aug 20 19:48:55 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2348 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2348 at line 50
+'set_group' at /sgdomain/modules/m_board#2348 at line 60
+---
+Sat Aug 20 19:49:37 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'<function>' at /secure/user#2327 (<function>) at :0
+'dispatch_modal_input' at /secure/user#2327 (secure/user/inputsys.c) at line 314
+'<function>' at /sgdomain/modules/char_server/huayin boy (<function>) at :0
+'input_name' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_charnpc/boy.c) at line 277
+'responda' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 19:50:59 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'<function>' at /secure/user#2327 (<function>) at :0
+'dispatch_modal_input' at /secure/user#2327 (secure/user/inputsys.c) at line 314
+'<function>' at /sgdomain/modules/char_server/huayin boy (<function>) at :0
+'input_name' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_charnpc/boy.c) at line 277
+'responda' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/huayin boy (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 20:18:55 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2422 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2422 at line 50
+'set_group' at /sgdomain/modules/m_board#2422 at line 60
+---
+Sat Aug 20 20:27:43 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 20:48:56 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2501 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2501 at line 50
+'set_group' at /sgdomain/modules/m_board#2501 at line 60
+---
+Sat Aug 20 20:59:44 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sat Aug 20 21:15:48 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sat Aug 20 21:18:56 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2571 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2571 at line 50
+'set_group' at /sgdomain/modules/m_board#2571 at line 60
+---
+Sat Aug 20 21:47:41 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sat Aug 20 21:48:56 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2641 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2641 at line 50
+'set_group' at /sgdomain/modules/m_board#2641 at line 60
+---
+Sat Aug 20 22:18:56 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2681 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2681 at line 50
+'set_group' at /sgdomain/modules/m_board#2681 at line 60
+---
+Sat Aug 20 22:35:46 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 22:48:56 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2756 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2756 at line 50
+'set_group' at /sgdomain/modules/m_board#2756 at line 60
+---
+Sat Aug 20 23:07:43 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 166
+
+'my_heart' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 166
+---
+Sat Aug 20 23:07:50 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sat Aug 20 23:18:57 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2827 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2827 at line 50
+'set_group' at /sgdomain/modules/m_board#2827 at line 60
+---
+Sat Aug 20 23:39:41 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sat Aug 20 23:48:57 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2896 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2896 at line 50
+'set_group' at /sgdomain/modules/m_board#2896 at line 60
+---
+Sun Aug 21 00:18:57 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#2965 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#2965 at line 50
+'set_group' at /sgdomain/modules/m_board#2965 at line 60
+---
+Sun Aug 21 00:43:47 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 00:48:58 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3034 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3034 at line 50
+'set_group' at /sgdomain/modules/m_board#3034 at line 60
+---
+Sun Aug 21 01:15:43 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sun Aug 21 01:18:58 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3104 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3104 at line 50
+'set_group' at /sgdomain/modules/m_board#3104 at line 60
+---
+Sun Aug 21 01:31:46 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 01:31:46 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 01:48:58 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3173 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3173 at line 50
+'set_group' at /sgdomain/modules/m_board#3173 at line 60
+---
+Sun Aug 21 02:03:36 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sun Aug 21 02:03:46 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sun Aug 21 02:18:59 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3211 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3211 at line 50
+'set_group' at /sgdomain/modules/m_board#3211 at line 60
+---
+Sun Aug 21 02:19:44 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sun Aug 21 02:19:44 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sun Aug 21 02:48:59 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3278 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3278 at line 50
+'set_group' at /sgdomain/modules/m_board#3278 at line 60
+---
+Sun Aug 21 03:18:59 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3347 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3347 at line 50
+'set_group' at /sgdomain/modules/m_board#3347 at line 60
+---
+Sun Aug 21 03:23:45 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 03:49:00 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3418 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3418 at line 50
+'set_group' at /sgdomain/modules/m_board#3418 at line 60
+---
+Sun Aug 21 03:53:25 2011
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+
+'auto_run' at <none> (sgdomain/event/ev_bwdh/master.c) at line 156
+'add_connect' at <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+---
+Sun Aug 21 04:19:00 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3487 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3487 at line 50
+'set_group' at /sgdomain/modules/m_board#3487 at line 60
+---
+Sun Aug 21 04:27:39 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 04:49:00 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3559 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3559 at line 50
+'set_group' at /sgdomain/modules/m_board#3559 at line 60
+---
+Sun Aug 21 04:59:44 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sun Aug 21 05:19:01 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3628 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3628 at line 50
+'set_group' at /sgdomain/modules/m_board#3628 at line 60
+---
+Sun Aug 21 05:31:48 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 166
+
+'my_heart' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 166
+---
+Sun Aug 21 05:49:01 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3697 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3697 at line 50
+'set_group' at /sgdomain/modules/m_board#3697 at line 60
+---
+Sun Aug 21 06:03:40 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 06:03:45 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sun Aug 21 06:19:01 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3734 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3734 at line 50
+'set_group' at /sgdomain/modules/m_board#3734 at line 60
+---
+Sun Aug 21 06:49:01 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3803 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3803 at line 50
+'set_group' at /sgdomain/modules/m_board#3803 at line 60
+---
+Sun Aug 21 06:51:52 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 07:07:45 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 166
+
+'my_heart' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 166
+---
+Sun Aug 21 07:19:02 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3873 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3873 at line 50
+'set_group' at /sgdomain/modules/m_board#3873 at line 60
+---
+Sun Aug 21 07:23:43 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sun Aug 21 07:49:02 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#3942 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#3942 at line 50
+'set_group' at /sgdomain/modules/m_board#3942 at line 60
+---
+Sun Aug 21 07:55:46 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sun Aug 21 07:55:49 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sun Aug 21 08:19:03 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4013 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4013 at line 50
+'set_group' at /sgdomain/modules/m_board#4013 at line 60
+---
+Sun Aug 21 08:27:50 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 08:49:03 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4083 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4083 at line 50
+'set_group' at /sgdomain/modules/m_board#4083 at line 60
+---
+Sun Aug 21 09:19:03 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4152 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4152 at line 50
+'set_group' at /sgdomain/modules/m_board#4152 at line 60
+---
+Sun Aug 21 09:31:44 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 09:49:03 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4249 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4249 at line 50
+'set_group' at /sgdomain/modules/m_board#4249 at line 60
+---
+Sun Aug 21 10:19:04 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4288 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4288 at line 50
+'set_group' at /sgdomain/modules/m_board#4288 at line 60
+---
+Sun Aug 21 10:35:43 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sun Aug 21 10:35:47 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sun Aug 21 10:35:49 2011
+*Array index out of bounds.
+Object: /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+
+'my_heart' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+---
+Sun Aug 21 10:49:04 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4367 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4367 at line 50
+'set_group' at /sgdomain/modules/m_board#4367 at line 60
+---
+Sun Aug 21 11:19:05 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4436 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4436 at line 50
+'set_group' at /sgdomain/modules/m_board#4436 at line 60
+---
+Sun Aug 21 11:39:37 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 11:49:05 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4505 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4505 at line 50
+'set_group' at /sgdomain/modules/m_board#4505 at line 60
+---
+Sun Aug 21 11:55:37 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sun Aug 21 11:55:52 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/xiahou xuan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Sun Aug 21 12:19:05 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4576 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4576 at line 50
+'set_group' at /sgdomain/modules/m_board#4576 at line 60
+---
+Sun Aug 21 12:43:37 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 151
+
+'my_heart' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 151
+---
+Sun Aug 21 12:49:06 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4645 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4645 at line 50
+'set_group' at /sgdomain/modules/m_board#4645 at line 60
+---
+Sun Aug 21 13:19:06 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4719 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4719 at line 50
+'set_group' at /sgdomain/modules/m_board#4719 at line 60
+---
+Sun Aug 21 13:31:51 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 13:49:07 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4789 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4789 at line 50
+'set_group' at /sgdomain/modules/m_board#4789 at line 60
+---
+Sun Aug 21 14:19:07 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4825 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4825 at line 50
+'set_group' at /sgdomain/modules/m_board#4825 at line 60
+---
+Sun Aug 21 14:19:46 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Sun Aug 21 14:49:07 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4893 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4893 at line 50
+'set_group' at /sgdomain/modules/m_board#4893 at line 60
+---
+Sun Aug 21 15:19:08 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#4962 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#4962 at line 50
+'set_group' at /sgdomain/modules/m_board#4962 at line 60
+---
+Sun Aug 21 15:39:45 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 15:49:08 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5031 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5031 at line 50
+'set_group' at /sgdomain/modules/m_board#5031 at line 60
+---
+Sun Aug 21 16:11:47 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 16:11:53 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 16:19:08 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5108 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5108 at line 50
+'set_group' at /sgdomain/modules/m_board#5108 at line 60
+---
+Sun Aug 21 16:49:09 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5177 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5177 at line 50
+'set_group' at /sgdomain/modules/m_board#5177 at line 60
+---
+Sun Aug 21 17:19:09 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5246 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5246 at line 50
+'set_group' at /sgdomain/modules/m_board#5246 at line 60
+---
+Sun Aug 21 17:49:09 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5316 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5316 at line 50
+'set_group' at /sgdomain/modules/m_board#5316 at line 60
+---
+Sun Aug 21 18:19:10 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5352 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5352 at line 50
+'set_group' at /sgdomain/modules/m_board#5352 at line 60
+---
+Sun Aug 21 18:35:50 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 18:49:10 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5424 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5424 at line 50
+'set_group' at /sgdomain/modules/m_board#5424 at line 60
+---
+Sun Aug 21 19:19:10 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5493 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5493 at line 50
+'set_group' at /sgdomain/modules/m_board#5493 at line 60
+---
+Sun Aug 21 19:49:11 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5564 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5564 at line 50
+'set_group' at /sgdomain/modules/m_board#5564 at line 60
+---
+Sun Aug 21 19:53:25 2011
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+
+'auto_run' at <none> (sgdomain/event/ev_bwdh/master.c) at line 156
+'add_connect' at <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+---
+Sun Aug 21 19:55:47 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 19:55:48 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 166
+
+'my_heart' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/yang yi (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 166
+---
+Sun Aug 21 20:19:11 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5633 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5633 at line 50
+'set_group' at /sgdomain/modules/m_board#5633 at line 60
+---
+Sun Aug 21 20:43:47 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 20:49:11 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5707 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5707 at line 50
+'set_group' at /sgdomain/modules/m_board#5707 at line 60
+---
+Sun Aug 21 21:19:11 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5776 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5776 at line 50
+'set_group' at /sgdomain/modules/m_board#5776 at line 60
+---
+Sun Aug 21 21:49:11 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5846 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5846 at line 50
+'set_group' at /sgdomain/modules/m_board#5846 at line 60
+---
+Sun Aug 21 22:19:11 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5882 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5882 at line 50
+'set_group' at /sgdomain/modules/m_board#5882 at line 60
+---
+Sun Aug 21 22:35:46 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Sun Aug 21 22:49:12 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#5966 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#5966 at line 50
+'set_group' at /sgdomain/modules/m_board#5966 at line 60
+---
+Sun Aug 21 23:19:12 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6035 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6035 at line 50
+'set_group' at /sgdomain/modules/m_board#6035 at line 60
+---
+Sun Aug 21 23:49:13 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6104 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6104 at line 50
+'set_group' at /sgdomain/modules/m_board#6104 at line 60
+---
+Mon Aug 22 00:19:13 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6177 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6177 at line 50
+'set_group' at /sgdomain/modules/m_board#6177 at line 60
+---
+Mon Aug 22 00:49:14 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6249 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6249 at line 50
+'set_group' at /sgdomain/modules/m_board#6249 at line 60
+---
+Mon Aug 22 00:59:39 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu yong (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Mon Aug 22 01:19:14 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6318 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6318 at line 50
+'set_group' at /sgdomain/modules/m_board#6318 at line 60
+---
+Mon Aug 22 01:47:01 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Mon Aug 22 01:49:14 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6388 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6388 at line 50
+'set_group' at /sgdomain/modules/m_board#6388 at line 60
+---
+Mon Aug 22 02:19:15 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6424 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6424 at line 50
+'set_group' at /sgdomain/modules/m_board#6424 at line 60
+---
+Mon Aug 22 02:19:41 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 02:49:15 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6495 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6495 at line 50
+'set_group' at /sgdomain/modules/m_board#6495 at line 60
+---
+Mon Aug 22 03:07:42 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 03:19:15 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6566 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6566 at line 50
+'set_group' at /sgdomain/modules/m_board#6566 at line 60
+---
+Mon Aug 22 03:23:45 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 03:49:16 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6635 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6635 at line 50
+'set_group' at /sgdomain/modules/m_board#6635 at line 60
+---
+Mon Aug 22 04:11:39 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 04:11:45 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 151
+
+'my_heart' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/gao gan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 151
+---
+Mon Aug 22 04:19:16 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6705 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6705 at line 50
+'set_group' at /sgdomain/modules/m_board#6705 at line 60
+---
+Mon Aug 22 04:49:16 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6774 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6774 at line 50
+'set_group' at /sgdomain/modules/m_board#6774 at line 60
+---
+Mon Aug 22 05:19:17 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6844 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6844 at line 50
+'set_group' at /sgdomain/modules/m_board#6844 at line 60
+---
+Mon Aug 22 05:47:45 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 05:49:17 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6915 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6915 at line 50
+'set_group' at /sgdomain/modules/m_board#6915 at line 60
+---
+Mon Aug 22 06:19:17 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#6951 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#6951 at line 50
+'set_group' at /sgdomain/modules/m_board#6951 at line 60
+---
+Mon Aug 22 06:49:17 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7020 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7020 at line 50
+'set_group' at /sgdomain/modules/m_board#7020 at line 60
+---
+Mon Aug 22 07:19:17 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7089 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7089 at line 50
+'set_group' at /sgdomain/modules/m_board#7089 at line 60
+---
+Mon Aug 22 07:49:18 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7158 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7158 at line 50
+'set_group' at /sgdomain/modules/m_board#7158 at line 60
+---
+Mon Aug 22 08:11:42 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun deng (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 08:19:18 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7239 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7239 at line 50
+'set_group' at /sgdomain/modules/m_board#7239 at line 60
+---
+Mon Aug 22 08:43:46 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Mon Aug 22 08:49:18 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7308 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7308 at line 50
+'set_group' at /sgdomain/modules/m_board#7308 at line 60
+---
+Mon Aug 22 09:19:18 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7377 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7377 at line 50
+'set_group' at /sgdomain/modules/m_board#7377 at line 60
+---
+Mon Aug 22 09:47:38 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 09:49:19 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7447 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7447 at line 50
+'set_group' at /sgdomain/modules/m_board#7447 at line 60
+---
+Mon Aug 22 10:19:19 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7484 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7484 at line 50
+'set_group' at /sgdomain/modules/m_board#7484 at line 60
+---
+Mon Aug 22 10:49:19 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7551 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7551 at line 50
+'set_group' at /sgdomain/modules/m_board#7551 at line 60
+---
+Mon Aug 22 10:51:44 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Mon Aug 22 11:19:19 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7620 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7620 at line 50
+'set_group' at /sgdomain/modules/m_board#7620 at line 60
+---
+Mon Aug 22 11:23:46 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 11:39:50 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/pan zhang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 11:49:19 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7690 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7690 at line 50
+'set_group' at /sgdomain/modules/m_board#7690 at line 60
+---
+Mon Aug 22 11:53:25 2011
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+
+'auto_run' at <none> (sgdomain/event/ev_bwdh/master.c) at line 156
+'add_connect' at <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+---
+Mon Aug 22 11:55:42 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhuge liang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 11:55:45 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Mon Aug 22 12:19:20 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7760 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7760 at line 50
+'set_group' at /sgdomain/modules/m_board#7760 at line 60
+---
+Mon Aug 22 12:49:20 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7829 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7829 at line 50
+'set_group' at /sgdomain/modules/m_board#7829 at line 60
+---
+Mon Aug 22 13:15:51 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/ma zhong (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 13:19:20 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7899 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7899 at line 50
+'set_group' at /sgdomain/modules/m_board#7899 at line 60
+---
+Mon Aug 22 13:31:45 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 166
+
+'my_heart' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 166
+---
+Mon Aug 22 13:49:20 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#7969 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#7969 at line 50
+'set_group' at /sgdomain/modules/m_board#7969 at line 60
+---
+Mon Aug 22 14:19:21 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8006 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8006 at line 50
+'set_group' at /sgdomain/modules/m_board#8006 at line 60
+---
+Mon Aug 22 14:49:21 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8074 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8074 at line 50
+'set_group' at /sgdomain/modules/m_board#8074 at line 60
+---
+Mon Aug 22 15:19:21 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8143 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8143 at line 50
+'set_group' at /sgdomain/modules/m_board#8143 at line 60
+---
+Mon Aug 22 15:49:21 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8212 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8212 at line 50
+'set_group' at /sgdomain/modules/m_board#8212 at line 60
+---
+Mon Aug 22 16:19:22 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8282 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8282 at line 50
+'set_group' at /sgdomain/modules/m_board#8282 at line 60
+---
+Mon Aug 22 16:43:41 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 16:43:45 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 16:43:49 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu biao (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Mon Aug 22 16:49:22 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8360 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8360 at line 50
+'set_group' at /sgdomain/modules/m_board#8360 at line 60
+---
+Mon Aug 22 17:19:22 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8431 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8431 at line 50
+'set_group' at /sgdomain/modules/m_board#8431 at line 60
+---
+Mon Aug 22 17:49:23 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8500 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8500 at line 50
+'set_group' at /sgdomain/modules/m_board#8500 at line 60
+---
+Mon Aug 22 18:19:23 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8536 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8536 at line 50
+'set_group' at /sgdomain/modules/m_board#8536 at line 60
+---
+Mon Aug 22 18:19:45 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Mon Aug 22 18:19:47 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 18:35:39 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 151
+
+'my_heart' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 151
+---
+Mon Aug 22 18:35:40 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 18:49:23 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8605 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8605 at line 50
+'set_group' at /sgdomain/modules/m_board#8605 at line 60
+---
+Mon Aug 22 18:51:39 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 18:51:42 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 151
+
+'my_heart' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhang yi (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 151
+---
+Mon Aug 22 19:19:23 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8674 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8674 at line 50
+'set_group' at /sgdomain/modules/m_board#8674 at line 60
+---
+Mon Aug 22 19:39:46 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/cao zhen (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Mon Aug 22 19:49:23 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8743 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8743 at line 50
+'set_group' at /sgdomain/modules/m_board#8743 at line 60
+---
+Mon Aug 22 20:11:39 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Mon Aug 22 20:19:24 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8812 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8812 at line 50
+'set_group' at /sgdomain/modules/m_board#8812 at line 60
+---
+Mon Aug 22 20:43:49 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 20:49:24 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8893 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8893 at line 50
+'set_group' at /sgdomain/modules/m_board#8893 at line 60
+---
+Mon Aug 22 21:19:24 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#8963 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#8963 at line 50
+'set_group' at /sgdomain/modules/m_board#8963 at line 60
+---
+Mon Aug 22 21:49:25 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9032 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9032 at line 50
+'set_group' at /sgdomain/modules/m_board#9032 at line 60
+---
+Mon Aug 22 22:19:25 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9078 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9078 at line 50
+'set_group' at /sgdomain/modules/m_board#9078 at line 60
+---
+Mon Aug 22 22:19:37 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Mon Aug 22 22:49:25 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9156 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9156 at line 50
+'set_group' at /sgdomain/modules/m_board#9156 at line 60
+---
+Mon Aug 22 23:19:25 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9225 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9225 at line 50
+'set_group' at /sgdomain/modules/m_board#9225 at line 60
+---
+Mon Aug 22 23:39:43 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zheng tai (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 23:39:46 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wen qin (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Mon Aug 22 23:49:26 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9299 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9299 at line 50
+'set_group' at /sgdomain/modules/m_board#9299 at line 60
+---
+Tue Aug 23 00:19:26 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9369 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9369 at line 50
+'set_group' at /sgdomain/modules/m_board#9369 at line 60
+---
+Tue Aug 23 00:43:44 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/fan chou (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Tue Aug 23 00:43:47 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Tue Aug 23 00:49:26 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9438 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9438 at line 50
+'set_group' at /sgdomain/modules/m_board#9438 at line 60
+---
+Tue Aug 23 00:59:45 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 01:19:26 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9507 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9507 at line 50
+'set_group' at /sgdomain/modules/m_board#9507 at line 60
+---
+Tue Aug 23 01:31:47 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 01:47:38 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 01:49:27 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9576 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9576 at line 50
+'set_group' at /sgdomain/modules/m_board#9576 at line 60
+---
+Tue Aug 23 02:03:38 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang shuang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 02:03:38 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 02:03:38 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 166
+
+'my_heart' at /sgdomain/modules/char_server/meng da (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/meng da (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/meng da (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/meng da (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/meng da (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/meng da (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 166
+---
+Tue Aug 23 02:19:27 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9611 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9611 at line 50
+'set_group' at /sgdomain/modules/m_board#9611 at line 60
+---
+Tue Aug 23 02:49:27 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9680 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9680 at line 50
+'set_group' at /sgdomain/modules/m_board#9680 at line 60
+---
+Tue Aug 23 02:51:46 2011
+*Array index out of bounds.
+Object: /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+
+'my_heart' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han sui (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+---
+Tue Aug 23 03:07:39 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 166
+
+'my_heart' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/chen gong (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 166
+---
+Tue Aug 23 03:19:28 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9749 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9749 at line 50
+'set_group' at /sgdomain/modules/m_board#9749 at line 60
+---
+Tue Aug 23 03:23:49 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/yue jin (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 03:39:41 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Tue Aug 23 03:49:28 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9819 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9819 at line 50
+'set_group' at /sgdomain/modules/m_board#9819 at line 60
+---
+Tue Aug 23 03:53:25 2011
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+
+'auto_run' at <none> (sgdomain/event/ev_bwdh/master.c) at line 156
+'add_connect' at <none> (sgdomain/event/ev_bwdh/master.c) at line 107
+---
+Tue Aug 23 04:11:49 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Tue Aug 23 04:19:28 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9889 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9889 at line 50
+'set_group' at /sgdomain/modules/m_board#9889 at line 60
+---
+Tue Aug 23 04:43:41 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 166
+
+'my_heart' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 166
+---
+Tue Aug 23 04:49:29 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#9958 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#9958 at line 50
+'set_group' at /sgdomain/modules/m_board#9958 at line 60
+---
+Tue Aug 23 05:15:48 2011
+*Array index out of bounds.
+Object: /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+
+'my_heart' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/ma liang (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+---
+Tue Aug 23 05:19:29 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10028 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10028 at line 50
+'set_group' at /sgdomain/modules/m_board#10028 at line 60
+---
+Tue Aug 23 05:31:50 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/deng ai (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Tue Aug 23 05:47:44 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhurong furen (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Tue Aug 23 05:49:29 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10097 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10097 at line 50
+'set_group' at /sgdomain/modules/m_board#10097 at line 60
+---
+Tue Aug 23 06:19:30 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10132 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10132 at line 50
+'set_group' at /sgdomain/modules/m_board#10132 at line 60
+---
+Tue Aug 23 06:19:45 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 207
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 06:49:30 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10201 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10201 at line 50
+'set_group' at /sgdomain/modules/m_board#10201 at line 60
+---
+Tue Aug 23 07:07:40 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/he jin (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/he jin (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/he jin (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/he jin (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/he jin (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/he jin (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 07:19:30 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10270 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10270 at line 50
+'set_group' at /sgdomain/modules/m_board#10270 at line 60
+---
+Tue Aug 23 07:23:40 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/cao pi (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 07:23:46 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/cao cao (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 07:23:49 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 07:49:30 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10339 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10339 at line 50
+'set_group' at /sgdomain/modules/m_board#10339 at line 60
+---
+Tue Aug 23 07:55:39 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/yuan shao (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 210
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Tue Aug 23 08:19:30 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10409 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10409 at line 50
+'set_group' at /sgdomain/modules/m_board#10409 at line 60
+---
+Tue Aug 23 08:27:46 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/liu bei (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 08:43:45 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 158
+
+'my_heart' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun ce (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 181
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 158
+---
+Tue Aug 23 08:49:31 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10478 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10478 at line 50
+'set_group' at /sgdomain/modules/m_board#10478 at line 60
+---
+Tue Aug 23 09:19:31 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10547 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10547 at line 50
+'set_group' at /sgdomain/modules/m_board#10547 at line 60
+---
+Tue Aug 23 09:31:37 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/zhu huan (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 09:47:05 2011
+*call_other() couldn't find object
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 112
+
+'my_heart' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/wang kang (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 112
+---
+Tue Aug 23 09:49:32 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10628 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10628 at line 50
+'set_group' at /sgdomain/modules/m_board#10628 at line 60
+---
+Tue Aug 23 10:19:32 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10667 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10667 at line 50
+'set_group' at /sgdomain/modules/m_board#10667 at line 60
+---
+Tue Aug 23 10:19:53 2011
+*Array index out of bounds.
+Object: /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+
+'my_heart' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/han song (sgdomain/modules/m_charnpc/m_charaction.c) at line 28
+---
+Tue Aug 23 10:35:40 2011
+*Array index out of bounds.
+Object: /daemons/soul_d (std/modules/m_messages.c) at line 195
+
+'my_heart' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+'my_charaction' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+'do_my_semote' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+'responda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 70
+'do_respond' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 50
+'do_game_commanda' at /sgdomain/modules/char_server/sun jian (sgdomain/modules/m_char.c) at line 39
+'do_verb_rule' at /daemons/soul_d at line 328
+'get_soul' at /daemons/soul_d at line 230
+'internal_get_soul' at /daemons/soul_d at line 180
+'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 195
+---
+Tue Aug 23 10:49:32 2011
+*Invalid groupname <wiz.com> in set_group()
+Object: /sgdomain/modules/m_board#10734 at line 60
+
+'reset' at /domains/std/wizroom (std/container.c) at line 279
+'make_objects_if_needed' at /domains/std/wizroom (std/container.c) at line 265
+'create' at /sgdomain/modules/m_board#10734 at line 50
+'set_group' at /sgdomain/modules/m_board#10734 at line 60

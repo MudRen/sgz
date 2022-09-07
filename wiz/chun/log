@@ -1,0 +1,200 @@
+/wiz/chun/exec.c line 6: parse error before ÕÖÐÂ¶³ö$nµÄÒ»ÕÅÇåÀöµ
+/wiz/chun/exec.c line 6: $var illegal outside of function pointer. before nµÄÒ»ÕÅÇåÀöµÄÐ¦Á³¡£\
+/wiz/chun/exec.c line 7: End of file in string at the end of the file
+/wiz/chun/exec.c line 6: Undefined variable 'hi' before ;}
+/wiz/chun/exec.c line 6: parse error before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'Obj_D' before set_user("manaoring"
+/wiz/chun/exec.c line 6: Undefined variable 'Obj_D' before query_user("manaorin
+/wiz/chun/exec.c line 6: parse error before manaoring->set_owner
+/wiz/chun/exec.c line 6: parse error before }
+/wiz/chun/workroom.c line 60: Undefined function add_action before ;
+/wiz/chun/workroom.c line 60: Undefined function add_action before ;
+/wiz/chun/workroom.c line 60: Undefined function add_action before ;
+/wiz/chun/workroom.c line 60: Undefined function set_action before ;
+/wiz/chun/bed.c line 12: Undefined variable 'set_exits' before the end of line
+/wiz/chun/bed.c line 12: parse error before the end of line
+/wiz/chun/bed.c line 4: Illegal to redefine 'nomask' function "set_proper_name" before the end of line
+/wiz/chun/bed.c line 4: Illegal to redefine 'nomask' function "parse_command_adjectiv_id_list" before the end of line
+/wiz/chun/bed.c line 4: Illegal to redefine 'nomask' function "set_long" before the end of line
+/wiz/chun/bed.c line 4: Illegal to redefine 'nomask' function "get_flags" before the end of line
+/wiz/chun/bed.c line 4: Illegal to redefine 'nomask' function "configure_set" before the end of line
+/wiz/chun/bed.c line 4: Illegal to redefine 'nomask' function "test_flag" before the end of line
+/wiz/chun/workroom.c line 24: parse error before the end of line
+/wiz/chun/workroom.c line 24: parse error before the end of line
+/wiz/chun/bed.c line 53: Reserved type name unexpected. before ()
+/wiz/chun/bed.c line 53: parse error before ()
+/wiz/chun/exec.c line 7: End of file in text block at the end of the file
+/wiz/chun/exec.c line 7: parse error at the end of the file
+/wiz/chun/rose.c line 24: Undefined variable 'this_obj' before set_cur_hp(this_obj-
+/wiz/chun/rose.c line 24: Undefined variable 'this_obj' before set_cur_hp(this_obj-
+/wiz/chun/rose.c line 24: parse error before set_cur_hp(this_body
+/wiz/chun/exec.c line 6: parse error before "lamp","move","ice")
+/wiz/chun/exec.c line 6: parse error before lamp->move(@find_bod
+/wiz/chun/exec.c line 7: End of file in text block at the end of the file
+/wiz/chun/exec.c line 7: End of file in text block at the end of the file
+/wiz/chun/exec.c line 7: parse error at the end of the file
+/wiz/chun/exec.c line 6: Undefined variable 'here' before ;}
+/wiz/chun/exec.c line 6: parse error before domains/std/workroom
+/wiz/chun/exec.c line 6: parse error before domains/std/monster_
+/wiz/chun/exec.c line 6: Undefined variable 'rose' before ;}
+/wiz/chun/roses.c line 9: parse error before °Ò»´Ø½¿ÑÞµÄÃµ¹å£¬ÕâÒ
+/wiz/chun/roses.c line 19: $var illegal outside of function pointer. before NÈÌ²»×¡ÕªÏÂÒ»¶äÃµ¹å¡
+/wiz/chun/roses.c line 24: End of file in string at the end of the file
+/wiz/chun/roses.c line 12: Undefined variable 'pick' before ));
+/wiz/chun/roses.c line 12: parse error before ));
+/wiz/chun/roses.c line 23: Illegal LHS before the end of line
+/wiz/chun/roses.c line 23: parse error before the end of line
+/wiz/chun/roses.c line 12: Undefined variable 'pick' before ));
+/wiz/chun/roses.c line 12: parse error before ));
+/wiz/chun/roses.c line 23: Illegal LHS before the end of line
+/wiz/chun/roses.c line 23: parse error before the end of line
+/wiz/chun/roses.c line 23: parse error before ;
+/wiz/chun/roses.c line 23: parse error before ;
+/wiz/chun/exec.c line 6: Undefined variable 'lovebite' before 1);}
+/wiz/chun/exec.c line 6: Undefined variable 'say' before  ... show me a examp
+/wiz/chun/exec.c line 6: Bad argument number 1 to '-': "object " before  ... show me a examp
+/wiz/chun/exec.c line 6: parse error before  ... show me a examp
+/wiz/chun/exec.c line 6: parse error before fire->semote("hi");}
+/wiz/chun/exec.c line 6: parse error before fire->responda("say 
+/wiz/chun/exec.c line 6: parse error before fire->respond("say x
+/wiz/chun/exec.c line 6: parse error before respond("hi");}
+/wiz/chun/exec.c line 6: parse error before fire->call_out(respo
+/wiz/chun/exec.c line 6: parse error before fire->call_out(this_
+/wiz/chun/exec.c line 6: parse error before fire->call_out(@.fir
+/wiz/chun/exec.c line 6: Illegal terminator before .fire->respond("hi")
+/wiz/chun/exec.c line 6: parse error before fire->respond("sigh"
+/wiz/chun/exec.c line 6: parse error before fire->respond("sigh"
+/wiz/chun/exec.c line 6: Undefined function respond before ,1);}
+/wiz/chun/exec.c line 6: Undefined variable 'this_body' before respond("sigh"),1);}
+/wiz/chun/exec.c line 6: parse error before }
+/wiz/chun/exec.c line 6: parse error before n;}
+/wiz/chun/exec.c line 6: parse error before n;}
+/wiz/chun/exec.c line 6: parse error before n;}
+/wiz/chun/exec.c line 6: Undefined variable 'gini' before  bite);}
+/wiz/chun/exec.c line 6: parse error before  bite);}
+/wiz/chun/exec.c line 6: Undefined variable 'gini' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'xixi' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'xixi' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'hi' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'say' before );}
+/wiz/chun/exec.c line 6: parse error before );}
+/wiz/chun/exec.c line 6: Undefined variable 'say' before );}
+/wiz/chun/exec.c line 6: parse error before );}
+/wiz/chun/exec.c line 6: Undefined variable 'say' before );}
+/wiz/chun/exec.c line 6: parse error before );}
+/wiz/chun/exec.c line 6: Undefined variable 'say' before );}
+/wiz/chun/exec.c line 6: parse error before );}
+/wiz/chun/exec.c line 6: parse error before key->set_owner(chun)
+/wiz/chun/exec.c line 6: Undefined variable 'key' before set_owner(chun);}
+/wiz/chun/exec.c line 6: Undefined variable 'chun' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before set_owner(chun);}
+/wiz/chun/exec.c line 6: Undefined variable 'chun' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'homekey' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'chun' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'chun' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'chun' before ;}
+/wiz/chun/exec.c line 6: Undefined function funs before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined function MY_OBJ before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined function MY_OB before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ->set_owner(chun);}
+/wiz/chun/exec.c line 6: Undefined function MY_OB before ->set_owner(chun);}
+/wiz/chun/exec.c line 6: Undefined variable 'chun' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined function this_envorinment before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'homekey' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 24029->set_owner(chu
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 24029->set_owner(chu
+/wiz/chun/exec.c line 6: Undefined variable 'key' before all_inventory(this_b
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined function this_obj before );}
+/wiz/chun/exec.c line 6: parse error before }
+/wiz/chun/exec.c line 7: End of file in text block at the end of the file
+/wiz/chun/exec.c line 7: parse error at the end of the file
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: parse error before sgdomain/robot/zi->t
+/wiz/chun/exec.c line 6: parse error before sgdomain/robot/robot
+/wiz/chun/exec.c line 6: parse error before sgdomain/robot/robot
+/wiz/chun/exec.c line 6: parse error before ice);}
+/wiz/chun/exec.c line 6: parse error before key);}
+/wiz/chun/exec.c line 6: parse error before wnk);}
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 25294 -> set_owner(f
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: Undefined variable 'homekey' before  set_owner("chun");}
+/wiz/chun/exec.c line 6: parse error before sgdomain/robot/robot
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: parse error before key);}
+/wiz/chun/exec.c line 6: Undefined variable 'homekey' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'bjling' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'gold' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'money' before ;}
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Illegal character constant before ey');}
+/wiz/chun/exec.c line 6: parse error before ');}
+/wiz/chun/exec.c line 6: Illegal character constant before ;}
+/wiz/chun/exec.c line 6: parse error before key);}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before n);}
+/wiz/chun/exec.c line 6: Undefined variable 'n' before ;}
+/wiz/chun/exec.c line 6: Divide by zero in constant before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before n);}
+/wiz/chun/exec.c line 6: Undefined variable 'n' before ;}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: parse error before key/);}
+/wiz/chun/exec.c line 6: Undefined variable 'key' before ;}
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 24029;}
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: parse error before sgdomain/home/homeke
+/wiz/chun/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 24029;}
+/wiz/chun/exec.c line 6: Undefined variable 'lgj' before get_master();}
+/wiz/chun/exec.c line 6: parse error before lgj->get_master();}
+/wiz/chun/exec.c line 6: parse error before ice->set_master("chu
+/wiz/chun/exec.c line 6: Undefined variable 'key' before all_inventory(find_b
+/wiz/chun/owner.c line 4: parse error before  LIVING;
+/wiz/chun/owner.c line 4: parse error before  LIVING;
+/wiz/chun/owner.c line 4: Illegal to redefine 'nomask' function "set_proper_name" before the end of line
+/wiz/chun/owner.c line 4: Illegal to redefine 'nomask' function "parse_command_adjectiv_id_list" before the end of line
+/wiz/chun/owner.c line 4: Illegal to redefine 'nomask' function "set_long" before the end of line
+/wiz/chun/owner.c line 4: Illegal to redefine 'nomask' function "get_flags" before the end of line
+/wiz/chun/owner.c line 4: Illegal to redefine 'nomask' function "configure_set" before the end of line
+/wiz/chun/owner.c line 4: Illegal to redefine 'nomask' function "test_flag" before the end of line
+/wiz/chun/exec.c line 6: parse error before "/sgdomain/obj/cloth
+/wiz/chun/exec.c line 7: End of file in string at the end of the file
+/wiz/chun/exec.c line 6: parse error before sgdomain/obj/cloth/c
+/wiz/chun/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 07675;}
+/wiz/chun/exec.c line 6: parse error before sgdomain/obj/cloth/c
+/wiz/chun/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 07675 -> destroy();}
+/wiz/chun/exec.c line 6: parse error before sgdomain/obj/cloth/c
+/wiz/chun/exec.c line 6: Single '#' in identifier -- use '##' for token pasting before 07675 -> set_owner("
+/wiz/chun/exec.c line 6: Undefined variable 'gini_d' before  gini_list();}
+/wiz/chun/gini_d.c line 266: String too long before %^gini rmq%^RESET%^£
+/wiz/chun/gini_d.c line 266: parse error before %^gini rmq%^RESET%^£
+/wiz/chun/exec.c line 6: Undefined variable 'nick' before "???");}
+/wiz/chun/exec.c line 6: parse error before ice->set_nick("???")
+/wiz/chun/exec.c line 6: parse error before ice;}
+/wiz/chun/exec.c line 6: parse error before ice);}
+/wiz/chun/exec.c line 6: parse error before ice->query_link();}
+/wiz/chun/exec.c line 6: Undefined variable 'call_char' before }
+/wiz/chun/exec.c line 6: Undefined function callchar before ;}
+/wiz/chun/exec.c line 6: parse error before ice -> query_link();
+/wiz/chun/exec.c line 6: Too few arguments to member_array before ;}
+/wiz/chun/exec.c line 6: parse error before ice->unwield("dragon
+/wiz/chun/exec.c line 6: parse error before sgdomain/modules/cha
+/wiz/chun/exec.c line 6: Undefined variable 'rose' before ;}
+/wiz/chun/exec.c line 6: parse error before }
+/wiz/chun/exec.c line 6: parse error before }

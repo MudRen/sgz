@@ -1,0 +1,35 @@
+/wiz/mimi/exec.c line 6: Undefined variable 'jiao' before set_test_time(30);}
+/wiz/mimi/exec.c line 6: Undefined function all_inventroy before ;}
+/wiz/mimi/exec.c line 6: Undefined variable 'here' before ;}
+/wiz/mimi/exec.c line 6: Undefined function all_inventroy before ;}
+/wiz/mimi/exec.c line 6: Undefined variable 'here' before ;}
+/wiz/mimi/exec.c line 6: parse error before hying->set_sg_skill(
+/wiz/mimi/exec.c line 6: Illegal character constant before ¾Îä    Á¦¡¿91      ¡
+/wiz/mimi/exec.c line 6: parse error before Îä    Á¦¡¿91      ¡¾
+/wiz/mimi/exec.c line 6: Too few arguments to debug_info before ;}
+/wiz/mimi/exec.c line 6: Bad argument 2 to efun debug_info() before ;}
+/wiz/mimi/exec.c line 6: Undefined variable 'should' before  find_user();}
+/wiz/mimi/exec.c line 6: parse error before  find_user();}
+/wiz/mimi/exec.c line 6: Undefined function filw_size before ;}
+/wiz/mimi/exec.c line 7: End of file in string at the end of the file
+/wiz/mimi/exec.c line 7: parse error at the end of the file
+/wiz/mimi/exec.c line 6: Undefined function living before ;}
+/wiz/mimi/exec.c line 6: Undefined function living before ;}
+/wiz/mimi/exec.c line 6: Undefined function living before ;}
+/wiz/mimi/exec.c line 6: parse error before  (living(this_body()
+/wiz/mimi/exec.c line 6: parse error before  (me->living()) writ
+/wiz/mimi/exec.c line 6: parse error before  (me->living()) writ
+/wiz/mimi/exec.c line 6: parse error before  (this_body()->livin
+/wiz/mimi/exec.c line 6: Undefined function living before ;}
+/wiz/mimi/exec.c line 6: Undefined function living before ;}
+/wiz/mimi/exec.c line 6: Undefined variable 'all_inventory' before environment(this_bod
+/wiz/mimi/exec.c line 6: Undefined variable 'c_id' before "temptime");}
+/wiz/mimi/exec.c line 6: Undefined variable 'BUILDCITY_D' before del_connection("qian
+/wiz/mimi/exec.c line 7: End of file in string at the end of the file
+/wiz/mimi/exec.c line 7: parse error at the end of the file
+/wiz/mimi/exec.c line 6: Undefined variable 'BUILDCITY_D' before del_connection("qian
+/wiz/mimi/exec.c line 7: End of file in string at the end of the file
+/wiz/mimi/exec.c line 7: Undefined variable 'liudu' at the end of the file
+/wiz/mimi/exec.c line 7: parse error at the end of the file
+/wiz/mimi/exec.c line 6: Undefined variable 'BUILD_CITY_D' before set_room("qiantang",
+/wiz/mimi/exec.c line 6: parse error before ;}

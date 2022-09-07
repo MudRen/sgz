@@ -1,0 +1,54 @@
+Bad header tag: FUNCTION
+Bad header tag: FUNCTION
+Bad header tag: FUNC set_is_on
+Bad header tag: MODULE portal
+Bad header tag: FUNC set_destination
+Bad header tag: FUNC set_look_in_desc
+Bad header tag: FIXME the room where the object was probably needs a message too
+Bad header tag: FUNC ed
+Bad header tag: FUNC exec
+Bad header tag: FUNC input_to
+Bad header tag: FUNC find_player
+Bad header tag: FUNC this_player
+Bad header tag: FUNC destruct
+Bad header tag: FUNC shutdown
+Bad header tag: FUNC query_snoop
+Bad header tag: FUNC query_snooping
+Bad header tag: FUNC snoop
+Bad header tag: FUNC say
+Bad header tag: Function set_ori_size
+Bad header tag: THIS FUNCTION SHOULD NOT BE CALLED OR OVERLOADED
+Bad header tag: THIS FUNCTION SHOULD NOT BE CALLED OR OVERRIDDEN
+Bad header tag: FUNC add_block
+Bad header tag: FUNC remove_block
+Bad header tag: FUNC set_block_action
+Bad header tag: FUNC set_source
+Bad header tag: FIXME if the lock type is picked or magic, it should probably
+Bad header tag: FUNCTION
+Bad header tag: FUNCTION
+Bad header tag: FIXME if the lock type is picked or magic, it should probably
+Bad header tag: FUNC set_is_on
+Bad header tag: MODULE portal
+Bad header tag: FUNC set_destination
+Bad header tag: FUNC set_look_in_desc
+Bad header tag: FUNC ed
+Bad header tag: FUNC exec
+Bad header tag: FUNC input_to
+Bad header tag: FUNC find_player
+Bad header tag: FUNC this_player
+Bad header tag: FUNC destruct
+Bad header tag: FUNC shutdown
+Bad header tag: FUNC query_snoop
+Bad header tag: FUNC query_snooping
+Bad header tag: FUNC snoop
+Bad header tag: FUNC say
+Bad header tag: THIS FUNCTION SHOULD NOT BE CALLED OR OVERLOADED
+Bad header tag: THIS FUNCTION SHOULD NOT BE CALLED OR OVERRIDDEN
+Bad header tag: FUNC add_block
+Bad header tag: FUNC remove_block
+Bad header tag: FUNC set_block_action
+Bad header tag: FUNC set_source
+Bad header tag: FIXME if the lock type is picked or magic, it should probably
+Bad header tag: FUNCTION
+Bad header tag: FUNCTION
+Bad header tag: FIXME if the lock type is picked or magic, it should probably

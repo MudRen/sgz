@@ -1,0 +1,4 @@
+/wiz/nono/shufang.c line 7: Warning: Redeclaration of global variable 'exits'. before the end of line
+/wiz/nono/fuyuan.c line 7: Warning: Redeclaration of global variable 'exits'. before the end of line
+/wiz/nono/huayuan.c line 7: Warning: Redeclaration of global variable 'exits'. before the end of line
+/wiz/nono/gate.c line 7: Warning: Redeclaration of global variable 'exits'. before the end of line

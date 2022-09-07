@@ -1,0 +1,8 @@
+/wiz/valley/exec.c line 6: Undefined variable 'changan' before "level");}
+/wiz/valley/exec.c line 6: Undefined variable 'home' before "a"];}
+/wiz/valley/daemons/restart_d.c line 198: Reserved type name unexpected. before (string k) {
+/wiz/valley/daemons/restart_d.c line 198: parse error before (string k) {
+/wiz/valley/daemons/restart_d.c line 200: Undefined variable 'k' before );
+/wiz/valley/daemons/restart_d.c line 200: Illegal LHS before the end of line
+/wiz/valley/daemons/restart_d.c line 201: Undefined variable 'as' before  {
+/wiz/valley/daemons/restart_d.c line 203: Undefined variable 'ctp' before a; break;

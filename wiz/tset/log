@@ -1,0 +1,62 @@
+/wiz/tset/exec.c line 6: Undefined variable 'rulin' before }
+/wiz/tset/exec.c line 6: parse error before rulin->add_id("rulin
+/wiz/tset/exec.c line 6: parse error before arc->query("id");}
+/wiz/tset/exec.c line 6: parse error before lo;}
+/wiz/tset/exec.c line 6: parse error before locl->remove_id("loc
+/wiz/tset/exec.c line 6: parse error before }
+/wiz/tset/exec.c line 7: End of file in text block at the end of the file
+/wiz/tset/exec.c line 7: parse error at the end of the file
+/wiz/tset/exec.c line 6: parse error before this_body();}
+/wiz/tset/exec.c line 6: parse error before rjx:shell;}
+/wiz/tset/exec.c line 6: Undefined variable 'me' before query_skill("qmdj");
+/wiz/tset/exec.c line 6: Undefined variable 'EVENT_D' before }
+/wiz/tset/cmds/wizlist.c line 71: Warning: Unused local variable 'disp_tmp' before the end of line
+/wiz/tset/exec.c line 6: Left argument of -> is not a class before }
+/wiz/tset/exec.c line 6: parse error before building_database;}
+/wiz/tset/exec.c line 6: Undefined variable 'dir' before }
+/wiz/tset/exec.c line 6: Undefined function dir before ;}
+/wiz/tset/exec.c line 6: Bad argument 2 to efun get_dir() before ;}
+/wiz/tset/exec.c line 7: End of file in string at the end of the file
+/wiz/tset/exec.c line 7: parse error at the end of the file
+/wiz/tset/exec.c line 7: End of file in string at the end of the file
+/wiz/tset/exec.c line 7: parse error at the end of the file
+/wiz/tset/exec.c line 6: parse error before  yun" , "zi" )");}
+/wiz/tset/exec.c line 6: Undefined variable 'ED_D' before }
+/wiz/tset/exec.c line 6: Undefined variable 'LOG_VOTE' before }
+/wiz/tset/exec.c line 6: Undefined variable 'CMD_OB_FEELINGS' before }
+/wiz/tset/exec.c line 6: parse error before shell;}
+/wiz/tset/exec.c line 6: Too few arguments to evaluate before ;}
+/wiz/tset/exec.c line 6: Undefined function id before );}
+/wiz/tset/exec.c line 6: parse error before ;}
+/wiz/tset/exec.c line 6: Left argument of -> is not a class before (;}
+/wiz/tset/exec.c line 6: parse error before (;}
+/wiz/tset/exec.c line 6: Undefined variable 'pa' before }
+/wiz/tset/exec.c line 6: Undefined variable 'EMOTE' before }
+/wiz/tset/cmds/ta.c line 10: Undefined variable 'n' before ]);
+/wiz/tset/cmds/ta.c line 11: Bad argument 1 to efun explode() before ;
+/wiz/tset/cmds/ta.c line 13: parse error before the end of line
+/wiz/tset/cmds/ta.c line 11: Undefined variable 'flags' before "n"]) n = (to_int(fl
+/wiz/tset/exec.c line 6: Left argument of -> is not a class before }
+/wiz/tset/exec.c line 6: Undefined variable 'BASE_SERVER' before }
+/wiz/tset/exec.c line 6: Undefined variable 'BASE_SERVER' before }
+/wiz/tset/exec.c line 6: Missing '(' in macro call before }
+/wiz/tset/exec.c line 6: Undefined variable 'SGBASE' before the end of line
+/wiz/tset/exec.c line 6: parse error before the end of line
+/wiz/tset/exec.c line 6: Missing '(' in macro call before }
+/wiz/tset/exec.c line 6: Undefined variable 'SGBASE' before the end of line
+/wiz/tset/exec.c line 6: parse error before the end of line
+/wiz/tset/exec.c line 6: Undefined variable 'npcjianglingboy' before }
+/wiz/tset/exec.c line 6: parse error before npcjianglingboy;}
+/wiz/tset/exec.c line 6: parse error before boy;}
+/wiz/tset/cmds/ta.c line 15: Undefined function argument_explode before ;
+/wiz/tset/exec.c line 6: Undefined variable 'GETOPT' before }
+/wiz/tset/cmds/ta.c line 5: Cannot #include /secure/obj/shell/getopt before inherit CMD;
+/wiz/tset/cmds/ta.c line 16: Undefined function argument_explode before ;
+/wiz/tset/cmds/ta.c line 17: parse error before the end of line
+/wiz/tset/cmds/ta.c line 19: Illegal LHS before the end of line
+/wiz/tset/cmds/ta.c line 19: parse error before the end of line
+/wiz/tset/cmds/ta.c line 20: Illegal LHS before the end of line
+/wiz/tset/cmds/ta.c line 20: parse error before the end of line
+/wiz/tset/cmds/ta.c line 21: Illegal LHS before the end of line
+/wiz/tset/cmds/ta.c line 18: parse error before ;
+/wiz/tset/cmds/ta.c line 19: Illegal LHS before the end of line

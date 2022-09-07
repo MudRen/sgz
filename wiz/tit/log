@@ -1,0 +1,36 @@
+/wiz/tit/exec.c line 6: Undefined variable 'CHAR_d' before ;}
+/wiz/tit/exec.c line 6: parse error before }
+/wiz/tit/exec.c line 6: Undefined variable 'hotdog' before meili,40,122);}
+/wiz/tit/exec.c line 6: Undefined variable 'meili' before 40,122);}
+/wiz/tit/exec.c line 6: Undefined variable 'hot' before cao cao,50);}
+/wiz/tit/exec.c line 6: Undefined variable 'cao' before ,50);}
+/wiz/tit/exec.c line 6: parse error before ,50);}
+/wiz/tit/exec.c line 6: Undefined variable 'hot' before gold,200};}
+/wiz/tit/exec.c line 6: Undefined variable 'gold' before 200};}
+/wiz/tit/exec.c line 6: parse error before ;}
+/wiz/tit/exec.c line 6: parse error before ;}
+/wiz/tit/exec.c line 6: Undefined variable 'yiliao' before cao cao,53);}
+/wiz/tit/exec.c line 6: Undefined variable 'cao' before ,53);}
+/wiz/tit/exec.c line 6: parse error before ,53);}
+/wiz/tit/exec.c line 6: Undefined variable 'hot' before gold,100);}
+/wiz/tit/exec.c line 6: Undefined variable 'gold' before 100);}
+/wiz/tit/exec.c line 6: Undefined variable 'opq' before gold,300);}
+/wiz/tit/exec.c line 6: Undefined variable 'gold' before 300);}
+/wiz/tit/exec.c line 6: Undefined variable 'hotdog' before gold,1000);}
+/wiz/tit/exec.c line 6: Undefined variable 'gold' before 1000);}
+/wiz/tit/exec.c line 6: Undefined variable 'sk_wuli' before 30);}
+/wiz/tit/exec.c line 6: Undefined variable 'std' before "reputation",100);}
+/wiz/tit/exec.c line 6: Undefined variable 'mat' before cao cao,40);}
+/wiz/tit/exec.c line 6: Undefined variable 'cao' before ,40);}
+/wiz/tit/exec.c line 6: parse error before ,40);}
+/wiz/tit/exec.c line 6: Undefined variable 'hotdog' before gold1000);}
+/wiz/tit/exec.c line 6: Undefined variable 'gold1000' before ;}
+/wiz/tit/exec.c line 6: parse error before );}
+/wiz/tit/exec.c line 6: Undefined variable 'qinchuan' before troop,([footman:3000
+/wiz/tit/exec.c line 6: Undefined variable 'troop' before ([footman:30000]));}
+/wiz/tit/exec.c line 6: Undefined variable 'footman' before 30000]));}
+/wiz/tit/exec.c line 6: Undefined variable 'hot' before ;}
+/wiz/tit/exec.c line 6: Undefined function get_body before ;}
+/wiz/tit/exec.c line 6: Undefined function get_body before ;}
+/wiz/tit/exec.c line 6: Undefined variable 'hot' before ;}
+/wiz/tit/exec.c line 6: parse error before }

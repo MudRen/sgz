@@ -1,0 +1,3 @@
+/wiz/ghyg/exec.c line 6: Undefined variable 'ghyg' before query_job("letter","
+/wiz/ghyg/exec.c line 6: Undefined variable 'ghyg' before add_job("letter");}
+/wiz/ghyg/exec.c line 6: Undefined variable 'ghyg' before add_job("letter");}

@@ -1,0 +1,288 @@
+/wiz/group/exec.c line 6: Undefined function finduser before ,300);}
+/wiz/group/exec.c line 6: Undefined function list_users before ;}
+/wiz/group/exec.c line 6: Undefined function list_user before ;}
+/wiz/group/exec.c line 6: Bad argument 1 to efun find_object() before ;}
+/wiz/group/exec.c line 6: parse error before }
+/wiz/group/exec.c line 6: Undefined variable 'lch' before °ËÉñÃØÊÇÉµ¹Ï");}
+/wiz/group/exec.c line 6: parse error before °ËÉñÃØÊÇÉµ¹Ï");}
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 6: Undefined function find_char before ->responda("kiss gro
+/wiz/group/exec.c line 6: Undefined function find_char before ->responda("kiss gro
+/wiz/group/exec.c line 6: Undefined function find_char before ->responda("kiss gro
+/wiz/group/exec.c line 6: parse error before }
+/wiz/group/exec.c line 6: Undefined function find_char before ;}
+/wiz/group/exec.c line 6: Undefined variable 'p_title' before ;}
+/wiz/group/cast/zhanbu.c line 38: Warning: Unused local variable 'i' before the end of line
+/wiz/group/cast/zhanbu.c line 183: Warning: Unused local variable 'mora' before the end of line
+/wiz/group/cast/qibing.c line 38: Warning: Unused local variable 'i' before the end of line
+/wiz/group/cast/qibing.c line 38: Warning: Unused local variable 'where' before the end of line
+/wiz/group/exec.c line 6: parse error before }
+/wiz/group/cast/zhanbu.c line 38: Warning: Unused local variable 'i' before the end of line
+/wiz/group/cast/zhanbu.c line 183: Warning: Unused local variable 'mora' before the end of line
+/wiz/group/cast/huangbao.c line 158: Warning: Unused local variable 'p_num' before the end of line
+/wiz/group/cast/huangbao.c line 158: Warning: Unused local variable 'e_num' before the end of line
+/wiz/group/exec.c line 6: parse error before ¨½³;}
+/wiz/group/exec.c line 7: Unexpected end of file at the end of the file
+/wiz/group/exec.c line 7: Undefined variable 'SGBASE' at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 6: Left argument of -> is not a class before }
+/wiz/group/exec.c line 6: parse error before );}
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 7: Undefined variable 'sgrate' at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/gettop.c line 47: Undefined function telluser before ;
+/wiz/group/exec.c line 7: End of file in text block at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 7: End of file in text block at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/gettop.c line 45: parse error before 	
+/wiz/group/gettop.c line 47: Illegal LHS before the end of line
+/wiz/group/gettop.c line 47: parse error before the end of line
+/wiz/group/gettop.c line 49: Illegal LHS before the end of line
+/wiz/group/gettop.c line 50: Illegal LHS before i<MAX;i++)
+/wiz/group/gettop.c line 51: Undefined variable 'i' before ,"");
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 6: Undefined variable 'CAST_D' before state_me();}
+/wiz/group/exec.c line 6: Undefined variable 'me' before query_name();}
+/wiz/group/exec.c line 6: Invalid argument types to '+' ( object vs string ) before ;}
+/wiz/group/firework.c line 23: Undefined function set_id before ;
+/wiz/group/firework.c line 24: Undefined function set_unit before ;
+/wiz/group/firework.c line 26: Undefined function set_size before ;
+/wiz/group/firework.c line 48: parse error before ("delay",3);
+/wiz/group/firework.c line 49: parse error before ("delay",3);
+/wiz/group/exec.c line 6: Undefined variable 'call_out' before }
+/wiz/group/exec.c line 6: Too few arguments to call_out before ;}
+/wiz/group/firework.c line 48: parse error before ("delay",3);
+/wiz/group/firework.c line 22: parse error before ;
+/wiz/group/firework.c line 27: Illegal LHS before the end of line
+/wiz/group/firework.c line 22: parse error before ;
+/wiz/group/firework.c line 27: Illegal LHS before the end of line
+/wiz/group/firework.c line 44: parse error before ->delay_simple_actio
+/wiz/group/firework.c line 44: parse error before ->delay_simple_actio
+/wiz/group/exec.c line 6: Too few arguments to implode before ;}
+/wiz/group/cast/neihong.c line 94: Undefined variable 'target' before )
+/wiz/group/exec.c line 6: Undefined variable 'group' before }
+/wiz/group/exec.c line 6: Undefined function list_users before ;}
+/wiz/group/exec.c line 6: Undefined variable 'weather' before  weathers) == AREA_D
+/wiz/group/exec.c line 6: Undefined variable 'weathers' before  == AREA_D->get_area
+/wiz/group/exec.c line 6: Undefined variable 'where' before  "weather");}
+/wiz/group/cast/zhanbu.c line 108: parse error before 	
+/wiz/group/cast/zhanbu.c line 115: Illegal LHS before the end of line
+/wiz/group/cast/zhanbu.c line 115: parse error before the end of line
+/wiz/group/cast/zhanbu.c line 117: Illegal LHS before the end of line
+/wiz/group/cast/zhanbu.c line 117: parse error before the end of line
+/wiz/group/cast/zhanbu.c line 118: Illegal LHS before the end of line
+/wiz/group/cast/zhanbu.c line 110: Undefined variable 'weather' before "¡£", "b");
+/wiz/group/cast/zhanbu.c line 110: parse error before the end of line
+/wiz/group/cast/zhanbu.c line 115: Illegal LHS before the end of line
+/wiz/group/cast/zhanbu.c line 115: parse error before the end of line
+/wiz/group/cast/zhanbu.c line 117: Illegal LHS before the end of line
+/wiz/group/cast/zhanbu.c line 117: parse error before the end of line
+/wiz/group/cast/zhanbu.c line 118: Illegal LHS before the end of line
+/wiz/group/cast/zhanbu.c line 112: $var illegal outside of function pointer. before the end of line
+/wiz/group/cast/zhanbu.c line 112: parse error before the end of line
+/wiz/group/cast/zhanbu.c line 126: Illegal LHS before the end of line
+/wiz/group/cast/zhanbu.c line 126: parse error before the end of line
+/wiz/group/cast/zhanbu.c line 128: Illegal LHS before the end of line
+/wiz/group/cast/zhanbu.c line 128: parse error before the end of line
+/wiz/group/cast/zhanbu.c line 196: parse error before the end of file
+/wiz/group/lm.c line 10: parse error before ->query_body()->set_
+/wiz/group/lm.c line 13: Undefined variable 'M_gold' before ;
+/wiz/group/warmap.c line 23: parse error before  {
+/wiz/group/warmap.c line 24: Illegal LHS before the end of line
+/wiz/group/warmap.c line 28: parse error before (arg == "here"){
+/wiz/group/exec.c line 6: Undefined variable 'CAST_D' before add_cast("scout","du
+/wiz/group/exec.c line 6: parse error before 400]));}
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/exec.c line 6: Undefined variable 'AEAR_D' before set_area("xiangping"
+/wiz/group/warorder.c line 101: Illegal to use local variable in functional. before );
+/wiz/group/warorder.c line 101: Illegal to use local variable in functional. before );
+/wiz/group/cast/fakeorder.c line 40: Reserved type name unexpected. before ;
+/wiz/group/cast/fakeorder.c line 40: parse error before ;
+/wiz/group/cast/fakeorder.c line 41: Undefined variable 't' before "chars");
+/wiz/group/cast/fakeorder.c line 41: Illegal LHS before the end of line
+/wiz/group/cast/fakeorder.c line 42: Undefined variable 'chars' before the end of line
+/wiz/group/cast/fakeorder.c line 45: parse error before the end of line
+/wiz/group/cast/fakeorder.c line 41: Undefined variable 't' before "chars");
+/wiz/group/cast/fakeorder.c line 45: parse error before the end of line
+/wiz/group/cast/fakeorder.c line 49: Illegal LHS before the end of line
+/wiz/group/cast/fakeorder.c line 49: parse error before the end of line
+/wiz/group/cast/fakeorder.c line 50: Illegal LHS before the end of line
+/wiz/group/cast/fakeorder.c line 50: parse error before the end of line
+/wiz/group/cast/fakeorder.c line 45: parse error before the end of line
+/wiz/group/cast/fakeorder.c line 49: Illegal LHS before the end of line
+/wiz/group/cast/fakeorder.c line 49: parse error before the end of line
+/wiz/group/cast/fakeorder.c line 50: Illegal LHS before the end of line
+/wiz/group/cast/fakeorder.c line 50: parse error before the end of line
+/wiz/group/cast/fakeorder.c line 52: Illegal LHS before the end of line
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/warorder.c line 101: Illegal to use local variable in functional. before );
+/wiz/group/warorder.c line 102: Illegal to use local variable in functional. before );
+/wiz/group/warorder.c line 102: Illegal to use local variable in functional. before );
+/wiz/group/warorder.c line 101: Illegal to use local variable in functional. before  );
+/wiz/group/warorder.c line 101: Illegal to use local variable in functional. before  );
+/wiz/group/warorder.c line 101: Illegal to use local variable in functional. before  );
+/wiz/group/warorder.c line 101: Illegal to use local variable in functional. before  );
+/wiz/group/warorder.c line 101: Illegal to use local variable in functional. before  );
+/wiz/group/exec.c line 6: Undefined variable 'req' before 35);}
+/wiz/group/exec.c line 6: Undefined variable 'TROOP_d' before get_troops(874,"cond
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/lm.c line 11: Undefined variable 'rom' before load_object("/a/"+p_
+/wiz/group/lm.c line 11: Illegal lvalue before load_object("/a/"+p_
+/wiz/group/lm.c line 12: Undefined variable 'MARRY_GATE' before ;
+/wiz/group/lm.c line 12: Undefined variable 'MARRY_GATE' before ;
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/exec.c line 6: parse error before me->query_primary_id
+/wiz/group/exec.c line 6: Illegal character constant before iangping","soldier")
+/wiz/group/exec.c line 6: parse error before ","soldier");;}
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/pos.c line 1263: parse error before the end of line
+/wiz/group/pos.c line 1280: Undefined variable 'year' before ;
+/wiz/group/pos.c line 1280: Illegal LHS before the end of line
+/wiz/group/pos.c line 1281: Undefined variable 'month' before ;
+/wiz/group/pos.c line 1294: Undefined variable 'polulation' before  population - soldie
+/wiz/group/pos.c line 1294: Illegal lvalue before  population - soldie
+/wiz/group/pos.c line 1294: Undefined variable 'polulation' before  population - soldie
+/wiz/group/pos.c line 1294: Illegal lvalue before  population - soldie
+/wiz/group/exec.c line 6: Left argument of -> is not a class before area("xiangping","sa
+/wiz/group/exec.c line 6: Undefined function area before ;}
+/wiz/group/exec.c line 6: Illegal character constant before iangping","recruit_s
+/wiz/group/exec.c line 6: parse error before ","recruit_soldier",
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/exec.c line 6: parse error before ^HIG%^"$NµãµãÍ·£¬Ä¿¹
+/wiz/group/exec.c line 6: Undefined variable 'hu' before ","group",100);}
+/wiz/group/exec.c line 6: parse error before ","group",100);}
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/exec.c line 6: Undefined variable 'auto_run' before ();}
+/wiz/group/exec.c line 6: Bad argument number 1 to '-': "string " before ();}
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/ev_kwar.c line 127: Reserved type name unexpected. before (string m_id,string 
+/wiz/group/ev_kwar.c line 127: parse error before (string m_id,string 
+/wiz/group/ev_kwar.c line 130: Illegal LHS before the end of line
+/wiz/group/ev_kwar.c line 131: Reserved type name unexpected. before ;
+/wiz/group/ev_kwar.c line 131: parse error before ;
+/wiz/group/ev_kwar.c line 135: Undefined variable 'm_id' before the end of line
+/wiz/group/exec.c line 6: Illegal character constant before /wiz/group/ev_kwar.c
+/wiz/group/exec.c line 6: Undefined variable 'wiz' before group/ev_kwar.c"->au
+/wiz/group/exec.c line 6: Undefined variable 'group' before ev_kwar.c"->auto_run
+/wiz/group/exec.c line 6: Undefined variable 'ev_kwar' before c"->auto_run();}
+/wiz/group/exec.c line 6: parse error before c"->auto_run();}
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 6: parse error before }
+/wiz/group/exec.c line 6: parse error before }
+/wiz/group/exec.c line 6: Undefined variable 'xiangping' before recruit_soldier",(["
+/wiz/group/exec.c line 6: parse error before recruit_soldier",(["
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 6: parse error before ]);}
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/cmds/lc.c line 8: parse error before secure/user#112376->
+/wiz/group/cmds/lc.c line 8: Single '#' in identifier -- use '##' for token pasting before 12376->set_sg_skill(
+/wiz/group/exec.c line 6: Undefined variable 'CAST_D' before }
+/wiz/group/exec.c line 6: Illegal character constant before hanbu","");}
+/wiz/group/exec.c line 6: parse error before ","");}
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/exec.c line 6: parse error before set_can_give(1);}
+/wiz/group/exec.c line 6: parse error before ();}
+/wiz/group/exec.c line 6: Undefined function find_char before ;}
+/wiz/group/exec.c line 6: parse error before ),1);}
+/wiz/group/exec.c line 6: parse error before ["zhiwei"]},1);}
+/wiz/group/exec.c line 7: End of file in text block at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 7: End of file in text block at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 7: End of file in text block at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 7: End of file in text block at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 6: Left argument of -> is not a class before }
+/wiz/group/exec.c line 6: Undefined function list_troops before ;}
+/wiz/group/exec.c line 6: Left argument of -> is not a class before }
+/wiz/group/exec.c line 6: Undefined variable 'HOME_D' before get_home("group","")
+/wiz/group/exec.c line 6: Undefined variable 'HOUSE_D' before get_house("group",""
+/wiz/group/exec.c line 6: parse error before }
+/wiz/group/exec.c line 6: parse error before ));}
+/wiz/group/exec.c line 6: Undefined function usrs before ;}
+/wiz/group/exec.c line 6: Undefined variable 'CAST_D' before get_cast("fenfa");}
+/wiz/group/exec.c line 6: parse error before  150);}
+/wiz/group/exec.c line 6: Undefined variable 'level' before 2);}
+/wiz/group/exec.c line 6: Undefined variable 'jianran' before set_sg_skill("scout"
+/wiz/group/exec.c line 6: Missing '(' in macro call before >get_status("ice");}
+/wiz/group/exec.c line 6: Undefined variable 'SGHOME' before get_status("ice");}
+/wiz/group/exec.c line 6: Undefined function get_status before ;}
+/wiz/group/exec.c line 6: parse error before ME-?>;}
+/wiz/group/exec.c line 6: Left argument of -> is not a class before }
+/wiz/group/exec.c line 6: Left argument of -> is not a class before }
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/exec.c line 6: Undefined variable 'me' before ;}
+/wiz/group/exec.c line 6: Undefined function evironment before ;}
+/wiz/group/exec.c line 6: Undefined variable 'me' before ;}
+/wiz/group/lc.c line 9: Type of returned value doesn't match function return type ( string array vs void ) before the end of line
+/wiz/group/lc.c line 9: Undefined function sprint before ;
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 6: Undefined variable 'CAST_D' before get_skill("sugong");
+/wiz/group/exec.c line 6: Undefined variable 'CAST_D' before get_cast("sugong");}
+/wiz/group/exec.c line 6: Undefined variable 'CAST_D' before get_casts("sugong");
+/wiz/group/exec.c line 6: Undefined variable 'task_id' before "att_army");}
+/wiz/group/exec.c line 6: Undefined variable 'CHAR_' before }
+/wiz/group/exec.c line 6: Undefined variable 'this_user' before );}
+/wiz/group/exec.c line 6: Undefined function move before ;}
+/wiz/group/cmds/whoip.c line 45: Reserved type name unexpected. before  leii=({});
+/wiz/group/cmds/whoip.c line 45: parse error before  leii=({});
+/wiz/group/cmds/whoip.c line 45: Illegal LHS before the end of line
+/wiz/group/cmds/whoip.c line 46: 'user' is not a local or a global variable. before  in users())   
+/wiz/group/cmds/whoip.c line 47: Undefined variable 'user' before ,leii)!=1)
+/wiz/group/cmds/whoip.c line 47: Undefined variable 'leii' before !=1)
+/wiz/group/cmds/whoip.c line 45: Reserved type name unexpected. before leii=({});
+/wiz/group/cmds/whoip.c line 45: parse error before leii=({});
+/wiz/group/cmds/whoip.c line 45: Illegal LHS before the end of line
+/wiz/group/cmds/whoip.c line 46: 'user' is not a local or a global variable. before  in users())   
+/wiz/group/cmds/whoip.c line 47: Undefined variable 'user' before ,leii)!=1)
+/wiz/group/cmds/whoip.c line 47: Undefined variable 'leii' before !=1)
+/wiz/group/cmds/whoip.c line 45: Reserved type name unexpected. before  leii;
+/wiz/group/cmds/whoip.c line 45: parse error before  leii;
+/wiz/group/cmds/whoip.c line 46: Illegal LHS before the end of line
+/wiz/group/cmds/whoip.c line 47: 'user' is not a local or a global variable. before  in users())   
+/wiz/group/cmds/whoip.c line 48: Undefined variable 'user' before ,leii)!=1)
+/wiz/group/cmds/whoip.c line 48: Undefined variable 'leii' before !=1)
+/wiz/group/cmds/whoip.c line 45: Reserved type name unexpected. before ;
+/wiz/group/cmds/whoip.c line 45: parse error before ;
+/wiz/group/cmds/whoip.c line 46: Illegal LHS before the end of line
+/wiz/group/cmds/whoip.c line 47: 'user' is not a local or a global variable. before  in users())   
+/wiz/group/cmds/whoip.c line 48: Undefined variable 'user' before ,leii)!=1)
+/wiz/group/cmds/whoip.c line 48: Undefined variable 'leii' before !=1)
+/wiz/group/whoip.c line 51: Reserved type name unexpected. before ;
+/wiz/group/whoip.c line 51: parse error before ;
+/wiz/group/whoip.c line 52: Undefined variable 'leii' before ;
+/wiz/group/whoip.c line 52: Illegal LHS before the end of line
+/wiz/group/whoip.c line 53: Undefined variable 'y' before ;
+/wiz/group/whoip.c line 57: Undefined variable 'ob' before  find_user(arg)) {
+/wiz/group/exec.c line 6: Reserved type name unexpected. before ({"kkk"});}
+/wiz/group/exec.c line 6: parse error before "kkk"});}
+/wiz/group/whoip.c line 24: Undefined variable 'sring' before ;
+/wiz/group/whoip.c line 24: parse error before ;
+/wiz/group/whoip.c line 36: Illegal LHS before the end of line
+/wiz/group/whoip.c line 38: Undefined variable 'userid' before the end of line
+/wiz/group/whoip.c line 46: Type mismatch ( unknown vs int ) when initializing x before the end of line
+/wiz/group/whoip.c line 46: Missing type for global variable declaration before the end of line
+/wiz/group/exec.c line 6: Undefined variable 'CONDITION_D' before }
+/wiz/group/exec.c line 6: Undefined function search before ;}
+/wiz/group/pigroom.c line 155: parse error before the end of line
+/wiz/group/pigroom.c line 156: Illegal LHS before the end of line
+/wiz/group/exec.c line 6: Undefined variable 'RESTART_D' before }
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file
+/wiz/group/exec.c line 6: parse error before }
+/wiz/group/exec.c line 6: parse error before ;}
+/wiz/group/exec.c line 6: parse error before }
+/wiz/group/exec.c line 6: Left argument of -> is not a class before }
+/wiz/group/exec.c line 7: End of file in string at the end of the file
+/wiz/group/exec.c line 7: parse error at the end of the file

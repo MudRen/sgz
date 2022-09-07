@@ -1,0 +1,140 @@
+---
+Sat Aug 20 18:16:26 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Sat Aug 20 18:16:28 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Sat Aug 20 18:16:30 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Sat Aug 20 18:16:38 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Sat Aug 20 18:26:44 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Sat Aug 20 18:26:58 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Sat Aug 20 18:27:00 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Sat Aug 20 18:27:02 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Sat Aug 20 18:27:12 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+---
+Sat Aug 20 18:27:12 2011
+*Error in loading object '/trans/tmp/exec'
+Object: /secure/simul_efun (secure/simul_efun/misc.c) at line 261
+
+'<function>' at /secure/user#1867 (<function>) at :0
+'dispatch_modal_input' at /secure/user#1867 (secure/user/inputsys.c) at line 314
+'<function>' at /trans/obj/wish#1869 (<function>) at :0
+'shell_input' at /trans/obj/wish#1869 (secure/obj/shell.c) at line 131
+'execute_command' at /trans/obj/wish#1869 at line 183
+'expand_arguments' at /trans/obj/wish#1869 at line 78
+'CATCH' at /trans/obj/wish#1869 at line 78
+'evaluate_code' at /trans/obj/wish#1869 at line 52
+'exec_code' at /secure/simul_efun (secure/simul_efun/misc.c) at line 261

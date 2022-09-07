@@ -1,0 +1,205 @@
+/wiz/listen/exec.c line 6: parse error before );}
+/wiz/listen/exec.c line 6: parse error before );}
+/wiz/listen/exec.c line 6: Left argument of -> is not a class before }
+/wiz/listen/exec.c line 6: Undefined variable 'this_user' before list_chars();}
+/wiz/listen/exec.c line 6: parse error before this_user->list_char
+/wiz/listen/exec.c line 6: parse error before ;}
+/wiz/listen/exec.c line 6: parse error before ()->get_skill();}
+/wiz/listen/exec.c line 6: Undefined variable 'bfxy' before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'jbsj' before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'this' before body()->get_skill('b
+/wiz/listen/exec.c line 6: Illegal character constant before fxy');}
+/wiz/listen/exec.c line 6: parse error before ');}
+/wiz/listen/exec.c line 6: Illegal character constant before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'me' before get_skill("bfxy");}
+/wiz/listen/exec.c line 6: parse error before get_skill("bfxy");}
+/wiz/listen/exec.c line 6: parse error before ();}
+/wiz/listen/exec.c line 6: parse error before ();}
+/wiz/listen/exec.c line 6: Undefined variable 'this_body' before get_skill("bfxy");}
+/wiz/listen/exec.c line 6: Illegal terminator before this_body()->set_sg_
+/wiz/listen/exec.c line 6: Left argument of -> is not a class before this_body()->set_sg_
+/wiz/listen/exec.c line 6: parse error before this_body()->set_sg_
+/wiz/listen/exec.c line 6: Undefined function findobj before ->query_ids();}
+/wiz/listen/exec.c line 6: Undefined function deliever_tell before ;}
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: parse error before /nat Àî´ó bzd test;}
+/wiz/listen/exec.c line 6: Undefined function deliever_tell before ;}
+/wiz/listen/exec.c line 6: Undefined function deliever_string before ;}
+/wiz/listen/exec.c line 6: Undefined function exec_fool before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'nat' before }
+/wiz/listen/exec.c line 6: Undefined function nat before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'D_CHAR' before set_char("leeye","re
+/wiz/listen/exec.c line 6: Left argument of -> is not a class before time(3043);}
+/wiz/listen/exec.c line 6: Too many arguments to time before ;}
+/wiz/listen/exec.c line 6: Undefined function all_invenroty before ;}
+/wiz/listen/exec.c line 6: Undefined function all_inventoty before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'getchar' before  passwd;}
+/wiz/listen/exec.c line 6: parse error before  passwd;}
+/wiz/listen/exec.c line 6: Undefined variable 'F_IN_EDIT' before 0);}
+/wiz/listen/exec.c line 6: Undefined variable 'F_IN_EDIT' before ;}
+/wiz/listen/exec.c line 6: parse error before edc->query_body()->t
+/wiz/listen/exec.c line 6: Undefined variable 'CHAR' before D->set_char("listen"
+/wiz/listen/exec.c line 6: Undefined variable 'D' before set_char("listen","r
+/wiz/listen/exec.c line 7: End of file in string at the end of the file
+/wiz/listen/exec.c line 7: parse error at the end of the file
+/wiz/listen/exec.c line 6: Left argument of -> is not a class before }
+/wiz/listen/exec.c line 6: parse error before daemons/nation_chann
+/wiz/listen/exec.c line 6: parse error before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'listen' before bzd,disagree);}
+/wiz/listen/exec.c line 6: Undefined variable 'bzd' before disagree);}
+/wiz/listen/exec.c line 6: Undefined variable 'disagree' before ;}
+/wiz/listen/exec.c line 6: parse error before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'bzd' before bzd,lalalala);}
+/wiz/listen/exec.c line 6: Undefined variable 'lalalala' before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'bzd' before bzd,lalalala);}
+/wiz/listen/exec.c line 6: Undefined variable 'lalalala' before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'listen' before bzd,lalalala);}
+/wiz/listen/exec.c line 6: Undefined variable 'bzd' before lalalala);}
+/wiz/listen/exec.c line 6: Undefined variable 'lalalala' before ;}
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: Undefined variable 'bailangshan' before ªÕ¯);}
+/wiz/listen/exec.c line 6: parse error before ªÕ¯);}
+/wiz/listen/exec.c line 6: Undefined variable 'bailangshan' before  ÓªÕ¯;}
+/wiz/listen/exec.c line 6: parse error before ªÕ¯;}
+/wiz/listen/exec.c line 6: Undefined variable 'horse' before mzb);}
+/wiz/listen/exec.c line 6: Undefined variable 'mzb' before ;}
+/wiz/listen/exec.c line 6: parse error before ("horse","mzb")]);}
+/wiz/listen/exec.c line 6: parse error before "mzb"}));}
+/wiz/listen/exec.c line 6: parse error before º"mzb"}));}
+/wiz/listen/exec.c line 6: Undefined variable 't_need' before 0));}
+/wiz/listen/exec.c line 6: parse error before 0));}
+/wiz/listen/exec.c line 6: Undefined variable 't_need' before  0));}
+/wiz/listen/exec.c line 6: parse error before  0));}
+/wiz/listen/exec.c line 6: Undefined variable 't_need' before º0));}
+/wiz/listen/exec.c line 6: parse error before º0));}
+/wiz/listen/exec.c line 6: parse error before º0]));}
+/wiz/listen/exec.c line 6: parse error before include/F_IN_EDIT);}
+/wiz/listen/exec.c line 6: parse error before Í³É;}
+/wiz/listen/exec.c line 6: parse error before Í³É¡±;}
+/wiz/listen/exec.c line 6: Too many arguments to time before ;}
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: Undefined variable 'a' before }
+/wiz/listen/exec.c line 6: parse error before ":30,"zhimou":30,"wu
+/wiz/listen/exec.c line 7: End of file in string at the end of the file
+/wiz/listen/exec.c line 6: parse error before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'this' before }
+/wiz/listen/exec.c line 6: Undefined variable 'this' before room;}
+/wiz/listen/exec.c line 6: No class in scope has no member 'room' before }
+/wiz/listen/ring.c line 6: Illegal to redefine 'nomask' function "set_proper_name" before the end of line
+/wiz/listen/ring.c line 6: Illegal to redefine 'nomask' function "parse_command_adjectiv_id_list" before the end of line
+/wiz/listen/ring.c line 6: Illegal to redefine 'nomask' function "set_long" before the end of line
+/wiz/listen/ring.c line 6: Illegal to redefine 'nomask' function "get_flags" before the end of line
+/wiz/listen/ring.c line 6: Illegal to redefine 'nomask' function "configure_set" before the end of line
+/wiz/listen/ring.c line 6: Illegal to redefine 'nomask' function "test_flag" before the end of line
+/wiz/listen/ring.c line 22: Undefined function set_attack_power before ;
+/wiz/listen/ring.c line 25: Undefined function set_combat_messages before ;
+/wiz/listen/ring.c line 22: Undefined function set_defence_power before ;
+/wiz/listen/exec.c line 6: Undefined variable 'HIG' before "Ð¡²Ý"+NOR+"ÀÏ");}
+/wiz/listen/exec.c line 6: Undefined variable 'NOR' before "ÀÏ");}
+/wiz/listen/exec.c line 6: Undefined variable 'id' before beach,t_need:0,st:bu
+/wiz/listen/exec.c line 6: parse error before beach,t_need:0,st:bu
+/wiz/listen/exec.c line 6: parse error before ({100,0,}));}
+/wiz/listen/exec.c line 6: parse error before "Í»È»ÑïÆðÒ»Õó³¾ÍÁ£¬$
+/wiz/listen/exec.c line 6: parse error before "Í»È»ÑïÆðÒ»Õó³¾ÍÁ£¬$
+/wiz/listen/exec.c line 6: Undefined variable 'horse' before ;}
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: parse error before wiz/listen/drive xia
+/wiz/listen/obj/car.c line 14: Undefined function query_owner before ;
+/wiz/listen/obj/car.c line 70: Undefined function set_ride_msg before ;
+/wiz/listen/obj/car.c line 71: Undefined function set_unride_msg before ;
+/wiz/listen/exec.c line 6: parse error before ©;}
+/wiz/listen/exec.c line 6: parse error before ©;}
+/wiz/listen/exec.c line 6: parse error before ¬"$NÇáÇáµØÈà´ê×Ô¼ºµÄ
+/wiz/listen/exec.c line 6: parse error before ¬"$NÇáÇáµØÈà´ê×Ô¼ºµÄ
+/wiz/listen/exec.c line 6: parse error before ¬"$NÇáÇáµØÈà´ê×Ô¼ºµÄ
+/wiz/listen/exec.c line 6: parse error before ¬"$NÇáÇáµØÈà´ê×Ô¼ºµÄ
+/wiz/listen/exec.c line 6: parse error before ¬"ÕâÊÇÒ»ÕÅ±¡±¡µÄÃæ¾ß
+/wiz/listen/exec.c line 6: parse error before ¬"ÕâÊÇÒ»ÕÅ±¡±¡µÄÃæ¾ß
+/wiz/listen/exec.c line 6: parse error before ","$N´©ÉÏÒ»¼þ±ÊÍ¦µÄ$
+/wiz/listen/exec.c line 6: $var illegal outside of function pointer. before N´©ÉÏÒ»¼þ±ÊÍ¦µÄ$o¡£"
+/wiz/listen/exec.c line 6: $var illegal outside of function pointer. before o¡£");}
+/wiz/listen/exec.c line 7: End of file in string at the end of the file
+/wiz/listen/exec.c line 7: End of file in string at the end of the file
+/wiz/listen/exec.c line 7: parse error at the end of the file
+/wiz/listen/obj/m_car.c line 238: Illegal to use private variable 'size' before   {
+/wiz/listen/obj/m_car.c line 238: Reserved type name unexpected. before ;
+/wiz/listen/obj/m_car.c line 238: parse error before ;
+/wiz/listen/obj/m_car.c line 239: Illegal LHS before the end of line
+/wiz/listen/obj/m_car.c line 240: Undefined variable 's' before 4)  {
+/wiz/listen/obj/m_car.c line 247: Undefined variable 'rids' before 0]);
+/wiz/listen/obj/m_car.c line 251: Undefined variable 'p_id' before "\n");
+/wiz/listen/call.c line 10: parse error before wiz/listen/qb")->sta
+/wiz/listen/call.c line 39: $var illegal outside of function pointer. before N·ç·ç»ð»ðµØÅÜÁË¹ýÀ´¡
+/wiz/listen/call.c line 63: $var illegal outside of function pointer. before N·ç·ç»ð»ðµØÅÜÁË¹ýÀ´¡
+/wiz/listen/call.c line 77: $var illegal outside of function pointer. before N»ØÍ·º°ÁËÒ»Éù£ºÀ´ÈËÄ
+/wiz/listen/call.c line 104: $var illegal outside of function pointer. before NÉÁÉí½øÈë¡£\n");
+/wiz/listen/call.c line 105: $var illegal outside of function pointer. before N¶Ô$T¹ªÉíµÀ£º$RÓÐºÎ·
+/wiz/listen/cmd/call.c line 104: parse error before the end of file
+/wiz/listen/cmd/call.c line 34: parse error before 
+/wiz/listen/exec.c line 6: Undefined variable 'me' before ;}
+/wiz/listen/exec.c line 6: Undefined function envirment before ;}
+/wiz/listen/exec.c line 6: Undefined function envirment before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'huayin' before ->get_room(environme
+/wiz/listen/exec.c line 6: Missing '(' in macro call before >get_room(environmen
+/wiz/listen/exec.c line 6: Undefined variable 'AREA' before get_room(environment
+/wiz/listen/exec.c line 6: Undefined function get_room before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'huayin' before ->get_room(environme
+/wiz/listen/exec.c line 6: Undefined variable 'huayin' before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'yinge' before "/control")->check_r
+/wiz/listen/exec.c line 6: Undefined function FROOM before ,"wiz/listen/obj/mbe
+/wiz/listen/exec.c line 6: Undefined variable 'NATION_CHANNEL_D' before deliver_tell("ytg","
+/wiz/listen/exec.c line 6: Left argument of -> is not a class before }
+/wiz/listen/exec.c line 6: Undefined variable 'chan' before }
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: Illegal character constant before isten","setpplsucces
+/wiz/listen/exec.c line 6: parse error before ","setpplsuccess");}
+/wiz/listen/exec.c line 7: End of file in string at the end of the file
+/wiz/listen/exec.c line 6: Undefined function radom before +114/6+939;}
+/wiz/listen/exec.c line 6: parse error before }
+/wiz/listen/exec.c line 6: parse error before npchuayinboy->move(h
+/wiz/listen/exec.c line 6: Undefined variable 'sun' before )->simple_action("hi
+/wiz/listen/exec.c line 6: parse error before )->simple_action("hi
+/wiz/listen/exec.c line 6: parse error before 500]));}
+/wiz/listen/exec.c line 6: parse error before 0]));}
+/wiz/listen/exec.c line 6: parse error before ]));}
+/wiz/listen/exec.c line 6: parse error before 0]));}
+/wiz/listen/exec.c line 6: parse error before 0}));}
+/wiz/listen/exec.c line 6: parse error before 500,]));}
+/wiz/listen/exec.c line 6: Undefined variable 'level' before 5);}
+/wiz/listen/exec.c line 6: Undefined variable 'num' before 1);}
+/wiz/listen/exec.c line 6: Left argument of -> is not a class before ("xxx","listen","lis
+/wiz/listen/exec.c line 6: parse error before ("xxx","listen","lis
+/wiz/listen/exec.c line 6: parse error before "listen","listen"]))
+/wiz/listen/exec.c line 6: Undefined variable 'CHAR_D_' before set_char("sbetter","
+/wiz/listen/exec.c line 6: Undefined variable 'ev_leave' before auto_leave(yang song
+/wiz/listen/exec.c line 6: Undefined variable 'yang' before );}
+/wiz/listen/exec.c line 6: parse error before );}
+/wiz/listen/exec.c line 6: Undefined variable 'ev_leave' before c->auto_leave("yang 
+/wiz/listen/exec.c line 6: parse error before c->auto_leave("yang 
+/wiz/listen/exec.c line 6: Undefined variable 'ev_leave' before auto_leave("yang son
+/wiz/listen/exec.c line 6: Undefined variable 'master' before ->start(1,1,"qinghe"
+/wiz/listen/exec.c line 6: parse error before sgdomain/event/ev_bw
+/wiz/listen/exec.c line 6: Undefined variable 'LT_WEEK' before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'LT_day' before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'LT_DAY' before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'HIY' before NOR);}
+/wiz/listen/exec.c line 6: parse error before NOR);}
+/wiz/listen/exec.c line 6: Undefined function to_string before ;}
+/wiz/listen/exec.c line 6: Left argument of -> is not a class before }
+/wiz/listen/exec.c line 6: Undefined variable 'yingzhen' before );}
+/wiz/listen/exec.c line 6: Undefined function find_obj before ;}
+/wiz/listen/exec.c line 6: Undefined function find_obj before ->move(find_body("yi
+/wiz/listen/exec.c line 6: Left argument of -> is not a class before }
+/wiz/listen/exec.c line 6: Undefined variable 'chat' before  en hrbl;}
+/wiz/listen/exec.c line 6: Undefined variable 'en' before ;}
+/wiz/listen/exec.c line 6: parse error before ;}
+/wiz/listen/exec.c line 6: Undefined variable 'chat' before  en hrbl;}
+/wiz/listen/exec.c line 6: Undefined variable 'en' before ;}
+/wiz/listen/exec.c line 6: parse error before ;}
+/wiz/listen/exec.c line 7: End of file in string at the end of the file
+/wiz/listen/exec.c line 7: parse error at the end of the file
+/wiz/listen/exec.c line 6: Undefined variable 'CAST_D' before get_cast();}

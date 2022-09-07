@@ -1,0 +1,5373 @@
+---
+×÷Õß: Row
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/xiliang/xl_sz...
+ÈÕÆÚ: Sat Apr 17 03:26:24 1999
+why i can ride horse in INDOOR_ROOM? sth changed?
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> re liyu
+ÈÕÆÚ: Sat Apr 17 01:48:44 1999
+could u post the whole process.
+thx u for reporting.
+
+
+---
+×÷Õß: Liyu
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/newland...
+ÈÕÆÚ: Fri Apr 16 13:30:44 1999
+acdhqsv-->v;*Bad argument 1 to call_other()
+acdhqsv-->v*Bad argument 1 to call_other()
+q
+l
+k
+
+
+
+---
+×÷Õß: Liyu
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/newland...
+ÈÕÆÚ: Fri Apr 16 13:21:33 1999
+Äã¶ÔÍÁµØ¿ª·¢¹ÙÔ±´óÄ£´óÑùµÄËµ£º¿ìÕÙ¼¯ÈËÀ´£¬ÎÒÒªÏÂÃüÁîÀ²¡£;ÍÁµØ¿ª·¢¹ÙÔ±¹§¾´µÄ¶ÔÄãËµ£ºĞ¡½«¾üÇëÏÂÁî°É¡£
+acdhqsv-->ÍŞÍŞÒ§ÁËÒ»¿ÚÂøÍ·£¬ÕæºÃ³Ô¡£
+d 1 1;¿ª·¢ĞÂÌïËù×öµÄ¹¤×÷ÓĞ£º
+1) ¿³Ê÷£ºÁ¦Æø»î¡£
+2) ÕûµØ£º¹¤·ò»î¡£
+3) ¹à¸È£ºÄÔÁ¦»î¡£;*Bad argument 1 to call_other()
+
+
+
+
+---
+×÷Õß: Cdd
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#23572...
+ÈÕÆÚ: Thu Mar 25 00:17:22 1999
+ÈÎÎñÎå£ºÇëÔÚÊ®·ÖÖÓÄÚÖ¸»ÓÇ¿µÁµÚÒ»¾üÍÅĞĞ¾üµ½£Á9¡£Ä¿Ç°Ê£ÓàÊ±¼ä£ºÁù·ÖÖÓ¡£
+I was training, during the process another army disappeared,
+then this message came up to me, what is wrong?
+
+
+
+---
+×÷Õß: Dummy
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vxl...
+ÈÕÆÚ: Thu Dec 24 11:36:20 1998
+to wizard:
+i used derek, to do the train job in huayin
+i order the army to go east, but it says your army is to tired
+so i waited a few minutes and then typed east again, it still said my army is too tired to move, so i couldn't finish the job and i waited an hour for the job to end
+is that a bug
+
+
+
+---
+×÷Õß: Lark
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vhall...
+ÈÕÆÚ: Wed Dec  9 21:34:24 1998
+int do_qu(string arg)
+{
+int x
+string from
+object book1
+object book2
+object book3
+if( sscanf(arg, %s from %s, arg, from)==2 
+&& arg==book
+ && from==shelf
+ && !query(nobook)){
+message_vision($N´ÓÊé¼ÜÉÏÄÃÏÂÒ»±¾Êé.\n,this_player())
+switch(x) {
+case 0: book1->move(this_player())
+break
+case 1: book2->move(this_player())
+break
+case 2: book3->move(this_player())
+break
+}
+set(nobook,1)
+return 1
+}
+}
+
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/workroom...
+ÈÕÆÚ: Wed Dec  2 15:33:41 1998
+The system has some potental bug.
+to day when i login i read tset's report about
+a bug. the post is :
+Ê±¼ä:  Wed Dec  2 09:38:41 1998                Post-id: 98 (98 Last)
+×÷Õß:  Tset
+ÌâÄ¿:  Bug±¨¸æµØµã£º/domains/std/wizroom...
+----------------------------------------------------------------------
+/wiz/tset/temp>ed test.c
+±à¼­£º/wiz/tset/temp/test.c
+[New file]
+:a
+// test   
+[.]
+:x
+"wiz/tset/temp/test.c" 1 lines 8 bytes
+Exit from ed.
+/wiz/tset/temp>more test.c
+filename: /wiz/tset/temp/test.c
+more: ÎÄ¼şÎª¿Õ£º/wiz/tset/temp/test.c/wiz/tset/temp>
+what happened?!
+
+Then I test and find that is true. all the file
+we edited cann't really be saved
+so I reboot and find this problem is disappeared
+but then I still notice that three new post dispared
+too
+one is test's bug reports and one is tset's suggestion in
+wiz.committee and one is group's report about process
+I will attach them below.
+so I just don't know what caused that serious problem
+I often notice that doc_d give error information
+so could stefan please solve this problem ?
+and one more thing, don't know if it is because
+tset has modified the m_ansi. now we can't see
+the color in title when use who command.
+could tset please take a look ?
+
+the deleted posts are:
+Ê±¼ä:  Wed Dec  2 04:17:29 1998                Post-id: 276 (276 Last)
+×÷Õß:  Group
+ÌâÄ¿:  yizhan
+----------------------------------------------------------------------
+now besides taiyuan, xianyang and longxi, all other cities have 
+yizhan already. those three cities have not is because they are not 
+completed yet.
+seems soon can cancel fly command la.
+½øÈë: wiz.committee
+(wiz.committee:1) 2 ÌõÁôÑÔ 1 ÌõÎ´¶Á [q?lLmgpnc] > 
+Ê±¼ä:  Tue Dec  1 20:16:34 1998                Post-id: 2 (2 Last)
+×÷Õß:  Tset
+ÌâÄ¿:  >IMPORTANT, ALL WIZARDS PLEASE READ CAREFULLY
+----------------------------------------------------------------------
+agree with fire...and a small suggestion: if you are
+making new suggestion, in the header (ÌâÄ¿) state that
+this is a [suggestion], or [½¨Òé], then every wiz just
+followup on the posts (in news, just type "f")...it will
+make things clearer.
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_mdhp...
+ÈÕÆÚ: Sun Dec 13 01:07:23 1998
+wfeng (ÎŞ·ç) is following me, and me snooping him :P
+and here is what i found ...
+
+/sgdomain/job/waterflower>w
+Äµµ¤»¨ÆÔ [³ö¿Ú£ºeast]
+
+    Äã¸Õ×ß½øÄµµ¤Ô°±ã¸Ğ»¨ÏãÆË±Ç£¬ºÃÒ»·ùÄµµ¤Í¼£¬ºìµÄ£¬»ÆµÄ£¬·Û
+µÄ£¬ç²ÀöÑ¤²Ó¡¢Îå¹âÊ®É«£¬ÁîÈËÄ¿²»Ï¾½Ó£¬ºìµÄÄÇÊÇºìÁ«ÂúÌÃ£¬·ÛµÄ
+ÄÇÊÇ·ÛÅÌÍĞ¹ğ£¬ÕæÊÇ¹úÉ«ÌìÏã£¬¾ºÏàÕùÑÕ¡£ÄãµÄÑÛ¾¦ÒÑ¾­¿´»¨ÁË£¬ÄÇ
+Äµµ¤ÏÉ×ÓºÃÏóÏòÄãĞìĞìÆ®À´£¬ÄãÈàÁËÈàÑÛ¾¦£¬Ì¾µ½£ººÃ¾°ºÃ¾°¡£
+
+Ò»¸ö»¨Åè(bowl)
+
+ÎŞ·ç×ßÁË¹ıÀ´¡£
+%Äµµ¤»¨ÆÔ [³ö¿Ú£ºeast]  
+%
+    Äã¸Õ×ß½øÄµµ¤Ô°±ã¸Ğ»¨ÏãÆË±Ç£¬ºÃÒ»·ùÄµµ¤Í¼£¬ºìµÄ£¬»ÆµÄ£¬·Û
+µÄ£¬ç²ÀöÑ¤²Ó¡¢Îå¹âÊ®É«£¬ÁîÈËÄ¿²»Ï¾½Ó£¬ºìµÄÄÇÊÇºìÁ«ÂúÌÃ£¬·ÛµÄ
+ÄÇÊÇ·ÛÅÌÍĞ¹ğ£¬ÕæÊÇ¹úÉ«ÌìÏã£¬¾ºÏàÕùÑÕ¡£ÄãµÄÑÛ¾¦ÒÑ¾­¿´»¨ÁË£¬ÄÇ
+Äµµ¤ÏÉ×ÓºÃÏóÏòÄãĞìĞìÆ®À´£¬ÄãÈàÁËÈàÑÛ¾¦£¬Ì¾µ½£ººÃ¾°ºÃ¾°¡£
+          
+Ò»¸ö»¨Åè(bowl)
+
+Òş¾ÓÏÍÈËÔ·èµ(tset)
+%/sgdomain/job/waterflower>
+
+now the last line is the problem: he shouldn't see my pwd!
+where is it coming from???
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_mdhp...
+ÈÕÆÚ: Sun Dec 13 01:47:29 1998
+that is a long time problem
+because I need ppl follow other to look 
+and this look is sometime forced
+so the system got a little mess
+don't worry much about that
+because my prompt just like other
+ppls it is simply a >
+xixi
+
+
+---
+×÷Õß: Derek
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vhall...
+ÈÕÆÚ: Fri Feb 26 21:19:28 1999
+slogan fire.........
+i'm back to ¹ùãá¹ú³¤°²³ÇÎÄ¹ÙÇëÊä(derek)                                         
+just before i move to xianyang and become a next level......
+help me
+
+
+info me
+½ÇÉ«´úºÅ£ºderek         ĞÕÃû£º·ÉÑ© 
+ÉùÍû£º³õÂ¶·æÃ¢(253) µØÇø¹±Ï×£º24  ÖÒ³Ï£º80
+what the hell.....
+thank you!
+
+
+
+---
+×÷Õß: Xahf
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vliving...
+ÈÕÆÚ: Sat Mar  6 14:45:41 1999
+bug
+q
+
+
+
+
+---
+×÷Õß: Ssnake
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/jieting/jt_zsyz...
+ÈÕÆÚ: Fri Mar 19 02:18:20 1999
+fire
+
+
+---
+×÷Õß: Cdd
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/flee/misc/mache#34748...
+ÈÕÆÚ: Fri Mar 19 21:34:08 1999
+can't go to ÄÏ³ÇÃÅ in jing yang.
+
+
+
+---
+×÷Õß: Ccc
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Sun Nov 22 15:47:44 1998
+¸ù¾İÏµÍ³help,ÎÒÔÚÄ³µØ¶¨¾Óºó1ÌìÄÚ
+ÉùÍûÖÁÉÙÓ¦¸Ãµ½10£¬ÕâÑù¿ÉÒÔ×ö¹Ù£¬
+¿ÉÎÒÏÖÔÚ¶¼ÒÑ¾­3ÌìÁË£¬ÉùÍû»¹ÊÇ0,
+Çëwiz½â¾ö
+
+
+
+---
+×÷Õß: Lxue
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vzhang_fang...
+ÈÕÆÚ: Sun Nov 22 03:24:16 1998
+ÇëÊäÈëÕıÈ·´ğ°¸(1,2,3 or 4)£º4;ÕÊ·¿ÏÈÉúËµµ½£º²»´í£¬²»´í£®;*Bad argument 1 to call_other()
+
+
+string or array or object Got: 0.
+Trace written to /log/runtime
+
+
+
+---
+×÷Õß: Ccc
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Thu Nov 19 22:24:34 1998
+Èç¹ûÉíÉÏÓĞÁ½ÑùÏàÍ¬µÄ¶«Î÷£¬Ôò´ËÎïÎŞ·¨Ê¹ÓÃ
+ÀıÈç¾È»ğ£¬Èç¹ûÖ»ÓĞÒ»¸öË®ÁúÔò¿ÉÒÔturn,
+·ñÔò¾ÍÃ»·¨ÓÃÁË£¬ÉõÖÁÎŞ·¨drop , give.
+
+
+
+---
+×÷Õß: Ccc
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Tue Nov 17 04:01:28 1998
+replay ºÃÏóÓĞµãÎÊÌâ,±íÏÖÈçÏÂ:
+¡¾Ô¶³Ì¡¿Ğ¡¿ÖÁú°ÍÀ×¶ÔÄãËµµÀ£º¶öÁË°É£¬ÉÏ¶ÔÃæµÄ·¹¹İ´êÒ»¶ÙÈ¥£¿
+reply hi
+*Bad argument 1 to sscanf
+*Bad argument 1 to sscanf
+Trace written to /log/runtime
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: problem fixed
+ÈÕÆÚ: Tue Oct 27 16:50:45 1998
+the crush cause the task.o error
+so just delete that file and system will
+create a new correct one
+
+
+---
+×÷Õß: Rabiy
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/tianshui/ts_yst...
+ÈÕÆÚ: Mon Nov  9 22:00:57 1998
+
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vcave...
+ÈÕÆÚ: Wed Nov 11 22:12:33 1998
+if someone in your room carries something, you can look
+at that thing as if you carries it...
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_czx...
+ÈÕÆÚ: Wed Nov 11 22:52:39 1998
+/cmds/verbs> list me
+*Parse accepted, but no do_* function found in object /cmds/verbs/list!
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *Parse accepted, but no do_* function found in object /cmds/verbs/list!
+[errors] /std/race/human#28541 (std/body/cmd.c) at line 61
+
+
+/cmds/verbs> throw me
+*Parse accepted, but no do_* function found in object /cmds/verbs/throw!
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *Parse accepted, but no do_* function found in object
+/cmds/verbs/throw!
+[errors] /std/race/human#28541 (std/body/cmd.c) at line 61
+
+btw, you might want to try smell,sell,pull,press,zhe yourself...
+pretty interesting :P
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#671...
+ÈÕÆÚ: Mon Oct 26 20:54:19 1998
+hi fire,
+seems war has some problem now, although all the enemy r killed,
+the war never ends. maybe sth wrong after the system crashed,
+so please check it.
+
+
+
+---
+×÷Õß: Atack
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vdangpu...
+ÈÕÆÚ: Mon Oct 19 23:11:45 1998
+dakan dao
+
+
+---
+×÷Õß: Zzl
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vfield...
+ÈÕÆÚ: Wed Oct 14 06:54:41 1998
+bug ¶àµÃÊı²»Ê¤Êı,¶àÓÃµã¶ùĞÄ°É
+
+
+
+---
+×÷Õß: Zzl
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vfield...
+ÈÕÆÚ: Wed Oct 14 06:52:45 1998
+ask farmer about here   ÄãÖ¸µÄÊÇÄÄÒ»¸öÀÍÀÛµÄÅ©·ò £¿
+> ask farmer 2 about here  ÕâÀïÃ»ÓĞfarmer 2 about¡£
+> ask farmer1 about here   ÕâÀïÃ»ÓĞfarmer1¡£
+> ask 1 farmer about here   ÕâÀïÃ»ÓĞ1 farmer¡£
+°¥,bug Ì«¶àÁË
+
+
+
+---
+×÷Õß: Zzl
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Wed Oct 14 06:50:00 1998
+ kill girl;ÄãÒªÉ±Ë­£¿  ÃÀÀö¶¯ÈËµÄÉÙÅ®£ºĞ¡ÇÌ(girl)
+Ğ¡ÇÌ²»ÊÇgirl,Ëã²»Ëãbug
+
+
+
+---
+×÷Õß: Zzl
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vroad1...
+ÈÕÆÚ: Wed Oct 14 06:45:20 1998
+  **** ÄãËÀÁË  ****Äã±ï×ã¾¢£¬ºŞ²»µÃÒ»¿Ú°ÑÈçÀ´¸øÉúÍÌÏÂÈ¥¡£ÈçÀ´ËÀÁË£¡ÈçÀ´Ò»ÄıÉñ£¬·´ÉíÒ»½ÅÕıÌßÔÚÄãµÄĞØ¿Ú¡£
+ËÀ²»ÁË,ÓÖÒ»¸ö´óbug
+
+
+
+---
+×÷Õß: Zzl
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vchitang_bian...
+ÈÕÆÚ: Wed Oct 14 05:56:08 1998
+Ò»°Ù¶şÊ®°ËÍòÆßÇ§ÁãÎåÊ®¶şÁ½½ğ×Ó(gold)
+ÕâÊÇ¸öÖøÃûµÄbug,×îÔç³öÏÖÔÚÎ÷ÓÎ¼ÇÀï
+
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >Bug±¨¸æµØµã£º/wiz/fire/room/vfield...
+ÈÕÆÚ: Thu Oct 15 01:46:16 1998
+ask first farmer about here
+ask second farmer about here
+
+ÄãËµÊÇ ask farmer 1 about here ºÃÄØ£¬»¹ÊÇ ask first farmer about here ºÃ£¿
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/tset/ting...
+ÈÕÆÚ: Thu Oct 15 14:15:21 1998
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Value being indexed is zero.
+[errors] /daemons/warai_d at line 13
+
+repeating over and over...
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vfield...
+ÈÕÆÚ: Thu Oct 15 19:10:12 1998
+re stefan:
+in most of mud, we use obj 1 or 2 manner, but lima is different,
+so, if we can change it, we may do most player's favor.
+
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >Bug±¨¸æµØµã£º/wiz/fire/room/vfield...
+ÈÕÆÚ: Thu Oct 15 20:35:50 1998
+On Thu Oct 15 19:10:12 1998 Row wrote post #71:
+> re stefan:
+> in most of mud, we use obj 1 or 2 manner, but lima is different,
+> so, if we can change it, we may do most player's favor.
+> 
+
+this is like telling Apple "in most of the places, we use Win31 Win95
+interface, but Mac is different, so if you can change it, will do
+most users a favor."
+
+Meant to be a joke :)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: about the object parse
+ÈÕÆÚ: Sun Oct 18 04:33:01 1998
+this problem is not a new one
+we have discuss it a long time before
+I hope that stefan can solve this problem sooner
+if not, may be we'd change the parse method by the level
+of mudlib, that will consume much more cpu resourse
+so addoil stefan
+
+
+---
+×÷Õß: Group
+ÌâÄ¿: listarea bug
+ÈÕÆÚ: Thu Oct 22 04:25:56 1998
+listarea /2
+*array index out of bound
+trace written to /log/runtime
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >listarea bug
+ÈÕÆÚ: Thu Oct 22 16:46:09 1998
+On Thu Oct 22 04:25:56 1998 Group wrote post #75:
+> listarea /2
+> *array index out of bound
+> trace written to /log/runtime
+the reason is:
+> listarea /1
+   ´úºÅ¡¡ ¡¡Ãû³Æ  µÈ¼¶  ÈË¿Ú  °²¶¨ ¹¤Òµ Å©Òµ ÉÌÒµ  Îï×Ê ¡¡ Á¸²İ   ¡¡½ğ
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+        1       0   0       0   0    0    0    0      0       0      0
+   anding  °²¶¨³Ç   3   20053  29   42   44   46  25119  728957   7452
+  changan  ³¤°²³Ç   5  548234  36  204  200  2106072444 513959432736470
+ chencang    ³Â²Ö   1    3480  41   62   58   61   8243  205276   7092
+
+we can see there is an extra illegal area in the first line
+the method to solve it is:
+> rmarea 1
+µØÇøÉ¾³ı³É¹¦£®
+> listarea /2
+   ´úºÅ¡¡ ¡¡Ãû³Æ    ¹ú¾ı   Ì«ÊØ    Ê¿±ø ÑµÁ· Ê¿Æø ¹úË° µØË° ÌìÆø ×´Ì¬ ÁÚµØ
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+   anding  °²¶¨³Ç   ÀîÈ¶   ÀîÈ¶     750  34   37   10   25  ÇçÌì Õı³£   5
+  changan  ³¤°²³Ç   ¹ùãá   ¹ùãá    7050  42   36   10   10  ÏÂÓê Õı³£   4
+ chencang    ³Â²Ö   ÀîÈ¶   Àî»Ö     100  48   51   10   24  ÆğÎí Õı³£   2
+    didao    µÒµÀ   ÂíÌÚ   ²Ìçß     500  64   64   10   25  ÏÂÓê Õı³£   2
+then every is ok
+be careful about add modify and remove areas
+careless usage may cause conflict and may damage data
+so please don't touch them unless necessary and fully understand
+the functions
+thanks
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/nono/workroom...
+ÈÕÆÚ: Thu Oct 22 20:30:42 1998
+*Too long evaluation. Execution aborted.
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *Too long evaluation. Execution aborted.
+[errors] /secure/daemons/secure_d at line 593
+
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/tset/ting...
+ÈÕÆÚ: Thu Oct 22 22:35:59 1998
+/cmds/wiz> listuser
+*Too long evaluation. Execution aborted.
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *Too long evaluation. Execution aborted.
+[errors] /secure/daemons/secure_d at line 105
+
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/tset/chatroom...
+ÈÕÆÚ: Thu Oct  1 20:28:40 1998
+errors ((none)) Error logged to /log/runtime
+errors *Array index out of bounds.
+errors /sgdomain/area/town/jingyang/warroom (sgdomain/modules/war_grid.c) at
+line 51;repeating over and over...
+
+seems to be war_grin problem...
+
+
+
+---
+×÷Õß: Hosh
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vclassroom...
+ÈÕÆÚ: Tue Sep 29 01:51:02 1998
+hi
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_xcm...
+ÈÕÆÚ: Tue Sep 22 06:23:44 1998
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Bad argument 1 to call_other()
+
+*Expected: string or array or object Got: 0.
+[errors] /daemons/day_d at line 234
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/workroom...
+ÈÕÆÚ: Fri Sep 18 08:21:07 1998
+the error message repeat periodly, please check what wrong
+> [errors] ((none)) Error logged to /log/runtime
+[errors] *Bad argument 1 to call_other()
+         *Expected: string or array or object Got: 0.
+[errors] /daemons/day_d at line 234
+
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Thu Sep 17 22:41:09 1998
+Hmm, I did not see it... Look board quite okey leh.
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Thu Sep 17 19:45:52 1998
+*Printable strings limited to length of 8192.
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *Printable strings limited to length of 8192.
+[errors] /secure/user#3286 (secure/user/messages.c) at line 95
+
+Now the board in caolu is so full can't even do
+"look board".  :(
+
+
+
+---
+×÷Õß: Robodog
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Tue Aug  4 03:14:07 1998
+stefan
+
+
+---
+×÷Õß: Starrow
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vcave...
+ÈÕÆÚ: Tue Jul 28 22:37:55 1998
+hp
+ÄãÊ²Ã´¶¼¿´²»Çå³ş¡£¡£¡£
+skills
+ÄãÊ²Ã´¶¼¿´²»Çå³ş¡£¡£¡£
+
+
+
+---
+×÷Õß: Starrow
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vcave...
+ÈÕÆÚ: Tue Jul 28 22:33:44 1998
+
+
+
+
+---
+×÷Õß: Musicbug
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vstore...
+ÈÕÆÚ: Mon Jul 27 13:26:29 1998
+
+
+
+
+---
+×÷Õß: Saint
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vbank...
+ÈÕÆÚ: Thu Jul 23 04:23:24 1998
+flee
+
+
+---
+×÷Õß: Xqing
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_hg...
+ÈÕÆÚ: Fri Aug  7 00:51:46 1998
+dong zhuo
+
+
+---
+×÷Õß: Ryan
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Thu Aug 27 11:53:24 1998
+
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_center...
+ÈÕÆÚ: Sat Sep 19 08:02:47 1998
+> turn shuilong
+ÕâÀïÃ»ÓĞshuilong¡£
+> ĞÜĞÜµÄ´ó»ğÅØÏø×Å£¬Õû¸öÌì¿ÕÒ»Æ¬Í¨ºì¡£
+turn shui long
+¿ÉÊÇÕâ¶ù²¢Ã»ÓĞ×Å»ğ°¡¡£
+> l
+³ÇÖĞĞÄ [³ö¿Ú£ºnorth, west, east, south]
+    Õâ¾ÍÊÇ³¤°²³ÇµÄÖĞĞÄ¹ã³¡ÁË¡£³¤°²ÊÇÎ÷ººµÄ¶¼³Ç£¬Èç½ñÕ½ÊÂÁ¬
+Äê£¬¸÷´¦ÒÑË¥°ÜµÃÃ»ÓĞÉúÆø£¬ÕıÖĞµÄÀÏ»±Ê÷ÉÏÌùÁËÕÅÕ÷±øµÄ²¼¸æ£¬
+Ò»¶Ó¶Ó±»À­À´µÄ×³¶¡±»ÑºÍù±øÓª¡£
+Ò»ÈªÇå³ºµÄË®¾®(well)
+ĞÜĞÜµÄ´ó»ğÅØÏø×Å£¬Õû¸öÌì¿ÕÒ»Æ¬Í¨ºì¡£
+> ĞÜĞÜµÄ´ó»ğÅØÏø×Å£¬Õû¸öÌì¿ÕÒ»Æ¬Í¨ºì¡£
+turn shui long
+¿ÉÊÇÕâ¶ù²¢Ã»ÓĞ×Å»ğ°¡¡£
+> 
+
+
+
+---
+×÷Õß: Ultra
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vshuxia...
+ÈÕÆÚ: Mon Jul 20 18:36:51 1998
+q
+
+
+
+---
+×÷Õß: Shaoyng
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vcenter...
+ÈÕÆÚ: Sun Jul 12 15:28:47 1998
+in /domains/std/magic_torch.c,
+1 more line should be added, 
+
+   set_combat_messages("combat-sword");
+
+
+
+
+---
+×÷Õß: Wei
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vclassroom...
+ÈÕÆÚ: Sun Mar 29 22:11:58 1998
+
+
+
+
+---
+×÷Õß: Renju
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vkitchen...
+ÈÕÆÚ: Wed Mar 25 20:03:47 1998
+adverbs
+*Division by zero
+Trace written to /log/runtime
+
+
+
+---
+×÷Õß: Renju
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vkitchen...
+ÈÕÆÚ: Wed Mar 25 20:10:53 1998
+groups -d yue renju*Bad argument 1 to member_array()Expected: int Got: ({ /* sizeof() == 1 */  "renju"}).Trace written to /log/runtime
+
+
+
+---
+×÷Õß: Xuan
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/obj/horse1#1563...
+ÈÕÆÚ: Mon Apr  6 22:34:13 1998
+
+
+
+
+---
+×÷Õß: Yue
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vdangpu...
+ÈÕÆÚ: Sun Apr 12 01:47:46 1998
+/sgdomain/modules, /wiz/fire/room/vdangpu > fly
+0/sgdomain/modules, /wiz/fire/room/vdangpu > bug
+/sgdomain/modules, /wiz/fire/room/vdangpu > fly hongnong
+Ã»·¨ÍÁ¶İµ½ÄÇ£¬ÓÃfly²éÔÄ¿ÉÍÁ¶İµ½µÄµØÇø¡£
+
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: description
+ÈÕÆÚ: Mon Apr 20 02:14:37 1998
+¡¾ÏĞÁÄ¡¿ÖĞÎÄ£ºÒ»Í·ÀÏ»ÆÅ£Ã»Ê²Ã´ºÍ±ğµÄÅ®º¢²»Í¬¡£?
+¡¾ÏĞÁÄ¡¿ÖĞÎÄ£ºÄã¶ÔÒ»Í·ÀÏ»ÆÅ£´óºğÒ»Éù£º¡°Ğ¡¼úÈËÒ»Í·ÀÏ»ÆÅ£,¸ÒºÍ²İÃñ´óÕ½Èı°Ù
+        »ØºÏÂğ£¿
+
+
+---
+×÷Õß: Xinyue
+ÌâÄ¿: Help me!
+ÈÕÆÚ: Fri May 29 23:50:17 1998
+my char yue login has some error
+every time only display *Bad argument 1 to environment()
+Expected: object Got: 0.
+Trace written to /log/runtime
+and cant do anything!
+i use who, cant even saw yue was online!
+pls help me, what happened to yue?
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: >Help me!
+ÈÕÆÚ: Sat May 30 05:30:27 1998
+This bug is caused by FIRE!!!
+
+He removed /std/race/race.c and because you body is not a human,
+so you can not login any more :( 
+
+I'll fix it ...
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Sun May 31 02:32:25 1998
+FTP bug fixed
+
+
+---
+×÷Õß: Saint
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Sat Jul  4 12:46:09 1998
+xqing
+
+
+---
+×÷Õß: Shaoyng
+ÌâÄ¿: --´åÍâ-- [³ö¿Ú£ºenter]
+ÈÕÆÚ: Wed Jul  8 12:55:33 1998
+Ö®ËùÒÔ²»ÄÜÓÃenter ÃüÁî»Øµ½´å×ÓÀïÊÇÒòÎª
+/cmds/verbs  ÖĞÒÑ¾­ÓĞÒ»¸öSTEFAN Ğ´µÄenter.cÁË¡£
+
+½¨Òé:
+1¡£ÒªÃ´enter ²»×÷Îª³ö¿Ú£¬½«ENTERÕâ¸ö¹Ø¼ü×ÖRESERVE FOR ½âÃÔ¡£
+2¡£ÒªÃ´½«enter ×÷Îª³ö¿Ú£¬Îª½âÃÔÔÚÏë¸ö±ğµÄ¹Ø¼ü×Ö¡£
+
+
+---
+×÷Õß: Shaoyng
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vnangxiao_hang...
+ÈÕÆÚ: Wed Jul  8 13:15:15 1998
+>*Value being indexed is zero.
+
+ÕâÌõĞÅÏ¢µ±WIELD »±Ê÷Ö¦(sticks) »ò Ä§·¨¹÷(torch)ºÍNPC´ò¼ÜÊ±³öÏÖ¡£
+ÓĞÊ±ÉõÖÁÊ¹PLAYERÎŞ·¨¼ÌĞøºÍ±ğµÄNPCÔÙÕ½¶·£¬Ö±µ½PLAYER ÖØĞÂLOGIN¡£
+
+
+
+---
+×÷Õß: Matthew
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Sun Jul 12 22:56:25 1998
+
+
+
+
+---
+×÷Õß: Hellemo
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vcenter...
+ÈÕÆÚ: Sun Feb 15 06:02:38 1998
+q
+chan
+alias
+
+
+
+---
+×÷Õß: Xiaoxi
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Sun Feb 15 03:21:36 1998
+
+
+
+
+---
+×÷Õß: Yue
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/benben/room/caolu/cl_jiud...
+ÈÕÆÚ: Wed Jan 14 18:11:04 1998
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Bad argument 1 to call_other()
+         *Expected: string or array or object Got: 0.
+[errors] /wiz/benben/room/caolu/cl_jiud (std/container.c) at line 268
+
+
+
+---
+×÷Õß: Benben
+ÌâÄ¿: bugs
+ÈÕÆÚ: Wed Jan 14 00:43:47 1998
+[errors] (zdy) Error logged to /log/runtime[errors] *Bad argument 1
+to call_other()         *Expected: string or array or object Got:
+0.[errors] /cmds/player/who at line 62  
+
+
+---
+×÷Õß: Xinyue
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Fri Jan 16 13:25:23 1998
+when i login yue
+i can't do anything
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Trace written to /log/runtime
+errors (yue) Error logged to /log/runtime
+errors *Bad argument 2 to foreach
+         *Expected: array Got: 0.
+errors /secure/daemons/cmd_d at line 188
+i cant do thing cant even quit!
+
+
+
+---
+×÷Õß: Yue
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Sat Jan 17 15:41:28 1998
+> l
+ÄãÕıÔÚË¯ÃßÖĞ¡£
+> ah
+
+Äã¾ªÑÈµØ¡°°¡¡±ÁËÒ»Éù¡£
+> wake
+ÄãÈàÈàÑÛ¾¦£¬ÇåĞÑÁË¹ıÀ´¡£ 
+> l
+ÄãÕıÔÚË¯ÃßÖĞ¡£
+> faint
+ÄãÒ»¿ÚÆøÃ»½ÓÉÏ£¬»èÁË¹ıÈ¥¡£
+> hp
+ÄãÕıÔÚË¯ÃßÖĞ¡£
+> quit
+ÄãÀë¿ªÁËLIMA¡£
+¡¾ÏµÍ³¡¿ÔÂÉñÀë¿ªÁËLIMA¡£
+what is that?
+why i'm sleeping?
+i just idling for a while
+
+
+
+---
+×÷Õß: Yue
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_xdj2...
+ÈÕÆÚ: Sat Jan 24 01:40:46 1998
+
+
+
+
+---
+×÷Õß: Yue
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_xdj2...
+ÈÕÆÚ: Sat Jan 24 01:43:57 1998
+A bug which found by dragon
+this bug can tell my cmd line
+my cmd is /wiz/yuner,/sgdomain/area/cities/luoyang/ly_xdj2 >, first in which dir, then in what room
+then when he followed me, here is what happend
+ÎÔÁú¿×Ã÷ËµµÀ£ºÄã¾ö¶¨¿ªÊ¼¸úËæÔÂÉñÒ»ÆğĞĞ¶¯¡
+ÎÔÁú¿×Ã÷ËµµÀ£ºÔÂÉñ³¯Î÷±ßÀë¿ªÁË¡£
+ÎÔÁú¿×Ã÷ËµµÀ£ºÎ÷´ó½Ö [³ö¿Ú£ºnorth, west, east, south]'then?
+ÎÔÁú¿×Ã÷ËµµÀ£ºÌìÉÏµÄÃ÷ÔÂ-ÔÂÉñ(yue)
+ÎÔÁú¿×Ã÷ËµµÀ£º/wiz/yuner,/sgdomain/area/cities/luoyang/ly_xdj1 >ÔÂÉñ³¯Î÷±ßÀë¿ªÁË¡£
+at here u can see dragon can see my cmd line, that is very strange, admins pls check that
+
+
+
+---
+×÷Õß: Stefan
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Tue Mar  3 07:08:34 1998
+I understand that people are adding colorful names, descriptions, etc...
+But, please note that color code also can cause trouble.
+e.g:
+ÄãÉíÉÏ´ø×Å£º
+  Ò»¼şÁáççÏ¸»·¼×(jia)
+  ÆßÊ®Á½Òø×Ó(silver)
+  Ò»°Ù¾ÅÊ®¾ÅÁ½½ğ×Ó(gold)
+  Ò»¼şÌÙ¼×(teng jia)
+but:
+wear ÁáççÏ¸»·¼×
+ÕâÀïÃ»ÓĞÁáççÏ¸»·¼×¡£
+
+Then I looked into the code:
+set_id("jia", HIG+"ÁáççÏ¸»·¼×"+NOR);
+
+So, I could never "wear ÁáççÏ¸»·¼×" because I can not input the
+color code myself on the input line. This kind of word parsing
+feature becomes useless when color code is used. 
+
+command parsing normally involves adjectives ids. If I have a
+Ï¸»·¼×, and adjective is Ááçç, I can either wear Ï¸»·¼×, or
+wear ÁáççÏ¸»·¼×. Or even, wear Ááççjia. If there are color
+code in between, it'll cause trouble.
+
+Another thing is that color was designed to be able to be turned
+off when the user prefers non-color mode. Hard coded color as
+the above will not make this to happen. 
+
+
+
+---
+×÷Õß: Yue
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/private/yue...
+ÈÕÆÚ: Thu Jan  8 18:38:39 1998
+errors (yue) Error logged to /log/runtime
+errors *Value being indexed is zero.
+errors /daemons/soul_d at line 304
+this is what i see when i type fly sb
+
+
+
+---
+×÷Õß: Yue
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vdangpu...
+ÈÕÆÚ: Sun Dec 28 23:14:25 1997
+fire
+
+
+---
+×÷Õß: Change
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/attic...
+ÈÕÆÚ: Wed Sep  3 21:49:26 1997
+q
+
+
+
+
+---
+×÷Õß: Sage
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Wed Sep  3 02:34:31 1997
+q
+q
+q
+h
+,
+
+
+
+
+---
+×÷Õß: Ccccff
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Sat Jun  7 05:13:51 1997
+
+
+
+
+---
+×÷Õß: Sunrise
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Mon Dec  1 19:36:55 1997
+
+
+
+
+---
+×÷Õß: Lei
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Wed Dec 31 05:59:07 1997
+fire
+
+
+---
+×÷Õß: Young
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vhall...
+ÈÕÆÚ: Sun Jan  4 22:21:54 1998
+ *Bad argument 1 to sscanf Trace written to /log/runtime
+
+
+
+---
+×÷Õß: Yue
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/fire/room/vcenter...
+ÈÕÆÚ: Sat Jan 10 21:32:55 1998
+errors ((none)) Error logged to /log/runtime
+errors *Bad argument 1 to environment()
+         *Expected: object Got: 0.
+errors /wiz/fire/room/vcenter (std/room/exits.c) at line 22
+then i type look:
+ÄãÊ²Ã´¶¼¿´²»Çå³ş¡£¡£¡£
+i dunno what happened
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/hanzhong/tmp...
+ÈÕÆÚ: Thu May  6 07:44:36 1999
+hehe
+
+
+
+---
+×÷Õß: Cdd
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#13676...
+ÈÕÆÚ: Tue May 11 03:39:31 1999
+¡¾ÏĞÁÄ¡¿ÊÜµ±µØ°ÙĞÕÍÆ¾Ù£¬Áõ±¸¹úÉÌÈË³ÉÎª¶¨¾üÉ½µÄÖ÷½«
+is it reasonable?
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: bug of m_charaction.c
+ÈÕÆÚ: Fri May 14 06:20:09 1999
+something wrong with environment(this_object())->query_exit_directions();
+it seem that sometime this_object() does not have
+environment.
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Mon Jun 14 20:44:41 1999
+faint, checkemote * /c has bug, how to debug of that yah
+* blush, * escape
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#4379...
+ÈÕÆÚ: Mon Jun 14 20:38:58 1999
+in a train, sometimes the enemy troop will be displayed as D
+when use look, but if use cmd warmap here, the display is A,
+it should be A but not D, pls change it bah..:P
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/yunnan/yn_zp...
+ÈÕÆÚ: Sun Jun 13 22:57:59 1999
+system crush for no reason
+
+
+
+---
+×÷Õß: Zhongyi
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vxl...
+ÈÕÆÚ: Sat Jun 12 05:56:42 1999
+ÀÏºº¶ÔÄãµÀ£ººÃ°É£¬ÎÒÕâÀï»¹È±Ò»Ö»Ğ¬µ×£¬ÄãÈôÓĞĞÄ¾Í°ïÀÏººÎÒ¸öÃ¦¡£
+give caoxie di to lao han
+ ÀÏºº(lao han)¹§¾´µØ¾Ü¾øÁË¡£
+
+
+
+---
+×÷Õß: Zhongyi
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vxl...
+ÈÕÆÚ: Sat Jun 12 05:51:51 1999
+
+
+
+
+---
+×÷Õß: Gaoda
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/xianyang/xy_jch...
+ÈÕÆÚ: Sat Jun 12 10:39:09 1999
+post
+bug
+½ñÌìÎÒÔÚÁ·±øÊ±µÃµ½ÈÎÎñÒªÎÒÈÎÎñÆß£ºÇëÔÚÊ®·ÖÖÓÄÚÏûÃğËùÓĞµĞ¾ü¡£Ä¿Ç°Ê£ÓàÊ±¼ä£ºÆß·ÖÖÓ¡£
+ÎÒ·¢ÏÖµĞÈËºócmd attack µ«ÊÇÌáÊ¾×ÜÊÇÊ¿±øÌ«ÀÛÁË£¬ÎŞ·¨½ø¹¥¡£
+
+Ò»Ö±µ½ÈÎÎñÆß£ºÇëÔÚÊ®·ÖÖÓÄÚÏûÃğËùÓĞµĞ¾ü¡£Ä¿Ç°Ê£ÓàÊ±¼ä£ºÁã¡£
+ÇëÎÊÊÇ²»ÊÇbug?
+
+
+
+---
+×÷Õß: Ranma
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/yanmenguan/ymg_bsy...
+ÈÕÆÚ: Sat Jun 12 16:36:14 1999
+ÄãÏòĞíÉÛ¹ªÉíÎÊµÀ£ºÏÈÉú£¬¿ÉÓĞ·Ô¸À£¿
+ĞíÉÛµÀ£º¾ÍÇëÄã´øÕâÎ»ÏÍÈËµ½´¦×ß×ß°É¡£
+ÏÍÈËÂıÌÚÌÚµÄ×ßÁË³öÀ´¡£
+
+no xian ren available in the room, and xian ren is not asking me
+to get which obj
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/wuling/wl_djt...
+ÈÕÆÚ: Mon Jun 14 16:24:12 1999
+seems train has been messed up sometimes, today player train in changan,
+but his warinfo was including hanzhong's training troops,
+after 10 mins, system rebooted, pls check it.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/zhanpu/workroom...
+ÈÕÆÚ: Mon Jun 14 17:43:46 1999
+I got the point why suicide has bug lah, because what we test with 
+suicide is using Òş¾ÓÏÍÈË£¬ not in CHAR_D, but if player settle down,
+then suicide won't erase their NPC data, their NPC still remain in the system bah
+
+addoil all..:)
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/yunnan/yn_zp...
+ÈÕÆÚ: Mon Jun 14 21:10:11 1999
+Èı¹ú£º£¨µ±µØÊ±¼ä£º¾ÅÊ®¾ÅÄêÁùÔÂÊ®ËÄÈÕÏÂÎç¾ÅÊ±Îå·Ö£©
+×ÜÈËÊı18¸ö¡£
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+¡¾´ÖÍ¨ÎÄ×Ö¡¿Ä©ÈÕµÛ¹ú³¤°²³ÇÎä¹Ù¡¸ÒªÕ½Õù²»ÒªÃæ°ü¡¹¶«¶«£¬×ÖºÃÕ½(hhy)      
+¡¾´ÖÍ¨ÎÄ×Ö¡¿Ë®ÔÆ¹úÍğ³ÇÎä¹Ù¡¸²»»á¸øÈËÁôÏÂÊ²Ã´Ó¡µÄ¡¹ÎŞÃû£¬×Ö·¢´ô(hhrr)   
+¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈËÇàÉ½(fishii) ·                               ¡¾ÏÂ±ÊÇ§ÑÔ¡¿ÀäÑªÕ½¹úÉÏÓ¹Ì«ÊØ¡¸Ç±ĞÄĞŞÁ¶¡¹ÌìÔÆ£¬×ÖÍüÇé(york)   
+¡¾ÏÂ±ÊÇ§ÑÔ¡¿ÀäÑªÕ½¹úÉÏÓ¹Ì«ÊØ¡¸Ç±ĞÄĞŞÁ¶¡¹ÌìÔÆ£¬×ÖÍüÇé(york)   
+¡¾´ÖÍ¨ÎÄ×Ö¡¿ÀäÑªÕ½¹úÉÏÓ¹ÎÄ¹ÙÍü£¬×ÖÌìÔÆ(dpn)                                  ¡¾ÏÂ±ÊÇ§ÑÔ¡¿Ë®ÔÆ¹úÍğ³Ç¾üÊ¦¡¸Ğ¦ÌìÏÂ¡¹°×ÒÂºî£¬×ÖÔÆ·É(hhr)
+¡¾ÏÂ±ÊÇ§ÑÔ¡¿Ë®ÔÆ¹úÍğ³Ç¾üÊ¦¡¸Ğ¦ÌìÏÂ¡¹°×ÒÂºî£¬×ÖÔÆ·É(hhr)
+¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈËÏôºÎ(katty)                                              ¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈËÀË»¨(fishi) ·                                ¡¾´ÖÍ¨ÎÄ×Ö¡¿»ªÒõÒş¾ÓÏÍÈËË¾Âí¿Ë£¬×Ö×İºá(aero)                                 ¡¾´ÖÍ¨ÎÄ×Ö¡¿ÂíÌÚ¹úÇØ´¨Õò¾üÊ¦¡¸½ñ³¯ÓĞ¾Æ½ñ³¯×í¡¹Ñ×Áú(koley) ·
+¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈËÀË»¨(fishi) ·                                ¡¾´ÖÍ¨ÎÄ×Ö¡¿»ªÒõÒş¾ÓÏÍÈËË¾Âí¿Ë£¬×Ö×İºá(aero)                                 ¡¾´ÖÍ¨ÎÄ×Ö¡¿ÂíÌÚ¹úÇØ´¨Õò¾üÊ¦¡¸½ñ³¯ÓĞ¾Æ½ñ³¯×í¡¹Ñ×Áú(koley) ·
+¡¾´ÖÍ¨ÎÄ×Ö¡¿»ªÒõÒş¾ÓÏÍÈËË¾Âí¿Ë£¬×Ö×İºá(aero)                                 ¡¾´ÖÍ¨ÎÄ×Ö¡¿ÂíÌÚ¹úÇØ´¨Õò¾üÊ¦¡¸½ñ³¯ÓĞ¾Æ½ñ³¯×í¡¹Ñ×Áú(koley) ·
+¡¾´ÖÍ¨ÎÄ×Ö¡¿ÂíÌÚ¹úÇØ´¨Õò¾üÊ¦¡¸½ñ³¯ÓĞ¾Æ½ñ³¯×í¡¹Ñ×Áú(koley) ·
+¡¾Ğ¡ÓĞÎÄ²É¡¿ÁÒ»ğ¹ú½¨ÄşÕò¾üÊ¦Ğş±ù£¬×ÖÇ§Äê(ice)                                ¡¾Âä±ÊÓĞÉñ¡¿±±Æ½Ñ©¹úÖ÷¹«·ÉÑ©(derek) ·                            ¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈË¡¸ÔçÒÒÅ®¡¹ÂÒÂí(ranma) ·               
+¡¾Âä±ÊÓĞÉñ¡¿±±Æ½Ñ©¹úÖ÷¹«·ÉÑ©(derek) ·                            ¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈË¡¸ÔçÒÒÅ®¡¹ÂÒÂí(ranma) ·               
+¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈË¡¸ÔçÒÒÅ®¡¹ÂÒÂí(ranma) ·               
+¡¾´ÖÍ¨ÎÄ×Ö¡¿ÁÒ»ğ¹úÔÆÄÏÕòÌ«ÊØ¡¸±ÌÑªÌúµ¨¡¹°¢Âå£¬×ÖÏò·É(row)
+¡¾´ÖÍ¨ÎÄ×Ö¡¿Òş¾ÓÏÍÈËÖìÔªÕÃ(larick)                                           ¡¾´ÖÍ¨ÎÄ×Ö¡¿±±Æ½Ñ©¹úÉÏµ³ÕòÌ«ÊØÒ»È­(wonder) ·                     ¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈËÁú¾í·ç(ljfeng) ·                             ¡¾´ÖÍ¨ÎÄ×Ö¡¿Ë®ÔÆ¹úÎä¹ØÎÄ¹Ù¡¸ ÊµÑéÓÃ¡¹ÄàÌ¶(feaii) ·
+¡¾´ÖÍ¨ÎÄ×Ö¡¿±±Æ½Ñ©¹úÉÏµ³ÕòÌ«ÊØÒ»È­(wonder) ·                     ¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈËÁú¾í·ç(ljfeng) ·                             ¡¾´ÖÍ¨ÎÄ×Ö¡¿Ë®ÔÆ¹úÎä¹ØÎÄ¹Ù¡¸ ÊµÑéÓÃ¡¹ÄàÌ¶(feaii) ·
+¡¾Ä¿²»Ê¶¶¡¡¿Òş¾ÓÏÍÈËÁú¾í·ç(ljfeng) ·                             ¡¾´ÖÍ¨ÎÄ×Ö¡¿Ë®ÔÆ¹úÎä¹ØÎÄ¹Ù¡¸ ÊµÑéÓÃ¡¹ÄàÌ¶(feaii) ·
+¡¾´ÖÍ¨ÎÄ×Ö¡¿Ë®ÔÆ¹úÎä¹ØÎÄ¹Ù¡¸ ÊµÑéÓÃ¡¹ÄàÌ¶(feaii) ·
+©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+> ¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÉÏÓ¹ÕıÔÚ¾ÙĞĞµØÇø»áÒé¡£
+¡¾ÏµÍ³¡¿·ÉÑ©¶ÏÏßÁË¡£
+¡¾ÏµÍ³¡¿·ÉÑ©Àë¿ªÁËÈı¹ú¡£
+Connected to host sing.wistar.upenn.edu
+
+shutdown again by no reason, seems nothing special...
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Fri Jun 11 06:31:58 1999
+»ªÒõÒş¾ÓÏÍÈË³Ô°ü°ü(ccbb)
+> finger ccbb;Ã»ÓĞÕâ¸öÍæ¼Ò¡£
+
+I have suicided ccbb, ÇëÊäÈëÄúµÄÓ¢ÎÄÃû×Ö£ºccbb
+'ccbb'  ÕıÈ·Âğ£¿n
+
+but still existing in huayin?
+
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/wan/w_hyt...
+ÈÕÆÚ: Thu Jun 10 18:46:15 1999
+today i tried train once, be4 train, our train and moral both around 98, but after train,
+ÄãµÀ£º±¾´Î¹²½øĞĞÁËÆß¸öÏîÄ¿µÄÑµÁ·£¬ÆäÖĞ³É¹¦ÁËÆßÏî¡£Ê§°ÜÁËÁãÏî¡£×ÜÌåĞ§¹û·Ç³£³É¹¦£¬ÖîÎ»¶¼»áÓĞÉÍ¡£Íğ³ÇÊ¿±øµÄÑµÁ·¶ÈÌá¸ßÁË¡£Íğ³ÇÊ¿±øµÄÊ¿ÆøÌá¸ßÁË¡£Ë®º¢¶ùµÄÉùÍûÉÏÉıÁË¡£Ë®º¢¶ùµÄ¾­ÑéÔö¼ÓÁË¡£Ë®º¢¶ùµØÇø¹±Ï×Ôö´óÁË¡£Äã¸ßĞËµØÌøÁËÆğÀ´¡£Äã½Ó×ÅµÀ£º´ó¼Ò±ğ×ß£¬·²ÊÇ²Î¼ÓÑµÁ·µÄ¡¢ÔÚÕâ¶ùµÄ¡¢²»ÉµµÄ¶¼ÓĞ½±ÉÍ¡£ÄãµÀ£ºÁìÍêÉÍ£¬¸÷Î»¾Í¿ÉÒÔÀë¿ªÀ²¡£
+train 104 but moral 79, can wiz check for us? by the way, in train, moral was 0 at all time. who can tell us why?
+thanks.
+
+
+
+
+---
+×÷Õß: Xiaobai
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#37551...
+ÈÕÆÚ: Thu Jun 10 18:37:36 1999
+¡¾Ë®ÔÆ¹ú¡¿Ë®º¢¶ù²ÁÁË²Á¶îÍ·ÉÏµÄº¹Ë®¡£
+l 1
+Ë®ÔÆ¹úµÚÒ»¾üÍÅ
+¾üÖĞ´ó½«£º
+Ë®ÔÆ¹úÖ÷¹«¡¸¹úÔÚÈËÔÚ ¹úÍöÈË²»Íö¡¹Ë®º¢¶ù£¬×ÖÄª³î(wdoll)
+Ë®ÔÆ¹úÍğ³ÇÎä¹ÙĞ¡°×£¬×ÖÎŞÎ¶(xiaobai)
+ ±øÖÖ¡¡  ÊıÁ¿¡¡ ÑµÁ·  Ê¿Æø¡¡»ú¶¯Á¦
+ ĞÂ±ø     100    98     0     3 
+> 
+ÎÒÃÇµÄĞĞ¶¯ÆæÂıÎŞ±È£¬¿´×Å¼ÙÏëµĞ¼¸ÏÂ¾ÍÅÜÃ»Ó°ÁË£¬Í´¿àÑ½
+
+
+
+
+---
+×÷Õß: Xiaobai
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#37551...
+ÈÕÆÚ: Thu Jun 10 18:32:47 1999
+
+
+
+
+---
+×÷Õß: Xxh
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/longxi/lx_qmst5...
+ÈÕÆÚ: Mon Jun  7 14:42:39 1999
+help searchwise
+help searchwis.e
+
+
+
+---
+×÷Õß: Xxh
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/longxi/lx_qmst5...
+ÈÕÆÚ: Mon Jun  7 14:39:48 1999
+q
+ ~h
+s
+
+
+
+---
+×÷Õß: Xxh
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/longxi/lx_qmst5...
+ÈÕÆÚ: Mon Jun  7 14:38:26 1999
+h
+
+h
+h
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/longxi/lx_bdch...
+ÈÕÆÚ: Mon Jun  7 14:32:56 1999
+xxh met the same problem, seems if u have to use "enter" instead of ask guard, xianren will auto disappear.:(
+
+i met this in changan, xxh met in longxi.
+
+pls check and fix, thanks
+
+
+
+---
+×÷Õß: Xxh
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/longxi/lx_dnst2...
+ÈÕÆÚ: Mon Jun  7 14:32:38 1999
+,
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_ywc...
+ÈÕÆÚ: Mon Jun  7 14:25:56 1999
+½ñÌì°Ñxianren´øµ½³¤°²ÃÅ¿ÚËû¾Í²»¼ûÁË,why?
+pls check, thanks
+
+
+
+---
+×÷Õß: Mytczym
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_ncm...
+ÈÕÆÚ: Mon Jun  7 05:25:57 1999
+eagle
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_ywc...
+ÈÕÆÚ: Fri Jun  4 15:15:32 1999
+> ch yesh¸ß»¶¶ÔÀîµäĞ¦×ÅËµµÀ£º±¾µØÌ«ÊØÓëÄ©½«¾ÃÑöÀîµä½«¾ü´óÃû£¬
+½ñÈÕÓĞĞÒÄÜÇóÒ»¼û¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÂíÌÚ¹úµÄ¸ß»¶ÔÚÓëË®ÔÆ¹úµÄÀîµäÃÜÌ¸¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÔÆÄÏ½«Ë°ÂÊµ÷µ½30¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÔÆÄÏµØ·½Ë°ÂÊÉÏµ÷£¬°ÙĞÕÔ¹ÉùÔØµÀ¡£
+
+Èç¹ûÃ»ÓĞÀíÓÉ£¬¾Í²»ÄÜËæ±ã×¥ÈË¡£
+> Àîµä¶Ô¸ß»¶µÀ£ºÄãÎÒ¸÷ÎªÆäÖ÷£¬²»±Ø¿ÍÆø
+¸ß»¶¶ÔÀîµäµÀ£ºÀîµä½«¾üÓĞÇ§¾ü²»µ²Ö®ÓÂ£¬Ö»¿ÉÏ§¹¦¸ßÄÑÃâÕğÖ÷°¡£¡
+Àîµä×ÔÑÔ×ÔÓïµÀ£º¡±´Ë»°ÓĞÀí¡£¡±
+cmd ¸ß»¶¶ÔÀîµäµÀ£ºÀîµä½«¾üµÄÖÇ»ÛÈç´óº£Ò»°ãÉî²»¿É²â£¬¾Í¸Ã¿´³ö´ËµØ²»ÊÇ¿É¾ÓÖ®µØ¡£
+catch Àîµä×ÔÑÔ×ÔÓïµÀ£º¡±´Ë»°ÓĞÀí¡£¡±
+yesh
+Èç¹ûÃ»ÓĞÀíÓÉ£¬¾Í²»ÄÜËæ±ã×¥ÈË¡£
+> Äã×óÓÒ¿´¿´£¬Í»È»¾õµÃÓĞ±ØÒªµ½¶«´ó½Ö×ª×ª¡£
+¸ß»¶¶ÔÀîµäµÀ£ºÀîµä½«¾üÓĞ´ó½«·ç·¶£¬Ö»ÊÇÄã¾ıÉÏÈ´²»ÊÇÓÃ²ÅÖ®ÈËÄÄ£¡
+chat Àîµä×ÔÑÔ×ÔÓïµÀ£º¡±´Ë»°ÓĞÀí¡£¡±
+Èç¹ûÃ»ÓĞÀíÓÉ£¬¾Í²»ÄÜËæ±ã×¥ÈË¡£
+¡¾ÏĞÁÄ¡¿Ë®º¢¶ù£ºÈç¹ûÃ»ÓĞÀíÓÉ£¬¾Í²»ÄÜËæ±ã×¥ÈË¡£
+> cmd ca¸ß»¶¶ÔÀîµäµÀ£¬½ñÈÕµÃ¼û½«¾üÒ»Ãæ£¬¹ûÈ»Ãû²»Ğé´«¡£Ê±³½²»Ôç£¬Ä©½«ÏÈĞĞ¸æ´Ç¡£
+tcÀîµäµÀ£ºË¡²»Ô¶ËÍ£¬¸æ´Ç¡£
+Àîµä»ÓÁË»ÓÊÖ¡£
+ÀîµäÀë¿ªÁË¡£
+h yesh
+Èç¹ûÃ»ÓĞÀíÓÉ£¬¾Í²»ÄÜËæ±ã×¥ÈË¡£
+
+still have bug in catch ppl while whisper.:P
+
+
+
+---
+×÷Õß: Zong
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#105512...
+ÈÕÆÚ: Wed Jun  9 12:25:14 1999
+  Ğ¡ÈËÁõÒãÂÊÁìÊ¿±ø¹¥´òÎä¹Ø£¬Îä¹ØÃ»±ø£¬Á¬Ãñ±øÒ²Ã»ÓĞ
+°ÑÎÒÁÌµÄÕâ¶ùÁË£¬ÇëWIZ´óÈË¾ÈÃü¡£
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/wan/w_djt...
+ÈÕÆÚ: Fri Jun 11 15:01:15 1999
+ÈÎÎñÒ»£ºÇëÔÚÎå·ÖÖÓÄÚ½«±ø·ÖºÃ£¬ÁìÈëÕ½³¡¡£Ä¿Ç°Ê£ÓàÊ±¼ä£ºÎå·ÖÖÓ¡£
+×é³ÉĞÂ¾üÍÅ¡£ÇëÊäÈë¸Ã¾üÍÅ½«¾ü¡£
+ÓĞĞ§ÖµÓĞ£º¡¸-1¡¹
+È±Ê¡ÖµÊÇ£º¡¸-1¡¹
+-1
+ÄÄÎ»½«¾ü£¿
+
+*Bad argument 1 to explode()
+Expected: string Got: -1.
+Trace written to /log/runtime
+
+*Bad argument 1 to explode()
+Expected: string Got: -1.
+Trace written to /log/runtime
+¡¾Ë®ÔÆ¹ú¡¿Ğ¡°×£ºmaybe > 3 player online, then no npc will join
+ºÖ××Âí(hezma)½ò½òÓĞÎ¶µØ¿ĞÆğÂ·±ßµÄ²İÀ´¡£
+
+*Bad argument 1 to explode()
+Expected: string Got: -1.
+Trace written to /log/runtime
+
+*Bad argument 1 to explode()
+Expected: string Got: -1.
+Trace written to /log/runtime
+º¹Ñª±¦Âí(hxbma)²»ÖªÔõÃ´·¢ÁËÆ¢Æø£¬ÁªÁÌ¼¸¸öõê×Ó¡£
+-1
+ÄÄÎ»½«¾ü£¿
+-1
+ÄÄÎ»½«¾ü£¿
+
+*Bad argument 1 to explode()
+Expected: string Got: -1.
+Trace written to /log/runtime
+
+*Bad argument 1 to explode()
+Expected: string Got: -1.
+Trace written to /log/runtime
+na* faint
+ÄÄÎ»½«¾ü£¿
+¡¾Ë®ÔÆ¹ú¡¿Ë®º¢¶ù¿ÚÍÂ°×Ä­£¬»èµ¹ÔÚµØ¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºººÖĞÕıÔÚ¾ÙĞĞµØÇø»áÒé¡£
+ bug
+¡¾Ë®ÔÆ¹ú¡¿Ë®º¢¶ù£ºbug
+ºÖ××Âí(hezma)Ò»Éù³¤Ãù£¬Ç°ÌãÃÍµÃÁ¢ÁËÆğÀ´¡£
+¡¾Ë®ÔÆ¹ú¡¿Ğ¡°×£ºwhat?
+
+*Bad argument 1 to explode()
+Expected: string Got: -1.
+Trace written to /log/runtime
+ÈÎÎñÒ»£ºÇëÔÚÎå·ÖÖÓÄÚ½«±ø·ÖºÃ£¬ÁìÈëÕ½³¡¡£Ä¿Ç°Ê£ÓàÊ±¼ä£ºËÄ·ÖÖÓ¡£
+
+
+
+
+
+wiz, help, if there is always bug in train, how can i survive in such a miserible world??? help help help ya!!!!
+
+crying doll
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/wan/w_djt...
+ÈÕÆÚ: Fri Jun 11 15:08:46 1999
+cmd resign train
+Äã¾ö¶¨ÁËÒª·ÅÆúÁ·±øÕâÏî¹¤×÷Âğ£¿£¨½«»áÓĞÒ»¶¨ËğÊ§£©
+È·¶¨ÇëÊäÈëyes£¬ÈÎÒâ¼ü»Ø³µºóÍË³ö¡£
+yes
+Äã¾ö¶¨·ÅÆúÁ·±øµÄ¹¤×÷¡£
+ÄãµÄÉùÍûÏÂ½µÁË¶ş°ÙÎåÊ®µã¡£
+> chat* jump
+¡¾ÏĞÁÄ¡¿Ë®º¢¶ù¸ßĞËµØÌøÁËÆğÀ´¡£
+> chatºÖ××Âí(hezma)½ò½òÓĞÎ¶µØ¿ĞÆğÂ·±ßµÄ²İÀ´¡£
+ Äã¾ö¶¨·ÅÆúÁ·±øµÄ¹¤×÷¡£ ÄãµÄÉùÍûÏÂ½µÁË¶ş°ÙÎåÊ®µã¡£
+¡¾ÏĞÁÄ¡¿Ë®º¢¶ù(wdoll)£ºÄã¾ö¶¨·ÅÆúÁ·±øµÄ¹¤×÷¡£ ÄãµÄÉùÍûÏÂ½µÁË¶ş°ÙÎåÊ®µã¡£
+> wi
+ÎÒ·½²¿¶Ó¡¡¡¡¡¡¡¡¡¡´úºÅ     Ö÷½«¡¡¡¡ ´ó½«Êı¡¡±øÊı¡¡ ±øÖÖ     Î»ÖÃ¡¡×´Ì¬
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+µĞ·½²¿¶Ó¡¡¡¡¡¡¡¡¡¡´úºÅ     Ö÷½«¡¡¡¡ ´ó½«Êı¡¡±øÊı¡¡ ±øÖÖ     Î»ÖÃ¡¡×´Ì¬
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+> ¡¾ÏĞÁÄ¡¿°¢ÇìºÜÒÉ»óµØ¿´×ÅË®º¢¶ù¡£
+wi
+ÎÒ·½²¿¶Ó¡¡¡¡¡¡¡¡¡¡´úºÅ     Ö÷½«¡¡¡¡ ´ó½«Êı¡¡±øÊı¡¡ ±øÖÖ     Î»ÖÃ¡¡×´Ì¬
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+µĞ·½²¿¶Ó¡¡¡¡¡¡¡¡¡¡´úºÅ     Ö÷½«¡¡¡¡ ´ó½«Êı¡¡±øÊı¡¡ ±øÖÖ     Î»ÖÃ¡¡×´Ì¬
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+
+
+
+
+after i resign train, i am still in warfield and can't leave, please fix and recover me ba.:P
+
+
+
+
+---
+×÷Õß: Liyu
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#28091...
+ÈÕÆÚ: Fri Jun 11 16:00:59 1999
+today in train, 
+Ë®ÔÆ¹úµÚÒ»¾üÍÅ
+¾üÖĞ´ó½«£º
+Ë®ÔÆ¹úÍğ³Ç¾üÊ¦ÀîìÏ(liyu)
+Ë®ÔÆ¹úÍğ³ÇÎÄ¹Ù¹ØË÷(guan suo)
+Ë®ÔÆ¹úÍğ³ÇÎä¹ÙĞ¡°×£¬×ÖÎŞÎ¶(xiaobai)
+ ±øÖÖ¡¡  ÊıÁ¿¡¡ ÑµÁ·  Ê¿Æø¡¡»ú¶¯Á¦
+ ĞÂ±ø     100   172     0     5 
+
+
+
+after two min, it still same....no recovery???? why???
+
+pls check.
+
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/town/yunnan/yn_zp...
+ÈÕÆÚ: Fri Jun  4 06:07:23 1999
+On Fri Jun  4 05:30:14 1999 Ice wrote post #61:
+> ºÃÏñÍæ¼Ò»áÍ»È»±»ÒÆ¶¯µ½ÁíÒ»¸öµØ·½µÄbugÓÖ³öÏÖÁË£¬ÎÒÓöÉÏ¼¸´Î£¬
+> now some players meet so, and now there won
+> be any stupid emote before system move char
+> 
+I will fix this bug
+sorry
+xixi :)
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Fri Jun  4 05:56:25 1999
+now train will lose soldier.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/yunnan/yn_zp...
+ÈÕÆÚ: Fri Jun  4 05:30:14 1999
+ºÃÏñÍæ¼Ò»áÍ»È»±»ÒÆ¶¯µ½ÁíÒ»¸öµØ·½µÄbugÓÖ³öÏÖÁË£¬ÎÒÓöÉÏ¼¸´Î£¬
+now some players meet so, and now there won
+be any stupid emote before system move char
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> use mirror in huayin
+ÈÕÆÚ: Fri Jun  4 01:18:06 1999
+fixed.
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> yu ji's bug
+ÈÕÆÚ: Fri Jun  4 01:17:47 1999
+fixed.
+
+
+---
+×÷Õß: Joice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vroad1...
+ÈÕÆÚ: Thu Jun  3 16:37:39 1999
+in huayin, everywhere i type "use mirror", it says:
+
+*Too long evaluation. Execution aborted.
+Trace written to /log/runtime
+
+pls check and fix it
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/yunnan/yn_yz...
+ÈÕÆÚ: Thu Jun  3 11:17:49 1999
+seems the yu ji quest has the same bug as hua tuo quest,
+player said that they can keep giving bamboo to yu ji,
+but I tried, I cannot keep that bamboo, so flee or fire
+pls check that bug, info c hhr, info c york, unreasonable high,
+and surely from yu ji bug
+
+
+
+---
+×÷Õß: Babu
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/obj/horse/horse#16626...
+ÈÕÆÚ: Thu Jun  3 03:17:41 1999
+bye byebye callname cannot
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Wed Jun  2 23:15:22 1999
+A player taishou can fire king? and after that he can become a ÏÍÈË,
+not reasonable bah, a recent example is jiangwei, pls fix it bah..:)
+
+
+
+---
+×÷Õß: Joice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_jydz...
+ÈÕÆÚ: Tue Jun  1 16:19:12 1999
+ÈÎÎñÒ»£ºÇëÔÚÎå·ÖÖÓÄÚ½«±ø·ÖºÃ£¬ÁìÈëÕ½³¡¡£Ä¿Ç°Ê£ÓàÊ±¼ä£ºÎå·ÖÖÓ¡£
+×é³ÉĞÂ¾üÍÅ¡£ÇëÊäÈë¸Ã¾üÍÅ½«¾ü¡£
+ÓĞĞ§ÖµÓĞ£º¡¸-1¡¹
+È±Ê¡ÖµÊÇ£º¡¸-1¡¹
+¡¾ÏĞÁÄ¡¿°ü°ü½ò½òÓĞÎ¶µØ¿ĞÆğÂ·±ßµÄ²İÀ´¡£
+¡¾ÏĞÁÄ¡¿Éºè±Ò»½ÅÌßÔÚÂäÉ³µÄÆ¨Æ¨ÉÏ£¬Ó¡³öÒ»¸öÇå³şµÄĞ¬Ó¡¡£
+¡¾ÏĞÁÄ¡¿ÄàÌ¶ÑÛÈ¦ºìºìµØ¶Ô×Å°ü°üËµ£ººÃ¿ÉÁ¯à¡¡«
+¡¾ÏĞÁÄ¡¿°ü°üÈ«Éñ¹á×¢µÄ¶¢×ÅÃ¿Ò»¸ö¹ıÍùµÄÅ®ĞĞÈË¡£
+¡¾ÏĞÁÄ¡¿ÂäÉ³Ò»½ÅÌßÔÚÉºè±µÄÆ¨Æ¨ÉÏ£¬Ó¡³öÒ»¸öÇå³şµÄĞ¬Ó¡¡£
+¡¾ÏĞÁÄ¡¿°ü°üÒ»½ÅÌßÔÚÂäÉ³µÄÆ¨Æ¨ÉÏ£¬Ó¡³öÒ»¸öÇå³şµÄĞ¬Ó¡¡£
+-¡¾ÏĞÁÄ¡¿Ğş±ù¶ñºİºİµØÄÃÆğ¸ù¹÷×Ó£¬¸ßÉùºÈµÀ£º²»ÒªÃüµÄ¾Í¹ıÀ´£¡
+1
+ÄÄÎ»½«¾ü£¿
+
+*Bad argument 1 to explode()
+Expected: string Got: -1.
+Trace written to /log/runtime
+¡¾ÏĞÁÄ¡¿ÂäÉ³¿ÚÍÂ°×Ä­£¬»èµ¹ÔÚµØ¡£
+¡¾ÏĞÁÄ¡¿Ğş±ù³¶×ÅÁì¿Ú¿ñº°£º´óÈËÎÒÒªÆşÈËÀ²£¡
+¡¾ÏĞÁÄ¡¿°ü°ü½«Ğş±ùÇáÇáµØÂ§ÔÚ»³Àï¡£
+¡¾ÏĞÁÄ¡¿Éºè±Ò»½ÅÌßÔÚ°ü°üµÄÆ¨Æ¨ÉÏ£¬Ó¡³öÒ»¸öÇå³şµÄĞ¬Ó¡¡£
+
+*Bad argument 1 to explode()
+Expected: string Got: -1.
+Trace written to /log/runtime
+l
+ÄÄÎ»½«¾ü£¿
+¡¾ÏĞÁÄ¡¿Ğş±ùÉÏÇ°ÅüĞØ½«°ü°üÒ»°Ñ×¥×¡£¬Á½ÑÛÔ²Õö£¬ßÚÑÀßÖ×ìµØ½«ËûÍùËÀÀïÆş¡£
+sun ce
+ÄÄÎ»½«¾ü£¿
+qdoll
+ÄÄÎ»½«¾ü£¿
+wdoll
+ÄÄÎ»½«¾ü£¿
+
+
+why can't go on?
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Sun May 30 12:58:57 1999
+seems the hua tuo quest has some bug
+jiangwei just did once hua tuo quest, and he keep giving yao cao 
+to hua tuo, now he got 1m rep and 10k money
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Sun May 30 13:16:18 1999
+about hua tuo quest
+
+when I do the hua tuo quest, after my chu tou broken, i back to hua tuo
+then keep give him yao cao, then he will keep giving me gold and rep
+that's why jiangwei got so high rep and gold,
+flee pls fix it or disable it for a certain time...:PPP
+
+
+
+---
+×÷Õß: Shampoo
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_gov3...
+ÈÕÆÚ: Sun May 30 15:54:26 1999
+ÄãÏò¹ÙÔ±´òÌı¹ØÓÚjobµÄÏûÏ¢¡£;¹ÙÔ±(officer)µãÁËµãÍ·¡£;*Bad argument 1 to call_other()
+Expected(Ã°ºÅ)string or array or object Got(Ã°ºÅ)0.
+Trace written to /log/runtime
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/changbanpo/cbp_dbcy...
+ÈÕÆÚ: Sun May 30 21:49:00 1999
+> give zhu bang to yu ji
+Á÷ÀËµÄÏÉÈËÓÚ¼ª±§È­ÍÅÍÅÒ»°İËµµÀ£º¸÷Î»´óÃûÈçÀ×¹à¶ú£¬Ğ¡ÈËĞÄÒÇÒÑ¾Ã¡£
+Á÷ÀËµÄÏÉÈËÓÚ¼ªÂúÁ³¶ÑĞ¦£¬Ò»¸ö¾¢¶ùºÍ´ó¼ÒÎÕÁËÎÕÊÖ¡£
+Äã±»½±ÀøÁË¼¸¶§»Æ½ğ¡£
+ÄãµÄÉùÍûÌá¸ßÁË¡£
+There isn't enough room.
+what is the meaning of There isn't enough room ?
+hoho :)
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/xinye/xy_jc...
+ÈÕÆÚ: Mon May 31 19:08:56 1999
+[errors] (york) Error logged to /log/runtime
+[errors] *result of array addition is greater than maximum array size.
+[errors] /sgdomain/job/zuoci/zuo_tool#91370 at line 153
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_zsyz...
+ÈÕÆÚ: Wed Jun  2 16:18:03 1999
+seems after fire changed the skills formula, sth goes wrong
+
+here is an example 
+
+before babu ask zhuge liang about bfxy, he status is
+            ±ø·¨ĞŞÑø         35//2641
+
+after,             ±ø·¨ĞŞÑø         36//1475
+
+not clear the exp now?
+
+and another problem, now seems the color will still turn blue
+with the old formula, and sometimes the formula will not work well, 
+
+another example, shampoo's status now is             ±ø·¨ĞŞÑø         42//3550
+her robot test is 51, and I calculate the exp she needs, which is less then
+3550, but she still cannot ask for upgrade, fire pls doubt check bah ....:PPP
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/yangpingguan/ypg_yizhan...
+ÈÕÆÚ: Sat May 29 11:59:01 1999
+ [33mgive yao cao to hua tuo [0m
+ [36m»ªÍÓ±§È­ÍÅÍÅÒ»°İËµµÀ£º¸÷Î»´óÃûÈçÀ×¹à¶ú£¬Ğ¡ÈËĞÄÒÇÒÑ¾Ã¡£ [0m
+Äã±»½±ÀøÁË¼¸¶§»Æ½ğ¡£
+ÄãµÄÉùÍûÌá¸ßÁË¡£
+There isn't enough room.
+>  [0
+1mÉ [1mº [1mè [1m± [1m» [1mØ [1m´ [1mğ [1mÄ [1mã [1m£ [1mº [1m² [1m» [1mÓ [1mÃ [1mÁ [1mË [1m£ [1m¬ [1mÎ [1mÒ [1mc [1ma [1mn [1mc [1me [1ml [1mË [1mû [1mÈ [1m¥ [1mÄ [1mÃ [1mm [1mi [1mr [1mr [1mo [1mr [1mÕ [1mÒ [0m
+ [33mfaint [0m
+ [0
+1
+32m¡ [1m¾ [1mÏ [1mĞ [1mÁ [1mÄ [1m¡ [1m¿ [1m° [1mü [1m° [1mü [1m£ [1mº [1mĞ [1mè [1mÕ [1mì [1m² [1mì [1m· [1m¿ [1m¼ [1mä [1mÊ [1mı [1m£ [1mº [1m1 [1m4 [1m¡ [1m£ [1m  [1mÒ [1mÑ [1m¾ [1m­ [1mÕ [1mì [1m² [1mì [1m¹ [1mı [1mµ [1mÄ [1m· [1m¿ [1m¼ [1mä [1mÊ [1mı [1m£ [1mº [1m1 [1m3 [1m¡ [1m£ [0m
+ [36mÄã¿ÚÍÂ°×Ä­£¬»èµ¹ÔÚµØ¡£ [0m
+>  [33mi [0m
+ÄãÉíÉÏ´ø×ÅÈçÏÂÎïÆ·(¸ºÖØ£º70%)£º
+ [34m¡õ [0
+1
+37mÎ [1m× [1mÊ [1m¦ [1m¹ [1m¤ [1m× [1m÷ [1m· [1mş [0m(workcloth)
+  ºÜ¶àÒ©²İ(yao cao)
+  ¶şÁ½½ğ×Ó(gold)
+  ¾ÅÊ®ÎåÎÄÇ®(coin)
+  ¾ÅÊ®ÎåÁ½Òø×Ó(silver)
+
+
+last report's ÂÒÂëshould be this
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/yangpingguan/ypg_yz...
+ÈÕÆÚ: Sat May 29 11:58:17 1999
+might be in hua tuo quest
+sometimes when player give the right yao cao to him, he has no response
+ [33mgive yao cao to hua tuo [0m
+ [36m»ªÍÓ±§È­ÍÅÍÅÒ»°İËµµÀ£º¸÷Î»´óÃûÈçÀ×¹à¶ú£¬Ğ¡ÈËĞÄÒÇÒÑ¾Ã¡£ [0m
+Äã±»½±ÀøÁË¼¸¶§»Æ½ğ¡£
+ÄãµÄÉùÍûÌá¸ßÁË¡£
+There isn't enough room.
+>  [0
+1mÉ [1mº [1mè [1m± [1m» [1mØ [1m´ [1mğ [1mÄ [1mã [1m£ [1mº [1m² [1m» [1mÓ [1mÃ [1mÁ [1mË [1m£ [1m¬ [1mÎ [1mÒ [1mc [1ma [1mn [1mc [1me [1ml [1mË [1mû [1mÈ [1m¥ [1mÄ [1mÃ [1mm [1mi [1mr [1mr [1mo [1mr [1mÕ [1mÒ [0m
+ [33mfaint [0m
+ [0
+1
+32m¡ [1m¾ [1mÏ [1mĞ [1mÁ [1mÄ [1m¡ [1m¿ [1m° [1mü [1m° [1mü [1m£ [1mº [1mĞ [1mè [1mÕ [1mì [1m² [1mì [1m· [1m¿ [1m¼ [1mä [1mÊ [1mı [1m£ [1mº [1m1 [1m4 [1m¡ [1m£ [1m  [1mÒ [1mÑ [1m¾ [1m­ [1mÕ [1mì [1m² [1mì [1m¹ [1mı [1mµ [1mÄ [1m· [1m¿ [1m¼ [1mä [1mÊ [1mı [1m£ [1mº [1m1 [1m3 [1m¡ [1m£ [0m
+ [36mÄã¿ÚÍÂ°×Ä­£¬»èµ¹ÔÚµØ¡£ [0m
+>  [33mi [0m
+ÄãÉíÉÏ´ø×ÅÈçÏÂÎïÆ·(¸ºÖØ£º70%)£º
+ [34m¡õ [0
+1
+37mÎ [1m× [1mÊ [1m¦ [1m¹ [1m¤ [1m× [1m÷ [1m· [1mş [0m(workcloth)
+  ºÜ¶àÒ©²İ(yao cao)
+  ¶şÁ½½ğ×Ó(gold)
+  ¾ÅÊ®ÎåÎÄÇ®(coin)
+  ¾ÅÊ®ÎåÁ½Òø×Ó(silver)
+
+
+or this, why it say no enough rooms?
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/hongnong/hn_yst...
+ÈÕÆÚ: Sat May 29 10:02:27 1999
+because of disconnected, there were 2 IDs both named deadb appeared at the same time
+pls check
+
+and now the prison, if people happen to drop in, they have to wait a long time to 
+get out, because there is not exit there
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/hongnong/hn_jy...
+ÈÕÆÚ: Sat May 29 08:44:44 1999
+µ±ÏÍÈË½øÈëÀÎ·¿Ö®ºó£¬ÓĞ´ó¸ÅÒ»·ÖÖÓÀÎ·¿µÄ³ö¿ÚÊÇ none£¬ÎÒÃ»ÓĞÓÃupdate »ò z£¬
+½á¹ûÒªµÈºÜ¾Ã£¬ÊÇ²»ÊÇ call_out ÉèÖÃÓĞÎÊÌâ...:(
+
+
+
+---
+×÷Õß: Shampoo
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Fri May 28 15:41:23 1999
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_gov3...
+ÈÕÆÚ: Fri May 28 13:12:14 1999
+ [33mask officer about guard [0m
+ÄãÏò¹ÙÔ±´òÌı¹ØÓÚguardµÄÏûÏ¢¡£
+¹ÙÔ±(officer)µãÁËµãÍ·¡£
+*Bad argument 1 to call_other()
+Trace written to /log/runtime
+errors (ice) Error logged to /log/runtime
+errors *Bad argument 1 to call_other()
+         *Expected: string or array or object Got: 0.
+errors /sgdomain/area/cities/changan/npc/guard_officer#1077 at line 55
+
+ [33mask officer about job [0m
+ÄãÏò¹ÙÔ±´òÌı¹ØÓÚjobµÄÏûÏ¢¡£
+¹ÙÔ±(officer)µãÁËµãÍ·¡£
+*Bad argument 1 to call_other()
+Trace written to /log/runtime
+errors (ice) Error logged to /log/runtime
+errors *Bad argument 1 to call_other()
+         *Expected: string or array or object Got: 0.
+errors /sgdomain/area/cities/changan/npc/guard_officer#1077 at line 55
+
+
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vzhangda_hu...
+ÈÕÆÚ: Thu May 27 09:12:34 1999
+
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/jingyang/jy_jg...
+ÈÕÆÚ: Thu May 27 16:11:28 1999
+today i lost "xian ren" twice. especially 2nd time, i took him in jiuguan, then talked to ice for 1 min then "xian ren" was gone.
+Ğí×Ó½«    ÎåÊ®¾Å    Ò»      Ö´ĞĞ  ËÄ·Ö          ÂøÍ·
+
+so it's impossible due to time out, check pls.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/yunnan/yn_yz...
+ÈÕÆÚ: Fri May 28 22:21:43 1999
+about cmd resign patrol
+still need patrol when cmd resign patrol, same case as if I cmd leave in patrol
+
+end of report..:PPP
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/chencang/cc_sjdz...
+ÈÕÆÚ: Fri May 28 22:43:32 1999
+> Éºè±ÏòĞíÉÛ¹ªÉíÎÊµÀ£ºÏÈÉú£¬¿ÉÓĞ·Ô¸À£¿
+ [36mĞíÉÛµãÁËµãÍ·¡£ [0m
+ĞíÉÛµÀ£º¾ÍÇëÄã´øÕâÎ»ÏÍÈËµ½´¦×ß×ß°É¡£
+ÏÍÈËÂıÌÚÌÚµÄ×ßÁË³öÀ´¡£
+
+
+then xian ren disappeared...:(
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/qishan/qs_yz...
+ÈÕÆÚ: Sat May 29 00:17:02 1999
+about the xu zijiang bug, because the player is a Òş¾ÓÏĞÈË?
+met the bug twice
+
+
+
+---
+×÷Õß: Shampoo
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vyizhan...
+ÈÕÆÚ: Sat May 29 04:10:24 1999
+use mirror;*Too long evaluation. Execution aborted.
+Trace written to /log/runtime
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/jiange/jg_yz...
+ÈÕÆÚ: Sun May 30 06:17:42 1999
+>  [33mgive bamboo to yu ji [0m
+ [0
+1
+33mÁ [1m÷ [1mÀ [1mË [1mµ [1mÄ [1mÏ [1mÉ [1mÈ [1mË [0mÓÚ¼ª±§È­ÍÅÍÅÒ»°İËµµÀ£º¸÷Î»´óÃûÈçÀ×¹à¶ú£¬Ğ¡ÈËĞÄÒÇÒÑ¾Ã¡£
+ [0
+1
+33mÁ [1m÷ [1mÀ [1mË [1mµ [1mÄ [1mÏ [1mÉ [1mÈ [1mË [0mÓÚ¼ªÂúÁ³¶ÑĞ¦£¬Ò»¸ö¾¢¶ùºÍ´ó¼ÒÎÕÁËÎÕÊÖ¡£
+Äã±»½±ÀøÁË¼¸¶§»Æ½ğ¡£
+ÄãµÄÉùÍûÌá¸ßÁË¡£
+There isn't enough room.
+>  [33mi [0m
+ÄãÉíÉÏ´ø×ÅÈçÏÂÎïÆ·(¸ºÖØ£º30%)£º
+ [34m¡õ [0
+1
+37mÎ [1m× [1mÊ [1m¦ [1m¹ [1m¤ [1m× [1m÷ [1m· [1mş [0m(workcloth)
+  Ò»Ë«Æ¤Ñ¥(pixue)
+  Ò»¼ş [0
+1
+32m½ [1mõ [1mĞ [1må [1m¹ [1mÙ [1m· [1mş [0m(jxguanfu)
+  Ò»¸ùÇàÖñ°ô(zhu bang)
+  ¶şÊ®¶şÎÄÇ®(coin)
+  ÆßÁ½½ğ×Ó(gold)
+  ¾ÅÊ®°ËÁ½Òø×Ó(silver)
+
+
+why there always says "There isn't enough room" even there is nothing will be given to me?
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/chengdu/cd_jy...
+ÈÕÆÚ: Sun May 30 10:35:42 1999
+ÄãÏòÁ÷ÀËµÄÏÉÈËÓÚ¼ª¹ªÉíÎÊµÀ£ºÏÈÉú£¬¿ÉÓĞ·Ô¸À£¿
+Á÷ÀËµÄÏÉÈËÓÚ¼ª¶Ô×ÅÄã¹îÒìµÄÒ»Ğ¦£ººÃ°É£¬ÔÚÏÂÕıÓĞµãĞ¡ÊÂÒª¸óÏÂ°ïÃ¦¡£
+Á÷ÀËµÄÏÉÈËÓÚ¼ªµİ¸øÄãÒ»¸ù²»Ã÷ÎïÌå¡£
+Á÷ÀËµÄÏÉÈËÓÚ¼ª¶ÔÄãµÀ£º¾ÍÇëÄãµ½³Â²ÖÖ®Ğ¡µÀ×ßÒ»ÌË°É£¡
+> i
+ÄãÉíÉÏ´ø×ÅÈçÏÂÎïÆ·(¸ºÖØ£º64%)£º
+¡õ²»Ã÷ÎïÌå
+¡õ²»Ã÷ÎïÌå
+¡õ²»Ã÷ÎïÌå
+¡õ²»Ã÷ÎïÌå
+¡õ²»Ã÷ÎïÌå
+0
+> faint
+Äã¿ÚÍÂ°×Ä­£¬»èµ¹ÔÚµØ¡£
+> 
+seems sth wrong, flee pls check it...
+hehe.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/yunnan/yn_bcm...
+ÈÕÆÚ: Sun May 30 12:53:03 1999
+  Ãû³Æ¡¡Íê³É´ÎÊı¡¡µ±Ìì´ÎÊı¡¡×´Ì¬  ÉÏ´ÎÊ±¼ä      ±¸×¢ 
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+¿ª·¢ĞÂÌï  Áã        Áã      Ö´ĞĞ  ºÜ¾ÃÒÔÇ°      ____
+¿³²ñ      Èı        Áã      Íê³É  ºÜ¾ÃÒÔÇ°      ____
+É¿¶¯°ÙĞÕ  Áã        Áã      Ö´ĞĞ  ºÜ¾ÃÒÔÇ°      É¿¶¯ÏÂÛÍÏĞÈË(xiabian idler)
+Õì²ì      ¾Å        Áã      Íê³É  ºÜ¾ÃÒÔÇ°      Õì²ì½­Öİ
+·ÃÎÊÏÍÈË  ÎåÊ®Èı    Áã      Ö´ĞĞ  ºÜ¾ÃÒÔÇ°      °İ·Ã²ÜØ§(cao pi)
+³úµØ½½Ë®  ¶ş        Áã      Íê³É  ºÜ¾ÃÒÔÇ°      ____
+ÕÒÈË      ¾Å        Áã      Íê³É  ºÜ¾ÃÒÔÇ°      ÕÒ°²¶«Î¾(stephen)
+²ß·´µĞ½«  ¾Å        Áã      Ö´ĞĞ  ºÜ¾ÃÒÔÇ°      ²ß·´²ÜÕÃ(cao zhang)
+±à²İĞ¬µ×  Îå        Áã      Íê³É  ºÜ¾ÃÒÔÇ°      ____
+²¶Óã      Ò»        Áã      Íê³É  ºÜ¾ÃÒÔÇ°      ____
+ÕĞÄ¼ĞÂ±ø  ÆßÊ®ËÄ    Áã      Ö´ĞĞ  ºÜ¾ÃÒÔÇ°      Õ÷3900±ø
+Ñ²Âß      Ê®Áù      Áã      Íê³É  ºÜ¾ÃÒÔÇ°      µ½ [0
+1
+33m± [1mø [1mÆ [1m÷ [1mÆ [1mÌ [0m
+µØÇø¹ºÎï  ÈıÊ®Ò»    Áã      Ö´ĞĞ  ºÜ¾ÃÒÔÇ°      ¹ºÂòÂíÆ¥
+Á·±ø      ¶şÊ®Ò»    Áã      Íê³É  ºÜ¾ÃÒÔÇ°      ____
+µØ·½½¨Òé  Ò»°ÙÁãÈı  Îå      Íê³É  Áù°ÙÈıÊ®Áù·Ö  ____
+ËÍĞÅ      Æß        Áã      Ö´ĞĞ  ºÜ¾ÃÒÔÇ°      ËÍĞÅÁõ¶È(liu du)
+Ìå²ì°ÙĞÕ  ÁùÊ®¶ş    Áã      Íê³É  ºÜ¾ÃÒÔÇ°      Ì½·ÃÌìË®¾ÓÃñ(tianshui recident)
+»ªÍÓ      Ò»        Ò»      Íê³É  Îå°ÙÎåÊ®·Ö    ºÚÉ«ÌğÎ¶µÄÒ©²İ(ÎåÕÉÔ­)
+ËÑË÷ÏÍÈË  °ËÊ®Áù    Áã      Ö´ĞĞ  ºÜ¾ÃÒÔÇ°      °İ·Ã¹ùãá(guo si)
+> 
+>  [33mcmd robot jiangwei [0m
+ÖÇÄÜ²âÊÔ£º¡¡²âÊÔ×Ü´ÎÊı¡¡¡¡Ê§°Ü´ÎÊı¡¡¡¡ÉÏ´Î²âÊÔ½á¹û
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+            Ò»°ÙÒ»Ê®Ò»´Î  °Ë´Î        Õı  ³£    
+>  [33minfo c jiangwei [0m
+½ÇÉ«´úºÅ£ºjiangwei      ĞÕÃû£º½ªÎ¬
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+×Ö£º²®Ô¼  ĞÔ±ğ£ºÄĞ  ÄêÁä£º 16 ÈİÃ²£º28
+ËùÊô¹ú£ºË®ÔÆ¹ú      ËùÔÚµØ£º°²¶¨³Ç  
+³¯Í¢¹ÙÖ°£º©¥©¥      µØ·½¹ÙÖ°£ºÕò¾üÊ¦  
+ÎäÁ¦£º37  ÖÇÄ±£º42  ÷ÈÁ¦£º38  ÙºÂ»£º3
+ÉùÍû£º [0
+1
+32mÖ [1mÚ [1mĞ [1mÄ [1mË [1mù [1m¹ [1mé [0m(1001065) µØÇø¹±Ï×£º27  ÖÒ³Ï£º52
+ÀàĞÍ£ºÍæ¼Ò  ×´Ì¬£ºÔÚÏß  ÊÂÎñ£ºÕı³£
+ÓëËû¹ú¹ØÏµ£º
+ÂíÌÚ¹ú£º  3     »ğ·ï»Ë¹ú£º 44   ¶Ï³¦¹ú£º 62 
+Áõ±¸¹ú£º 20     ±±Æ½Ñ©¹ú£º 23   ÄÏÌÆ¹ú£º 34 
+Ä©ÈÕµÛ¹ú£º 34   Âú½­ºì¹ú£º 46   
+Ç×±øÊı£º10  ÑµÁ·£º200  ÂíÆ¥£º0  ¹­¼ı£º0  Á¸Ê³£º0
+ [33m!money jiangwei [0m
+ÄãÉíÉÏ´øÓĞ£º
+     Ò»ÍòËÄÇ§Èı°Ù¾ÅÊ®Ò»Á½½ğ×Ó¡£
+     ¾ÅÊ®Á½Òø×Ó¡£
+     ÎåÊ®ÎÄÇ®¡£
+ÄãÃ»ÓĞÔÚÇ®×¯´æÇ®£º
+ÄãµÄ¿â´æÙºÒøÓĞ£º
+     ËÄÊ®ÁùÁ½½ğ×Ó
+     Ò»ÍòËÄÇ§ËÄ°ÙÈıÊ®ÆßÁ½½ğ¾ÅÊ®Á½ÒøÎåÊ®ÎÄÇ®
+
+
+is there sth wrong with the setting?
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Mon May 24 14:57:40 1999
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Value being indexed is zero.
+[errors] /daemons/troop_d (daemons/troop_d/troop_attack.c) at line 91
+
+war bug?
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/tset/workroom...
+ÈÕÆÚ: Mon May 24 12:22:41 1999
+chan newbie /who
+*String index out of bounds.
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *String index out of bounds.
+[errors] /secure/simul_efun (secure/simul_efun/string.c) at line 34
+
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/cities/chengdu/cd_cyd...
+ÈÕÆÚ: Mon May 24 11:09:20 1999
+ßõßõ£¬ÕâÇÉ¿ËÁ¦ÕæÀ÷º¦£¡¸Õ³ÔÉÏ¼¸¿ÚÎÒ¾Í¿Ú¿ÊµÃ
+²»µÃÁË£¬
+ÒûË®£º -25 / 200
+
+×ì»¹²ö£¬ÔÙ½ÓÔÙÀ÷±ä×Å³Ô£¬¹ı²»ÁËÒ»»á»ëÉí
+²»Êæ³©£¬Ò»²é£¬¹Ô¹Ô²»µÃÁË
+ÆøÑª£º-1200 / -30 ( 100 )
+¾«Éñ£º -37 / -37 (   0 )
+ĞÒ¿÷ÊÇ²»ËÀÖ®Éí£¬Òª²»È»Ôç±»Ğş±ùº¦‘KÁË¡£
+·îÈ°¸÷Î»£¬Ğ¡ĞÄÔÚÒâÎ±ÁÓÊ³Æ·¡£
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/cities/chengdu/cd_cyd...
+ÈÕÆÚ: Sat May 22 23:31:25 1999
+On Sat May 22 16:14:15 1999 Ice wrote post #13:
+> review bug
+> 
+> after set more than 2 @.me->set_msgs("clone","xxx"), type "review" met bug
+> 
+> obj edit bug
+> 
+> 1. I added a obj "chocolate", all para completed, as I know, but cannot
+eat it.
+> 
+> 2. I found out that the lv 1 - guanfu was the same price as lv 2 - zhanpao,
+> then I try to change the para "value" of "zhanpao" from "50000" to "70000",
+> after I changed it, use ask maker about list met bug, even after I changed
+it back
+> to 50000, the bug still existed, then I del all zhanpao from makers.
+> 
+> end of bug report
+> 
+
+be careful, since the para of value is a int but a string, so
+that should be 500000 instead of "500000". check it pls.
+
+
+---
+×÷Õß: Joice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_ywc...
+ÈÕÆÚ: Sat May 22 22:33:15 1999
+pls read post 151 about further infomation .... thanks
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/chengdu/cd_pmk...
+ÈÕÆÚ: Mon May 24 21:37:11 1999
+[errors] (ice) Error logged to /log/runtime
+[errors] *(s)printf(): Error in format string. (arg: 1)
+[errors] /secure/simul_efun (secure/simul_efun/overrides.c) at line 181
+
+faint
+
+
+
+---
+×÷Õß: Joice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/obj/horse/horse#22099...
+ÈÕÆÚ: Tue May 25 11:47:36 1999
+> st°×ÒÂºîÅÄÅÄµ÷Æ¤Ğ¡ÄĞº¢µÄÍ·Ëµ£¬ºÃ°É£¬¾Í´ğÓ¦ÄãµÄÌõ¼ş°É¡£
+
+Äã·­ÉíÏÂÂí¡£
+> bb
+Äã¶Ôµ÷Æ¤Ğ¡ÄĞº¢ÕĞÁËÕĞÊÖ£ºÏÍµÜ£¬¹ıÀ´£¬½ã½ãÏòÄã´òÌı¸öÈË£¬ºÃ²»ºÃ¡£
+µ÷Æ¤Ğ¡ÄĞº¢¶ÔÄãµÀ£ºË®º¢¶ùÒªÕÒË­Ñ½¡£
+ÇëÊäÈëÒªÕÒ½ÇÉ«µÄID
+Äã´òËãÕÒË­¡£µ÷Æ¤Ğ¡ÄĞº¢¸ßĞËµØÌøÁËÆğÀ´¡£
+°×ÒÂºî¸øµ÷Æ¤Ğ¡ÄĞº¢Ò»·İÂøÍ·¡£
+wang pinµ÷Æ¤Ğ¡ÄĞº¢ËµµÀ£ºÃ«½êÏÖÔÚÕıÔÚÑİÎä³¡¡£
+
+g
+Äã´òËãÕÒË­¡£wang ping
+Äã´òËãÕÒË­¡£ºÖ××Âí(hezma)²»ÖªÔõÃ´·¢ÁËÆ¢Æø£¬ÁªÁÌ¼¸¸öõê×Ó¡£
+liyu
+Äã´òËãÕÒË­¡£
+Ã»ÓĞÕâ¸ö½ÇÉ«¡£
+Äã´òËãÕÒË­¡£
+Ã»ÓĞÕâ¸ö½ÇÉ«¡£
+Äã´òËãÕÒË­¡£µ÷Æ¤Ğ¡ÄĞº¢³¯¶«±ßÀë¿ªÁË¡£
+¡¾ÏĞÁÄ¡¿ÔÆĞ¡ôæ£ºbug
+Ğ¡ºìÂí(xhhorse)Ò»Éù³¤Ãù£¬Ç°ÌãÃÍµÃÁ¢ÁËÆğÀ´¡£
+¡¾ÏĞÁÄ¡¿ÔÆĞ¡ôæ£ºwiz help
+°×ÒÂºîÆï×ÅĞ¡ºìÂí»¶¿ìµØÅÜ×ßÁË¡£
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/anding/ad_dcm...
+ÈÕÆÚ: Wed May 26 13:21:00 1999
+¡¼ÂíÌÚ¹ú¡½¡ò°²¶¨³Ç¡òË¾Á¥Ğ£Î¾(guard)
+Ò»Èº°²¶¨³ÇÏĞÈË(anding idler)
+µ÷Æ¤Ğ¡ÄĞº¢(anding boy)
+Ò»Èº°²¶¨³ÇĞ¡»ï(anding guy)
+
+hoho...so many npcs can't move?
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/tset/ting...
+ÈÕÆÚ: Wed May 26 13:36:42 1999
+
+[errors] (bin) Error logged to /log/runtime
+[errors] *Bad argument 1 to explode()
+         *Expected: string Got: -1.
+[errors] /sgdomain/event/ev_war (sgdomain/event/war/def_input.c) at line 107
+
+
+check check? the problem seems to happen in train
+
+
+
+---
+×÷Õß: Bin
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vhall...
+ÈÕÆÚ: Wed May 26 13:39:15 1999
+train function in lingling has bug, -1......
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_ywc...
+ÈÕÆÚ: Wed May 26 15:40:27 1999
+
+wiz, i lost all my Ç×±ø for no reason. 2 hours ago, just be4 i quitted, i paided them and my total properties waer 16 golds at that time. i didn't dismiss them either. but after i back, i found nobody served me now. pls check for me. thanks
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_xiaolu...
+ÈÕÆÚ: Wed May 26 15:56:52 1999
+µ÷Æ¤Ğ¡ÄĞº¢(changan boy)
+> bb
+Äã¶Ôµ÷Æ¤Ğ¡ÄĞº¢ÕĞÁËÕĞÊÖ£ºÏÍµÜ£¬¹ıÀ´£¬½ã½ãÏòÄã´òÌı¸öÈË£¬ºÃ²»ºÃ¡£
+µ÷Æ¤Ğ¡ÄĞº¢¶ÔÄãµÀ£ºË®º¢¶ùÒªÕÒË­Ñ½¡£
+ÇëÊäÈëÒªÕÒ½ÇÉ«µÄID
+Äã´òËãÕÒË­¡£xu you
+ÄãµÀ£ºÎÒÏëÕÒĞíØü¡£
+µ÷Æ¤Ğ¡ÄĞº¢¿ªÊ¼ÈÏÕæ¿¼ÂÇÕâ¸öÎÊÌâ¡£
+> µ÷Æ¤Ğ¡ÄĞº¢µÀ£ºĞíØüÂï£¬ÎÒÖªµÀÔÚÄÄ¶ù£¬²»¹ıÄãÒª¸øÎÒÒ»·İÂøÍ·¡£ÎÒ²Å¸æËßÄã¡£
+ÇëÊäÈë¶Ô²ß£º1 £º¸øÇ®£¬2 £º¸øÌÇ£¬ 3 £º´ğÓ¦ÒªÇó£¬ 0 £º·ÅÆú
+3
+ÄãÅÄÅÄµ÷Æ¤Ğ¡ÄĞº¢µÄÍ·Ëµ£¬ºÃ°É£¬¾Í´ğÓ¦ÄãµÄÌõ¼ş°É¡£
+> µ÷Æ¤Ğ¡ÄĞº¢¸ßĞËµØÌøÁËÆğÀ´¡£
+Äã¸øµ÷Æ¤Ğ¡ÄĞº¢Ò»·İÂøÍ·¡£
+µ÷Æ¤Ğ¡ÄĞº¢ËµµÀ£ºĞíØüÏÖÔÚÕıÔÚÎ÷´óµÀ¡£
+
+
+
+info c xu you
+½ÇÉ«´úºÅ£ºxu you        ĞÕÃû£ºĞíØü
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+×Ö£º×ÓÔ¶  ĞÔ±ğ£ºÄĞ  ÄêÁä£º 33 ÈİÃ²£º24
+ËùÊô¹ú£º©¥©¥        ËùÔÚµØ£º³¤°²³Ç  
+³¯Í¢¹ÙÖ°£º©¥©¥      µØ·½¹ÙÖ°£º©¥©¥    
+
+
+
+
+but there is no Î÷´óµÀ in changan, wiz pls check.:P
+
+bow
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vzhu_lin...
+ÈÕÆÚ: Wed May 26 16:39:03 1999
+ÖñÁÖ [³ö¿Ú£ºwood]
+
+    ÕâÊÇ¸öÃØ²»Í¸·çµÄĞ¡ÖñÁÖ£¬Äã²ÈÔÚÁÖÖĞµÄÂäÒ¶ÉÏ£¬Å¼¶û·¢³ö¡ºÉ³
+É³¡»µÄÉùÒô£»´ÓÖñÒ¶¼äÍ¸¹ıµÄË¿Ë¿Ñô¹âÔÚ¿ÕÖĞĞÎ³ÉÒ»¸ö¸ö¹â°ß£¬ºÃËÆ
+ºûµûÔÚ·ÉÎè¡£ÄãÉîÉîÎüÁË¿ÚÆø£¬ÔİÊ±Íü¼ÇÁËÈË¼äµÄ·³ÄÕ¡£¶ÔÁË£¬ÕâÀï
+»¹ÓĞÒ»¼äÄ¾Îİ£¬½øÈ¥¿´¿´°É¡£
+
+¡¼¶Ï³¦¹ú¡½¡ò»ªÒõ¡òË¾Á¥Ğ£Î¾(guard)
+»ªÒõÒş¾ÓÏÍÈËÁ½¸ö(two)
+»ªÒõÒş¾ÓÏÍÈËÀÏÖÜ(lzhou)
+Áõ¶È¹úÁãÁêÎä¹ÙÕÅ´ó(zda)
+»ğ·ï»Ë¹úµÄÏÍÈË(fire's xian ren)
+> xr wood
+ÄãÏòÏÍÈË´òÌı¹ØÓÚ<wood>µÄÏûÏ¢¡£
+ÏÍÈË¶ÔÄãËµµÀ£ººÜ±§Ç¸£¬ÕâÒ²ÕıÊÇÎÒÏëÎÊµÄÎÊÌâÑ½¡£
+> ÏÍÈË²»ÄÍ·³µÄÏòÄãµÀ£ºµ½ÁËÃ»ÓĞ°¡£¿
+xr wood
+ÄãÏòÏÍÈË´òÌı¹ØÓÚ<wood>µÄÏûÏ¢¡£
+ÏÍÈË¶ÔÄãµÉ´óÁËÑÛ¾¦£ºàÅ£¿
+> xr wood
+ÄãÏòÏÍÈË´òÌı¹ØÓÚ<wood>µÄÏûÏ¢¡£
+ÏÍÈË¶ÔÄãËµµÀ£ºÄãÎÊµÃÊÂÎÒÔõÃ´Ò»µã¸ÅÄî¶¼Ã»ÓĞÑ½¡£
+
+
+
+
+but tiechuanjia is in wood, so i can't let xian ren see Á¬»·¼×. cry, faint.
+
+check and change ba
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/longxi/lx_egate...
+ÈÕÆÚ: Wed May 26 17:07:40 1999
+ÄãÏëÁËÒ»Ïë£¬¶ÔÏÍÈËµÀ£ºÎÒ¿´Ó¦ÍùÄÏ±ß×ß¡£
+ÏÍÈË¿ªÊ¼ÈÏÕæ¿¼ÂÇÕâ¸öÎÊÌâ¡£
+Âú½­ºì¹úµÄÏÍÈË(cnl's xian ren)´óÒ¡´ó°ÚµÄÏò¶«±ß×ßÈ¥¡£
+> e
+--¶«³ÇÃÅ-- [³ö¿Ú£ºeast]
+
+©³©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©·
+©§                                                        ©§
+©§                       --¶«³ÇÃÅ--                       ©§
+©§                                                        ©§
+©»©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¿
+
+¡¼ÂíÌÚ¹ú¡½¡òÂ¤Î÷¡òË¾Á¥Ğ£Î¾(guard)
+ÂíÌÚ¹úÂ¤Î÷¾üÊ¦ÕÅÁÉ£¬×ÖÎÄÔ¶(zhang liao)
+Âú½­ºì¹úµÄÏÍÈË(cnl's xian ren)
+> xr w
+ÄãÏëÁËÒ»Ïë£¬¶ÔÏÍÈËµÀ£ºÎÒ¿´Ó¦ÍùÎ÷±ß×ß¡£
+ÏÍÈË¶ÔÄã´ó½Ğ£ºÕâ·½ÏòÄÄÓĞ³öÂ·°¡£¿
+> ¡¾ÏĞÁÄ¡¿ÄàÌ¶¶Ô×ÅÁÒ»ğ´ó½Ğ£ºÁÒ»ğ£¬ÄãÕâ¸ö³ôÁ÷Ã¥£¡
+en
+Äã¶ÔË¾Á¥Ğ£Î¾Ò»¹°ÊÖ£¬µÀ£º¹ÑÈËÓĞÒªÊÂÔÚÉí£¬²»Öª´óÈË¿É·ñ·ÅĞĞ£¿
+Ë¾Á¥Ğ£Î¾Ã¦µÀ£ºÔ­À´ÊÇË®º¢¶ùÅ®Íõ±İÏÂ£¬Ê§¾´Ê§¾´£¬¿ì¿ìÇë½ø¡£
+ÄãÔÚË¾Á¥Ğ£Î¾µÄÖ¸ÒıÏÂ£¬À´µ½ÁË--Ç°ÃÅ´ó½Ö--¡£
+> ÏÍÈË²»ÄÍ·³µÄÏòÄãµÀ£ºµ½ÁËÃ»ÓĞ°¡£¿
+xr s
+ÄãÖÜÎ§Ã»¼ûµ½xian ren¡£
+
+
+seems if xianren go somewhere like gate, they can't move la
+
+pls check and change
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/xiliang/xl_pw...
+ÈÕÆÚ: Thu May 27 01:15:11 1999
+ÄãÏëÁËÒ»Ïë£¬¶ÔÏÍÈËµÀ£ºÎÒ¿´Ó¦¸ÃÒÑ¾­µ½ÁË¡£
+ÏÍÈËÂòÁËÒ»Ã¶ÎÑÍ·£¬ÄÃÔÚÊÖÉÏ×ĞÏ¸µÄ¶ËÏê×Å¡£
+ÏÍÈË¸ßĞËµÄ¶ÔÄãËµ£ºÌ«Ğ»Ğ»ÄãÁË£¬ÒÔºóÓĞÊ²Ã´Òª°ïÃ¦µÄ¾¡¹Ü½²¡£
+ÏÍÈË¶ÔÄãËµ£ººó»áÓĞÆÚ£¡
+Äã±»½±ÀøÁË¼¸¶§»Æ½ğ¡£
+ÄãµÄÉùÍûÌá¸ßÁË¡£
+ÄãÓÚÁõ±¸¹úµÄÓÑºÃ¶ÈÌá¸ßÁË¡£
+*Bad argument 2 to member_array()
+Expected: string or array Got: 0.
+Trace written to /log/runtime
+[errors] (fire) Error logged to /log/runtime
+[errors] *Bad argument 2 to member_array()
+         *Expected: string or array Got: 0.
+[errors] <none> (sgdomain/job/xuzijiang/xianren.c) at line 82
+
+
+
+
+---
+×÷Õß: Derek
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#45628...
+ÈÕÆÚ: Sat May 22 22:14:07 1999
+bug at war system..
+i war shangdang, shangdang doesn't have defense meeting
+i can't pick horse, or bow
+troop
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#45154...
+ÈÕÆÚ: Sat May 22 22:09:39 1999
+today, i planned a war to get xianyang, but after i divided my troops, there seemed no defence meeting was hold in xianyang. so when i entered warfield, no enemy came to me at all. seemed i trapped in warfield and found no way to leave. can any wiz check for me and fix it if that's a bug?
+thanks a lot....
+
+-from papaya and poor wdoll
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/chengdu/cd_cyd...
+ÈÕÆÚ: Sat May 22 16:14:15 1999
+review bug
+
+after set more than 2 @.me->set_msgs("clone","xxx"), type "review" met bug
+
+obj edit bug
+
+1. I added a obj "chocolate", all para completed, as I know, but cannot eat it.
+
+2. I found out that the lv 1 - guanfu was the same price as lv 2 - zhanpao,
+then I try to change the para "value" of "zhanpao" from "50000" to "70000",
+after I changed it, use ask maker about list met bug, even after I changed it back
+to 50000, the bug still existed, then I del all zhanpao from makers.
+
+end of bug report
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/m_charnpc#57082...
+ÈÕÆÚ: Wed May 19 16:00:15 1999
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Too long evaluation. Execution aborted.
+[errors] /daemons/char_d (daemons/char_d/char_obj.c) at line 59
+i don't see a very long evaluation yeah :(
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: >>bug of m_charaction.c
+ÈÕÆÚ: Wed May 19 15:47:50 1999
+On Sun May 16 19:46:02 1999 Fire wrote post #5:
+> On Fri May 14 06:20:09 1999 Flee wrote post #3:
+> > something wrong with environment(this_object())->query_exit_directions();
+> > it seem that sometime this_object() does not have
+> > environment.
+> 
+> usually, a char should have environment.
+> if it doesn't have, it means there are some bugs when this char
+> is put in live. or the data of this char has bugs or sth.
+> 
+²Ü±ë: [/sgdomain/modules/m_charnpc#56688]
+
+always have problem...plz check
+
+
+---
+×÷Õß: Wangtian
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vyizhan...
+ÈÕÆÚ: Tue May 18 09:22:26 1999
+
+
+
+
+---
+×÷Õß: Zong
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vstore...
+ÈÕÆÚ: Sun May 16 01:08:30 1999
+jiudai
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >bug of m_charaction.c
+ÈÕÆÚ: Sun May 16 19:46:02 1999
+On Fri May 14 06:20:09 1999 Flee wrote post #3:
+> something wrong with environment(this_object())->query_exit_directions();
+> it seem that sometime this_object() does not have
+> environment.
+
+usually, a char should have environment.
+if it doesn't have, it means there are some bugs when this char
+is put in live. or the data of this char has bugs or sth.
+
+
+
+---
+×÷Õß: Zong
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/hongnong/hn_jy...
+ÈÕÆÚ: Fri May 21 04:45:28 1999
+Á·±ø·Ö±øÊ±Ê¿±øÒ»ÏÂ×ÓÈ«Ã»ÁË.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/chengdu/cd_mc...
+ÈÕÆÚ: Fri May 21 09:48:38 1999
+1 bug, 1 mistake
+the mistake is gongan's mafu disappeared, or not added by row
+add it bah, i dunno how to do that..:(...*blush
+
+1 bug
+about list, it happens sometimes, some times not
+and seems only me has this bug even I tried relog
+
+When I typed list in the first maker, it shows the goods,
+then I went to another maker, type "list", it says ÄãÖÜÎ§Ã»¼ûµ½wang tiejiang¡£
+the previous maker's id
+end of report
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/cities/wan/w_czx...
+ÈÕÆÚ: Tue Jun 15 20:09:48 1999
+On Tue Jun 15 15:08:38 1999 Ice wrote post #90:
+> ¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºĞş±ù½«ÂíÌÚ¹úÉÌÈËµÄÃû×ÖĞ´ÈëµØÇøºÚÃûµ¥£¬½ûÖ¹Æä½øÈë½¨Äş¡£
+> 
+> row, need change it?  :O~
+> 
+
+this is a little bug.
+but it doesn't hurt much :)
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_by...
+ÈÕÆÚ: Tue Jun 15 18:33:27 1999
+now if no general train with u, u'll still fail all train,ÈÎÎñÒ»£ºÇëÔÚÎå·ÖÖÓÄÚ½«±ø·ÖºÃ£¬ÁìÈëÕ½³¡¡£Ä¿Ç°Ê£ÓàÊ±¼ä£ºÎå·ÖÖÓ¡£×é³ÉĞÂ¾üÍÅ¡£ÇëÊäÈë¸Ã¾üÍÅ½«¾ü¡£ÓĞĞ§ÖµÓĞ£º¡¸-1¡¹È±Ê¡ÖµÊÇ£º¡¸-1¡¹-1 [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C [C
+
+ÄãÒÑ¾­²»ÔÚÕ½³¡ÁË£¬ÑµÁ·ÈÎÎñÊ§°Ü¡££ºÎå·ÖÖÓ¡£
+
+cry
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_by...
+ÈÕÆÚ: Tue Jun 15 18:32:05 1999
+ÈÎÎñÒ»£ºÇëÔÚÎå·ÖÖÓÄÚ½«±ø·ÖºÃ£¬ÁìÈëÕ½³¡¡£Ä¿Ç°Ê£ÓàÊ±¼ä£ºÎå·ÖÖÓ¡£×é³ÉĞÂ¾üÍÅ¡£ÇëÊäÈë¸Ã¾üÍÅ½«¾ü¡£ÓĞĞ§ÖµÓĞ£º¡¸-1¡¹È±Ê¡ÖµÊÇ£º¡¸-1¡¹-1ÄãºÈµÀ£ºÈ«Ìå½«Ê¿¶¨Òª·ÜÓÂÉ±µĞ£¬¹ÑÈË×ÔÓĞÖØÉÍ£¡ÄãÁì½«Ê¿½øÈëÕ½³¡¡£> chat and 50 shengwÄãÒÑ¾­²»ÔÚÕ½³¡ÁË£¬ÑµÁ·ÈÎÎñÊ§°Ü¡£
+
+seems still not fixed ya
+
+wiz help
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/wan/w_czx...
+ÈÕÆÚ: Tue Jun 15 15:08:38 1999
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºĞş±ù½«ÂíÌÚ¹úÉÌÈËµÄÃû×ÖĞ´ÈëµØÇøºÚÃûµ¥£¬½ûÖ¹Æä½øÈë½¨Äş¡£
+
+row, need change it?  :O~
+
+
+
+---
+×÷Õß: Panda
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/wan/w_jd2...
+ÈÕÆÚ: Sat Jun 19 03:43:33 1999
+
+
+
+
+---
+×÷Õß: Zhiwei
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_jydz...
+ÈÕÆÚ: Sat Jun 19 00:52:37 1999
+about 1 day not get any salary le, mine is 10 gold each month.
+
+
+
+---
+×÷Õß: Zong
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/guiyang/gy_dl...
+ÈÕÆÚ: Sat Jun 19 00:37:41 1999
+¹ğÑôÓĞÁ½¸öµ÷Æ¤Ğ¡ÄĞº¢(guiyang boy)£¬Õâ»¹²»Ëã£¬
+Äã¶Ôµ÷Æ¤Ğ¡ÄĞº¢ÕĞÁËÕĞÊÖ£ºÏÍµÜ£¬¹ıÀ´£¬ĞÖ³¤ÏòÄã´òÌı¸öÈË£¬ºÃ²»ºÃ¡£
+µ÷Æ¤Ğ¡ÄĞº¢¶ÔÄãµÀ£ºÁõÒãÒªÕÒË­Ñ½¡£
+ÇëÊäÈëÒªÕÒ½ÇÉ«µÄID
+Äã´òËãÕÒË­¡£ÄãµÀ£ºÎÒÏëÕÒÏÄºîĞş¡£
+µ÷Æ¤Ğ¡ÄĞº¢¿ªÊ¼ÈÏÕæ¿¼ÂÇÕâ¸öÎÊÌâ¡£
+ÕâÀïÓĞÄÇÃ´¶àÏÄºîĞş£¬ÎÒÔõÃ´ÖªµÀÄãÒªÕÒÄÄ¸ö¡£
+ÄãÊ§ÍûµØÌ¾ÁË¿ÚÆø¡£
+
+
+ÕâËãÊ²Ã´£¿»¹ÓĞ£¬³É¶¼BOYºÃ¼¸¸öĞ¡Ê±²»³öÀ´£¬PEOPLEÒ²ÊÇ£¬ÎÒCHAT°ëÌìICE
+Ö»¹Ü¿ñ¼ôNPC£¬²»ÀíÎÒ£¬FIRE ROW FELL£¬¿ì°ï°ïÃ¦°É£¨×öµİÑÌ×´£©
+
+
+                      ÁõÒã±¨¸æ
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/guiyang/tmp...
+ÈÕÆÚ: Fri Jun 18 16:46:26 1999
+today when i recruit, i met a question:
+
+> ÖÚ³¤ÛàÆÂ¾ÓÃñ¸ßĞËµØÌøÁËÆğÀ´¡£
+ÖÚ³¤ÛàÆÂ¾ÓÃñ¸ßĞËµ×ÌøÁËÆğÀ´£¬·×·×µÀ£ºÎÒÈ¥£¬ÎÒÈ¥¡£
+Ò»³¤ÛàÆÂ¾ÓÃñ¶ÔÄãµÀ£ºÔÚÎÒÃÇ×ßÖ®Ç°£¬¸øÄãµÀÌâ£¬¿´Äã»á²»»á¡£
+
+ÊÇË­µÄ×Ö:
+1 Ô¬ÉÜ(yuan shao)
+2 ÕÅÕÑ(zhang zhao)
+3 ³ÌÒø(cheng yin)
+4 ²ÜÖ²(cao zhi)
+²»ÖªµÀÇëÓÃ < !info c id >²éÑ¯
+ÈçÓÃZMUD£¬ÇëÏÈÓÃCtrl-R¹Ø±Õparse
+Ë¾Á¥Ğ£Î¾ÑïÆğºÃ´óµÄÒ»¸ö°ÍÕÆ£¬ËÄ´¦Ñ°ÕÒÄ¿±ê¡£
+
+^R
+³ÂÁô¾ÓÃñ²»ÖªÔÚÒéÂÛÊ²Ã´£¬Í»È»´óĞ¦ÆğÀ´¡£
+^R
+1
+ÖÚ³¤ÛàÆÂ¾ÓÃñ¶ÔÄãµÀ£º¿´À´ÊÇ¸ö°×³Õ£¬Õæ²»ÄÜ¸úË®º¢¶ùÅÜ¡£
+Ò»³¤ÛàÆÂ¾ÓÃñµÀ£ºÊ±ºò²»Ôç£¬´ó¼Ò¶¼»ØÈ¥°É¡£
+ÖÚ³¤ÛàÆÂ¾ÓÃñÒ»É¢¶øÈ¥ÁË¡£
+ i am so confused and had to choose 1 . wiz please check all tests.
+thanks.
+
+
+
+---
+×÷Õß: Firefox
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/changan/ca_jydz...
+ÈÕÆÚ: Fri Jun 18 05:52:47 1999
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/didao/dd_yizhan...
+ÈÕÆÚ: Sat Jun 19 08:58:19 1999
+there are 5 didao boy appearing in didao at the same time, 
+fire pls re check it
+
+
+
+---
+×÷Õß: Xixixi
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/ye/tmp...
+ÈÕÆÚ: Sat Jun 19 09:06:47 1999
+»ÆÖÒ¶ÔÄãµÀ£º¹úÒÔÃñÎª±¾£¬¾ÍÂé·³´óÈËÈ¥Ì½·ÃÒ»ÏÂÚş³ÇĞ¡»ï£¬
+> Äã¶ÔÖÚÚş³ÇĞ¡»ïĞ¦×ÅËµµÀ£º¹ıÀ´£¬¹ıÀ´£º±¾µØÌ«ÊØÌØÅÉ±°Ö°À´¿´ÍûÄãÃÇ¡£
+Úş³ÇĞ¡»ï¶ÔÄãµÀ£ºÎÒÃÇ²»ÕıÔÚÉÌÁ¿Âğ£¿
+Ô­ÒòºÃÏóÊÇ³öÏÖÁËÁ½¸öye guy
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/luling/tmp...
+ÈÕÆÚ: Sat Jun 19 11:02:26 1999
+Ò»ÈºÂ®ÁêĞ¡»ï(luling guy);Ò»ÈºÂ®ÁêÏĞÈË(luling idler);Ò»ÈºÂ®ÁêÏĞÈË(luling idler);Ò»ÈºÂ®ÁêĞ¡»ï(luling guy);Ò»ÈºÂ®Áê¾ÓÃñ(luling resident)
+
+seems fire still need adjust more, addoil
+
+
+
+---
+×÷Õß: Liyu
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_ddj1...
+ÈÕÆÚ: Sat Jun 19 13:17:02 1999
+¶«´ó½Ö [³ö¿Ú£ºeast, south, north, west]
+
+Ò»ÈºÂåÑô³ÇÏĞÈË(luoyang idler)
+> ¡¾ÏĞÁÄ¡¿°ü°ü(babu)£º¹ğÁÖÉ½Ë®¼×ÌìÏÂ£¬ÎÒ×¼±¸¿ª·¢±¾µØÂÃÓÎÒµ
+ask luoyang idler about hi
+Äã¶ÔÖÚÂåÑô³ÇÏĞÈËĞ¦×ÅËµµÀ£º¹ıÀ´£¬¹ıÀ´£º±¾µØÌ«ÊØÌØÅÉ±°Ö°À´¿´ÍûÄãÃÇ¡£
+ÂåÑô³ÇÏĞÈË¶ÔÄãµÀ£ºÎÒÃÇ²»ÕıÔÚÉÌÁ¿Âğ£¿
+> ¡¾ÏĞÁÄ¡¿ÓÚ¼ª£ºÏÌÑôÕæÊÇ¸öºÃµØ·½£¬ÀÏ·ò»¹Òª¶àÓÎÀÀ¼¸ÈÕ¡£
+
+
+dunno why i can't visit them, no other person visiting except me and that was my first time to ask him today. please check, thanks
+
+
+
+---
+×÷Õß: Babu
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/guilin/glin_yz...
+ÈÕÆÚ: Sat Jun 19 13:19:35 1999
+¼¸ÃûÊ¿±øÉÏÀ´°ÑĞ¡ÍµÍÏÁËÏÂÈ¥¡£ Ğ¡ÍµÏòÃñ·¿ÌÓÈ¥¡£
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/xiaopei/tmp...
+ÈÕÆÚ: Sat Jun 19 13:49:43 1999
+> ÖÚĞ¡Åæ¾ÓÃñ¸ßĞËµØÌøÁËÆğÀ´¡£
+ÖÚĞ¡Åæ¾ÓÃñ¸ßĞËµ×ÌøÁËÆğÀ´£¬·×·×µÀ£ºÎÒÈ¥£¬ÎÒÈ¥¡£
+Ò»Ğ¡Åæ¾ÓÃñ¶ÔÄãµÀ£ºÔÚÎÒÃÇ×ßÖ®Ç°£¬¸øÄãµÀÌâ£¬¿´Äã»á²»»á¡£
+
+ÊÇË­µÄ×Ö:
+1 ²ÜÈÊ(cao ren)
+2 ÍõÆ½(wang ping)
+3 ¹«Ëï¶È(gongsun du)
+4 ³ÌÎä(cheng wu)
+²»ÖªµÀÇëÓÃ < !info c id >²éÑ¯
+ÈçÓÃZMUD£¬ÇëÏÈÓÃCtrl-R¹Ø±Õparse
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÂ¤Î÷ÕıÔÚ¾ÙĞĞµØÇø»áÒé¡£
+¡¾Ô¶³Ì¡¿ÄãÎŞÁÄµØÓÃÊÖÖ¸´ÁÁË´ÁĞş±ù£¬¿ÉËûÏó¸ùÄ¾Í·Ò»ÑùºÁÎŞ·´Ó¦¡£
+ÇëÊäÈëÕıÈ·´ğ°¸(1,2,3 or 4)£º¡¾ÏĞÁÄ¡¿ÓÚ¼ª£º°²¶¨³ÇÕæÊÇ¸öºÃµØ·½£¬ÀÏ·ò»¹Òª¶àÓÎÀÀ¼¸ÈÕ
+¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÉÏÓ¹¼¯ÊĞÒ»Æ¬·±Ã¦¾°Ïó£¬¸÷¹úÉÌÈËÕùÏà½ĞÂô¡£
+¡¾ÏĞÁÄ¡¿³Ô±ù±ù(cbing)£º°ÙĞÕÒÑ¾­¼«¶È²»Âú£¬ÔÙÌá¸ßË°ÂÊ£¬ÏëÒıÆğ±©¶¯Ñ½£¿£¡
+1
+ÖÚĞ¡Åæ¾ÓÃñ¶ÔÄãµÀ£º¿´À´ÊÇ¸ö°×³Õ£¬Õæ²»ÄÜ¸úË®º¢¶ùÅÜ¡£
+Ò»Ğ¡Åæ¾ÓÃñµÀ£ºÊ±ºò²»Ôç£¬´ó¼Ò¶¼»ØÈ¥°É¡£
+ÖÚĞ¡Åæ¾ÓÃñÒ»É¢¶øÈ¥ÁË¡£
+> º¹Ñª±¦Âí(hxbma)²»ÖªÔõÃ´·¢ÁËÆ¢Æø£¬ÁªÁÌ¼¸¸öõê×Ó¡£> ÖÚĞ¡Åæ¾ÓÃñ¸ßĞËµØÌøÁËÆğÀ´¡£
+ÖÚĞ¡Åæ¾ÓÃñ¸ßĞËµ×ÌøÁËÆğÀ´£¬·×·×µÀ£ºÎÒÈ¥£¬ÎÒÈ¥¡£
+Ò»Ğ¡Åæ¾ÓÃñ¶ÔÄãµÀ£ºÔÚÎÒÃÇ×ßÖ®Ç°£¬¸øÄãµÀÌâ£¬¿´Äã»á²»»á¡£
+
+ÊÇË­µÄ×Ö:
+1 ²ÜÈÊ(cao ren)
+2 ÍõÆ½(wang ping)
+3 ¹«Ëï¶È(gongsun du)
+4 ³ÌÎä(cheng wu)
+²»ÖªµÀÇëÓÃ < !info c id >²éÑ¯
+ÈçÓÃZMUD£¬ÇëÏÈÓÃCtrl-R¹Ø±Õparse
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÂ¤Î÷ÕıÔÚ¾ÙĞĞµØÇø»áÒé¡£
+¡¾Ô¶³Ì¡¿ÄãÎŞÁÄµØÓÃÊÖÖ¸´ÁÁË´ÁĞş±ù£¬¿ÉËûÏó¸ùÄ¾Í·Ò»ÑùºÁÎŞ·´Ó¦¡£
+ÇëÊäÈëÕıÈ·´ğ°¸(1,2,3 or 4)£º¡¾ÏĞÁÄ¡¿ÓÚ¼ª£º°²¶¨³ÇÕæÊÇ¸öºÃµØ·½£¬ÀÏ·ò»¹Òª¶àÓÎÀÀ¼¸ÈÕ
+¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÉÏÓ¹¼¯ÊĞÒ»Æ¬·±Ã¦¾°Ïó£¬¸÷¹úÉÌÈËÕùÏà½ĞÂô¡£
+¡¾ÏĞÁÄ¡¿³Ô±ù±ù(cbing)£º°ÙĞÕÒÑ¾­¼«¶È²»Âú£¬ÔÙÌá¸ßË°ÂÊ£¬ÏëÒıÆğ±©¶¯Ñ½£¿£¡
+1
+ÖÚĞ¡Åæ¾ÓÃñ¶ÔÄãµÀ£º¿´À´ÊÇ¸ö°×³Õ£¬Õæ²»ÄÜ¸úË®º¢¶ùÅÜ¡£
+Ò»Ğ¡Åæ¾ÓÃñµÀ£ºÊ±ºò²»Ôç£¬´ó¼Ò¶¼»ØÈ¥°É¡£
+ÖÚĞ¡Åæ¾ÓÃñÒ»É¢¶øÈ¥ÁË¡£
+> º¹Ñª±¦Âí(hxbma)²»ÖªÔõÃ´·¢ÁËÆ¢Æø£¬ÁªÁÌ¼¸¸öõê×Ó¡£
+
+
+
+
+bug again, cry
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/xiangyang/xy_qslx...
+ÈÕÆÚ: Sat Jun 19 14:40:38 1999
+> idfind xiangyang thief
+([ /* sizeof() == 4 */
+  sgdomain/modules/m_charnpc/thief#8719 ("NPC") : sgdomain/area/cities/xiangyang/xy_yst,
+  sgdomain/modules/m_charnpc/thief#8674 ("NPC") : sgdomain/area/cities/xiangyang/xy_bqp,
+  sgdomain/modules/m_charnpc/thief#8984 ("NPC") : sgdomain/area/cities/xiangyang/xy_qslx,
+  sgdomain/modules/m_charnpc/thief#8748 ("NPC") : sgdomain/area/cities/xiangyang/xy_ndj2,
+
+
+
+
+---
+×÷Õß: Wdoll
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_by...
+ÈÕÆÚ: Thu Jun 17 18:51:58 1999
+today i tried to train some footman i just recruit.
+
+before train, it was "train 15, moral 15"
+
+i failed 3 in 7 tasks and after train, it was "train 15, moral 14"
+
+ÄãµÀ£º±¾´Î¹²½øĞĞÁËÆß¸öÏîÄ¿µÄÑµÁ·£¬ÆäÖĞ³É¹¦ÁËËÄÏî¡£Ê§°ÜÁËÈıÏî¡£×ÜÌåĞ§¹û·Ç³£³É¹¦£¬ÖîÎ»¶¼»áÓĞÉÍ¡£ÂåÑô³ÇÊ¿±øµÄÑµÁ·¶ÈÌá¸ßÁË¡£ÂåÑô³ÇÊ¿±øµÄÊ¿ÆøÌá¸ßÁË¡£
+
+is it a bug sth? i think at least i shd get 2 or 3 train from it and maybe no moral, but the current result is too unreasonable la.
+wiz, please check and fix.
+
+
+
+
+
+---
+×÷Õß: Zong
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/chengdu/cd_czx...
+ÈÕÆÚ: Thu Jun 17 00:46:10 1999
+  ½ñÌìÒ»ÉÏÀ´·¢ÏÖ¿â´æÙºÒø±ä³É¸ºÎå°Ù¶àÁ½£¬Ò»Ê±·Ñ½â£¡
+µ±¾èÁËÇ®ÒÔºóÇ®ÓĞ±äÕıµÄ¼¸°ÙÁ½ÁË£¬ÎÒ¼ÒÖ÷¹«ËµÕâ¿ÉÄÜºÍ³¯Í¢
+¹ÙÖ°ÓĞ¹ØÏµ£¬ÊÇÑÏÖØµÄBUG£¡ÎÒµÈ²»ÄÜÖ»¹ÊË½Àû¶ø²»¹Ê¹æ¶¨£¬ÄÇÑù¾ÍÌ«¶Ô²»Æğ
+WIZ´óÈËÁË£¬ËùÒÔÉÏ±¨£¬ÇëWIZ´óÈËÃ÷²é£¡
+       
+                          ÁõÒã
+
+
+
+---
+×÷Õß: Flute
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_zsyz...
+ÈÕÆÚ: Tue Jun 22 17:34:37 1999
+after reboot, i relogin but found i can't train any more
+
+pls see what system shows
+Ğ¡°×ÄÃ×ÅÉñµÆÒ¡ÁËÒ¡£¬À¶É«´ó¾«Áé»¯×÷Ò»¹ÉÀ¶ÑÌ£¬×ê»ØµÆÖĞ¡£
+À¶É«´ó¾«ÁéÒ¡ÉíÒ»±ä£¬»¯³ÉËïÎäÄ£Ñù£¬ÊÖ³Ö±øÊé£¬Ò»±¾Õı¾­µØ¶Ô×¦ÍÜÄîµÀ£º
+ºÃÄĞ¶ù×İºáÌìÏÂ£¬ÌÈÓĞÒ»ÈÕÄÜ¾ıÁÙÌìÏÂ£¬×ÔÊÇ´óºÃ¡£
+²»¹ıÈôÄÜµÃÓöÃ÷Ö÷¶ø¸¨Ö®£¬Ò²²»Í÷»îÒ»ÊÀ¡£
+
+
+cmd localmeeting
+Ì«ÊØÏÖÔÚÕıÃ¦×ÅÄØ£¬·Ö²»¿ªÉí¡£
+> ÈÎÎñËÄ£ºÇëÔÚÊ®·ÖÖÓÄÚÍê³ÉÒÔÏÂĞĞ¾üÈÎÎñ£º
+0µ½£Ï16¡£
+0µ½£Ï16¡£
+Ä¿Ç°Ê£ÓàÊ±¼ä£ºÒ»·ÖÖÓ¡£
+
+
+
+i am in Ö÷Ë§ÓªÕÊ [³ö¿Ú£ºeast], but still be assumed in war. and can't do anything else. pls check and fix
+
+
+
+---
+×÷Õß: Babu
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#32053...
+ÈÕÆÚ: Sun Jun 20 19:17:34 1999
+µĞ¾üÔÚÄãµÄ¶«±±£¬Òª½øĞĞ¹­¼ı¹¥»÷ÓÃÊ²Ã´Ö¸Áî£¿ cmd array ne 1 »Ø´ğ´íÎó¡££cmd array ne 2»Ø´ğ´íÎó¡£ÓÃhelp²éÏà¹ØĞÅÏ¢¡£cmd array northeast 1»Ø´ğ´íÎó¡£ÓÃhelp²éÏà¹ØĞÅÏ¢¡£cmd array northeast 2»Ø´ğ´íÎó¡£?why lah.hehe.thx
+
+
+---
+×÷Õß: Cbing
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/guilin/glin_xd...
+ÈÕÆÚ: Sun Jun 20 19:00:09 1999
+¼¸ÃûÊ¿±øÉÏÀ´°ÑĞ¡ÍµÍÏÁËÏÂÈ¥¡£ > Ğ¡ÍµÆËÍ¨Ò»¹òµ¹ÔÚµØ£º´ó¸ç´óÉ©£¬ĞĞĞĞºÃ£¬ÉÍÁ½ÎÄ¾ÆÇ®°É£¿Ğ¡ÍµÏòĞ¡Â·ÌÓÈ¥¡£
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Sun Jun 20 18:52:45 1999
+bug in war appear again, seems the same problem we got in yanmenguan,
+stuck in the defence arranging troops stage, all defence officers were
+in flying room, but no further action, i remember last time flee said
+he replace the warroom, dunno if this is the problem.  Seems always 
+occurred in new areaas.
+
+today derek war from yanmenguan -> jinyang, wdoll war from huguan -> ye
+both stucked in warfield.  but it's strange that when wdoll war huguan,
+the same bug did not occur.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_xcm...
+ÈÕÆÚ: Sun Jun 20 15:39:23 1999
+fire, seems neither the city nor the officer can get income,
+please check it
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/guilin/glin_yst...
+ÈÕÆÚ: Sun Jun 20 11:20:49 1999
+salary bug not fixed yet, seems all player cannot get salary for long time
+
+
+
+---
+×÷Õß: Panda
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/obj/horse/horse#4330...
+ÈÕÆÚ: Sun Jun 20 23:29:31 1999
+^_____^, I was thrown into yangpingguan jail, and i typed out, suddenly, i am in wan? is this a bug?addoil wiz
+
+
+
+---
+×÷Õß: Panda
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/wan/w_cg...
+ÈÕÆÚ: Sun Jun 20 23:30:01 1999
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_hy...
+ÈÕÆÚ: Mon Jun 21 10:57:22 1999
+fire, what kind of npc is gini?
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÀ¶É«´ó¾«ÁéÑá¾ë¹Ù³¡Õù¶·£¬¾ö¶¨¹éÒşÉ½ÁÖ¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÀ¶É«´ó¾«ÁéÑá¾ë¹Ù³¡Õù¶·£¬¾ö¶¨¹éÒşÉ½ÁÖ¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÀ¶É«´ó¾«ÁéÑá¾ë¹Ù³¡Õù¶·£¬¾ö¶¨¹éÒşÉ½ÁÖ¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÀ¶É«´ó¾«ÁéÑá¾ë¹Ù³¡Õù¶·£¬¾ö¶¨¹éÒşÉ½ÁÖ¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÀ¶É«´ó¾«ÁéÑá¾ë¹Ù³¡Õù¶·£¬¾ö¶¨¹éÒşÉ½ÁÖ¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÀ¶É«´ó¾«ÁéÑá¾ë¹Ù³¡Õù¶·£¬¾ö¶¨¹éÒşÉ½ÁÖ¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÀ¶É«´ó¾«ÁéÑá¾ë¹Ù³¡Õù¶·£¬¾ö¶¨¹éÒşÉ½ÁÖ¡£
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_ddj1...
+ÈÕÆÚ: Mon Jun 21 11:02:39 1999
+Ë®º¢¶ù¶ÔÖÚÂåÑô³Ç¾ÓÃñµÀ£¬Ê±³½²»Ôç£¬¹ÑÈËÊÂÎñ·±Ã¦£¬ÏÈĞĞ¸æ´Ç¡£
+ÄãÏÖÔÚ·ÅÆú¸úËæÄ¿±ê¡£
+> ÖÚÂåÑô³Ç¾ÓÃñ·×·×µãÍ·´ğµÀ£ºĞ»Ğ»Å®Íõ±İÏÂµÄ¹Ø»³¡£
+
+l
+¶«´ó½Ö ³
+
+    ÕâÀï¾ÍÊÇÂåÑô³ÇÀïµÄ¶«Î÷Ö÷¸ÉµÀ¶«´ó½ÖÁË¡£±ÈÆğ»Ê¹¬Â·ÉÏµÄ±±´ó
+½Ö£¬¶«´ó½ÖÂÔÎ¢ÓĞµãÏÁÕ­¡£±±±ßÊÇ¾©³Ç°ÙĞÕµÄÀÖÔ°¡ª¡ª²è¹İ¡£ÄÏ±ßÌô
+×ÅÒ»·ù´ó´óµÄÀ¶²¼£¬ÉÏÃæÊÇÒ»¸ö°×É«µÄ¡ºµ±¡»×Ö¡£
+
+Ë®ÔÆ¹úÂåÑô³ÇÎä¹ÙÕÅ¼Ã(zhang ji)
+Ò»ÈºÂåÑô³Ç¾ÓÃñ(luoyang resident)
+
+Ë®ÔÆ¹úÖ÷¹«¡¸ºìµÄ´½ºÚÉ«ÑÛíø¡¹Ë®º¢¶ù£¬×ÖÄª³î(wdoll)
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_ddj1...
+ÈÕÆÚ: Mon Jun 21 11:04:38 1999
+ÀîìÏ×ßÁË¹ıÀ´¡£
+ÀîìÏ¶ÔÖÚÂåÑô³Ç¾ÓÃñĞ¦×ÅËµµÀ£º¹ıÀ´£¬¹ıÀ´£º±¾µØÌ«ÊØÌØÅÉ±°Ö°À´¿´ÍûÄãÃÇ¡£
+ÂåÑô³Ç¾ÓÃñ¶ÔÀîìÏµÀ£ºÈ¥È¥È¥£¬Ã»¼ûÎÒÃÇÕıÃ¦ÕßÂğ£¿
+
+
+as I know, the visitpeople job won't make the ppl disappear after the job,
+and after 20-30 mins, player can visit the same ppl again and again,
+seems this bug not occuring in recruiting
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/huiji/hj_sm...
+ÈÕÆÚ: Mon Jun 21 13:01:19 1999
+fire, Ò»Èº»á»üÏĞÈË(huiji idler);Ò»Èº»á»üÏĞÈË(huiji idler)
+still sth wrong, addoil
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Mon Jun 21 15:10:49 1999
+seems recruit also has bugs, if a player recruit and choose 13, ppl will still be there
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/hongnong/hn_yst...
+ÈÕÆÚ: Sun Jun 20 10:39:27 1999
+fire, seems after player do some jobs on ppl, they still not leave
+addoil
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/hongnong/hn_jy...
+ÈÕÆÚ: Sun Jun 20 10:13:00 1999
+Ğ¡Íµ(hongnong thief)
+±±Æ½Ñ©¹úºëÅ©³ÇÊéÒ¯º«Ëì£¬×ÖÎÄÔ¼(han sui)
+Ò»ÈººëÅ©³ÇĞ¡»ï(hongnong guy)
+
+
+thieves stand peacefully with players now
+
+
+
+---
+×÷Õß: Xixixi
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/jinyang/jy_zhp...
+ÈÕÆÚ: Sun Jun 20 03:21:56 1999
+
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/guan/didao/dd_yizhan...
+ÈÕÆÚ: Sun Jun 20 01:31:28 1999
+On Sat Jun 19 08:58:19 1999 Ice wrote post #101:
+> there are 5 didao boy appearing in didao at the same time, 
+> fire pls re check it
+> 
+
+this is possible
+now thay are not record as a record in char_d
+so duplication is possible
+you can use idfind guy to check how many guys in our system
+should not over 300, :)
+
+
+---
+×÷Õß: Zong
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/chengdu/cd_sbl5...
+ÈÕÆÚ: Sat Jun 26 02:32:39 1999
+
+  ºÚÃûµ¥µÄBUG£¬µ±Ò»¸ö±»¼ÇÂ¼ÔÚºÚÃûµ¥ÖĞµÄIDÍ¶µ½ÎÒµÄ¹ú¼ÒÀ´Ê±£¬
+ºÚÃûµ¥ÖĞÕâ¸öID¾ÍÉ¾²»µôÁË£¬³É¶¼ÓĞÁ½¸öÕâÑùµÄÀı×Ó¡£
+(2 )µÛ¹ú        Ë¾Âí¿Ë(aero)        ÒÑÊ§Ğ§
+(5 )µÛ¹ú        ÀËÈË(cowboy)        ÒÑÊ§Ğ§
+°ÑË­¼ÓÈëºÚÃûµ¥£ºcowboy
+ÉèÖÃ¶àÉÙĞ¡Ê±-720
+È·ÈÏÂğ0£¬ÇëÎñ±ØÉ÷ÖØ¿¼ÂÇ¡£ y
+ÀËÈËÊÇ±¾¹ú¹ÙÔ±¡£
+ÓÃ ENTER ·µ»Ø²Ëµ¥
+
+
+¾ÍÊÇÕâÑù......
+                        
+                        
+                        ÁõÒã
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/xiapi/xp_center...
+ÈÕÆÚ: Thu Jun 24 13:07:15 1999
+±¾µØÒş¾ÓÏÍÈË£ºË®ÔÆ¹úÉÌÈË µÛ¹úÉÌÈË Ô¬Êõ¹úÉÌÈË ¹«Ëïè¶¹úÉÌÈË ½ª¹úÉÌÈË Îâ¹úÉÌÈË ±±Æ½Ñ©¹úÉÌÈË 
+> idfind wdoll merchant
+([ ])
+
+merchant sleep mode?
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/tongguan/hg_laofang...
+ÈÕÆÚ: Thu Jun 24 19:58:57 1999
+Ò»Èºäü¹Ø¾ÓÃñ(tongguan resident);Ò»Èºäü¹Ø¾ÓÃñ(tongguan resident)
+
+fire, has sime to fix this bug and make a quote for recruit?
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/guan/tongguan/hg_laofang...
+ÈÕÆÚ: Fri Jun 25 02:10:52 1999
+On Thu Jun 24 19:58:57 1999 Ice wrote post #126:
+> Ò»Èºäü¹Ø¾ÓÃñ(tongguan resident);Ò»Èºäü¹Ø¾ÓÃñ(tongguan resident)
+> 
+> fire, has sime to fix this bug and make a quote for recruit?
+> 
+
+°´ÏÖÔÚµÄÉè¼Æ£¬Õâ¸öÊÇÕı³£µÄ¡£
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Tue Jun 29 18:32:07 1999
+i think i crashed this mud 3 times today...seems to be
+too long eval problem...
+below is the log (interesting lines) of the 3rd crash...
+
+/> grep aut_appear *
+[/core]:
+^Daut_appear"^Y^K^Aget_visnamec"^Y^A^B^D^C^X˜^P^D^CF‰h
+
+
+[/daemons/ai_d.c]:
+   "/sgdomain/event/ev_guard"->aut_appear();^M
+   "/sgdomain/event/ev_guard"->aut_appear();
+           ("/sgdomain/event/ev_guy")->aut_appear();^M
+                ("/sgdomain/event/ev_xianren.c")->aut_appear();^M
+
+
+[/log/catch]:
+'aut_appear' at /sgdomain/event/ev_guard at line 31
+'aut_appear' at /sgdomain/event/ev_guard at line 31
+'aut_appear' at /sgdomain/event/ev_guard at line 39
+'aut_appear' at /sgdomain/event/ev_guy at line 62
+'aut_appear' at /sgdomain/event/ev_guard at line 40
+'aut_appear' at /sgdomain/event/ev_guard at line 40
+'aut_appear' at /sgdomain/event/ev_guard at line 40
+'aut_appear' at /sgdomain/event/ev_guard at line 40
+(1-20 36%) [h]:¡¾ÏĞÁÄ¡¿¹Â·« ×İÉù´ó½Ğ£ºcrash
+¡¾ÏµÍ³¡¿¹Â·«¶ÏÏßÁË¡£
+¡¾ÏµÍ³¡¿¹Â·«Àë¿ªÁËÈı¹ú¡£
+
+
+
+[/log/runtime]:
+'aut_appear' at /sgdomain/event/ev_guy at line 63
+'aut_appear' at /sgdomain/event/ev_guy at line 63
+'aut_appear' at /sgdomain/event/ev_guy at line 63
+'aut_appear' at /sgdomain/event/ev_guy at line 63
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+(21-40 72%) [h]:¡¾ÏµÍ³¡¿¹Â·«½øÈëÈı¹ú¡£
+
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+'aut_appear' at /sgdomain/event/ev_guy at line 64
+/>
+<seems to go fine...>
+
+<other cmds...like the following...>
+/log> tail ftp
+*Bad argument 1 to explode()
+Expected: string Got: 0.
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *Bad argument 1 to explode()
+         *Expected: string Got: 0.
+[errors] /trans/cmds/tail at line 12
+
+<now try again...>
+/> grep aut_appear *
+[/core]:
+^Daut_appear"^Y^K^Aget_visnamec"^Y^A^B^D^C^X˜^P^D^CF‰h
+
+
+[/daemons/ai_d.c]:
+   "/sgdomain/event/ev_guard"->aut_appear();^M
+   "/sgdomain/event/ev_guard"->aut_appear();
+           ("/sgdomain/event/ev_guy")->aut_appear();^M
+                ("/sgdomain/event/ev_xianren.c")->aut_appear();^M
+
+
+[/log/catch]:
+'aut_appear' at /sgdomain/event/ev_guard at line 31
+'aut_appear' at /sgdomain/event/ev_guard at line 31
+'aut_appear' at /sgdomain/event/ev_guard at line 39
+'aut_appear' at /sgdomain/event/ev_guy at line 62
+'aut_appear' at /sgdomain/event/ev_guard at line 40
+'aut_appear' at /sgdomain/event/ev_guard at line 40
+'aut_appear' at /sgdomain/event/ev_guard at line 40
+'aut_appear' at /sgdomain/event/ev_guard at line 40
+(1-20 36%) [h]:Ğş±ùËµµÀ£ºor ur statement failed?
+Connection closed by foreign host.
+<crash!>
+
+
+<tset 1 login:tset 1 view>
+Íæ¼Ò£¬ÄúºÃ£¡
+ÇëÊäÈëÄúµÄÓ¢ÎÄÃû×Ö£ºtset
+ÇëÊäÈëÃÜÂë£º
+
+---------------
+½ñÈÕÎ÷ÏßÎŞÕ½ÊÂ¡£
+---------------
+
+·Ç·¨¸´ÖÆ.
+·Ç·¨¸´ÖÆ.
+·Ç·¨¸´ÖÆ.
+·Ç·¨¸´ÖÆ.
+·Ç·¨¸´ÖÆ.
+¡òÈı¹úÎ×Ê¦Í¨¸æ¡ò
+
+¡òÈı¹ú´óÊÂ¼Ç¡ò
+
+
+*ÊÔÍ¼·Ç·¨É¾³ıÁôÑÔ
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *ÊÔÍ¼·Ç·¨É¾³ıÁôÑÔ
+[errors] /daemons/news_d at line 406
+
+¡¾ÏµÍ³¡¿¹Â·«½øÈëÈı¹ú¡£
+
+/wiz/tset> *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *Bad argument 1 to call_other()
+         *Expected: string or array or object Got: 0.
+[errors] /std/race/human#117 (std/living.c) at line 66
+
+/> grep tset core
+*Bad file format. Ed can't handle lines longer than 2048.
+Trace written to /log/catch
+[errors] (tset) Error logged to /log/catch
+[errors] *Bad file format. Ed can't handle lines longer than 2048.
+[errors] /trans/cmds/grep at line 85
+
+¾¯¸æ£º/core Ì«´ó£¬³¬¹ıÁË LPC µÄ´¦ÀíÄÜÁ¦¡£Ã»ÓĞÕÒµ½¡£
+
+/> i boat
+¹Â·«ÉíÉÏ´ø×ÅÈçÏÂÎïÆ·(¸ºÖØ£º0%)£º
+  ËÄ°¢À­²®ÉñµÆ(lamp)
+  Ê®Á½½ğ×Ó(gold)
+  Ê®ÈıÎÄÇ®(coin)
+  °ËÊ®¶şÁ½Òø×Ó(silver)
+
+/> scan -d boat
+É¨Ãè /std/race/human#137:
+    /std/object#140: "²»Ã÷ÎïÌå"
+    /std/object#141: "²»Ã÷ÎïÌå"
+    /std/object#142: "²»Ã÷ÎïÌå"
+    /sgdomain/obj/money/m_silver#143: <AL> "°ËÊ®¶şÁ½Òø×Ó(silver)"
+    /sgdomain/obj/money/m_coin#144: <AL> "Ê®ÈıÎÄÇ®(coin)"
+    /sgdomain/obj/money/m_gold#145: <AL> "Ê®Á½½ğ×Ó(gold)"
+    /std/object#151: "°¢À­²®ÉñµÆ(lamp)"
+
+/>Ğş±ù³ÃÃ»ÓĞÈË×¢Òâ£¬ÓÖÇÄÇÄ°ÑÒ»¸ö0Èû»ØÁËÎ×Ê¦°ì¹«ÊÒ¡£
+/> scan -d djt
+É¨Ãè /std/race/human#174:
+    /std/object#178: "²»Ã÷ÎïÌå"
+    /std/object#192: "°¢À­²®ÉñµÆ(lamp)"
+    /sgdomain/obj/money/m_silver#594: <AL> "ÆßÊ®Á½Òø×Ó(silver)"
+    /sgdomain/job/chopwoods/chopper#603: <AL> "Ğâ¼£°ß°ßµÄ¿³²ñµ¶(chopper)"
+    /sgdomain/job/chopwoods/firewoods#678: "¶şÊ®¸ù²ñ»ğ(firewoods)"
+
+<tset 2 login: tset 2 view>
+·Ç·¨¸´ÖÆ.
+·Ç·¨¸´ÖÆ.
+·Ç·¨¸´ÖÆ.
+·Ç·¨¸´ÖÆ.
+¡òÈı¹úÎ×Ê¦Í¨¸æ¡ò
+
+¡òÈı¹ú´óÊÂ¼Ç¡ò
+
+Î×Ê¦´óÌü [³ö¿Ú£ºeast, south, caolu, north, northwest, up, down]
+»¶Ó­À´µ½ LIMA£¬ÕâÀïÊÇÎ×Ê¦ÃÇÌÖÂÛºÍ·¢±íÓë LP MUD ºÍ MudOS Ïà¹ØÎÊÌâµÄÂÛÌ³¡£ÄãÒ²¿ÉÒÔ
+ÔÚÕâÀïÑ¯ÎÊÒ»Ğ©ÓĞ¹ØÖĞÎÄ MUD µÄ¼¼ÊõĞÔÎÊÌâ¡£ÓÉÓÚºº»¯»¹²»¹»³ä·Ö£¬LIMA ÈÔÓĞĞí¶àµÄµØ·½
+ÓĞ´ıÍêÉÆ£¬»¶Ó­´ó¼Ò¶àÌáÒâ¼û¡£
+        Ê¹ÓÃĞÂÎÅÏµÍ³£¬ÇëÓÃ news ÃüÁî¡£
+        Ê¹ÓÃÍæ¼ÒÑ¡µ¥£¬ÇëÓÃ menu ÃüÁî¡£
+        Ê¹ÓÃÓÊ¼şÏµÍ³£¬ÇëÓÃ mail ÃüÁî¡£
+±±ÃæÇ½ÉÏÏâ×ÅÒ»¸öÉÁ¹âµÄÂÖ»ØÌ¨£¬¿ÉÒÔÈ¥ÍùÈË¼ä¡£Î÷ÃæÊÇ¾²ÊÒ£¬ËüµÄÃÅÕı¹Ø×Å¡£
+
+Ò»¸öÄ§·¨Ä¾¹÷(torch)·ÅÔÚµØÉÏ£¬Ã»ÓĞÈË×¢Òâ¡£
+/wiz/tset> ¡¾ÏµÍ³¡¿Èı¹ú¼à¿Ø£º¹¤½³xuzhou sellerÃ»ÓĞºÏ·¨µØÇø¡£ À´×Ô£º/cmds/verbs/c
+heck
+¡¾ÏµÍ³¡¿Èı¹ú¼à¿Ø£º¹¤½³huiji sellerÃ»ÓĞºÏ·¨µØÇø¡£ À´×Ô£º/cmds/verbs/check
+ÄãÉíÉÏ´ø×ÅÈçÏÂÎïÆ·(¸ºÖØ£º0%)£º
+  Ò»Á½½ğ×Ó(gold)
+  Ò»Á½Òø×Ó(silver)
+  Ò»ÎÄÇ®(coin)
+  Ò»¸öÄ§·¨Ä¾¹÷(torch)
+  Ò»ÌõÏÊÓã(fish)
+  Ò»¸öÓæÍø(net)
+/wiz/tset>                                         
+
+
+<tset 2 login: tset 1 view>
+/sgdomain/event/> ¡¾ÏµÍ³¡¿Ô·èµ½øÈëÈı¹ú¡£
+Í»È»Ã°ÆğÒ»¹ÉÀºÑÌ£¬ÑÌÎíÖĞ£¬Ò»¸öÀ¶É«´ó¾«Áéµİ¸øÄãÒ»ÕµÉñµÆ£¬ËµµÀ£º
+ÎÒÊÇÄãµÄ±£»¤Éñ£¬µ±ÄãĞèÒªÎÒÊ±£¬Ö»ÒªÊäÈë gini ÎÒ¾Í»á°ïÖúÄã¡£
+ÈôÄã²»ĞèÒªÎÒÁË£¬ÊäÈë gini return£¬ÎÒ¾Í»áÏûÊ§¡£
+/sgdomain/event/> i
+ÄãÉíÉÏ´ø×ÅÈçÏÂÎïÆ·(¸ºÖØ£º-12%)£º
+  Ò»Õµ°¢À­²®ÉñµÆ(lamp)
+  Ò»Á½½ğ×Ó(gold)
+  Ò»Á½Òø×Ó(silver)
+  Ò»ÎÄÇ®(coin)
+  Ò»¸öÄ§·¨Ä¾¹÷(torch)
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/tset/ting...
+ÈÕÆÚ: Tue Jun 29 14:00:38 1999
+say *ugly*
+*Bad argument 1 to strsrch()
+Expected: string Got: 0.
+Trace written to /log/runtime
+
+[errors] (scallion) Error logged to /log/runtime
+[errors] *Bad argument 1 to strsrch()
+         *Expected: string Got: 0.
+[errors] /obj/pshell#983 (std/modules/m_complete.c) at line 53
+
+seems this is a player-only problem, say *ugly*
+is ok for me
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/taiyuan/ty_camp2...
+ÈÕÆÚ: Tue Jun 29 16:42:41 1999
+player can fight his own gini...
+and apparently gini cannot die...
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Tue Jun 29 11:30:05 1999
+visitpeople bug:
+when a player visitpeople, if he disconnects himself b4 choosing
+the last option (10, leave), the ppl will not disappear after the visit.
+bug found by cdd.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Tue Jun 29 11:22:23 1999
+all makers disappeared, I tried to use makereditor, edit current maker, 
+then update here, but need to do it one by one, and i cannot remember
+all makers ID, it's a super manual job for me, maybe it's because fire add
+the new cmd, any other easy way to update the makers to make them appear?
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/guan/chanxi/cx_htl...
+ÈÕÆÚ: Mon Jun 28 20:26:29 1999
+On Mon Jun 28 17:58:44 1999 Tset wrote post #140:
+> »ÆÍÁÂ· [³ö¿Ú£ºenter]
+> 
+> ©³©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©·
+> ©§                                                        ©§
+> ©§                         »ÆÍÁÂ·                         ©§
+> ©§                                                        ©§
+> ©»©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¿
+> 
+> ¡¼ÀäÑªÕ½¹ú¡½¡òå¤Ïª¡òË¾Á¥Ğ£Î¾(guard)
+> ¿ÜÖÙµÄÀ¶É«´ó¾«Áé(gini)
+> ¿ÜÖÙµÄÀ¶É«´ó¾«Áé(gini)
+> 
+> huh, one player can have many gini? also, so many stray
+> gini without masters...
+> 
+i think this problem is caused by the reboot
+will improve code to solver this problem :)
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/chanxi/cx_htl...
+ÈÕÆÚ: Mon Jun 28 17:58:44 1999
+»ÆÍÁÂ· [³ö¿Ú£ºenter]
+
+©³©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©·
+©§                                                        ©§
+©§                         »ÆÍÁÂ·                         ©§
+©§                                                        ©§
+©»©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¿
+
+¡¼ÀäÑªÕ½¹ú¡½¡òå¤Ïª¡òË¾Á¥Ğ£Î¾(guard)
+¿ÜÖÙµÄÀ¶É«´ó¾«Áé(gini)
+¿ÜÖÙµÄÀ¶É«´ó¾«Áé(gini)
+
+huh, one player can have many gini? also, so many stray
+gini without masters...
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vmill...
+ÈÕÆÚ: Mon Jun 28 17:55:47 1999
+idfind gini
+([ /* sizeof() == 14 */
+  sgdomain/modules/m_charnpc/gini#5755 ("NPC") : 0,
+  sgdomain/modules/m_charnpc/gini#6215 ("NPC") : 0,
+  sgdomain/modules/m_charnpc/gini#6214 ("NPC") : 0,
+  sgdomain/modules/m_charnpc/gini#5682 ("NPC") : 0,
+  sgdomain/modules/m_charnpc/gini#5712 ("NPC") : 0,
+
+hmm, seems gini not destruted after ppl quit...
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Mon Jun 28 15:46:59 1999
+/cmds/verbs> chan weather /who
+*String index out of bounds.
+Trace written to /log/runtime
+[errors] (tset) Error logged to /log/runtime
+[errors] *String index out of bounds.
+[errors] /secure/simul_efun (secure/simul_efun/string.c) at line 34
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Mon Jun 28 13:04:52 1999
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Too long evaluation. Execution aborted.
+[errors] /daemons/char_d at line 259
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> ÂøÍ·
+ÈÕÆÚ: Sun Jun 27 22:53:08 1999
+because ÂøÍ· is a sub string of Éú¼åÂøÍ·, so bao will
+tell the position of Éú¼åÂøÍ· instead of ÂøÍ·. in this
+case, u can use the english id.
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: >> ÏÉÈË×ó´È
+ÈÕÆÚ: Sun Jun 27 22:50:59 1999
+the target city is one of cities in the zhou -- Ô¥Öİ
+and also it is around the city -- ³ÂÁô
+i guess player may find the target city easier.
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/taiyuan/ty_camp4...
+ÈÕÆÚ: Sun Jun 27 21:44:53 1999
+> idfind bao dating;([ /* sizeof() == 1 */;  sgdomain/modules/m_charnpc/xianren/baodating#1327 ("NPC") : sgdomain/area/cities/taiyuan/ty_camp4,
+
+seems Mr. bao stay in taiyuan all day long, flee pls check if bao can move around?
+
+* fool
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#28249...
+ÈÕÆÚ: Sun Jun 27 15:01:21 1999
+½ÖÍ¤µØÇøÕ½³¡ ÌìÏÕ Î
+½ÖÍ¤µØÇøÕ½³¡ ÌìÏÕ [Î»ÖÃ£ºG3¿ÉĞĞ¾ü·½Ïò£ºeast, south, north, west]
+can move in ÌìÏÕ now?
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/taiyuan/ty_camp4...
+ÈÕÆÚ: Sun Jun 27 13:03:06 1999
+ÒªÕÒÊ²Ã´°¡£¿ÂøÍ·
+ÄãÂúÁ³¶ÑĞ¦£¬Á¬Ã¦°ÑÒ»¸öÔçÒÑ×¼±¸ºÃµÄºì°ü·Å½ø°ü´òÌıµÄ»³Àï¡£
+Äã¸øÁËÁ÷ÀËµÄÏÉÈË°ü´òÌıÈıÊ®¾ÅÁ½Òø×Ó¡£
+°ü´òÌıÁ½ÑÛÂíÉÏ·Å¹âÁË£ººÃ£¡¾Í¸æËßÄã°É£¬Éú¼åÂøÍ·¡£ÔÚÁ¹ÖİÒ»´ø¿ÉÒÔÂòµ½¡£
+
+flee......
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/dingjunshan/djs_zd...
+ÈÕÆÚ: Sun Jun 27 12:03:20 1999
+ÄãĞ¡ĞÄÒíÒíµÄÍÚ³öÒ»Öê²İÒ©¡£;°¡£¬ÖÕÓÚÍÚµ½ÁË¡£;ÄãÒ»Ê±ĞË·Ü£¬Å¾£¬Ò©³ú¶ÏÁË¡£
+Á÷ÀËµÄÏÉÈË»ªÍÓ(hua tuo)
+> give yaocao to hua tuo
+Á÷ÀËµÄÏÉÈË»ªÍÓ(hua tuo)µÀ£ºÕâÊÇÊ²Ã´¶«Î÷£¿
+
+faint, seems really got sth wrong, flee pls check it bah..:)
+addoil
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Sun Jun 27 10:56:55 1999
+ÏÉÈË×ó´È  Èı        Èı      Ö´ĞĞ  Èı·Ö          ³ÂÁô(Ô¥Öİ)
+(4 )ÙğÖİ¹²¼ÆÓĞÎå¿¤£º;³ÂÁô    °×Âí    Úş³Ç    å§Ñô    ¶¨ÌÕ    
+
+seems sth got wrong, flee pls check it.:)
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Sat Jun 26 22:38:04 1999
+> ¡¾Ò¥ÑÔ¡¿Ä³ÈË£ººø¹ØÁ¸²İ¶ÌÈ±£¬Ê¿±øÊ¿Æø£¬ÑµÁ·¶ÈÏÂ½µ¡£¡£¡£¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ººø¹Ø»Æ½ğ¶ÌÈ±£¬Ê¿±øÊ¿Æø£¬ÑµÁ·¶ÈÏÂ½µ¡£¡£¡£¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ººø¹ØÎï×Ê¶ÌÈ±£¬Ê¿±øÊ¿Æø£¬ÑµÁ·¶ÈÏÂ½µ¡£¡£¡£¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ººø¹ØÊ¿ÆøÌ«µÍ£¬Ê¿±ø·×·×ÌÓ×ß ¡£¡£¡£
+
+huguan's status
+
+Ê¿±ø£º29940 ÑµÁ·£º0 Ê¿Æø£º0 ÂíÆ¥£º0 ¹­¼ı£º0 ·ËÈË£º0
+
+in my memory, 4 days ago it's around 29xxx, won't flee?
+or bcoz war banned?
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/town/qinchuan/qc_ht...
+ÈÕÆÚ: Fri Jul  9 23:29:47 1999
+On Fri Jul  9 22:51:50 1999 Ranma wrote post #166:
+> ¡õÖ÷¹«£ºÂíÌÚ   ¡õ¹úÊ¦£ºĞş±ù  ¡ùĞÅÈÎ¶È£º64
+> 
+> after cmd leave, it's not erased...:P
+> 
+
+this is right, but you can't proform guoshi's work :)
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Fri Jul  9 23:28:47 1999
+On Fri Jul  9 14:02:06 1999 Ice wrote post #163:
+> > @(EV_WAR)->war("bandit","kuaiji")
+> ¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÉ½ÔôÕıÔÚ¼Æ»®½ø¹¥»á»ü¡£
+> 0
+> ¡¾Ò¥ÑÔ¡¿Ä³ÈË£º»á»üÕÙ¿ª½ô¼±·ÀÓù»áÒé¡£
+> *Too long evaluation. Execution aborted.
+> Trace written to /log/runtime
+> 
+> 
+use "dbxwhere last" to get details of bug information
+
+
+
+---
+×÷Õß: Ranma
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/qinchuan/qc_ht...
+ÈÕÆÚ: Fri Jul  9 22:51:50 1999
+¡õÖ÷¹«£ºÂíÌÚ   ¡õ¹úÊ¦£ºĞş±ù  ¡ùĞÅÈÎ¶È£º64
+
+after cmd leave, it's not erased...:P
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Fri Jul  9 14:09:14 1999
+during test of bandit war, most cities lost 1 morale,
+only 1 out of 10 cities get 16 morale increased.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Fri Jul  9 14:02:06 1999
+> @(EV_WAR)->war("bandit","kuaiji")
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÉ½ÔôÕıÔÚ¼Æ»®½ø¹¥»á»ü¡£
+0
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£º»á»üÕÙ¿ª½ô¼±·ÀÓù»áÒé¡£
+*Too long evaluation. Execution aborted.
+Trace written to /log/runtime
+
+
+
+
+---
+×÷Õß: Lxx
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/jiangling/jl_rpl4...
+ÈÕÆÚ: Fri Jul  9 13:03:43 1999
+q
+chat* bug
+q
+q
+hp
+look
+q
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/qishan/qs_shulin...
+ÈÕÆÚ: Wed Jul  7 15:51:32 1999
+
+Ò»ÈºÆîÉ½Ğ¡»ï(qishan guy)
+µÛ¹úÆîÉ½Ö÷½«Âí×ñ(ma zun)
+
+µÛ¹úÆîÉ½ÏĞÖ°¡¸ÇëÎğÔÚdidaoÕ÷±ø,Ğ»Ğ»¡¹Ğ¡ÎÚÀ²À²£¬×Ö½¬ºı(wll)
+> Ğ¡ÎÚÀ²À²ÏòÂí×ñ´òÌı¹ØÓÚjobµÄÏûÏ¢¡£
+Âí×ñ¶ÔĞ¡ÎÚÀ²À²µãµãÍ·£¬µÀ£º´óÈËÖ÷¶¯Ñ°Ö°Ñû¹¦£¬¾«Éñ¿É¼Î£¬¾«Éñ¿É¼ÎÑ½¡£
+ÏÖÓĞÒÔÏÂ¹¤×÷£º
+Âí×ñ¶ÔĞ¡ÎÚÀ²À²µÀ£ºÄã¿¼ÂÇÇå³şÁËÂğ£¿
+ÏëºÃÁË¾ÍÇëÊäÈë answer ´úºÅ to ma zun
+Ğ¡ÎÚÀ²À²¶ÔÂí×ñ´ğµ½£º£¢visitpeople£¢
+Âí×ñ¶ÔĞ¡ÎÚÀ²À²µÀ£º±ø»ÄÂíÂÒ£¬Ãñ²»ÁÄÉú£¬°ÙĞÕ¶¼²»Öª¶ãÄÄÀïÈ¥ÁË
+
+
+system cannot count every guy, idler, resident's existence?
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Wed Jul  7 07:20:16 1999
+> info c jiangzhou boy
+¡ş¡ş¡ş¡ş¡şÈË¡ş¡ş¡ş¡ş¡şÎï¡ş¡ş¡ş¡ş¡ş×Ê¡ş¡ş¡ş¡ş¡şÑ¶¡ş¡ş¡ş¡ş¡ş
+
+¡öÒ»°ã×ÊÑ¶£º
+¡¾½ÇÉ«´úºÅ¡¿jiangzhou boy¡¾ĞÕ    Ãû¡¿0       ¡¾   ×Ö   ¡¿©¥©¥  
+¡¾ĞÔ    ±ğ¡¿Å®      ¡¾Äê    Áä¡¿0       ¡¾Èİ    Ã²¡¿0
+¡¾ ËùÊô¹ú ¡¿©¥©¥(©¥©¥)                  ¡¾ÖÒ    ³Ï¡¿54
+¡¾ ËùÔÚµØ ¡¿©¥©¥(©¥©¥)
+¡¾³¯Í¢¹ÙÖ°¡¿©¥©¥    ¡¾µØ·½¹ÙÖ°¡¿©¥©¥    ¡¾Ùº    Â»¡¿0
+¡¾Îä    Á¦¡¿0       ¡¾ÖÇ    Ä±¡¿0       ¡¾÷È    Á¦¡¿0
+¡¾µØÇø¹±Ï×¡¿0       ¡¾¹ú¼Ò¹±Ï×¡¿0       ¡¾Éù    Íû¡¿Ä¬Ä¬ÎŞÎÅ(1)
+¡¾Àà    ĞÍ¡¿NPC     ¡¾×´    Ì¬¡¿ĞİÃß    ¡¾ÊÂ    Îñ¡¿Õı³£    
+¡öÓëËû¹ú¹ØÏµ£º
+¡¾  Ô¬Êõ¹ú¡¿£º 53   ¡¾ÀäÑªÕ½¹ú¡¿£º 15   ¡¾    Îâ¹ú¡¿£º 53 
+¡¾  Ô¬ÉÜ¹ú¡¿£º 42   ¡¾±±Æ½Ñ©¹ú¡¿£º 53   ¡¾  ÌÕÇ«¹ú¡¿£º 43 
+¡¾Âú½­ºì¹ú¡¿£º 18   ¡¾    µÛ¹ú¡¿£º 22   ¡¾  Ğ¡°×¹ú¡¿£º 33 
+¡¾  ÁúÖ®¹ú¡¿£º 20   ¡¾  Î×Ê¦¹ú¡¿£º 57   ¡¾  Ë®ÔÆ¹ú¡¿£º 18 
+¡¾¹«Ëïè¶¹ú¡¿£º 12   ¡¾  Ğş±ù¹ú¡¿£º 53   ¡¾  ÖĞÁ¢¹ú¡¿£º  9 
+¡¾  ·¢´ô¹ú¡¿£º 16   ¡¾  ÁõÑÉ¹ú¡¿£º 30   ¡¾    ½ª¹ú¡¿£º 35 
+¡¾    Êñ¹ú¡¿£º 17   ¡¾  ÂíÌÚ¹ú¡¿£º 55   
+¡¾  °¢´ô¹ú¡¿£º 30   ¡¾  ¿ªĞÄ¹ú¡¿£º 39   
+(1-20 80%) h:
+¡öË½ÈËÎä×°£º
+¡¾Ç×±øÊıÁ¿¡¿0                           ¡¾Ñµ    Á·¡¿0
+¡¾Âí    Æ¥¡¿0       ¡¾¹­    ¼ı¡¿0       ¡¾Á¸    Ê³¡¿0       
+
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡şÈı¹úÖ¾¡ş¡ş
+
+
+> ¡¾ÏĞÁÄ¡¿Ãû×Ö(disk)£º¡¾½ÇÉ«´úºÅ¡¿jiangzhou boy¡¾ĞÕ Ãû¡¿0 ¡¾ ×Ö ¡¿©¥©¥ ;¡¾ĞÔ ±ğ¡¿Å® ¡¾Äê Áä¡¿0
+> ¡¾ÏĞÁÄ¡¿Ãû×Ö(disk)£ºËÑË÷ÏÍÈË ÁùÊ® Ò» Ö´ĞĞ Èı·Ö °İ·Ã0(jiangzhou boy)
+
+it's a immediate bug after reboot, after a short time, this char disappered.
+hmm..........
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/yiling/yl_cc...
+ÈÕÆÚ: Fri Jul  9 22:27:02 1999
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÁõôíÖ¸»Ó²»Á¦£¬±ø°ÜÈçÉ½µ¹£¬É½ÔôÍ·×ÓÁì±øÑªÏ´Ô¥ÕÂ£¡
+*Value being indexed is zero.
+Trace written to /log/runtime
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Tue Jul  6 15:42:27 1999
+
+findfunc set_capacity ranma
+´Ëº¯ÊıÔÚÕâ¸öÎï¼şÖĞÃ»ÓĞ¶¨Òå¡£
+*STATIC*                          : set_capacity
+
+hmm, btw, why are there so many repeated static functions
+from flist?
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Sat Jul  3 10:41:40 1999
+it's a bug related to train and reboot.
+
+hhr take a train task, and during the train, system rebooted.
+after the system reboot, seems the amount he took to train 
+was omited while counting the amount of troops in luoyang.
+
+b4 train total amount in luoyang : 130k
+amount hhr took to train : 30k
+after reboot and train, in luoyang: 160k
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Wed Jun 30 11:45:20 1999
+strange post
+  std/race/human#4111 ("flute's body") : sgdomain/area/cities/luoyang/ly_by,
+> ¡¾news¡¿wiz.com: byebye all [Flute]
+
+sth wrong in luoyang post board? or sth else wrong.
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_ndq...
+ÈÕÆÚ: Wed Jun 30 09:48:00 1999
+[errors] (0) Error logged to /log/runtime
+[errors] *Value being indexed is zero.
+[errors] /obj/pshell#24353 at line 153
+
+this heppens all the time, pls check it.
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: Bug±¨¸æµØµã£º/obj/tworkroom#3535...
+ÈÕÆÚ: Sat Jul  3 08:40:38 1999
+all my aliase r lost after reboot . :(
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/langya/ly_hys...
+ÈÕÆÚ: Sat Jul  3 15:48:59 1999
+ [0
+1m¹ [1mÙ [1mÕ [1m¬ [1m  [1m[ [1m³ [1mö [1m¿ [1mÚ [1m£ [1mº [1ms [1mo [1mu [1mt [1mh [1m, [1m  [1mw [1me [1ms [1mt 1m [0m
+
+ [0
+1m  [1m  [1m  [1m  [1mÕ [1mâ [1mÀ [1mï [1mÊ [1mÇ [1mÒ [1m» [1m× [1mù [1mÏ [1mà [1mµ [1m± [1m´ [1mó [1mµ [1mÄ [1mÔ [1mº [1mÂ [1mä [1m£ [1m¬ [1mÀ [1mï [1mÃ [1mæ [1mÓ [1mĞ [1mÊ [1m® [1mÊ [1mı [1m¶ [1m° [1m¸ [1mß [1m´ [1mó [1mµ [1mÄ [1mÎ [1mİ [1m× [1mÓ [1m£ [1m¬ [1m· [1mÖ [1m± [1mğ [1m¶ [1m¼ [1mÓ [1mĞ [0m
+ [0
+1mÊ [1m¿ [1m± [1mø [1m° [1mÑ [1mÊ [1mØ [1m£ [1m¬ [1m´ [1mÓ [1mÆ [1mø [1mÊ [1mÆ [1mÉ [1mÏ [1m¿ [1mÉ [1mÒ [1mÔ [1m¿ [1m´ [1m³ [1mö [1m£ [1m¬ [1mÕ [1mâ [1mÀ [1mï [1m¾ [1mÍ [1mÊ [1mÇ [1m¹ [1mÙ [1mÕ [1m¬ [1mµ [1mÄ [1mË [1mù [1mÔ [1mÚ [1mÁ [1mË [1m£ [1m¬ [1mÌ [1mì [1mË [1m® [1m³ [1mÇ [1mµ [1mÄ [1m´ [1mó [0m
+ [0
+1mĞ [1m¡ [1m¹ [1mÙ [1mÔ [1m± [1mÒ [1m» [1m° [1mã [1m¶ [1m¼ [1mÔ [1mÚ [1m´ [1mË [1m´ [1m¦ [1m¾ [1mÓ [1m× [1m¡ [1m£ [1m¬ [1mË [1mù [1mÒ [1mÔ [1m» [1m¥ [1mÏ [1mà [1mÖ [1m® [1m¼ [1mä [1m¼ [1mû [1mÃ [1mæ [1mÒ [1m² [1m¾ [1mÍ [1m± [1mÈ [1m½ [1mÏ [1m· [1m½ [1m± [1mã [1m£ [1m¬ [1m² [1m» [1m¹ [1mı [1mÒ [1m² [0m
+ [0
+1mÓ [1mĞ [1mĞ [1m© [1m² [1m» [1mÔ [1m¸ [1m× [1m¡ [1mÔ [1mÚ [1mÕ [1mâ [1mÀ [1mï [1mµ [1mÄ [1m¹ [1mÙ [1mÔ [1m± [1m£ [1m¬ [1mµ [1m« [1m² [1m» [1m¹ [1mÜ [1mÈ [1mç [1mº [1mÎ [1m£ [1m¬ [1mÓ [1më [1mÀ [1mÏ [1m° [1mÙ [1mĞ [1mÕ [1mµ [1mÄ [1mÆ [1mÆ [1mÍ [1mß [1m× [1m© [1mÎ [1mİ [1mÏ [1mà [1m± [1mÈ [1mµ [1mÄ [0m
+ [0
+1m» [1m° [1m£ [1m¬ [1mÕ [1mâ [1mĞ [1m© [1mÕ [1m¬ [1m× [1mÓ [1mÔ [1mÚ [1mÌ [1mì [1mË [1m® [1m³ [1mÇ [1mÊ [1mÇ [1mÊ [1m® [1m· [1mÖ [1mµ [1mÄ [1mĞ [1mÑ [1mÄ [1m¿ [1m¸ [1mß [1m¼ [1m¶ [1mµ [1mÄ [1mÁ [1mË [1m¡ [1m£ [0m
+
+ [0
+1mÁ [1m÷ [1mÀ [1mË [1mµ [1mÄ [1mÏ [1mÉ [1mÈ [1mË [1mĞ [1mí [1mÉ [1mÛ [1m( [1mx [1mu [1m  [1mz [1mi [1mj [1mi [1ma [1mn [1mg [1m) [0m
+ [0
+1m> [1m  [1ma [1ms [1mk [1m  [1mx [1mu [1m  [1ma [1mb [1mo [1mu [1mt [1m  [1mj [1mo [1mb [0m
+ [0
+1mÄ [1mã [1mÏ [1mò [1mĞ [1mí [1mÉ [1mÛ [1m¹ [1mª [1mÉ [1mí [1mÎ [1mÊ [1mµ [1mÀ [1m£ [1mº [1mÏ [1mÈ [1mÉ [1mú [1m£ [1m¬ [1m¿ [1mÉ [1mÓ [1mĞ [1m· [1mÔ [1m¸ [1mÀ [1m£ [1m¿ [0m
+ [0
+1mĞ [1mí [1mÉ [1mÛ [1mµ [1mã [1mÁ [1mË [1mµ [1mã [1mÍ [1m· [1m¡ [1m£ [0m
+ [0
+1mĞ [1mí [1mÉ [1mÛ [1mµ [1mÀ [1m£ [1mº [1m¾ [1mÍ [1mÇ [1më [1mÄ [1mã [1m´ [1mø [1mÕ [1mâ [1mÎ [1m» [1mÏ [1mÍ [1mÈ [1mË [1mµ [1m½ [1m´ [1m¦ [1m× [1mß [1m× [1mß [1m° [1mÉ [1m¡ [1m£ [0m
+ [0
+1mÏ [1mÍ [1mÈ [1mË [1mÂ [1mı [1mÌ [1mÚ [1mÌ [1mÚ [1mµ [1mÄ [1m× [1mß [1mÁ [1mË [1m³ [1mö [1mÀ [1m´ [1m¡ [1m£ [0m
+ [0
+1m> [1m  [1ml [0m
+ [0
+1m¹ [1mÙ [1mÕ [1m¬ [1m  [1m[ [1m³ [1mö [1m¿ [1mÚ [1m£ [1mº [1ms [1mo [1mu [1mt [1mh [1m, [1m  [1mw [1me [1ms [1mt 1m [0m
+
+ [0
+1m  [1m  [1m  [1m  [1mÕ [1mâ [1mÀ [1mï [1mÊ [1mÇ [1mÒ [1m» [1m× [1mù [1mÏ [1mà [1mµ [1m± [1m´ [1mó [1mµ [1mÄ [1mÔ [1mº [1mÂ [1mä [1m£ [1m¬ [1mÀ [1mï [1mÃ [1mæ [1mÓ [1mĞ [1mÊ [1m® [1mÊ [1mı [1m¶ [1m° [1m¸ [1mß [1m´ [1mó [1mµ [1mÄ [1mÎ [1mİ [1m× [1mÓ [1m£ [1m¬ [1m· [1mÖ [1m± [1mğ [1m¶ [1m¼ [1mÓ [1mĞ [0m
+ [0
+1mÊ [1m¿ [1m± [1mø [1m° [1mÑ [1mÊ [1mØ [1m£ [1m¬ [1m´ [1mÓ [1mÆ [1mø [1mÊ [1mÆ [1mÉ [1mÏ [1m¿ [1mÉ [1mÒ [1mÔ [1m¿ [1m´ [1m³ [1mö [1m£ [1m¬ [1mÕ [1mâ [1mÀ [1mï [1m¾ [1mÍ [1mÊ [1mÇ [1m¹ [1mÙ [1mÕ [1m¬ [1mµ [1mÄ [1mË [1mù [1mÔ [1mÚ [1mÁ [1mË [1m£ [1m¬ [1mÌ [1mì [1mË [1m® [1m³ [1mÇ [1mµ [1mÄ [1m´ [1mó [0m
+ [0
+1mĞ [1m¡ [1m¹ [1mÙ [1mÔ [1m± [1mÒ [1m» [1m° [1mã [1m¶ [1m¼ [1mÔ [1mÚ [1m´ [1mË [1m´ [1m¦ [1m¾ [1mÓ [1m× [1m¡ [1m£ [1m¬ [1mË [1mù [1mÒ [1mÔ [1m» [1m¥ [1mÏ [1mà [1mÖ [1m® [1m¼ [1mä [1m¼ [1mû [1mÃ [1mæ [1mÒ [1m² [1m¾ [1mÍ [1m± [1mÈ [1m½ [1mÏ [1m· [1m½ [1m± [1mã [1m£ [1m¬ [1m² [1m» [1m¹ [1mı [1mÒ [1m² [0m
+ [0
+1mÓ [1mĞ [1mĞ [1m© [1m² [1m» [1mÔ [1m¸ [1m× [1m¡ [1mÔ [1mÚ [1mÕ [1mâ [1mÀ [1mï [1mµ [1mÄ [1m¹ [1mÙ [1mÔ [1m± [1m£ [1m¬ [1mµ [1m« [1m² [1m» [1m¹ [1mÜ [1mÈ [1mç [1mº [1mÎ [1m£ [1m¬ [1mÓ [1më [1mÀ [1mÏ [1m° [1mÙ [1mĞ [1mÕ [1mµ [1mÄ [1mÆ [1mÆ [1mÍ [1mß [1m× [1m© [1mÎ [1mİ [1mÏ [1mà [1m± [1mÈ [1mµ [1mÄ [0m
+ [0
+1m» [1m° [1m£ [1m¬ [1mÕ [1mâ [1mĞ [1m© [1mÕ [1m¬ [1m× [1mÓ [1mÔ [1mÚ [1mÌ [1mì [1mË [1m® [1m³ [1mÇ [1mÊ [1mÇ [1mÊ [1m® [1m· [1mÖ [1mµ [1mÄ [1mĞ [1mÑ [1mÄ [1m¿ [1m¸ [1mß [1m¼ [1m¶ [1mµ [1mÄ [1mÁ [1mË [1m¡ [1m£ [0m
+
+ [0
+1mÁ [1m÷ [1mÀ [1mË [1mµ [1mÄ [1mÏ [1mÉ [1mÈ [1mË [1mĞ [1mí [1mÉ [1mÛ [1m( [1mx [1mu [1m  [1mz [1mi [1mj [1mi [1ma [1mn [1mg [1m) [0m
+ [0
+1m> [1m  [1mp [1mo [1mk [1me [0m
+ [0
+1mÄ [1mã [1mÄ [1mÃ [1m× [1mÅ [1m¸ [1mù [1mÊ [1m÷ [1mÖ [1m¦ [1m¶ [1m« [1mÍ [1m± [1mÍ [1m± [1m£ [1m¬ [1mÎ [1m÷ [1mÍ [1m± [1mÍ [1m± [1m£ [1mº [1m¶ [1m¼ [1mĞ [1mÑ [1mĞ [1mÑ [1m£ [1m¬ [1mÎ [1mÒ [1mÀ [1m´ [1mÀ [1m² [1m¡ [1m£ [0m
+
+
+oops, I used a char not settle down yet to try this job, but cannot
+see the xianren, sb met the same problem b4, flee pls check it
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/langya/ly_hys...
+ÈÕÆÚ: Sat Jul  3 15:51:30 1999
+oops, pasting problem
+well, repaste
+
+1mÁ÷ÀËµÄÏÉÈËĞíÉÛ(xu zijiang)
+Á÷ÀËµÄÏÉÈËĞíÉÛ(xu zijiang)
+
+> ask xu about job
+ÄãÏòĞíÉÛ¹ªÉíÎÊµÀ£ºÏÈÉú£¬¿ÉÓĞ·Ô¸À£¿
+ĞíÉÛµãÁËµãÍ·¡£
+ĞíÉÛµÀ£º¾ÍÇëÄã´øÕâÎ»ÏÍÈËµ½´¦×ß×ß°É¡£
+ÏÍÈËÂıÌÚÌÚµÄ×ßÁË³öÀ´¡£
+¹ÙÕ¬ [³ö¿Ú£ºsouth, westm
+    ÕâÀïÊÇÒ»×ùÏàµ±´óµÄÔºÂä£¬ÀïÃæÓĞÊ®Êı¶°¸ß´óµÄÎİ×Ó£¬·Ö±ğ¶¼ÓĞ
+Ê¿±ø°ÑÊØ£¬´ÓÆøÊÆÉÏ¿ÉÒÔ¿´³ö£¬ÕâÀï¾ÍÊÇ¹ÙÕ¬µÄËùÔÚÁË£¬ÌìË®³ÇµÄ´ó
+Ğ¡¹ÙÔ±Ò»°ã¶¼ÔÚ´Ë´¦¾Ó×¡£¬ËùÒÔ»¥ÏàÖ®¼ä¼ûÃæÒ²¾Í±È½Ï·½±ã£¬²»¹ıÒ²
+ÓĞĞ©²»Ô¸×¡ÔÚÕâÀïµÄ¹ÙÔ±£¬µ«²»¹ÜÈçºÎ£¬ÓëÀÏ°ÙĞÕµÄÆÆÍß×©ÎİÏà±ÈµÄ
+»°£¬ÕâĞ©Õ¬×ÓÔÚÌìË®³ÇÊÇÊ®·ÖµÄĞÑÄ¿¸ß¼¶µÄÁË¡£
+Á÷ÀËµÄÏÉÈËĞíÉÛ(xu zijiang)
+> poke
+ÄãÄÃ×Å¸ùÊ÷Ö¦¶«Í±Í±£¬Î÷Í±Í±£º¶¼ĞÑĞÑ£¬ÎÒÀ´À²¡£
+
+cannot get xianren, cannot get his order, and xianren dun have further
+information any more
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Sat Jul  3 21:11:03 1999
+fire officers in "pos" seems not functioning well
+when a king wants to fire sb, and chooses d, then enter the id,
+it says %^H_RED%^ÄãÏëÔì·´£¿%^RESET%^
+fire pls recheck it
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Sat Jul  3 23:18:55 1999
+On Sat Jul  3 21:11:03 1999 Ice wrote post #154:
+> fire officers in "pos" seems not functioning well
+> when a king wants to fire sb, and chooses d, then enter the id,
+> it says %^H_RED%^ÄãÏëÔì·´£¿%^RESET%^
+> fire pls recheck it
+> 
+
+fixed
+
+
+---
+×÷Õß: Yuki
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/gongan/ga_xm...
+ÈÕÆÚ: Sun Jul  4 13:34:07 1999
+¡¼Âú½­ºì¹ú¡½¡ò¹«°²¡òË¾Á¥Ğ£Î¾(guard)
+ÜçµÄÈõ²»¾­·çµÄÁÖÃÃÃÃ(lin)
+> gini return
+Ò»Á£É°×Óµôµ½ÄãÑÛÖĞ£¬ÄãÑÛ¾¦Ò»Ëá£¬Ò»µÎÀáË®µÎµ½ºìÂ¥ÃÎÉÏ£¬ Ö»ÌıÒ»¸öÆàÍïµÄÉùÒô´«À´£¬Üç¸ç¸ç£¬ÊÇÄãÂğ¡£
+Ò»Õó·ç´µÀ´£¬ÁÖÃÃÃÃÁ³ÏÖ¾ª¿ÖÖ®É«£¬»¯³ÉÒ»Æ¬Ò¶£¬×êµ½ÄãµÄÏß×°ºìÂ¥ÃÎÖĞ¡£
+> l
+Î÷ÃÅ [³ö¿Ú£ºenter]
+©³©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©·
+©§                                                        ©§
+©§                         Î÷ÃÅ                           ©§
+©§                                                        ©§
+©»©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¿
+¡¼Âú½­ºì¹ú¡½¡ò¹«°²¡òË¾Á¥Ğ£Î¾(guard)
+ÜçµÄÈõ²»¾­·çµÄÁÖÃÃÃÃ(lin)
+
+cannot return
+
+
+
+---
+×÷Õß: Row
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/yiling/yl_sz...
+ÈÕÆÚ: Wed Jul  7 01:27:10 1999
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Too long evaluation. Execution aborted.
+[errors] /daemons/char_d at line 295
+
+this happens time to time, pls check.
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/sgdomain/area/guan/yiling/yl_sz...
+ÈÕÆÚ: Wed Jul  7 03:24:34 1999
+On Wed Jul  7 01:27:10 1999 Row wrote post #158:
+> [errors] ((none)) Error logged to /log/runtime
+> [errors] *Too long evaluation. Execution aborted.
+> [errors] /daemons/char_d at line 295
+> 
+> this happens time to time, pls check.
+> 
+
+this is due to area development
+usually when we have small number of areas and chars
+it works ok, now have to find some good way
+to optimize this function
+I will check it these days
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Sat Jul 17 22:13:02 1999
+> ´ôÍ·¶ì»Ø´ğÄã£ºhmm. login 2 id, ask for job, go to do, when one finish, other one took mutong, turn mutong, all go back get pay, then go back again, turn mutong once, finish 2nd digsoil .....so on so on.
+digsoil job can allow more than 1 player to do at the same time?
+daitoue said he can finish 11 quotes in 3 mins...:P
+
+
+
+---
+×÷Õß: Wulala
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/obj/horse/horse#1722...
+ÈÕÆÚ: Fri Jul 16 13:17:10 1999
+after reboot, info me
+¡öË½ÈËÎä×°£º ¡¾Á¸    Ê³¡¿0      
+but i used to have 5200 food, may wiz recover for me?
+thanks.
+
+
+
+---
+×÷Õß: Fifo
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/anding/ad_jc...
+ÈÕÆÚ: Fri Jul 16 20:16:41 1999
+no npc
+no food
+no drink
+
+
+
+---
+×÷Õß: Wulong
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/changan/newland...
+ÈÕÆÚ: Sat Jul 17 11:13:38 1999
+lgun
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xiaopei/xp_jy...
+ÈÕÆÚ: Sat Jul 17 12:16:51 1999
+yu ji's job has bug
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/shangdang/sd_yst...
+ÈÕÆÚ: Wed Jul 14 16:18:46 1999
+when meet robot test after suggestion, there is a bug
+ÄãµÃµ½ÁË¹ºÂòÕ½ÂíµÄÈÎÎñ¡£
+ÄãµÄ½¨ÒéºÜ´ÏÃ÷£¬¿´¿´ÄãÈËÊÇ²»ÊÇÒ²´ÏÃ÷¡£ÂìòÆÎ÷ºùÂ«³ô³æÌøÔé
+ÉÏÃæËÄÖÖ¶«Î÷ÖĞ,ÓëÆäËû¶¼²»ÊôÓÚÒ»ÀàµÄÊÇ:
+1. µÚÒ»¸ö¶«Î÷
+2. µÚ¶ş¸ö¶«Î÷
+3. µÚÈı¸ö¶«Î÷
+4. µÚËÄ¸ö¶«Î÷
+4
+ÄãµÄ½¨Òé±»²ÉÄÉ£¬ÄãµÄ¾­ÑéÓëÉùÍûÌá¸ßÁË¡£
+
+* faint
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vhall...
+ÈÕÆÚ: Tue Jul 13 10:52:46 1999
+it's a bug concerning jbsj
+
+²¶Óã      Ò»        Ò»      Íê³É  Ê®Èı·Ö        ____
+> Ìì»Ø´ğÄã£ºwas 0/100
+> Ìì»Ø´ğÄã£ºnow 27 /100
+Ìì»Ø´ğÄã£ºi just keep asking shuijing to lvl 27
+
+he didn't swim at all, pls check it.
+
+
+
+---
+×÷Õß: Ying
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vxl...
+ÈÕÆÚ: Tue Jul 13 06:42:45 1999
+ÂåÑôĞÂÌïjobÄªÃûÆäÃî.
+
+
+
+---
+×÷Õß: Ying
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/guan/huayin/vxl...
+ÈÕÆÚ: Tue Jul 13 06:41:04 1999
+q
+weave mao cao
+weave mao cao
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/town/yunnan/yn_zp...
+ÈÕÆÚ: Mon Jul 12 01:22:28 1999
+
+dbxwhere last
+Mon Jul 12 01:22:10 1999
+*Too long evaluation. Execution aborted.
+Object: /daemons/char_d at line 316
+
+#0: '<function>' at /daemons/ai_d (<function>) at :0
+#1: 'launch' at /daemons/ai_d at line 82
+#2: 'area_pay_whole' at /sgdomain/event/ev_areapay at line 50
+#3: 'area_pay' at /sgdomain/event/ev_areapay at line 25
+#4: 'get_char' at /daemons/char_d at line 316
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/cities/luoyang/ly_zsyz...
+ÈÕÆÚ: Sun Jul 11 09:04:34 1999
+Ãñ±ø(commando)      :12293     ĞÂ±ø(footman)       :179439    
+
+commando appeared in the attacking troop options.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Sun Jul 11 19:28:32 1999
+there was a war from luoyang to wan, there were several bugs occured:
+
+1. while att_leader got the task of assigning troops, sometimes he cannot
+   assign it, it's strange that when i snoop him, nothing got wrong ...:(
+
+2. if troops assigning stage last too long, the war plan will be cancelled,
+   and a bug message appeared, but the task was not cancelled.
+note:since the limit of troop size added, it may be changed to longer
+
+3. defence party appeared to stuck in defence meeting, the meeting cannot be
+   over, and the attacking party had got in warmap
+
+4. after wan was taken over, the task was not over, task was cancelled manually;
+   and the former officers in wan lost their areas
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/taiyuan/ty_camp4...
+ÈÕÆÚ: Tue Jul 20 09:40:06 1999
+%*Bad argument to [ .. ] range operator.
+Trace written to /log/runtime
+[errors] (derek) Error logged to /log/runtime
+[errors] (derek) Error logged to /log/runtime
+[errors] *Bad argument to [ .. ] range operator.
+[errors] /sgdomain/menu/pst#8223 at line 62
+> dbxwhere derek
+Tue Jul 20 09:38:20 1999
+*Bad argument to [ .. ] range operator.
+Object: /sgdomain/menu/pst#8223 at line 62
+
+#0: '<function>' at /secure/user#8057 (<function>) at :0
+#1: 'dispatch_modal_input' at /secure/user#8057 (secure/user/inputsys.c) at line 305
+#2: '<function>' at /obj/pshell#8069 (<function>) at :0
+#3: 'shell_input' at /obj/pshell#8069 (secure/obj/shell.c) at line 130
+#4: 'execute_command' at /obj/pshell#8069 at line 148
+#5: 'call_main' at /cmds/player/post (secure/obj/cmd.c) at line 37
+#6: 'main' at /cmds/player/post at line 7
+#7: 'do_post' at /sgdomain/menu/pst#8223 at line 84
+#8: 'can_i_post' at /sgdomain/menu/pst#8223 at line 62
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vzhang_fang...
+ÈÕÆÚ: Mon Jul 19 15:01:32 1999
+dbxwhere last
+Mon Jul 19 15:00:43 1999
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /sgdomain/event/ev_randdisapp at line 16
+#0: 'my_heart' at /daemons/charheart_d at line 41#1: 'act' at /daemons/charheart_d at line 23#2: 'my_heart' at /sgdomain/modules/m_charnpc#3133 (sgdomain/modules/m_charnpc/m_charaction.c) at line 127
+#3: 'my_charaction' at /sgdomain/modules/m_charnpc#3133 (sgdomain/modules/m_charnpc/m_charaction.c) at line 83
+#4: 'disappear' at /sgdomain/event/ev_randdisapp at line 16
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/jieting/jt_yz...
+ÈÕÆÚ: Tue Jul 20 13:12:06 1999
+ÄãÏòÁ÷ÀËµÄÏÉÈË°ü´òÌıÉîÉîÒ»¾Ï¹ªµÀ£ºĞ¡¿ÉÓû¹ºÒ»Îï¼ş£¬µ«¿à²»ÖªºÎ´¦¿ÉµÃ£¬ÅÎÏÈÉúÖ¸½Ì¡£
+Á÷ÀËµÄÏÉÈË°ü´òÌıÂıÀíË¹ÌõµØ¶ÔÄãËµ£ºÄãÒªÕÒÊ²Ã´¶«Î÷Ñ½£¿
+ÒªÕÒÊ²Ã´°¡£¿ÀóÖ¦
+Á÷ÀËµÄÏÉÈË°ü´òÌıÒÉ»óµÄ¶ÔÄãµÀ£ºÄãÈ·¶¨ÓĞÕâÖÖÎïÆ·£¿
+
+¿ÉÖÆ×÷¹¤½³            ¹¤½³ID  ¿É¶¨  ÎïÖÖÀà  ËùÔÚµØÇø  ËùÔÚ·¿¼ä ¡£
+      Ğ¡··      didao seller  ²»ĞĞ       6      µÒµÀ  Ğ¡Â·
+    µêĞ¡¶ş     nanhai xiaoer  ¿ÉÒÔ       2      ÄÏº£  Ğ¡Ê³µê
+
+at present, only find out ÀóÖ¦ not work ...:(
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Sat Jul 24 18:09:36 1999
+> cl list
+*Too long evaluation. Execution aborted.
+Trace written to /log/runtime
+
+dbxwhere ice
+Sat Jul 24 18:08:20 1999
+*Too long evaluation. Execution aborted.
+Object: /cmds/wiz/cl at line 155
+
+#0: '<function>' at /secure/user#12724 (<function>) at :0
+#1: 'dispatch_modal_input' at /secure/user#12724 (secure/user/inputsys.c) at line 305
+#2: '<function>' at /trans/obj/wish#12732 (<function>) at :0
+#3: 'shell_input' at /trans/obj/wish#12732 (secure/obj/shell.c) at line 130
+#4: 'execute_command' at /trans/obj/wish#12732 at line 239
+#5: 'call_main' at /cmds/wiz/cl (secure/obj/cmd.c) at line 37
+#6: 'main' at /cmds/wiz/cl at line 15
+#7: 'dis_list' at /cmds/wiz/cl at line 155
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/longxi/lx_jjf...
+ÈÕÆÚ: Sat Jul 24 16:17:33 1999
+after train:
+ÑµÁ·½áÊø£¬Çë»Ø´ğÒ»¸ö¼òµ¥µÄÎÊÌâ¡£
+Ë¾ÂíæÚ(sima fu)µÄ×ÖÊÇ:
+1 ÔªÖÙ
+2 Êå´ï
+3 ³¤ÎÄ
+4 ×ÓÑô
+²»ÖªµÀÇëÓÃ < !info c id  >²éÑ¯
+ÈçÓÃZMUD£¬ÇëÏÈÓÃCtrl-R¹Ø±Õparse
+*Arguments to -= do not match in type.
+Trace written to /log/runtime
+
+dbxwhere last
+Sat Jul 24 16:15:44 1999
+*Arguments to -= do not match in type.
+Object: /sgdomain/modules/troop#176 (std/complex_container.c) at line 138
+
+#0: 'task_heart' at /daemons/task_d at line 69
+#1: 'task_check' at /daemons/task_d at line 61
+#2: 'run_task' at /daemons/task_d at line 46
+#3: 'train_process' at /sgdomain/event/ev_war (sgdomain/event/war/train.c) at line 85
+#4: 'train_over' at /sgdomain/event/ev_war (sgdomain/event/war/train_over.c) at line 17
+#5: 'release_army' at /sgdomain/event/ev_war (sgdomain/event/war/abort.c) at line 15
+#6: 'remove_troop' at /daemons/troop_d at line 364
+#7: 'move' at /std/race/human#82 (std/object/move.c) at line 58
+#8: 'release_object' at /sgdomain/modules/troop#176 (std/complex_container.c) at line 138
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/emp/dadi...
+ÈÕÆÚ: Fri Jul 23 17:47:47 1999
+> [errors] ((none)) Error logged to /log/runtime
+[errors] *Value being indexed is zero.
+[errors] /sgdomain/event/ev_war (sgdomain/event/war/train_check.c) at line 79
+
+dbxwhere last
+Fri Jul 23 17:46:37 1999
+*Value being indexed is zero.
+Object: /sgdomain/event/ev_war (sgdomain/event/war/train_check.c) at line 79
+
+#0: 'task_heart' at /daemons/task_d at line 68
+#1: 'task_check' at /daemons/task_d at line 60
+#2: 'run_task' at /daemons/task_d at line 45
+#3: 'train_process' at /sgdomain/event/ev_war (sgdomain/event/war/train.c) at line 57
+#4: 'check_question' at /sgdomain/event/ev_war (sgdomain/event/war/train_check.c) at line 79
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huguan/hg_sjdz...
+ÈÕÆÚ: Fri Jul 23 13:52:32 1999
+it's strange that ylou ind but not shown in history
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Fri Jul 23 13:34:17 1999
+¡¾½ÇÉ«´úºÅ¡¿ylou bing¡¾ĞÕ    Ãû¡¿´«Áî±ø  ¡¾   ×Ö   ¡¿©¥©¥  
+
+hmm, those temp chars sometimes will be picked as char,
+can just show information but those bing and qb r not char?
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/shouchun/sc_ywc...
+ÈÕÆÚ: Fri Jul 23 13:29:48 1999
+shouchun meeting hall and flying room
+
+*Invalid groupname nation.ylou in set_group()
+Trace written to /log/runtime
+[errors] (ice) Error logged to /log/runtime
+[errors] *Invalid groupname <nation.ylou> in set_group()
+[errors] /sgdomain/modules/m_board#11105 at line 60
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/hanzhong/hz_jc...
+ÈÕÆÚ: Fri Jul 23 12:39:41 1999
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Invalid groupname <nation.ylou> in set_group()
+[errors] /sgdomain/modules/m_board#9234 at line 60
+
+> dbxwhere last
+Fri Jul 23 12:38:34 1999
+*Invalid groupname <nation.ylou> in set_group()
+Object: /sgdomain/modules/m_board#9234 at line 60
+#0: 'reset' at /std/indoor_room#5165 (std/container.c) at line 280
+#1: 'make_objects_if_needed' at /std/indoor_room#5165 (std/container.c) at line 268
+#2: 'create' at /sgdomain/modules/m_board#9234 at line 50
+#3: 'set_group' at /sgdomain/modules/m_board#9234 at line 60
+
+[errors] (hong) Error logged to /log/runtime
+[errors] *Invalid groupname <nation.ylou> in set_group()
+[errors] /sgdomain/modules/m_board#9183 at line 60
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/yijing/yj_dl...
+ÈÕÆÚ: Sun Jul 25 16:48:27 1999
+merchant, regardless localbuy or private buy,
+Ë®ÔÆ¹úÉÌÈË¶ÔÄãµÀ£º´óÈË¿´¿´ÊÇÒªÂòĞ©Ê²Ã´¡£
+*Left hand side of += is a number (or zero); right side is not a number.
+Trace written to /log/runtime
+
+
+
+
+---
+×÷Õß: Ying
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xiapi/xp_sz...
+ÈÕÆÚ: Sun Jul 25 08:29:46 1999
+ÎÒ²»ÄÜ¶Ô±ğÈË×ö¶¯×÷£¬why£¿
+ÎÒ²»ÄÜ¶Ô±ğÈË×ö¶¯×÷£¬why£¿.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Mon Jul 26 19:40:32 1999
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÑãÃÅ¹ØÕıÔÚ¾ÙĞĞµØÇø»áÒé¡£
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Bad argument 1 to keys()
+         *Expected: mapping Got: 0.
+[errors] /sgdomain/event/ev_localmeeting (sgdomain/event/ev_localmeeting/absent.c) at line 15
+
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÑãÃÅ¹ØÕıÔÚ¾ÙĞĞµØÇø»áÒé¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÑãÃÅ¹ØÕıÔÚ¾ÙĞĞµØÇø»áÒé¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÑãÃÅ¹ØÕıÔÚ¾ÙĞĞµØÇø»áÒé¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÑãÃÅ¹ØÕıÔÚ¾ÙĞĞµØÇø»áÒé¡£
+
+all appear in 5 secs, which r not possible to cmd over yet
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Tue Jul 27 18:27:14 1999
+bcoz some player robot training, caused some bugs
+
+> [errors] ((none)) Error logged to /log/runtime
+[errors] *Value being indexed is zero.
+[errors] /sgdomain/event/ev_war (sgdomain/event/war/train_check.c) at line 84
+
+dbxwhere last
+Tue Jul 27 18:24:47 1999
+*Value being indexed is zero.
+Object: /sgdomain/event/ev_war (sgdomain/event/war/train_check.c) at line 84
+
+#0: 'task_heart' at /daemons/task_d at line 69
+#0: 'task_heart' at /daemons/task_d at line 69
+#1: 'task_check' at /daemons/task_d at line 61
+#2: 'run_task' at /daemons/task_d at line 46
+#3: 'train_process' at /sgdomain/event/ev_war (sgdomain/event/war/train.c) at line 57
+#4: 'check_question' at /sgdomain/event/ev_war (sgdomain/event/war/train_check.c) at line 84
+
+i checked the task, it's in       "question" : "guard",
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Tue Jul 27 18:29:59 1999
+NPC's appearence
+
+callchar li feng
+ÕÙ»½³É¹¦
+Àî·áË«È­Ò»±§£¬ÀÊÉùµÀ£ºÌìÏÂÃ»ÓĞ²»É¢µÄÑçÏ¯£¬ÎÒÏÈ×ßÒ»²½ÁË£¬¸÷Î»Çë¶à±£ÖØ£¡
+//first call NPC leave in 2 secs
+
+//second call
+Äã¶ÔÀî·áĞ¦×ÅËµµÀ£º±¾µØÌ«ÊØÓëÄ©½«¾ÃÑöÀî·á´óÈË´óÃû£¬
+    ½ñÈÕÓĞĞÒÄÜÇóÒ»¼û¡£
+blah blah
+
+then in 10 secs or so, left again
+
+seems the same problem as thief, fire pls check it.
+
+
+
+---
+×÷Õß: Ying
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xiapi/xp_sz...
+ÈÕÆÚ: Wed Jul 28 07:34:13 1999
+µ½ÏÖÔÚÎÒ»¹ÊÇ²»ÄÜ¶Ô±ğÈË×ö¶¯×÷£¬×Ü¸æËßÎÒxxx²»´æÔÚ£¬¶ø±ğµÄÍæ¼Ò¶¼Õı³£
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/luoyang/ly_dhl...
+ÈÕÆÚ: Wed Jul 28 15:40:02 1999
+waterflower has bug, after the bowl is gone, ppl cannot ask
+for job again, unless "update here".
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/luoyang/ly_dhl...
+ÈÕÆÚ: Wed Jul 28 15:40:51 1999
+hmm, after i update here, even i haven't done the job yet,
+i can ask for job again
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#46967...
+ÈÕÆÚ: Mon Aug  2 23:00:26 1999
+warinfo's tab need to be adjusted..:P
+cmd warinfo
+ÎÒ·½²¿¶Ó¡¡¡¡¡¡¡¡¡¡´úºÅ     Ö÷½«¡¡¡¡ ´ó½«Êı¡¡±øÊı¡¡ ±øÖÖ     Î»ÖÃ¡¡×´Ì¬
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+ÄÏÌÆ¹úµÚÒ»¾üÍÅ    troop1   Ğş±ù     2       29     ĞÂ²½     £Ä8   ÈË¿Ø
+ÄÏÌÆ¹úµÚ¶ş¾üÍÅ    troop2   ¿×ÈÚ 1       30     ĞÂ²½     £Ã6   ´ıÃü
+µĞ·½²¿¶Ó¡¡¡¡¡¡¡¡¡¡´úºÅ     Ö÷½«¡¡¡¡ ´ó½«Êı¡¡±øÊı¡¡ ±øÖÖ     Î»ÖÃ¡¡×´Ì¬
+¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş¡ş
+
+addoil.
+
+
+
+---
+×÷Õß: Snail
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/ye/yc_yst...
+ÈÕÆÚ: Sat Jul 31 17:47:17 1999
+
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/luoyang/ly_by...
+ÈÕÆÚ: Sun Aug  1 11:49:31 1999
+[errors] ((none)) Error logged to /log/runtime
+[errors] *Bad argument 1 to call_other()
+         *Expected: string or array or object Got: 0.
+[errors] /std/indoor_room#81589 (std/container.c) at line 265
+
+> dbxwhere last
+Sun Aug  1 11:48:11 1999
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /std/indoor_room#81589 (std/container.c) at line 265
+
+#0: 'reset' at /std/indoor_room#81589 (std/container.c) at line 277
+#1: 'make_objects_if_needed' at /std/indoor_room#81589 (std/container.c) at line 265
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/emp/ysf...
+ÈÕÆÚ: Tue Aug  3 09:03:41 1999
+·ü±øÆªÃ»·¨¶Á
+don't have fubing skill ?
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Mon Aug  9 14:10:26 1999
+*Too long evaluation. Execution aborted.
+Object: /daemons/warai_d (daemons/warai_d/siege_attack.c) at line 58
+
+#0: 'troop_heart' at /daemons/troop_d at line 70
+#1: 'auto_action' at /daemons/warai_d at line 86
+#2: 'do_command_pursue' at /daemons/warai_d (daemons/warai_d/pursue.c) at line 73
+#3: 'find_special_attack_target' at /daemons/warai_d (daemons/warai_d/pursue.c) at line 15
+#4: 'find_attack_target' at /daemons/warai_d (daemons/warai_d/attack.c) at line 96
+#5: 'can_siege_attack' at /daemons/warai_d (daemons/warai_d/siege_attack.c) at line 58
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/wan/w_djt...
+ÈÕÆÚ: Wed Aug 11 01:12:22 1999
+Wed Aug 11 01:10:04 1999
+*Value being indexed is zero.
+Object: /sgdomain/event/ev_war (sgdomain/event/war/def_arrange.c) at line 132
+
+#0: 'auto_def_arrange' at /sgdomain/event/ev_war (sgdomain/event/war/def_arrange.c) at line 151
+#1: 'get_def_val' at /sgdomain/event/ev_war (sgdomain/event/war/def_arrange.c) at line 132
+
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£º´ó»ğÇòÁìËÄÇ§Ò»°Ù°ËÊ®±øÊ¿ÏòÍğ³ÇÉ±À´£¡£¡£¡
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£º´ó»ğÇòÁìËÄÇ§Ò»°Ù°ËÊ®±øÊ¿ÏòÍğ³ÇÉ±À´£¡£¡£¡
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÁõ±íÂÊ¾ü·ÜÓÂÕ÷Õ½£¬°Ñ´ó»ğÇò´òµÃ¶ª¿øÆú¼×£¬ÀÇ±·ÌÓ´Ü¡£Íğ³Ç¾üÃñ»¶Ï²Çì¹¦£¡
+
+immediate loss, dunno the reason, attacking side did not lose troops.
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Wed Aug 11 01:17:40 1999
+after wan won the defence war, safety dropped from 66 to 46,
+should be increase bah
+
+
+
+---
+×÷Õß: Fire
+ÌâÄ¿: >Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Sun Aug 15 06:18:06 1999
+On Sat Aug 14 23:04:56 1999 Ice wrote post #216:
+> ¡¾ÁúÖ®¹ú¡¿Èê°Ö£º0(wang jun)µÄ×ÖÊÇ:1 02 Ãî²Å3 ÏÔ¸¦4 ×Óã¡
+> 
+> this char is removed, but still appear in robot test.
+> 
+need update zi.c in /sgdomain/robot
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/wiz/ice/workroom...
+ÈÕÆÚ: Sat Aug 14 23:04:56 1999
+¡¾ÁúÖ®¹ú¡¿Èê°Ö£º0(wang jun)µÄ×ÖÊÇ:1 02 Ãî²Å3 ÏÔ¸¦4 ×Óã¡
+
+this char is removed, but still appear in robot test.
+
+
+
+---
+×÷Õß: Zjf
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/yijing/yj_dl...
+ÈÕÆÚ: Sat Aug 14 02:15:02 1999
+about buy food
+
+
+---
+×÷Õß: Zjf
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/yijing/yj_dl...
+ÈÕÆÚ: Sat Aug 14 02:14:42 1999
+about buy food
+
+
+---
+×÷Õß: Zjf
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/yijing/yj_htl...
+ÈÕÆÚ: Sat Aug 14 02:13:13 1999
+about buy food
+
+
+---
+×÷Õß: Ying
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/changan/ca_zbd...
+ÈÕÆÚ: Fri Aug 13 21:04:58 1999
+ÎÒµÄÆïÊõ³¤µ½¶ş¼¶¾Í²»¶¯ÁË£¬±ğÈËÈ´ÒÑ³¤µ½Ê®¼¸¼¶ÁË¡£ÁíÍâ³¤°²Öé±¦µêÓĞ¶¨×ö¼ÛÈ´ÎŞ·¨¶¨×ö¡£
+¡£
+
+
+
+---
+×÷Õß: Lionking
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/luoyang/ly_bdj1...
+ÈÕÆÚ: Wed Aug 11 22:01:30 1999
+ÎãÇğ¼ó²»ÊÇÎãÇğÂ×£¬ÇëÄÃ¡¶Èı¹úÖ¾¡·ºË¶Ô¡£
+
+
+
+---
+×÷Õß: Lionking
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/changan/ca_ycj3...
+ÈÕÆÚ: Wed Aug 11 05:20:16 1999
+ËïÈ¨ÈıµÜÓ¦ÎªËïñ´,×ÖÊååö,¶ø²»ÊÇËïôá.
+
+
+
+---
+×÷Õß: Lionking
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vkedian...
+ÈÕÆÚ: Wed Aug 11 04:22:30 1999
+»ªÒõÒ»Æ¬ÆáºÚ.
+
+
+
+---
+×÷Õß: Lionking
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vkedian...
+ÈÕÆÚ: Wed Aug 11 04:19:21 1999
+
+
+
+
+---
+×÷Õß: Lionking
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vnangxiao_hang...
+ÈÕÆÚ: Wed Aug 11 04:18:45 1999
+q
+,
+
+
+
+---
+×÷Õß: Lionking
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/luoyang/ly_cbx2...
+ÈÕÆÚ: Tue Aug 17 05:15:18 1999
+ÕÅò¢×Ö¿¡Òå
+
+
+
+---
+×÷Õß: Lionking
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/shangyong/sy_ns...
+ÈÕÆÚ: Tue Aug 17 02:09:09 1999
+ÕÅò¢isÕÅàA ,Â½ØøisÂ½¿¹. 
+
+
+
+---
+×÷Õß: Coolfish
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/obj/horse/horse#138146...
+ÈÕÆÚ: Wed Aug 18 14:26:07 1999
+cmd go xiapi
+l
+cmd go xiapi
+q
+. 
+
+
+
+---
+×÷Õß: Ying
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/chaisang/cs_mc...
+ÈÕÆÚ: Tue Aug 17 21:10:12 1999
+i visitpeople ²ñÉ£¾ÓÃñ,finished,but they didnt go.i answered to taishou,and asked for another visit job,then he tell me to visit ²ñÉ£¾ÓÃñ again.when i visited,²ñÉ£¾ÓÃñsay ÎÒÃÇ²»ÕıÔÚÉÌÁ¿Âğ?so my job can't finish....
+
+
+
+---
+×÷Õß: Yuki
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/yuzhang/yz_ndj...
+ÈÕÆÚ: Thu Aug 19 17:49:30 1999
+Ô¥ÕÂÄÏ³ÇÃÅ²»ÔÚÁË¡£
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/luoyang/ly_by...
+ÈÕÆÚ: Mon Aug 23 12:09:26 1999
+Mon Aug 23 12:07:42 1999
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /daemons/chenghu_d at line 137
+
+#0: 'my_heart' at /daemons/charheart_d at line 88
+#1: 'ack_char' at /daemons/charheart_d at line 62
+#2: 'my_heart' at /sgdomain/modules/char_server/zhu ling (sgdomain/modules/m_charnpc/m_charaction.c) at line 152
+#3: 'my_charaction' at /sgdomain/modules/char_server/zhu ling (sgdomain/modules/m_charnpc/m_charaction.c) at line 113
+#4: 'do_my_semote' at /sgdomain/modules/char_server/zhu ling (sgdomain/modules/m_charnpc/m_charaction.c) at line 42
+#5: 'responda' at /sgdomain/modules/char_server/zhu ling (sgdomain/modules/m_char.c) at line 67
+#6: 'do_respond' at /sgdomain/modules/char_server/zhu ling (sgdomain/modules/m_char.c) at line 49
+#7: 'do_game_commanda' at /sgdomain/modules/char_server/zhu ling (sgdomain/modules/m_char.c) at line 39
+#8: 'do_verb_rule' at /daemons/soul_d at line 328
+#9: 'get_soul' at /daemons/soul_d at line 230
+#10: 'internal_get_soul' at /daemons/soul_d at line 207
+#11: 'compose_message' at /daemons/soul_d (std/modules/m_messages.c) at line 140
+#12: 'query_chenghu_R' at /daemons/chenghu_d at line 137
+
+also [errors] /daemons/chenghu_d at line 194
+
+
+
+
+---
+×÷Õß: Locker
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#144838...
+ÈÕÆÚ: Sun Aug 22 01:07:47 1999
+
+q
+l
+l
+
+
+
+---
+×÷Õß: Lionking
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xianyang/xy_nst3...
+ÈÕÆÚ: Sun Aug 22 01:53:33 1999
+ØáÁ¼×ÖÓ¢¶È£¬¶øÇÒÊÇØáÔ½Ö®ĞÖ¡£
+¡£
+
+
+
+---
+×÷Õß: L
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#105714...
+ÈÕÆÚ: Sat Aug 21 11:35:37 1999
+q
+score
+l
+q
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/chengdu/cd_tjp...
+ÈÕÆÚ: Tue Aug 24 02:22:39 1999
+our papaya boy not functioning....:(
+
+
+
+---
+×÷Õß: Ice
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/yuzhang/yz_yst...
+ÈÕÆÚ: Wed Aug 25 17:21:18 1999
+warinfo cannot be seen, fire pls check it bah..:(
+
+
+
+---
+×÷Õß: Bdd
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xiapi/xp_sz...
+ÈÕÆÚ: Sat Oct  2 00:30:00 1999
+hi this is bdd. how are you everybody? i am a newbie in 3g.
+i am trying to play it.i hope you can help me often.
+thanks all
+
+
+
+---
+×÷Õß: Bdd
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xiapi/xp_sz...
+ÈÕÆÚ: Sat Oct  2 00:28:15 1999
+
+
+
+
+---
+×÷Õß: Bdd
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xiapi/xp_sz...
+ÈÕÆÚ: Sat Oct  2 00:28:05 1999
+
+
+
+
+---
+×÷Õß: Bdd
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vhall...
+ÈÕÆÚ: Fri Oct  1 21:36:01 1999
+
+
+
+
+---
+×÷Õß: Shensw
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/riverarea...
+ÈÕÆÚ: Wed Oct  6 04:26:57 1999
+
+
+
+
+---
+×÷Õß: Darks
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vstore...
+ÈÕÆÚ: Sun Oct  3 10:11:52 1999
+doujiang
+
+
+---
+×÷Õß: Dog
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vstore...
+ÈÕÆÚ: Sun Oct 10 09:36:40 1999
+doujiang from huayin xiaoer
+
+
+---
+×÷Õß: Dog
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vstore...
+ÈÕÆÚ: Sun Oct 10 09:35:42 1999
+doujiang
+
+
+---
+×÷Õß: Dog
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vstore...
+ÈÕÆÚ: Sun Oct 10 09:35:24 1999
+doujiang
+
+
+---
+×÷Õß: Sireng
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vchitang_bian...
+ÈÕÆÚ: Wed Oct 13 02:36:06 1999
+
+
+
+
+---
+×÷Õß: Best
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xuchang/xc_jc...
+ÈÕÆÚ: Thu Oct 14 09:43:59 1999
+job
+
+
+---
+×÷Õß: Lzw
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/zitong/zt_yst...
+ÈÕÆÚ: Sat Oct 16 20:45:27 1999
+lzw
+
+
+---
+×÷Õß: Qwqw
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/riverarea...
+ÈÕÆÚ: Wed Oct 20 06:03:38 1999
+
+>
+
+
+
+---
+×÷Õß: Atzs
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#98506...
+ÈÕÆÚ: Wed Oct 20 00:52:44 1999
+job
+
+
+---
+×÷Õß: Ziling
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xiangyang/xy_xzd...
+ÈÕÆÚ: Sat Oct 23 21:56:17 1999
+q
+q
+
+
+
+---
+×÷Õß: Haaa
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/poyang/poy_yst...
+ÈÕÆÚ: Tue Oct 26 21:30:44 1999
+job]
+
+
+---
+×÷Õß: Secret
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#284499...
+ÈÕÆÚ: Fri Oct 29 01:36:33 1999
+report
+
+
+---
+×÷Õß: Tufei
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/taiyuan/ty_camp3...
+ÈÕÆÚ: Tue Nov  2 18:02:36 1999
+job
+
+
+---
+×÷Õß: Hum
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#169696...
+ÈÕÆÚ: Thu Nov  4 06:18:49 1999
+
+
+
+
+---
+×÷Õß: Hum
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/mianchi/mc_lk1...
+ÈÕÆÚ: Sat Nov  6 12:22:05 1999
+äÅ³ØÂ·¿Ú²»ÄÜeast
+
+
+
+---
+×÷Õß: Kens
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xinye/xy_hs...
+ÈÕÆÚ: Thu Nov 11 08:03:47 1999
+
+
+
+
+---
+×÷Õß: Ë¹Ì¹¸£(stefan)
+ÌâÄ¿: bug in help topics
+ÈÕÆÚ: Tue Nov 16 08:39:25 1999
+there is one HELP file with Chinese title '0'.
+
+
+---
+×÷Õß: Winner
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/anding/ad_yst...
+ÈÕÆÚ: Thu Nov 18 04:25:56 1999
+
+
+
+
+---
+×÷Õß: Kennyc
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vshuxia...
+ÈÕÆÚ: Fri Nov 19 18:00:49 1999
+Äã×óÓÒ¿´¿´£¬Í»È»¾õµÃÓĞ±ØÒªµ½»±Ê÷ÉÏ×ª×ª¡
+i've found this when i patrol in huayin, but there's no way to climb
+is it a bug?
+hope wiz can fix it.
+h
+
+
+
+---
+×÷Õß: Kennyc
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vroad1...
+ÈÕÆÚ: Fri Nov 19 22:57:35 1999
+Äã×óÓÒ¿´¿´£¬Í»È»¾õµÃÓĞ±ØÒªµ½ÃÜµÀ×ª×ª¡£
+but there's no such thing in huayin
+
+
+
+---
+×÷Õß: Noise
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/zitong/zt_cndd...
+ÈÕÆÚ: Fri Nov 19 23:14:59 1999
+ÈËÔÚÀÎÀïµÄÊ±ºó×ö»µÊÂµÄconditionÃ»ÓĞ±»cancel£¬
+¿ÉÒÔ¶à´Î·´¸´µÄ×¥¡£Õâ¿ÉÊÇ¸ö´óbugÑ½£¬ÎÒÒªÇó
+½±Àø¸øÎÒÕÉ°ËÉßÃ¬¡£
+
+
+
+---
+×÷Õß: Guanyu
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vzhu_lin...
+ÈÕÆÚ: Sat Nov 20 08:29:38 1999
+q
+
+
+
+---
+×÷Õß: Yying
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#15433...
+ÈÕÆÚ: Wed Nov 24 22:55:45 1999
+q
+q
+look
+
+
+
+---
+×÷Õß: Maggle
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xinye/xy_dt...
+ÈÕÆÚ: Tue Nov 23 13:33:19 1999
+
+
+
+
+---
+×÷Õß: Gudu
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/zitong/zt_yst...
+ÈÕÆÚ: Tue Nov 23 13:33:19 1999
+
+q
+q
+
+cmd over
+w
+w
+w
+cmd warinfo
+w
+l
+w
+l
+rumor* kick
+
+
+
+
+
+
+
+
+
+l
+`q
+q
+
+
+
+---
+×÷Õß: Jingling
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/riverarea...
+ÈÕÆÚ: Wed Nov 24 00:36:54 1999
+
+
+
+
+---
+×÷Õß: Plum
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vcenter...
+ÈÕÆÚ: Sat Nov 27 02:20:24 1999
+
+
+
+
+---
+×÷Õß: Icehall
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vhall...
+ÈÕÆÚ: Sun Nov 28 03:24:03 1999
+
+
+
+
+---
+×÷Õß: Eat
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/yanmenguan/ymg_sl2...
+ÈÕÆÚ: Sun Nov 28 17:00:26 1999
+bug1
+
+
+
+
+---
+×÷Õß: Jiana
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/beiping/bp_yst...
+ÈÕÆÚ: Sat Dec  4 17:03:39 1999
+q
+
+
+
+---
+×÷Õß: S
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/wuguan/wg_yizhan...
+ÈÕÆÚ: Sun Dec 12 00:01:50 1999
+
+q
+
+
+q
+
+
+
+
+---
+×÷Õß: Kens
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/yiling/yl_cc...
+ÈÕÆÚ: Sun Dec 12 00:00:59 1999
+Î¢Ğ¦±¨ËµµÀ£ºweit ÏÂ²»ÁËÃüÁî
+Î¢Ğ¦±¨ËµµÀ£º*Value being indexed is zero.
+
+
+
+---
+×÷Õß: Kens
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/yiling/yl_cc...
+ÈÕÆÚ: Sun Dec 12 00:00:31 1999
+,
+
+
+
+---
+×÷Õß: Bingo
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vzhangda_hu...
+ÈÕÆÚ: Sat Dec 11 14:29:32 1999
+0¸æËßÄã£ºÄã¶¨µÃ³¤ÅÛÒÑ¾­×¼±¸ºÃÁË£¬ÇëËÙÀ´ÑéÈ¡¡£
+
+...
+sth wrong with makers?
+
+-ice.:P
+
+
+
+---
+×÷Õß: Jjj
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/ruxukou/rxk_sz...
+ÈÕÆÚ: Mon Dec 13 03:28:04 1999
+ssqx
+
+
+---
+×÷Õß: Jjj
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/ruxukou/rxk_sz...
+ÈÕÆÚ: Mon Dec 13 03:11:59 1999
+ssqx
+
+
+---
+×÷Õß: Jjj
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/ruxukou/rxk_sz...
+ÈÕÆÚ: Mon Dec 13 03:11:41 1999
+ssqx
+
+
+---
+×÷Õß: Rickal
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/home/home_server/rob/room 4...
+ÈÕÆÚ: Sat Dec 18 21:50:43 1999
+
+
+
+
+---
+×÷Õß: Ldf
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/riverarea...
+ÈÕÆÚ: Mon Dec 27 20:46:55 1999
+row
+
+
+---
+×÷Õß: Suicide
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/chibi/cb_sz...
+ÈÕÆÚ: Wed Dec 29 08:57:44 1999
+
+
+
+
+---
+×÷Õß: Wztd
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/shangyong/sy_qz...
+ÈÕÆÚ: Mon Jan 10 01:11:18 2000
+spig
+
+
+---
+×÷Õß: Hmz
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/jianning/jn_jl...
+ÈÕÆÚ: Sat Jan  8 18:14:38 2000
+dhcha
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Thu Jan  6 17:11:50 2000
+/cmds/wiz/:
+8          Dec 22 06:03:37 1999 get_char( "zhao yun" , "zi" )            
+no idea what it is, removed.
+
+
+
+---
+×÷Õß: Tset
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/quiet_room...
+ÈÕÆÚ: Fri Jan  7 09:20:05 2000
+Èı¹úÕıÔÚÔËĞĞ Lima 1.0a2 (Chinese)£¬MudOS v22.2a21¡£±¾´ÎÔËĞĞÊ±¼äÊ®ÎåĞ¡Ê±ËÄÊ®¶ş·ÖÖÓ¡£Ä¿Ç°ÓĞ 40 Î»Íæ¼Ò¡¢0 Î»Î×Ê¦ÔÚÓÎÏ·ÖĞ£¬»¹ÓĞ 4 Î»ÕıÔÚÁ¬Ïß¡£Íæ¼Ò£¬ÄúºÃ£¡ÇëÊäÈëÄúµÄÓ¢ÎÄÃû×Ö£ºtsetÇëÊäÈëÃÜÂë£ºH_CYAN¡¾ÁªºÏ¹ú¡¿×¦ÍÜ£ºmeeting to train
+seems i am able to hear nation before inputting password...
+
+
+
+---
+×÷Õß: Vb
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/luoyang/ly_dhl...
+ÈÕÆÚ: Fri Jan  7 13:17:58 2000
+
+
+
+
+---
+×÷Õß: Vb
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/luoyang/ly_dhl...
+ÈÕÆÚ: Fri Jan  7 13:18:49 2000
+»¨½³¶ÔÄãµÀ£º»î¶ùÒÑ¾­°²ÅÅ¸øÄãÁË£¬»¹²»È¥×ö£¿
+cmd resign waterflower
+Äã²¢Ã»ÓĞÁì¹ıÕâÏî¹¤×÷
+
+
+
+---
+×÷Õß: Rulin
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/bailangshan/bls_sj...
+ÈÕÆÚ: Fri Jan  7 13:20:44 2000
+
+
+
+
+---
+×÷Õß: Bonjour
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/jiangling/jl_jianyu...
+ÈÕÆÚ: Fri Jan  7 13:28:14 2000
+ÔÚjiangling µÄ³ÇÃÅ¿Ú´òenter »áËµÃ»ÓĞÕâ¸öÃûÀû
+ÃüÁîºÍ¶¯´Ê
+Óü×ä(yu zu)
+ÕÔ¹ú¸±¾üÊ¦Ğ¡ÇÇ(xiao qiao)
+> Ã»ÓĞ out Õâ¸öÃüÁî»ò¶¯´Ê¡£
+Èç¹ûÔÚÒÔÉÏÁ½´¦use mirror
+ÇÒÄ¿µÄµØÔÚjiangling
+Ò²»á³ö´í
+
+
+
+---
+×÷Õß: Lmy
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#97359...
+ÈÕÆÚ: Mon Jan 10 22:22:07 2000
+
+
+
+
+---
+×÷Õß: Lohi
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/riverarea...
+ÈÕÆÚ: Mon Jan 10 22:18:00 2000
+pull net
+pull net
+pull net
+pull net
+hp
+hp
+hp
+ [D [D [D [Dskill require
+pull net
+pull net
+pull net
+throw net
+q
+
+
+
+---
+×÷Õß: Jet
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vmill...
+ÈÕÆÚ: Wed Jan 19 08:59:31 2000
+q
+
+
+
+---
+×÷Õß: Rickal
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/changan/ca_bcm...
+ÈÕÆÚ: Tue Jan 18 04:28:07 2000
+Èı¹úÈı°ÙÎåÊ®ÎåÄê¶şÔÂÎåÈÕ£¬ÕÔ¹úµÄÁÖÊé´ÓÈêÄÏ·¢±ø¹¥´ò¾ÅÉÙ¹úµÄÍğ³Ç¡£
+we use about 5k bing to war wan
+and the lead in wan retreat instantly..
+the we win ofcoz..but when we check the bign in wan 
+we see all bing in wan disappeared
+can u recover our 5077 bing pls~~~..thanx
+
+
+
+
+---
+×÷Õß: Pangtong
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/shouchun/sc_sd...
+ÈÕÆÚ: Thu Jan 20 06:17:43 2000
+map here
+q
+
+
+
+---
+×÷Õß: Gooda
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vhall...
+ÈÕÆÚ: Sat Jan 15 05:27:40 2000
+
+
+
+
+---
+×÷Õß: Leeye
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#176045...
+ÈÕÆÚ: Sat Jan 15 09:18:07 2000
+ÑµÁ·ÖĞ(Ò»¶Ó)£¬µ½ÁËÈÎÎñÁù£¬ÕÒ²»µ½¼ÙÏëµĞ£¬ÓÖÃ»ÓĞÊ±¼äµ¹Êı£¬
+ÏÂ²»À´ÁË¡£
+
+
+
+---
+×÷Õß: Leonyy
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vmill...
+ÈÕÆÚ: Sun Jan 16 23:26:10 2000
+q
+
+
+
+
+
+
+---
+×÷Õß: Llliu
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xiapi/xp_yamen...
+ÈÕÆÚ: Mon Jan 17 13:15:45 2000
+q
+i
+i
+hp
+
+
+
+---
+×÷Õß: Shelly
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xianyang/xy_est2...
+ÈÕÆÚ: Fri Feb 11 01:50:04 2000
+»ªÍÓÉúÆøµÄ¶ÔÄãºßÁËÒ»Éù£ºÉÏ´ÎµÄ»î»¹Ã»¸ÉÍêÄØ£¡
+but the chu tou broken la
+i didnt quit
+is there time limit?
+
+
+
+---
+×÷Õß: Shelly
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xianyang/xy_est2...
+ÈÕÆÚ: Fri Feb 11 01:48:05 2000
+
+q
+
+
+
+---
+×÷Õß: Xexe
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vstore...
+ÈÕÆÚ: Sat Jan 29 17:11:16 2000
+buy doujiang
+
+
+
+
+
+---
+×÷Õß: Burglar
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vhall...
+ÈÕÆÚ: Wed Jan 26 11:56:51 2000
+
+
+
+
+
+
+
+---
+×÷Õß: Remo
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xiangyang/xy_tcj4...
+ÈÕÆÚ: Mon Jan 24 20:48:29 2000
+ÄãÏò×ó´È¹ªÉíÎÊµÀ£ºÏÈÉú£¬¿ÉÓĞ·Ô¸À£¿;×ó´ÈÂúÁ³¶ÑĞ¦µÄËµ£º´óÈËÓ¦¸ÃĞİÏ¢Ò»»áÀ²¡£
+9  ÏÉÈË×ó´È  zuo ci          40    0  Íê³É Ê®ÎåĞ¡Ê±Ç°   ´úÏØ(²¢Öİ)
+
+
+
+---
+×÷Õß: Bonjour
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/zitong/zt_djt...
+ÈÕÆÚ: Mon Jan 24 17:11:40 2000
+¡£
+
+
+
+---
+×÷Õß: Cool
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/jiangling/jl_jianyu...
+ÈÕÆÚ: Mon Jan 24 16:09:57 2000
+
+ÈğÆ½Â· [³ö¿Ú£ºwest, east, south]
+
+©³©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©·
+©§                                                        ©§
+ Âí³¡                      ÈğÆ½Â·                      ÃñÕ¬ 
+©§                                                        ©§
+©»©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥ ÈğÆ½Â· ©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¿
+
+Ò»Èº½­ÁêĞ¡»ï(jiangling guy)
+
+ÌìÔÆµÛ¹ú½­ÁêÏĞÖ°¡¸ĞÂÊÖÉÏÂ·£¬Çë¶àÖ¸½Ì¡¹ÅÍÊ¯£¬×Ö¼áÓ²(silicon)
+> ÅÍÊ¯¶ÔÄã´óºÈÒ»Éù£º´óµ¨»è¹Ù£¬¾¹È»ÔÚ´ËÕ÷±ø£¬¸øÎÒÄÃÏÂ£¡
+ÖÚ¹Ù±øÒ»Óµ¶øÉÏ£¬°ÑÄãÀ¦µÃ½á½áÊµÊµ¡£
+ÅÍÊ¯Ò»»ÓÊÖµÀ£º´ø×ß¡£
+ÖÚ¹Ù±ø°ÑÄãÑºÁËÏÂÈ¥¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÁ¹·Û²İÔÚ½­ÁêÕ÷±ø£¬±»ÕıÔÚÑ²ÂßµÄÅÍÊ¯µ±³¡×¥»ñ¡£
+¡¾Ò¥ÑÔ¡¿Ä³ÈË£ºÅÍÊ¯ÇÜ»ñÁËÁ¹·Û²İ£¬ÅÍÊ¯µÄÉùÍûÌá¸ßÁË°Ë°ÙÈıÊ®µã¡£Á¹·Û²İ±»ËÍÍùµ±µØ´óÀÎ¡£
+µÈÄãÇåĞÑ¹ıÀ´µÄÊ±ºò£¬·¢ÏÖ×Ô¼ºÒÑ¾­ÔÚ´óÀÎÀïÁË¡£
+i have failed a recruit in other room before this,
+but in this room, i have not yet begun.
+is this a bug, or it is just so programmed?
+
+
+
+---
+×÷Õß: Zrd
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/modules/troop#383609...
+ÈÕÆÚ: Wed Feb  2 11:55:00 2000
+purge
+purege
+purge
+
+
+
+
+
+
+
+faint
+q
+/
+
+
+
+---
+×÷Õß: Shelly
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/luoyang/ly_ndj2...
+ÈÕÆÚ: Wed Feb  2 22:16:24 2000
+
+
+
+
+---
+×÷Õß: Magi
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/jinyang/jy_yst...
+ÈÕÆÚ: Sat Feb 12 10:23:38 2000
+no bug
+
+
+
+---
+×÷Õß: Flee
+ÌâÄ¿: Bug±¨¸æµØµã£º/domains/std/wizroom...
+ÈÕÆÚ: Thu Feb 24 01:45:22 2000
+
+sgz *nod stefan
+*Bad type argument to +. Had array and string
+Trace written to /log/runtime
+[errors] (flee) Error logged to /log/runtime
+[errors] *Bad type argument to +. Had array and string
+[errors] /daemons/soul_d (std/modules/m_messages.c) at line 209
+
+
+
+---
+×÷Õß: Aopen
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/poyang/poy_yst...
+ÈÕÆÚ: Thu Feb 24 03:49:31 2000
+kong rong
+
+
+---
+×÷Õß: Kming
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/yizhan/mache#219344...
+ÈÕÆÚ: Thu Feb 24 10:50:02 2000
+
+
+
+
+---
+×÷Õß: Kkid
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/jiangling/jl_jianyu...
+ÈÕÆÚ: Fri Feb 25 06:57:48 2000
+³¬Ê±Ëã´í;*Owner (/sgdomain/modules/char_server/jiangling guy) of function pointer is destructed.
+Trace written to /log/runtime
+
+
+
+---
+×÷Õß: Magi
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/xuzhou/xz_yst...
+ÈÕÆÚ: Sun Feb 20 08:17:26 2000
+
+
+
+
+---
+×÷Õß: Bsnow
+ÌâÄ¿: Bug±¨¸æµØµã£º/sgdomain/area/emp/ysf...
+ÈÕÆÚ: Wed Feb 23 22:32:32 2000
+
+,
+l
+l
+cmd catch thief
+l
+l
+
+
+
+---
+×÷Õß: Francis
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vfield...
+ÈÕÆÚ: Sat Feb 26 06:05:17 2000
+
+
+
+
+---
+×÷Õß: Xysango
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/huayin/vshuxia...
+ÈÕÆÚ: Thu Mar  2 21:59:03 2000
+ligg
+
+
+---
+×÷Õß: Fwufwu
+ÌâÄ¿: Bug±¨¸æµØµã£º/a/jinan/jn_jjdz...
+ÈÕÆÚ: Sat Mar  4 08:35:47 2000
+get all
+get all
+get all
+get all
+l
+l
+
+
+

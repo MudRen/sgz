@@ -1,0 +1,162 @@
+/wiz/xiaobai/exec.c line 7: End of file in text block at the end of the file
+/wiz/xiaobai/exec.c line 7: parse error at the end of the file
+/wiz/xiaobai/exec.c line 7: End of file in string at the end of the file
+/wiz/xiaobai/exec.c line 7: parse error at the end of the file
+/wiz/xiaobai/exec.c line 6: Undefined variable 'ghyg' before ;}
+/wiz/xiaobai/exec.c line 6: parse error before ,liang"","nation")" 
+/wiz/xiaobai/exec.c line 6: parse error before ,liang"","area")" "x
+/wiz/xiaobai/exec.c line 6: Undefined variable 'xiangping' before gold,100000);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'gold' before 100000);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'xiangping' before food,1000000);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'food' before 1000000);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'xiangping' before troop,([footman:3000
+/wiz/xiaobai/exec.c line 6: Undefined variable 'troop' before ([footman:30000,cava
+/wiz/xiaobai/exec.c line 6: Undefined variable 'footman' before 30000,cavalry:10000,
+/wiz/xiaobai/exec.c line 6: Undefined variable 'cavalry' before 10000,bowman:10000])
+/wiz/xiaobai/exec.c line 6: Undefined variable 'bowman' before 10000]));}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'xiangping' before safe,200);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'safe' before 200);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'xiangping' before train,200);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'train' before 200);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'xiangping' before morale,200);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'morale' before 200);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'bzd' before gender);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'gender' before ;}
+/wiz/xiaobai/exec.c line 6: parse error before daemons/char_d));}
+/wiz/xiaobai/exec.c line 6: parse error before daemons/char_d));}
+/wiz/xiaobai/exec.c line 6: parse error before daemons/char_d.c));}
+/wiz/xiaobai/exec.c line 7: End of file in text block at the end of the file
+/wiz/xiaobai/exec.c line 7: parse error at the end of the file
+/wiz/xiaobai/exec.c line 6: parse error before wiz/xiaobai/work/cmd
+/wiz/xiaobai/work/cmds/beep.c line 17: Undefined function check_mark before  )
+/wiz/xiaobai/work/cmds/beep.c line 26: Undefined function set_mark before ;
+/wiz/xiaobai/work/cmds/beep.c line 48: Undefined variable 'strId' before ;
+/wiz/xiaobai/work/cmds/beep.c line 64: Undefined variable 'strId' before ;
+/wiz/xiaobai/work/cmds/beep.c line 68: Undefined variable 'remove_mark' before  30, par_strId );
+/wiz/xiaobai/work/cmds/beep.c line 76: Undefined variable 'strId' before ;
+/wiz/xiaobai/work/cmds/beep.c line 51: Undefined variable 'strId' before ;
+/wiz/xiaobai/work/cmds/beep.c line 67: Undefined variable 'strId' before ;
+/wiz/xiaobai/work/cmds/beep.c line 71: Undefined variable 'remove_mark' before  30, par_strId );
+/wiz/xiaobai/work/cmds/beep.c line 79: Undefined variable 'strId' before ;
+/wiz/xiaobai/work/cmds/beep.c line 71: Undefined variable 'remove_mark' before  30, par_strId );
+/wiz/xiaobai/work/cmds/beep.c line 71: Undefined variable 'remove_mark' before  30, par_strId );
+/wiz/xiaobai/work/cmds/beep.c line 80: Undefined variable 'remove_mark' before  30, par_strId );
+/wiz/xiaobai/exec.c line 6: parse error before ,xiaobai);}
+/wiz/xiaobai/exec.c line 6: parse error before ,xiaobai);}
+/wiz/xiaobai/exec.c line 6: Undefined function getuid before ;}
+/wiz/xiaobai/exec.c line 6: Undefined function geteuid before ;}
+/wiz/xiaobai/exec.c line 6: parse error before data/links/xiaobai.o
+/wiz/xiaobai/exec.c line 6: parse error before data/links/xiaobai.o
+/wiz/xiaobai/work/cmds/notell.c line 123: parse error before the end of line
+/wiz/xiaobai/work/cmds/notell.c line 131: Undefined variable 'par_strId' before ;
+/wiz/xiaobai/work/cmds/notell.c line 131: Illegal LHS before the end of line
+/wiz/xiaobai/work/cmds/notell.c line 131: parse error before the end of line
+/wiz/xiaobai/work/cmds/tell.c line 145: Undefined variable 'strPattern' before ))));
+/wiz/xiaobai/work/cmds/tell.c line 146: Bad argument 1 to efun strsrch() before  )))));        
+/wiz/xiaobai/exec.c line 6: Undefined function find_link before ;}
+/wiz/xiaobai/exec.c line 6: Undefined function find_boy before ;}
+/wiz/xiaobai/work/cmds/notell.c line 46: Undefined function trim_space before ;
+/wiz/xiaobai/exec.c line 7: End of file in text block at the end of the file
+/wiz/xiaobai/exec.c line 7: parse error at the end of the file
+/wiz/xiaobai/exec.c line 6: Undefined variable 'hdpa' before dovering);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'dovering' before ;}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'zuoci' before ;}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'zuoci' before );}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'zuoci' before  );}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'choppork' before  );}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'choppork' before  ");}
+/wiz/xiaobai/exec.c line 7: End of file in string at the end of the file
+/wiz/xiaobai/exec.c line 7: parse error at the end of the file
+/wiz/xiaobai/exec.c line 6: Undefined variable 'choppork' before  );}
+/wiz/xiaobai/exec.c line 6: Illegal character constant before hoppork', );}
+/wiz/xiaobai/exec.c line 6: parse error before ', );}
+/wiz/xiaobai/exec.c line 6: Illegal character constant before  );}
+/wiz/xiaobai/exec.c line 6: parse error before java->query_job("zuo
+/wiz/xiaobai/exec.c line 7: End of file in string at the end of the file
+/wiz/xiaobai/exec.c line 7: Undefined variable 'shouchun' at the end of the file
+/wiz/xiaobai/exec.c line 7: parse error at the end of the file
+/wiz/xiaobai/exec.c line 6: Undefined variable 'xiaobai' before localnation,160);}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'localnation' before 160);}
+/wiz/xiaobai/exec.c line 6: parse error before java->query_job("zuo
+/wiz/xiaobai/exec.c line 6: Bad argument 2 to efun debug_info() before ;}
+/wiz/xiaobai/exec.c line 6: Undefined function findobj before  );}
+/wiz/xiaobai/exec.c line 6: Undefined function find_obj before  );}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'rooms' before "south");}
+/wiz/xiaobai/exec.c line 6: Left argument of -> is not a class before }
+/wiz/xiaobai/exec.c line 6: Undefined variable 'area_d' before list_area();}
+/wiz/xiaobai/exec.c line 6: Undefined variable 'area_d' before list_areas();}
+/wiz/xiaobai/exec.c line 6: parse error before  0,;}
+/wiz/xiaobai/exec.c line 6: parse error before  "白狼山",;}
+/wiz/xiaobai/exec.c line 6: parse error before  0,;}
+/wiz/xiaobai/exec.c line 6: parse error before  "幽州",;}
+/wiz/xiaobai/exec.c line 6: parse error before  48,;}
+/wiz/xiaobai/exec.c line 6: parse error before  "/a/bailangshan/",;
+/wiz/xiaobai/exec.c line 6: parse error before  0,;}
+/wiz/xiaobai/exec.c line 6: parse error before  "白狼山",;}
+/wiz/xiaobai/exec.c line 6: parse error before  0,;}
+/wiz/xiaobai/exec.c line 6: parse error before  "幽州",;}
+/wiz/xiaobai/exec.c line 6: parse error before  48,;}
+/wiz/xiaobai/exec.c line 6: parse error before  "/a/bailangshan/",;
+/wiz/xiaobai/exec.c line 6: parse error before ;}
+/wiz/xiaobai/exec.c line 6: parse error before  15, "wuli" : 15, "r
+/wiz/xiaobai/exec.c line 6: Left argument of -> is not a class before }
+/wiz/xiaobai/exec.c line 6: Bad argument 2 to efun debug_info() before ;}
+/wiz/xiaobai/exec.c line 6: parse error before "wujun boy" );}
+/wiz/xiaobai/menu/recovermenu.c line 32: Undefined function quit before  :), "q" );
+/wiz/xiaobai/menu/recovermenu.c line 32: parse error before ), "q" );
+/wiz/xiaobai/menu/recovermenu.c line 33: Illegal LHS before the end of line
+/wiz/xiaobai/menu/recovermenu.c line 33: parse error before the end of line
+/wiz/xiaobai/menu/recovermenu.c line 43: Illegal LHS before the end of line
+/wiz/xiaobai/menu/recovermenu.c line 43: parse error before the end of line
+/wiz/xiaobai/menu/recovermenu.c line 49: Undefined variable 'p_mnSelectTroop' before  new_menu( "请选择其
+/wiz/xiaobai/menu/recovermenu.c line 49: Illegal lvalue before  new_menu( "请选择其
+/wiz/xiaobai/menu/recovermenu.c line 57: Undefined function out before ;
+/wiz/xiaobai/menu/recovermenu.c line 57: Undefined function output before ;
+/wiz/xiaobai/menu/recovermenu.c line 76: Illegal to use local variable in functional. before  );
+/wiz/xiaobai/menu/recovermenu.c line 76: $var illegal outside of function pointer. before 1]), "nation" ) == $
+/wiz/xiaobai/menu/recovermenu.c line 76: parse error before ]), "nation" ) == $(
+/wiz/xiaobai/menu/recovermenu.c line 76: $var illegal outside of function pointer. before (strNation) ) :) );
+/wiz/xiaobai/menu/recovermenu.c line 85: parse error before  ( strChar in strCha
+/wiz/xiaobai/menu/recovermenu.c line 92: "#pragma strict_types" requires type of function before );
+/wiz/xiaobai/menu/recovermenu.c line 93: parse error before the end of line
+/wiz/xiaobai/menu/recovermenu.c line 19: parse error before  comfirm();
+/wiz/xiaobai/menu/recovermenu.c line 178: parse error before the end of line
+/wiz/xiaobai/exec.c line 6: parse error before ",1);}
+/wiz/xiaobai/exec.c line 7: End of file in string at the end of the file
+/wiz/xiaobai/exec.c line 6: Undefined function date before ;}
+/wiz/xiaobai/exec.c line 6: Undefined function date before );}
+/wiz/xiaobai/exec.c line 6: Undefined function local_time before ;}
+/wiz/xiaobai/exec.c line 6: Undefined function local_time before ;}
+/wiz/xiaobai/exec.c line 6: parse error before ;}
+/wiz/xiaobai/exec.c line 6: parse error before ;}
+/wiz/xiaobai/cmds/whoip.c line 20: Undefined variable 'HIM' before  HIG, CYN, MAG, ORG,
+/wiz/xiaobai/cmds/whoip.c line 20: Undefined variable 'HIG' before  CYN, MAG, ORG, WHT,
+/wiz/xiaobai/cmds/whoip.c line 20: Undefined variable 'CYN' before  MAG, ORG, WHT, YEL,
+/wiz/xiaobai/cmds/whoip.c line 20: Undefined variable 'MAG' before  ORG, WHT, YEL, GRN}
+/wiz/xiaobai/cmds/whoip.c line 20: Undefined variable 'ORG' before  WHT, YEL, GRN});
+/wiz/xiaobai/cmds/whoip.c line 20: Undefined variable 'WHT' before  YEL, GRN});
+/wiz/xiaobai/cmds/whoip.c line 71: Undefined variable 'i' before  0;
+/wiz/xiaobai/cmds/whoip.c line 71: Illegal lvalue before  0;
+/wiz/xiaobai/cmds/whoip.c line 77: Undefined variable 'c_n' before  CHAR_D->get_char(us
+/wiz/xiaobai/cmds/whoip.c line 77: Illegal lvalue before  CHAR_D->get_char(us
+/wiz/xiaobai/cmds/whoip.c line 81: Undefined variable 'j' before  member_array(user, 
+/wiz/xiaobai/cmds/whoip.c line 81: Illegal lvalue before  member_array(user, 
+/wiz/xiaobai/cmds/whoip.c line 77: Undefined variable 'c_n' before  CHAR_D->get_char(us
+/wiz/xiaobai/cmds/whoip.c line 77: Illegal lvalue before  CHAR_D->get_char(us
+/wiz/xiaobai/cmds/whoip.c line 82: Undefined variable 'c_str' before  RED;
+/wiz/xiaobai/cmds/whoip.c line 82: Illegal lvalue before  RED;
+/wiz/xiaobai/cmds/whoip.c line 204: parse error before  == $2 :), ip );
+/wiz/xiaobai/cmds/whoip.c line 217: Illegal LHS before  > 0 )
+/wiz/xiaobai/cmds/whoip.c line 217: parse error before  > 0 )
+/wiz/xiaobai/cmds/whoip.c line 150: Bad type for argument 1 of filter ( string vs object array ) before ;
+/wiz/xiaobai/cmds/whoip.c line 150: Bad type for argument 2 of filter ( int vs function ) before ;
+/wiz/xiaobai/cmds/whoip.c line 150: Bad assignment ( object array vs int ). before the end of line
+/wiz/xiaobai/cmds/whoip.c line 155: Bad type for argument 1 of filter ( string vs object array ) before ;  
+/wiz/xiaobai/cmds/whoip.c line 155: Bad type for argument 2 of filter ( int vs function ) before ;  
+/wiz/xiaobai/cmds/whoip.c line 155: Bad assignment ( object array vs int ). before   
+/wiz/xiaobai/cmds/whoip.c line 234: Undefined function left_string before ;
+/wiz/xiaobai/exec.c line 6: Undefined variable 'CAST_D' before get_cast("jiaoma",""
+/wiz/xiaobai/exec.c line 6: Undefined function local_time before ;}
+/wiz/xiaobai/exec.c line 6: parse error before wiz/xiaobai/menu/emo
+/wiz/xiaobai/exec.c line 6: Undefined variable 'emotemenu' before }
+/wiz/xiaobai/exec.c line 6: Left argument of -> is not a class before }
