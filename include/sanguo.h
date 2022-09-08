@@ -1,3 +1,6 @@
+#ifndef __SANGUO_H__
+#define __SANGUO_H__
+
 // to keep this file just for historical reason
 // so dont add anything new in this file
 //*****************************************************************
@@ -102,3 +105,5 @@
 #define CPA_REALLEADER -10
 #define CPA_FIRST_ACCEPT 2
 #define CONDITION_D(x)	("/sgdomain/sg_conditions/" + x)//emperor add.
+
+#endif // __SANGUO_H__

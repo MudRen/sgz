@@ -1,9 +1,12 @@
+#ifndef __CHAR_H__
+#define __CHAR_H__
+
 // char.h by fire on July 5, 1998
 #define TYPE_NPC  0 // means this char is a npc
 #define TYPE_PLAYER 1 // means this is a player used for type in chars
 #define STATUS_NOTFINISHED 0 // means this npc can't be used yet
 #define STATUS_SLEEPING 1 // means this npc or player not active
-#define STATUS_ACTIVE 2 // means this npc or (not online player)is active 
+#define STATUS_ACTIVE 2 // means this npc or (not online player)is active
 #define STATUS_ONLINE 3 // just for players when he is on line
 // LD means loyalty down
 #define LD_NOPAY 20 // because of no pay the loyalty down
@@ -28,3 +31,5 @@ int char_exist(string p_id);
 void set_char_modified();
 string* check_char_area(string para_name,mixed para_value,string p_area);
 mixed list_chars();
+
+#endif // __CHAR_H__

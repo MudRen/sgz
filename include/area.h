@@ -1,3 +1,6 @@
+#ifndef __AREA_H__
+#define __AREA_H__
+
 // area.h by fire on July, 3, 1998
 #define MAX_POPULATION5 400000
 #define MAX_POPULATION4 200000
@@ -21,3 +24,5 @@
 #define ST_WAR 2   // IT'S IN WAR
 #define ST_TRAIN 4 // in train
 #define ST_MEETING 3 // it's in meeting
+
+#endif // __AREA_H__
