@@ -624,9 +624,7 @@ nomask int higher_privilege(mixed a,mixed b)
   // This is THE central routine of the security system.
   // It determines the security hierarchy.
   int m,n;
-  if (!valid_privilege(a) || !valid_privilege(b))
-    //error("Invalid privilege"+a+","+b+"\n");
-      error("非法特权: "+a+", "+b+"\n");
+
   if (a==b)
     return 1;
   if (intp(a))
@@ -641,6 +639,10 @@ nomask int higher_privilege(mixed a,mixed b)
       return 1;
     return 0;
   }
+  if (!valid_privilege(a) || !valid_privilege(b))
+    //error("Invalid privilege"+a+","+b+"\n");
+      error("非法特权: "+a+", "+b+"\n");
+
   m = member_array(':',a);
   if (m<0)
     m = strlen(a);
@@ -811,7 +813,7 @@ nomask void check_pirate(int status) {
     if (status) {
         if (pirate > 0) unguarded(1, (: shutdown :));
         return;
-    }        
+    }
     call_out("check_pirate", 60, 1);
     pirate = 1;
 
@@ -820,6 +822,6 @@ nomask void check_pirate(int status) {
     port = random(1000) + __PORT__;
     s = new(SOCKET, SKT_STYLE_LISTEN, port, (: pirate_read :),
                    (: pirate_close :));
-    s1 = new(SOCKET, SKT_STYLE_CONNECT, ADDR_SERVER_IP + " " + port, 
+    s1 = new(SOCKET, SKT_STYLE_CONNECT, ADDR_SERVER_IP + " " + port,
     		       (: pirate_read1 :), (: pirate_close :));
 }

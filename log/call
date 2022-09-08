@@ -2537,3 +2537,6 @@ xiaolong:AREA_D->set_area("luoyang","troop",(["footman":30000])) at Sat Aug 20 1
 xiaolong:AREA_D->set_area("changan","troop",(["footman":30000])) at Sat Aug 20 18:28:14 2011
 xiaolong:AREA_D->set_area("changan","troop",(["cavalry":200000])) at Sat Aug 20 18:28:40 2011
 xiaolong:COUNTRY_D->get_country("wanglong") at Sat Aug 20 18:32:06 2011
+ivy:/secure/daemons/secure_d.c,query_domain_members,Admin at Thu Sep  8 17:43:48 2022
+ivy:/secure/daemons/secure_d.c,query_domain_members,Admin at Thu Sep  8 17:44:17 2022
+ivy:/secure/daemons/secure_d.c,query_domain_members,Admin at Thu Sep  8 17:44:25 2022

@@ -6,6 +6,7 @@ can_drop 1
 can_sell 1
 can_give 1
 psets ([])
+last_location 
 max_capacity 256
 objects ([])
 main_prep "in"
@@ -22,8 +23,13 @@ sg_meili 18
 sg_age 14
 sg_shouming 79
 sg_rongmao 10
+sg_cur_hp 100
+sg_cur_max_hp 100
 sg_max_hp 100
+sg_cur_max_mp 45
 sg_max_mp 100
+sg_food 63
+sg_drink 64
 wield_bonus -3
 wield_type "blow"
 combat_messages ([])
@@ -38,8 +44,9 @@ sg_home ([])
 name "mudren"
 invis_name "Ä³Ä³"
 chinese_name "Ð¡Äà°Í"
-response_queue ({})
+response_queue ({"thank chu niang","thank chu niang",})
 channel_list ({})
-saved_items "([\"#base_name#\":\"/std/race/human\",\"#inventory#\":({}),])"
-ag_day 8
-jobs ([])
+saved_items "([\"#base_name#\":\"/std/race/human\",\"#inventory#\":({\"([\\\"#base_name#\\\":\\\"/sgdomain/obj/foodanddrink/shuihu\\\",])\",\"([\\\"#base_name#\\\":\\\"/sgdomain/job/chopwoods/chopper\\\",])\",\"([\\\"#base_name#\\\":\\\"/sgdomain/obj/weapon/blade/dakandao\\\",])\",}),])"
+ag_day 3
+ag_month 1
+jobs (["chopwoods":(["beg_time":1662622440,]),])

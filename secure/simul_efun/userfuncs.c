@@ -56,7 +56,7 @@ nomask int adminp(mixed m)
     if ( objectp(m) )
         m = m->query_userid();
 
-    return member_array(m, SECURE_D->query_domain_members("Admin")) != -1;
+    return member_array(m, SECURE_D->query_domain_members("Admin") || ({})) != -1;
 }
 
 nomask int user_exists(string user)

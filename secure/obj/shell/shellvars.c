@@ -3,8 +3,8 @@
 
 #include <mudlib.h>
 
-private static mapping variables = ([]);
-private static mapping set_var_hooks = ([]);
+static mapping variables = ([]);
+static mapping set_var_hooks = ([]);
 
 
 //:FUNCTION setup_for_save
@@ -35,7 +35,7 @@ set_variable(string var, mixed value)
 
 void
 unset_variable(string var)
-{ 
+{
     map_delete(variables, var);
     this_object()->save();
 }
@@ -105,11 +105,11 @@ private string implode_rest(int start, string array argv, string array implode_i
     // we don't want to use the first separator
     return implode_by_arr(argv[start..], ({ "" }) + implode_info[start+1..]);
 }
-                          
+
 int cmd_unset(string array argv, string array implode_info)
 {
     string name;
-    
+
     if(sizeof(argv) < 2) {
       //printf("Usage: unset variable\n");
       printf("用法：unset <变量名>\n");
