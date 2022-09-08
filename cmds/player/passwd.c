@@ -74,23 +74,20 @@ private nomask void confirm_current_password(string s)
 
 void start_cmd(string arg)
 {
-    if(!clonep() || (base_name(previous_object()) != base_name()))  {
-        write("试图非法使用 passwd 命令。\n"); 
+    if (!clonep() || (base_name(previous_object()) != base_name()))
+    {
+        write("试图非法使用 passwd 命令。\n");
         destruct();
         return;
     }
-    if(!arg)
-    modal_push((: confirm_current_password :),
-               "请输入你当前的密码：", 1);
+    if (!arg)
+        modal_push((: confirm_current_password :), "请输入你当前的密码：");
     else
-     {id = arg;   
-      modal_push((: get_new_password :),
-               "请输入新密码：", 1);
-
+    {
+        id = arg;
+        modal_push((: get_new_password :), "请输入新密码：");
     }
-
 }
-
 
 private void main(string arg)
 {
@@ -101,4 +98,3 @@ private void main(string arg)
     destruct();
     return;
 }
-

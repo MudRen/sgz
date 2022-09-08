@@ -3,7 +3,7 @@
 
 //*************************************************************/
 //*      an example object for lima bean
-//*  
+//*
 //*      zifnab@lima_bean
 //*
 //*********************************************************************
@@ -28,7 +28,6 @@ void setup()
     set_closed(1);
     set_long("这是一个巨大的保险柜。");
     set_max_capacity(LARGE);
-    set_strength_vs_magic(0);
+    // set_strength_vs_magic(0);
     set_objects (( [ "/domains/std/example_scroll.c" : 1 ] ));
 }
-

@@ -25,7 +25,7 @@ int get_group_last_id(string group);
 // Filter removed messages from ids array.
 private nomask int filter_removed(int elem) {
     class news_msg msg = NEWS_D->get_message(linked_group, elem);
-    
+
     if (!msg || !msg->body)
         return 0;
     return 1;
@@ -55,15 +55,17 @@ nomask void create(string name, string group) {
     set_long( (: list_headers :) );
 }
 // Set and query functions.
-private nomask void set_group(string new_group) {
-    if (member_array(new_group, NEWS_D->get_groups()) == -1)
-        error("Invalid groupname <"+new_group+"> in set_group()\n");
+private nomask void set_group(string new_group)
+{
+    if (new_group != "wiz.com" && member_array(new_group, NEWS_D->get_groups()) == -1)
+        error("Invalid groupname <" + new_group + "> in set_group()\n");
     linked_group = new_group;
-    if(new_group[0..6]=="nation.")
-      my_nation=new_group[7..<1];
+    if (new_group[0..6] == "nation.")
+        my_nation = new_group[7.. < 1];
     else
-      my_nation=0;
+        my_nation = 0;
 }
+
 nomask string query_group() {
     return linked_group;
 }
@@ -76,7 +78,7 @@ private nomask varargs string format_message_line(int id) {
         return 0;                      // Do not display removed messages.
     else
         subject = msg->subject;
-    return sprintf( "%-35s 【%-10s %s】", 
+    return sprintf( "%-35s 【%-10s %s】",
       subject[0..34],
       msg->poster,
       intp(msg->time) ? ctime(msg->time)[4..9] : msg->time);
@@ -111,21 +113,21 @@ string org_string(string str,string w_id) {
    m_nation=CHAR_D->get_char(p_id,"nation");
    m_area = CHAR_D->get_char(p_id,"area");
    w_area = CHAR_D->get_char(w_id,"area");
-   if(m_nation!=my_nation) 
+   if(m_nation!=my_nation)
       return "这是他国的国家机密 你无法查询。\n";
    if (str[0]=='@')
     {if (m_area!=w_area)       //不是同城
        return "这是"+AREA_D->get_area(w_area,"name")+"的地区机密，你无法查询。\n";
      if (str[1]=='@')
-       {if(CHAR_D->get_char(p_id,"level")<2) 
-		return "这是这时本城绝密文件，你无权查询。\n"; 
+       {if(CHAR_D->get_char(p_id,"level")<2)
+		return "这是这时本城绝密文件，你无权查询。\n";
         str="【本城绝密】\n"+str[2..<1];
        }
      else
         str="【本城机密】\n"+str[1..<1];
      return str;
     }
-      
+
    if(str[0]!='*') return str; // not secret
    sec_level=1; str=str[1..<1];
    if(str[0]=='*') {
@@ -136,12 +138,12 @@ string org_string(string str,string w_id) {
 		str=str[1..<1];
 	}
    }
-   
+
    switch(sec_level) {
       case 1: // nomal secret
          return "【秘密】\n"+str;
-      case 2: // 
-         if(CHAR_D->get_char(p_id,"level")<2) 
+      case 2: //
+         if(CHAR_D->get_char(p_id,"level")<2)
 		return "这是机密文件，你无权查询。\n";
 	return "【机密】\n"+str;
       case 3:
@@ -161,7 +163,7 @@ nomask mixed read_entry(string str) {
     int p_id=0;
     int array ids = sort_array(filter_array(NEWS_D->get_messages(linked_group),
       (: filter_removed :)), 1);
-    if ((str == "next")||(str=="new")) 
+    if ((str == "next")||(str=="new"))
     {
         int i=0;
 	id = this_body()->get_news_group_id(linked_group);
@@ -231,4 +233,3 @@ private nomask string do_desc() {
 nomask int is_bulletin_board() {
     return 1;
 }
-

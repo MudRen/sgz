@@ -27,7 +27,7 @@ inherit __DIR__ "user/shell";
 /*
 ** This users's userid (login id).
 */
-private string          userid, chinese_id;
+string          userid, chinese_id;
 
 
 /*
@@ -89,7 +89,7 @@ static nomask void set_chinese_id(string new_cname)
 {
     chinese_id = new_cname;
 }
-                                                   
+
 void remove()
 {
     object body = query_body();
@@ -119,7 +119,7 @@ if (find_user(some_userid))
 if (!unguarded(1, (: restore_object, LINK_PATH(some_userid), 0:)))
     return "该用户不存在，无法修改其密码。\n";
 printf("%s\n",query_userid());
-if (query_owner()!=owner_userid) 
+if (query_owner()!=owner_userid)
     return "你不是拥有者，无法修改其密码。\n";
 set_password(new_passwd);
 return 1;
