@@ -3,7 +3,7 @@
 /*
 ** Inheritable for persistance.
 ** Beek for nightmare, ported by Rust.
-** could use helper funs that save directly to 
+** could use helper funs that save directly to
 ** a file, and some security (when programatic security arrives)
 ** save() and restore() or save_to_file(), etc....
 **
@@ -23,9 +23,9 @@ private static string * old_fnames = ({ "/obj/shells/wish", "/obj/pshell" });
 
 //:FUNCTION add_save
 //Mark a variable as one that gets saved.
-static void add_save(mixed *vars) { 
+static void add_save(mixed *vars) {
     saved += vars;
-//  saved = clean_array(saved + vars);
+    //  saved = clean_array(saved + vars);
 }
 
 //:FUNCTION get_saved
@@ -107,7 +107,7 @@ void load_from_string(mixed value, int recurse) {
     mixed val;
     string obj;
     object ob;
-    
+
     if (!mapp (value))
       data = restore_variable(value);
     else
@@ -116,7 +116,7 @@ void load_from_string(mixed value, int recurse) {
         old_load_from_string(value, recurse);
         return;
     }
-    
+
     if (data["#base_name#"] != base_name(this_object()))
     {
         /*
@@ -144,16 +144,15 @@ void load_from_string(mixed value, int recurse) {
             if(!(ob = new(val["#base_name#"])))
               continue;
 			if(!objectp(ob)) continue; // hope this can solve the bug of saved obj
-            ob->load_from_string(val, recurse+1); 
+            ob->load_from_string(val, recurse+1);
         }
     }
     // We don't want to move the object we're restoring into the
     // previous_object ()  (happens at the end)...  When you restored the body,
     // the body moved into the user object, but couldn't move out! -- Rust
 
-    if (recurse > 1) 
+    if (recurse > 1)
       {
         move_object(previous_object());
       }
 }
-

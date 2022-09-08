@@ -4,17 +4,17 @@
 /*
 ** This beast manages function dispatch for shell-specific functions.
 ** This is a bloody quick hack to get something working.
-** It should probably use classes, and definitly should do 
+** It should probably use classes, and definitly should do
 ** simple checking on number of args.
 ** Created.  John Viega(rust@Virginia.EDU).     July 2, 1995
 */
 
 
 static mapping dispatch = ([]);
-private static mapping personal_bindings = ([]);
-private static string* modules = ({});
-private static mapping module_objects = ([]);
-private static mapping module_func_names = ([]);
+static mapping personal_bindings = ([]);
+static string* modules = ({});
+static mapping module_objects = ([]);
+static mapping module_func_names = ([]);
 
 static void call_user_func(string, mixed);
 
@@ -62,7 +62,7 @@ bind(string command, string *argv)
   fname = argv[0];
   if(undefinedp(personal_bindings[command]) && dispatch[command])
     return -2;
-  
+
   personal_bindings[command] = fname;
   dispatch[command] = (:call_user_func, command :);
   this_object()->save();
@@ -85,7 +85,7 @@ unbind(string* argv)
 }
 
 
-static void 
+static void
 call_user_func(string fname, mixed argv)
 {
   string module;
@@ -108,15 +108,15 @@ load_module(mixed argv)
   object  module_ob;
 
   string* funcnames = ({});
-  if(!(stringp(argv) || (arrayp(argv) && sizeof(argv) == 1 && 
+  if(!(stringp(argv) || (arrayp(argv) && sizeof(argv) == 1 &&
                          stringp(argv=argv[0]))))
     return 0;
-  
+
   if(!module_ob = load_object(argv))
     return 0;
 
   module_objects[argv] = module_ob;
-  
+
   flist = functions(module_ob,1);
 
   foreach(item in flist)
@@ -129,7 +129,7 @@ load_module(mixed argv)
   return 1;
 
 }
-     
+
 
 static void
 set_module_path(string* mpath)
@@ -137,4 +137,3 @@ set_module_path(string* mpath)
   modules = mpath;
   map(modules, (: load_module :));
 }
-

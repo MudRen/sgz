@@ -1,1 +1,0 @@
-/sgdomain/modules/m_board.c line 54: Bad type for argument 1 of set_in_room_desc ( string vs function ) before ;

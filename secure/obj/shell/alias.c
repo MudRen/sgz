@@ -25,10 +25,10 @@ inherit CLASS_ALIAS;
 ** and the rest of your command.  It's got it's own structure so we can limit
 ** our search (That is, the side list is an optimization).
 */
-private static mapping aliases = ([]);
-private static string * xaliases = ({});
-private static mapping alias_save = ([]);
-private static string* xalias_save = ({});
+static mapping aliases = ([]);
+static string * xaliases = ({});
+static mapping alias_save = ([]);
+static string* xalias_save = ({});
 
 static void init_alias_editor()
 {
@@ -117,34 +117,34 @@ nomask void remove_alias(string alias_name)
 ** Save functions
 */
 
-private string* prep_aliases_for_save(string state)
+private string *prep_aliases_for_save(string state)
 {
   string a;
   class alias expansion;
   alias_save = ([]);
   xalias_save = ({});
-  if(state == "saving")
-    foreach(a, expansion in aliases)
-      {
-    // TMP HACK =(
-    if(sizeof(expansion) != 4)
+  if (state == "saving")
+    foreach (a, expansion in aliases)
+    {
+      // TMP HACK =(
+      if (sizeof(expansion) != 4)
       {
         class alias new_expansion;
-        new_expansion = new(class alias);
+        new_expansion = new (class alias);
         new_expansion->template = expansion->template;
         new_expansion->defaults = expansion->defaults;
         new_expansion->num_args = expansion->num_args;
         new_expansion->global_alias_status = 0;
         expansion = new_expansion;
       }
-    if(!(expansion->global_alias_status))
+      if (!(expansion->global_alias_status))
       {
         alias_save[a] = expansion;
-        if(member_array(a,xaliases) != -1)
+        if (member_array(a, xaliases) != -1)
           xalias_save += ({a});
       }
-      }
-  return ({ "alias_save", "xalias_save" });
+    }
+  return ({"alias_save", "xalias_save"});
 }
 
 //:FUNCTION setup_for_save
@@ -182,8 +182,8 @@ add_alias(string name, string template, string* defaults, int xverb)
   new_alias = new(class alias);
   new_alias->template = template;
   new_alias->defaults = defaults;
-  new_alias->num_args = 
-    max(map(explode(template[strsrch(template,"$")..],"$"), 
+  new_alias->num_args =
+    max(map(explode(template[strsrch(template,"$")..],"$"),
            function(string s){
              int d;
              sscanf(s, "%d%s",d,s);
@@ -345,4 +345,3 @@ varargs static void cmd_remove_alias(mixed argv)
     printf("Alias '%s' ±»É¾³ý¡£\n", argv[1]);
     }
 }
-
