@@ -1,5 +1,5 @@
 #/daemons/day_d.c
-p_day 1
+p_day 6
 p_month 6
 p_hour 3
 p_year 63

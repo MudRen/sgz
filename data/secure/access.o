@@ -1,0 +1,8 @@
+#/secure/daemons/secure_d.c
+privileges (["mudren":([":":({}),"":({}),]),])
+read_access ([])
+write_access (["wiz":({-1,([]),}),])
+wizards (["mudren":1,])
+domains ([])
+domainlists ([])
+errors ([])

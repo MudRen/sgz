@@ -24,7 +24,7 @@ static void set_prompt(string s)
 {
   string*   bits;
   int       i;
-  
+
   s = replace_string(s,"%_","\n");
   s = replace_string(s,"%m", mud_name());
   s = replace_string(s,"%N", this_user()->query_userid());
@@ -74,49 +74,48 @@ static void set_prompt(string s)
 
 static string get_prompt()
 {
+  string s;
+  int rep;
 
-  string    s;
-  int       rep;
-
-  if(!prompt)
-    {
-      set_prompt(get_variable("PROMPT") || 
-                    //"? for shell help> ");
-                    "ÓÃ ? È¡µÃ°ïÖú> ");
-    }
+  if (!prompt)
+  {
+    set_prompt(get_variable("PROMPT") ||
+               //"? for shell help> ");
+               "> ");
+  }
 
   s = prompt;
 
-  foreach(rep in replacements)
-    {
-      switch(rep)
+  foreach (rep in replacements)
+  {
+    switch (rep)
     {
     case P_PWD:
-      s = replace_string(s,"%p", get_variable("pwd") || "(no pwd!)");
+      s = replace_string(s, "%p", get_variable("pwd") || "(no pwd!)");
       continue;
     case P_TIME:
-      s = replace_string(s,"%t", ctime(time())[11..15]);
+      s = replace_string(s, "%t", ctime(time())[11..15]);
       continue;
     case P_HISTORY:
-      s = replace_string(s,"%h", sprintf("%d", get_command_number()));
+      s = replace_string(s, "%h", sprintf("%d", get_command_number()));
       continue;
     case P_ROOM:
       if (environment(this_body()))
-           s = replace_string(s,"%r", file_name(environment(this_body())));
+        s = replace_string(s, "%r", file_name(environment(this_body())));
       else
-           s = replace_string(s, "%r", "<nowhere>");
+        s = replace_string(s, "%r", "<nowhere>");
       continue;
     case P_DATE:
-      s = replace_string(s,"%d", ctime(time())[4..9]);
+      s = replace_string(s, "%d", ctime(time())[4..9]);
       continue;
     case P_DAY:
-      s = replace_string(s,"%D", ctime(time())[0..2]);
+      s = replace_string(s, "%D", ctime(time())[0..2]);
       continue;
     case P_NAME:
-      s = replace_string(s,"%n", this_body()->query_name());
+      s = replace_string(s, "%n", this_body()->query_name());
       continue;
     }
-    }
+  }
   return s;
 }
 

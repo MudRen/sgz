@@ -22,4 +22,4 @@
 
 本MUD是网友分享给我的，现优化支持FluffOS v2017驱动。LIB内置windows驱动，直接运行`driver.cmd`可启动；Ubuntu系统可直接运行`./build.sh`脚本编译驱动后运行`./run.sh`启动。
 
-问题反馈与交流：https://bbs.mud.ren/threads/286
+使用`mudren（密码：12345）`登录为管理员，问题反馈与交流：https://bbs.mud.ren/threads/286

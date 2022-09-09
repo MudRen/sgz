@@ -6,7 +6,6 @@ can_drop 1
 can_sell 1
 can_give 1
 psets ([])
-last_location 
 max_capacity 256
 objects ([])
 main_prep "in"
@@ -36,9 +35,9 @@ combat_messages ([])
 corpse_filename "/obj/corpse"
 sg_skills (["sk_wuli":(/25,0,/),"sk_zhimou":(/17,0,/),"sk_meili":(/18,0,/),])
 skill_map ([])
-news_data (["city.huayin":1,])
+news_data (["wiz.com":1,"city.huayin":1,])
 topic_to_time ([])
-ilog_time 1662617037
+ilog_time 1662691243
 money (["silver":0,"gold":0,"coin":0,])
 sg_home ([])
 name "mudren"
@@ -47,6 +46,6 @@ chinese_name "Ð¡Äà°Í"
 response_queue ({"thank chu niang","thank chu niang",})
 channel_list ({})
 saved_items "([\"#base_name#\":\"/std/race/human\",\"#inventory#\":({\"([\\\"#base_name#\\\":\\\"/sgdomain/obj/foodanddrink/shuihu\\\",])\",\"([\\\"#base_name#\\\":\\\"/sgdomain/job/chopwoods/chopper\\\",])\",\"([\\\"#base_name#\\\":\\\"/sgdomain/obj/weapon/blade/dakandao\\\",])\",}),])"
-ag_day 3
+ag_day 13
 ag_month 1
 jobs (["chopwoods":(["beg_time":1662622440,]),])

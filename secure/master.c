@@ -19,6 +19,16 @@ void create()
     debug_message(ctime() + " loaded " __FILE__);
 }
 
+string domain_file(string file)
+{
+    return "BACKBONE";
+}
+
+string author_file (string file)
+{
+    return "NONAME";
+}
+
 object compile_object(string path)
 {
     string pname;
